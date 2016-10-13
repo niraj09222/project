@@ -1,0 +1,1166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+
+<title>Send Flowers to Hyderabad Gifts to Hyderabad: Cheap Online Flower Delivery in Hyderabad</title>
+ 
+<meta content="Gifts to Hyderabad, Flowers to Hyderabad, Cakes to Hyderabad, Free Home Delivery, Send Flowers to Hyderabad, Flower Delivery in Hyderabad, Send Gifts to Hyderabad, Flowers Delivery Hyderabad, Flower Delivery Hyderabad, Hyderabad Florist, Florist in Hyderabad, Hyderabad Flower Shop, Red Roses to Hyderabad, Hyderabad, Birthday Gifts to Hyderabad, Anniversary Flowers to Hyderabad, Wedding Gifts to Hyderabad, Gift to Hyderabad, Send Gift to Hyderabad, Hyderabad Florist, Hyderabad Florists, Sending Flowers to Hyderabad, Sending Gifts to Hyderabad, Cakes to Hyderabad, Gift Vouchers to Hyderabad, Food Coupon to Hyderabad, Pantaloons’ Vouchers, Shopper's Stop Vouchers to Hyderabad, Fresh Baked Cakes to Hyderabad, Andhra Pradesh, India." name="Description"/> 
+ 
+<meta content="Send, Gifts, Hyderabad, Gifts to Hyderabad, Flowers to Hyderabad, Sending gifts to Hyderabad, Sending Flowers to Hyderabad, send Flowers to Hyderabad, Send Gifts to Hyderabad, Cakes to Hyderabad, Birthday Gifts to Hyderabad, Birthday Cakes to Hyderabad, Gift to Hyderabad, Gift, Send Gifts Hyderabad, Andhra Pradhesh, India, Cakes, Chocolates, Sweets, Fruits, Gifts, Gifts Hyderabad, India, Express delivery, Florist, Florists in Hyderabad, Mothers Day Gifts to Hyderabad, Mother's Day Gifts to Hyderabad, Father's Day Gift to Hyderabad, Fathers Day Gift to Hyderabad, Valentine's Day Gifts to Hyderabad, Rakhi Gifts To Hyderabad, Hyderabad Florist." name="Keywords"/>
+ 
+<meta content="Gifts to Hyderabad, Flowers to Hyderabad, Sending gifts to Hyderabad, Sending Flowers to Hyderabad, send Flowers to Hyderabad, Send Gifts to Hyderabad, Cakes to Hyderabad, Birthday Gifts to Hyderabad, Birthday Cakes to Hyderabad, Diwali Gifts to Hyderabad Same Day at Low Cost, Gift to Hyderabad, Flowers to Hyderabad, Cakes to Hyderabad, Chocolates Sweets Fruits Gifts Flowers to Hyderabad, India, Express delivery of flower gifts to Hyderabad, Best Online Florists in Hyderabad, Mothers Day Gifts to Hyderabad, Fathers's Day Flowers to Hyderabad, Valentine's Day Gift to Hyderabad." name="Classification"/>
+
+
+<link href="http://www.hyderabadonlineflorists.com/" rel="canonical"/>
+
+<meta content="369_nPPDLq10pqmCi_3lCT9bEU8BvRQy8cOtG6Q-GUo" name="google-site-verification"/>
+<meta content="MJ12_8dbb93c2-f5e8-4289-95f6-d7636c432637" name="majestic-site-verification"/>
+<meta content="87FDCA69BE5B21E623F07AC29A537EE9" name="msvalidate.01"/>
+<meta content="32019d884418db96430991d63f525732" name="p:domain_verify"/>
+<script type="text/javascript">
+  testExp = new RegExp('Android|webOS|iPhone|iPad|' +
+             'BlackBerry|Windows Phone|'  +
+             'Opera Mini|IEMobile|Mobile' , 
+            'i');
+  
+  if (testExp.test(navigator.userAgent))
+       window.location.href="http://m.hyderabadonlineflorists.com"
+         
+</script>
+
+
+
+<link href="./includes/mainstyle2.css" rel="stylesheet" type="text/css"/>
+
+<link href="./includes/newof.css" rel="stylesheet" type="text/css"/>
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80976229-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+<script language="javascript">
+var request1= createRequestObject();
+var x = document.referrer;
+var pg=window.location.href;
+request1.open("GET", "http://www.hyderabadonlineflorists.com/includes/pagevisitindex.asp?id="+x+"&pg="+pg, false);
+request1.onreadystatechange = function()
+ {
+if(request1.readyState == 4)
+{
+if(request1.status == 200)
+ {
+
+}
+}
+}
+
+request1.send(null);
+
+function createRequestObject()
+{
+
+ var xmlhttp=false;
+ 
+
+ try
+ {
+
+  xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+ }
+ catch (e)
+ {
+  try 
+  {
+    xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+  } 
+  catch (E) 
+  {
+   xmlhttp = false;
+  }
+ }
+ if (!xmlhttp && typeof XMLHttpRequest!='undefined')
+ {
+  xmlhttp = new XMLHttpRequest();
+}
+ return xmlhttp;
+}
+
+function RakhiCityLocation()
+{
+xyz=window.open ("rakhicity.html","ff",'toolbar=0,height=270, width=320,menubar=0,resizable=no,left=5,top=5')
+}
+
+function PupUpScroll(pname,hig,wid,loc)
+{
+st=pname;
+window.open(st ,"_blank", "toolbar=1,location="+loc+",directories=1,status=1,menubar=1,scrollbars=1,resizable=yes,height="+hig+",width="+wid+",top=0,left=0");
+}
+
+function PupUpScrollLock(pname,hig,wid)
+{
+st=pname;
+xyz=window.open (st,"ff",'toolbar=0,height='+hig+', width='+wid+',menubar=0,resizable=no,left=5,top=5')
+}
+function CookiPop()
+{
+st="POPUP_CONTENT.html";
+window.open(st ,"_blank", "toolbar=1,location=0,directories=1,status=1,menubar=1,scrollbars=1,resizable=yes,height=800,width=500,top=0,left=0");
+}
+</script>
+
+<link href="Style.css" rel="stylesheet"/>
+<script src="mainBanner.js" type="text/javascript"></script>
+<style type="text/css">
+.boldtxt4
+{
+font:normal 12px Arial;
+color:#000000;
+}
+</style>
+</head>
+
+<body>
+<table border="0" cellpadding="0" cellspacing="0" id="bodycontainer" width="100%">
+  <tbody><tr>
+    <td colspan="3"><table border="0" cellpadding="0" cellspacing="0" id="top" width="100%">
+      <tbody><tr>
+        <td rowspan="2" width="268"><a href="index.html"><img border="0" height="108" src="images/siteLogo.gif" width="252"/></a></td>
+        <td rowspan="2" width="350"> </td>
+        <td>
+		<ul>
+		<li id="home"><a href="index.html" title="Home Page">Home Page</a></li>
+		<li id="Login"><a class="nav_txt" href="hyderabad_signin.asp" title="Member Login">Member Login</a>
+	</li>
+		<li id="Cart"><a href="Shopping_Cart.asp" title="Shopping Cart">Shopping Cart</a></li>
+		</ul>
+		</td>
+      </tr>
+      <tr>
+        <td align="center" style="font:normal 11px/20px Arial;">Flower and Gifts Shops at:
+          <table border="0" cellpadding="0" cellspacing="0" width="65%">
+            <tbody><tr>
+              <td colspan="5" height="5"></td>
+            </tr>
+            <tr>
+              <td align="center" width="11%"><img height="20" src="images/list_bg2.gif" width="20"/></td>
+              <td style="font:normal 11px/20px Arial;" width="38%">Secunderabad</td>
+              <td width="6%"> </td>
+              <td align="center" width="11%"><img height="20" src="images/list_bg2.gif" width="20"/></td>
+              <td style="font:normal 11px/20px Arial;" width="34%">Banjara Hills</td>
+            </tr>
+          </tbody></table>
+		  <h1 style="font:normal 11px/20px Arial; margin:0; padding:0;">Flowers &amp; Gifts Delivery in Hyderabad</h1>
+		  </td>
+      </tr>
+    </tbody></table>
+
+<script language="JavaScript">
+var xy = navigator.appVersion;
+xz = xy.substring(0,4);
+document.cookie = "ScreenWidth=" + screen.width
+document.cookie = "ScreenHeight=" + screen.height
+
+</script>
+</td>
+  </tr>
+  <tr>
+    <td colspan="3"><ul id="Extra_menu">  
+    <li id="fst_dd"><a onmouseover="this.style.color='#ffffff'">View all Gift Items       </a> </li>
+	<li id="mw"><a href="delivery_locations.asp" title="Shipping Info">Shipping Info</a> </li>
+	<li><img height="36" src="images/topmenu-divider.gif" width="1"/></li>
+	<li id="mw"><a href="payment.asp" title="Payment">Payment</a></li>
+	<li><img height="36" src="images/topmenu-divider.gif" width="1"/></li>
+	<li id="mw"><a href="Contact-Call.asp" title="Request a Gift">Request a Gift</a></li>
+	<li><img height="36" src="images/topmenu-divider.gif" width="1"/></li>
+	<li id="mw"><a href="terms.asp" title="Terms">Terms</a></li>
+	<li><img height="36" src="images/topmenu-divider.gif" width="1"/></li>
+	<li id="mw"><a href="hyderabad_signin.asp" title="Order Status">Order Status</a></li>
+	<li><img height="36" src="images/topmenu-divider.gif" width="1"/></li>
+	<li id="mw"><a href="Contact-Call.asp" title="Contact Us">Contact Us</a></li>
+</ul>
+</td>
+  </tr>
+  <tr>
+    <td class="wdt-L"></td>
+    <td class="wdt-Mspace"></td>
+    <td class="wdt-R"></td>
+  </tr>
+  <tr>
+    <td valign="top">
+
+<link href="./includes/mainstyle2.css" rel="stylesheet" type="text/css"/>
+
+<link href="./includes/newof.css" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+
+<script language="javascript">
+var timeout         = 500;
+var closetimer		= 0;
+var ddmenuitem      = 0;
+
+// open hidden layer
+function mopen(id,e)
+{	
+	// cancel close timer
+	mcancelclosetime();
+
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.marginTop = '-25px';
+	ddmenuitem.style.visibility = 'visible';
+    divhight=ddmenuitem.clientHeight;
+
+	var isIE = document.all;
+	var mouseX = 0;
+	var mouseY = 0;
+	
+
+	  if (!e) e = window.event;
+	  if (e)
+	  { 
+		mouseY = isIE ? (e.clientY + document.body.scrollTop) : e.pageY;
+	  }
+	  
+	  
+	  var yy=document.body.scrollTop
+	  
+	  dif=mouseY-yy;
+	  if(dif>300)
+	  {
+		  totht=3+divhight;
+		  ddmenuitem.style.marginTop = -totht;
+	  }
+}
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+document.onclick = mclose; 
+</script>
+<style type="text/css">
+.LeftMenu {
+width:200px
+}
+.LeftMenu a{
+width:168px;
+height:24px;
+background:#ffdfe0 url(images/leftmenu_list.gif) left no-repeat;
+font:normal 13px/24px Arial;
+color:#000;
+display:block;
+border-left:1px solid #ffdfe0;
+border-right:1px solid #ffdfe0;
+border-bottom:1px dashed #edd0d1;
+text-decoration:none;
+padding-left:30px;
+}
+.LeftMenu a:hover{
+color:#ffffff;
+background:#f84b7c url(images/leftmenu_list.gif) left no-repeat;
+}
+#sddm {	
+margin: 0;
+padding: 0;
+z-index: 10000;
+width:150px;
+}
+#sddm li {	
+margin: 0;
+padding: 0;
+list-style: none;
+float: left;
+}
+#sddm li a {	
+display: block;
+}
+#sddm li a:hover {	
+color:#007860;
+}
+#sddm div{	
+position: absolute;
+visibility: hidden;
+margin-left:200px;
+padding: 0;
+background: #f7f6f8;
+
+}
+#sddm div a {	
+position: relative;
+display: block;
+background:#f84b7c;
+font:normal 12px/24px Verdana;
+color:#000;
+display:block;
+}
+#sddm div a:hover {	
+color:#ffffff;
+background:#f84b7c;
+display:block;
+}
+.lftmenu-d1 b {font-weight:normal;}
+.lftmenu-d1 font:hover {color:#FFFFFF}
+</style>
+
+<table border="0" cellpadding="0" cellspacing="0" class="LeftMenu" width="100%">
+  	
+  <tbody><tr>
+    <td><a class="lftmenu-d1" href="dusshera_gifts_online.asp" style="color:#0000FF" title="Dussehra Gifts">Dussehra Gifts</a></td>
+      </tr> 
+  
+  <tr>
+    <td><a href="sameday_online.asp" title="Same Day Delivery">Same Day Delivery</a></td>
+  </tr>
+  <tr>
+    <td><a href="mid_night_delivery_online.asp" title="Mid Night Delivery"> Mid Night Delivery</a></td>
+  </tr>
+  <tr>
+    <td><a href="flowers_online.asp" style="font-weight:bold" title=" Fresh Flowers">Fresh Flowers</a></td>
+  </tr>
+  <tr>
+    <td><a href="Special_online.asp" style="font-weight:bold" title="Premium Flowers">Premium Flowers</a></td>
+  </tr>
+  <tr>
+    <td>
+	<a href="Cakes_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m1',event)" style="font-weight:bold" title="Cakes">Fresh Cakes</a>
+		<ul id="sddm">
+		<li>
+		<div id="m1" onmouseout="mclosetime()" onmouseover="mcancelclosetime()">		
+		<a href="Cakes_online.asp?catid=510" title="Birthday Cake">Birthday Cake</a>
+		<a href="Cakes_online.asp?catid=501" title="Anniversary Cake">Anniversary Cake </a>
+		<a href="Cakes_online.asp?catid=500" title="Wedding Cake">Wedding Cake </a>
+		<a href="Cakes_online.asp?catid=506" title="Kids cake">Kids Cake </a>
+		<a href="Cakes_online.asp?catid=505" title="Eggless Cake">Eggless Cake </a>
+		<a href="Cakes_online.asp?catid=512" title="Photo Cake">Photo Cake </a>
+		<a href="Cakes_online.asp?catid=513" title="Cup Cake">Cup Cake </a>		</div>
+		</li>
+		</ul>	</td>
+  </tr>
+  <tr>
+    <td><a href="sweets_online.asp" title="Sweets">Sweets</a></td>
+  </tr>
+  <tr>
+    <td><a href="chocolates_online.asp" title="Chocolate Gifts">Chocolates</a></td>
+  </tr>
+  <tr>
+    <td><a href="dry_fruits_online.asp" title="Dry Fruits">Dry Fruits </a></td>
+  </tr>
+  <tr>
+    <td><a href="fresh_fruits_online.asp" title="Fresh Fruits">Fresh Fruits </a></td>
+  </tr>
+  <tr>
+    <td>
+		<a href="apparels_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m2',event)" title="Apparels">Apparels</a>
+		<ul id="sddm">
+		<li>
+		<div id="m2" onmouseout="mclosetime()" onmouseover="mcancelclosetime()">		
+		<a href="gents_apparels_online.asp" title="Gents Apparels">Gents Apparels</a>
+		<a href="ladies_apparels_online.asp" title="Ladies Apparels">Ladies Apparels </a>
+		<a href="kids_apparels_online.asp" title="Kids Apparels">Kids Apparels</a>		</div>
+		</li>
+		</ul>	</td>
+  </tr>
+ <!-- <tr>
+    <td><a href="Books_gifts_online.asp" title="Books Gifts">Books Gifts</a></td>
+  </tr> -->
+  <tr>
+    <td><a href="combo_gifts.asp" title="Combo Gifts">Combo Gifts</a></td>
+  </tr>
+  <tr>
+    <td>
+		<a href="cosmetics_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m3',event)" title="Cosmetics/Perfumes">Cosmetics/Perfumes</a>
+		<ul id="sddm">
+		<li>
+		<div id="m3" onmouseout="mclosetime()" onmouseover="mcancelclosetime()">		
+		<a href="cosmetics_online.asp?catid=47" title="Gents Cosmetic">Gents Cosmetic </a>
+		<a href="cosmetics_online.asp?catid=48" title="Ladies Cosmetic">Ladies Cosmetic</a>
+		<a href="cosmetics_online.asp?catid=49" title="Baby Care">Baby Care </a>		</div>
+		</li>
+		</ul>	</td>
+  </tr>
+  <tr>
+    <td>
+		<a href="Electronics_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m4',event)" title="Electronic Giftss">Electronic Gifts</a>
+		<ul id="sddm">
+		<li>
+		<div id="m4" onmouseout="mclosetime()" onmouseover="mcancelclosetime()">		
+		<a href="Electronics_online.asp?catid=178" title="Camera">Camera</a>		
+		<a href="Electronics_online.asp?catid=179" title="CD/DVD Players">CD/DVD Players</a>
+		<a href="Electronics_online.asp?catid=185" title="IPod / IPad &amp; Tablets">IPod / IPad &amp; Tablets</a>
+		<a href="Electronics_online.asp?catid=183" title="Other Electronics Gifts">Other Electronics </a>		</div>
+		</li>
+		</ul>	</td>
+  </tr>
+  <tr>
+    <td>
+		<a onmouseout="mclosetime()" onmouseover="mopen('m5',event)" title="Gift Vouchers">Gift Voucher</a>
+		<ul id="sddm">
+		<li>
+		<div id="m5" onmouseout="mclosetime()" onmouseover="mcancelclosetime()">		
+		<a href="shopperstop_online.asp" title="Shoppers Stop Gift Vouchers">Shoppers Stop Coupons</a>
+		<a href="Pizza_hut_online.asp" title="Pizza Hut Gift Vouchers">Pizza Hut Vocher </a>
+		<a href="Pantaloon_Online.asp" title="Pantaloons Gift Vouchers">Pantaloons Gift</a>
+		<a href="cafe_coffee_day.asp" title="Cafe Coffee Day Gift Vouchers">Cafe Coffee Day coupon </a>
+		<a href="Mainland_Chaina_Online.asp" title="Mainland China Gift Vouchers">Mainland China coupon</a>
+		<a href="oh_calcutta_online.asp" title="Oh Calcutta Gift Vouchers">Oh Calcutta coupon</a>
+		<a href="Raymond_Online.asp" title="Raymond's Gift Vouchers">Raymond's Gift coupon </a>
+		<!--<a href="gift_dinner_online.asp" title="Gift a Dinner">Taj Lunch / Dinner </a> -->
+		<!--<a href="itc_online.asp" title="ITC Gift Vouchers">ITC </a> -->		</div>
+		</li>
+		</ul>	</td>
+  </tr>
+  <tr>
+    <td>
+		<a href="handicrafts_online.asp" title="Handicraft Gifts">Handicraft Gifts</a>
+			</td>
+  </tr>
+  <tr>
+    <td><a href="healthnfitness_online.asp" title="Health &amp; Care">Health Care</a></td>
+  </tr>
+  <tr>
+    <td>
+		<a href="Home Appliances_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m7',event)" title="Home Appliances">Home Appliances</a>
+		<ul id="sddm">
+		<li>
+		<div id="m7" onmouseout="mclosetime()" onmouseover="mcancelclosetime()">	
+		
+		<a href="Home Appliances_online.asp?catid=151" title="Aircoolers">Air Coolers</a>
+		<a href="Home Appliances_online.asp?catid=154" title="Irons">Irons</a>		
+		<a href="Home Appliances_online.asp?catid=157" title="Room Heaters">Room Heaters</a>		
+		<a href="Home Appliances_online.asp?catid=159" title="TV">TV</a>
+		<a href="Home Appliances_online.asp?catid=160" title="Vaccume Cleaner">Vacuum Cleaners</a>		
+		<a href="Home Appliances_online.asp?catid=162" title="Water Heaters">Water Heaters</a>
+		<a href="Home Appliances_online.asp?catid=163" title="Water Purifiers">Water Purifiers</a>
+		<a href="Home Appliances_online.asp?catid=164" title="Other Essentials">Other Appliances</a>		</div>
+		</li>
+		</ul>	</td>
+  </tr>
+  <tr>
+    <td><a href="jewellery_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m8',event)" title="Jewellery Gifts">Jewellery Gifts</a>
+		<ul id="sddm">
+		<li>
+		<div id="m8" onmouseout="mclosetime()" onmouseover="mcancelclosetime()">		
+		<a href="jewellery_online.asp?catid=51" title="Fashion">Fashion</a>
+		<a href="jewellery_online.asp?catid=52" title="Gold">Gold</a>
+		<a href="jewellery_online.asp?catid=53" title="Pearl">Pearl</a>
+		
+		</div></li>
+		</ul>	</td>
+  </tr>
+  <tr>
+    <td>
+	<a href="Kitchen Wares_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m9',event)" title="Kitchen Appliances">Kitchen Appliances</a>
+		<ul id="sddm">
+		<li>
+		<div id="m9" onmouseout="mclosetime()" onmouseover="mcancelclosetime()">		
+		<a href="Kitchen Wares_online.asp?catid=165" title="Rice Cooker">Rice Cookers</a>
+		<a href="Kitchen Wares_online.asp?catid=187" title="Induction Cooker">Induction Cooker</a>
+		<a href="Kitchen Wares_online.asp?catid=167" title="Hand Blender">Hand Blender</a>
+		<a href="Kitchen Wares_online.asp?catid=168" title="Microwave Ovens">Microwave Ovens</a>
+		<a href="Kitchen Wares_online.asp?catid=169" title="Juicers, Mixers &amp; Grinders">Juicers, Mixers &amp; Grinders</a>
+		<a href="Kitchen Wares_online.asp?catid=186" title="Food Processor">Food Processor</a>
+		<a href="Kitchen Wares_online.asp?catid=171" title="Tea n Coffee Sets">Tea n Coffee Set</a>
+		<a href="Kitchen Wares_online.asp?catid=172" title="Toasters &amp; Grillers">Toasters &amp; Grillers</a>
+		<a href="Kitchen Wares_online.asp?catid=188" title="Electric Kettle">Electric kettle</a>
+		<a href="Kitchen Wares_online.asp?catid=170" title="Non-Stic Cookware">Non-Stic Cookware</a> 
+		<a href="Kitchen Wares_online.asp?catid=174" title="Other Essentials">Other Essentials</a>		</div>
+		</li>
+		</ul>	</td>
+  </tr>
+  <tr>
+    <td><a href="leather_bags_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m10',event)" title="Leather Items">Leather Gifts Items</a>
+		<ul id="sddm">
+		<li>
+		<div id="m10" onmouseout="mclosetime()" onmouseover="mcancelclosetime()">		
+	<a href="leather_bags_online.asp?catid=54" title="Gents Leather Item">Gents Leather Items</a>
+		<a href="leather_bags_online.asp?catid=55" title="Ladies Leather Item">Ladies Leather Items</a>		</div>
+		</li>
+		</ul>		</td>
+  </tr>
+  <tr>
+    <td><a href="mobilephone_online.asp" title="New Born Gifts">Mobile Phones </a></td>
+  </tr>
+  <tr>
+    <td><a href="new_born_online.asp" title="New Born Gifts">New Born Gifts </a></td>
+  </tr>
+  <tr>
+    <td><a href="OfficeStationary_online.asp" title="Office Stationary">Office Stationary </a></td>
+  </tr>
+  <tr>
+    <td><a href="premium_gifts_online.asp" title="Premium Gifts">Premium Gifts </a></td>
+  </tr>
+  <tr>
+    <td><a href="puja_items.asp" title="Puja Items">Puja Gifts Items</a></td>
+  </tr>
+  <tr>
+    <td><a href="showpiece_online.asp" title="Showpiece Gifts">Showpiece Gifts</a></td>
+  </tr>
+  <!--<tr>
+    <td><a href="SunGlass_online.asp" title="Sun Glasses">Sun Glasses </a></td>
+  </tr> -->
+  <tr>
+    <td><a href="Toys and Games_online.asp" title="Toys and Games">Toys and Games</a></td>
+  </tr>
+  <tr>
+    <td>
+		<a onmouseout="mclosetime()" onmouseover="mopen('m12',event)">Kids Gifts</a>
+		<ul id="sddm">
+		<li>
+		<div id="m12" onmouseout="mclosetime()" onmouseover="mcancelclosetime()">		
+		<a href="kids_stationery_online.asp?catid=32" title="CN Ben 10 Kids Stationery">CN Ben 10 Kids Stationery </a>
+		<a href="kids_stationery_online.asp?catid=31" title="Disney Winnie the Pooh Kids Stationery">Disney Winnie the Pooh Kids Stationery</a>
+			<a href="kids_stationery_online.asp?catid=33" title="Disney Hannah Montana Kids Stationery">Disney Hannah Montana Kids Stationery</a>
+	<a href="kids_stationery_online.asp?catid=34" title="Disney Pixar Car Kids Stationery">Disney Pixar Car Kids Stationery</a>
+		<a href="kids_stationery_online.asp?catid=35" title="Disney Princess Kids Stationery">Disney Princess Kids Stationery</a>
+		<a href="kids_stationery_online.asp?catid=36" title="Disney Mickey Mouse Kids Stationery">Disney Mickey Mouse Kids Stationery</a>
+		<a href="Dolls.asp" title="Dolls">Dolls</a>
+	<a href="Electronic_Toys.asp" title="Electronic Toys">Electronic Toys</a>
+		<a href="Funskool_Games.asp" title="Funskool Games">Funskool Games</a>
+		<a href="kids_cycle.asp" title="Kids Cycles &amp; Perambulators">Kids Cycles &amp; Perambulators</a>
+		<a href="others_Games.asp" title="All Other Games">Other Games</a>
+		<a href="kidsbag_online.asp" title="School Bags">School Bags</a>
+		<a href="Soft_Toys.asp" title="Soft Toys">Soft Toys</a>		</div>
+		</li>
+		</ul>	</td>
+  </tr>
+  <tr>
+    <td>
+		<a href="watches_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m13',event)" title="Watches">Watches</a>
+		<ul id="sddm">
+		<li>
+		<div id="m13" onmouseout="mclosetime()" onmouseover="mcancelclosetime()">		
+		<a href="gents_watches_online.asp" title="Gents Watches">Gents Watches </a>
+		<a href="ladies_watches_online.asp" title="Ladies Watches">Ladies Watches </a>
+		<a href="kids_watches_online.asp" title="Kids Watches">Kids  Watches </a>
+		<a href="pairs_watches_online.asp" title="Pairs">Pair  Watches </a>		</div>
+		</li>
+		</ul>	</td>
+  </tr>
+  <tr>
+    <td align="center"> </td>
+  </tr>
+</tbody></table>
+
+</td>
+    <td> </td>
+    <td valign="top"><table border="0" cellpadding="0" cellspacing="0" style="margin-top:3px" width="100%">
+      <tbody><tr>
+        <td rowspan="8" valign="top">
+		<iframe frameborder="0" height="277" name="banner" scrolling="no" src="index_banner.html" width="592"></iframe>		</td>
+        <td rowspan="8" style="width:5px"> </td>
+        <td style="width:199px"></td>
+      </tr>
+      <tr>
+        <td><img height="67" src="images/quality-guarantee.gif" width="199"/></td>
+      </tr>
+      <tr>
+        <td height="3"></td>
+      </tr>
+      <tr>
+        <td><img height="67" src="images/delivery-guarantee.gif" width="199"/></td>
+      </tr>
+      <tr>
+        <td height="3"></td>
+      </tr>
+      <tr>
+        <td><img height="67" src="images/delivery-free.gif" width="199"/></td>
+      </tr>
+      <tr>
+        <td height="3"></td>
+      </tr>
+      <tr>
+        <td><img height="67" src="images/delivery-all-over.gif" width="199"/></td>
+      </tr>
+      <tr>
+        <td colspan="3">
+ <table border="0" cellpadding="0" cellspacing="0" width="100%">
+ 			<tbody><tr>
+				<td colspan="5" height="5"> </td>
+			</tr>
+         <!-- <tr>
+            <td colspan="5" height="10"><div align="center" style="font:bold 13px Arial; color:#FF0000"><marquee behavior="alternate">Still Taking Rakhi Orders : Guaranteed Delivery</marquee></div></td>
+            </tr> --> 
+          <!--<tr>
+            <td colspan="5" align="center"><a href="rakhi_rakshabandhan_online.asp" title="Send Rakhi To Hyderabad"><img src="siteimages/HOF-rakhi.jpg" width="797" height="199" border="0" /></a></td>
+          </tr>
+ 			<tr>
+				<td colspan="5" height="5"> </td>
+			</tr> -->
+          <tr>
+            <td align="left" valign="top"><a href="Cakes_online.asp" title="Cakes Online Hyderabad "><img border="0" class="infobox" height="198" src="images/cake-banner-index.jpg" width="255"/></a></td>
+            <td> </td>
+            <td align="center" valign="top"><a href="chocolates_online.asp" title="Chocolates Online Hyderabad"><img border="0" class="infobox" height="198" src="images/chocolate-banner-index.jpg" width="255"/></a></td>
+            <td> </td>
+            <td align="right" valign="top"><a href="sweets_online.asp" title="Sweets Online Hyderabad"><img border="0" class="infobox" height="198" src="images/sweets-banner-index.jpg" width="255"/></a></td>
+          </tr>
+          <tr>
+            <td colspan="5" height="10"> </td>
+            </tr>
+          <tr>
+            <td align="left" valign="bottom"><a href="mainland_chaina_online.asp" title="Gift Voucher"><img border="0" class="infobox" height="198" src="images/voucher-banner-index.jpg" width="255"/></a></td>
+            <td> </td>
+            <td align="center" valign="bottom"><a href="Home Appliances_online.asp" title="Home Appliances Online"><img border="0" class="infobox" height="198" src="images/applience-banner-index.jpg" width="255"/></a></td>
+            <td> </td>
+            <td align="right" valign="bottom"><a href="leather_bags_online.asp" title="Leather Bags Online"><img border="0" class="infobox" height="198" src="images/leather-banner-index.jpg" width="255"/></a></td>
+          </tr>
+          <tr>
+            <td colspan="5" height="5"></td>
+            </tr>
+        </tbody></table>		</td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td style="width:795px;"></td>
+        <td style="width:5px;"></td>
+        <td style="width:200px;"></td>
+      </tr>
+      <tr>
+        <td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" class="feature_Prod" width="100%">
+          <tbody><tr>
+            <td><i><span>Featured Products</span></i></td>
+          </tr>
+          <tr>
+            <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr>
+                <td height="10"></td>
+                <td height="10"></td>
+                <td height="10"></td>
+                <td height="10"></td>
+              </tr>
+
+              <tr>
+                <td align="center" valign="top">
+				
+				<table border="0" cellpadding="0" cellspacing="0" id="itembox" width="100%">
+                  <tbody><tr>
+                    <td width="100%"><a href="page_details.asp?product_id=CMH119&amp;page_name=index"><img border="0" height="120" src="http://www.hyderabadonlineflorists.com/images//CMH119.jpg" title="Adorable 2 dozen multicolored Roses with assorted Dry Fruits to Hyderabad" width="120"/></a></td>
+                  </tr>
+                  <tr>
+                    <td class="pro_title" height="50"><a href="page_details.asp?product_id=CMH119&amp;page_name=index">Adorable 2 dozen multicolored Roses with assorted Dry Fruits</a></td>
+                  </tr>
+                  <tr>
+                    <td height="40">Make your loved ones day colourful by sending a bo</td>
+                  </tr>
+
+                  <tr>
+                    <td><span class="ico_usd">23.21</span> <span class="ico_rs"> 1555</span></td>
+                  </tr>
+                  <tr>
+                    <td><a href="page_details.asp?product_id=CMH119&amp;page_name=index"><img border="0" height="28" src="images/add_button.gif" width="112"/></a></td>
+                  </tr>
+                </tbody></table>	
+								</td>
+                <td align="center" valign="top">
+				
+<table border="0" cellpadding="0" cellspacing="0" id="itembox" width="100%">
+                  <tbody><tr>
+                    <td width="100%">
+					<a href="page_details.asp?product_id=CMH133&amp;page_name=index"><img border="0" height="120" src="http://www.hyderabadonlineflorists.com/images//CMH133.jpg" title="Mixed fresh Seasonal Flowers with festive Black Forest Cake to Hyderabad" width="120"/></a>
+					</td>
+                  </tr>
+                  <tr>
+                    <td class="pro_title" height="50"><a href="page_details.asp?product_id=CMH133&amp;page_name=index">Mixed fresh Seasonal Flowers with festive Black Forest Cake</a></td>
+                  </tr>
+                  <tr>
+                    <td height="40">Bring the taste rich side of yours to your loved t</td>
+                  </tr>
+
+                  <tr>
+                    <td><span class="ico_usd">14.10</span> <span class="ico_rs"> 945</span></td>
+                  </tr>
+                  <tr>
+                    <td><a href="page_details.asp?product_id=CMH133&amp;page_name=index"><img border="0" height="28" src="images/add_button.gif" width="112"/></a></td>
+                  </tr>
+                </tbody></table>				
+								</td>
+                <td align="center" valign="top">
+				
+<table border="0" cellpadding="0" cellspacing="0" id="itembox" width="100%">
+                  <tbody><tr>
+                    <td width="100%">
+		<a href="page_details.asp?product_id=CMH320&amp;page_name=index"><img border="0" height="120" src="http://www.hyderabadonlineflorists.com/images//CMH320.jpg" title="Delightful arrangement of gorgeous Flowers with 2 lovely Candles to Hyderabad" width="120"/></a>
+					</td>
+                  </tr>
+                  <tr>
+                    <td class="pro_title" height="50"><a href="page_details.asp?product_id=CMH320&amp;page_name=index">Delightful arrangement of gorgeous Flowers with 2 lovely Candles</a></td>
+                  </tr>
+                  <tr>
+                    <td height="40">Show your care to your dear ones by sending a clas</td>
+                  </tr>
+
+                  <tr>
+                    <td><span class="ico_usd">22.31</span> <span class="ico_rs"> 1495</span></td>
+                  </tr>
+                  <tr>
+                    <td><a href="page_details.asp?product_id=CMH320&amp;page_name=index"><img border="0" height="28" src="images/add_button.gif" width="112"/></a></td>
+                  </tr>
+                </tbody></table>				
+								</td>
+                <td align="center" valign="top">
+				
+<table border="0" cellpadding="0" cellspacing="0" id="itembox" width="100%">
+                  <tbody><tr>
+                    <td width="100%">
+		<a href="page_details.asp?product_id=FLH101&amp;page_name=index"><img border="0" height="120" src="http://www.hyderabadonlineflorists.com/images//FLH101.jpg" title="Bouquet of spectacular Red Roses to Hyderabad" width="120"/></a>
+					</td>
+                  </tr>
+                  <tr>
+                    <td class="pro_title" height="50"><a href="page_details.asp?product_id=FLH101&amp;page_name=index">Bouquet of spectacular Red Roses</a></td>
+                  </tr>
+                  <tr>
+                    <td height="40">Let your loved ones smile by sending this bunch of</td>
+                  </tr>
+
+                  <tr>
+                    <td><span class="ico_usd">6.34</span> <span class="ico_rs"> 425</span></td>
+                  </tr>
+                  <tr>
+                    <td><a href="page_details.asp?product_id=FLH101&amp;page_name=index"><img border="0" height="28" src="images/add_button.gif" width="112"/></a></td>
+                  </tr>
+                </tbody></table>				
+								</td>
+              </tr>
+              <tr>
+                <td height="10"></td>
+                <td height="10"></td>
+                <td height="10"></td>
+                <td height="10"></td>
+              </tr>
+			
+              <tr>
+                <td align="center" valign="top">
+				
+				<table border="0" cellpadding="0" cellspacing="0" id="itembox" width="100%">
+                  <tbody><tr>
+                    <td width="100%"><a href="page_details.asp?product_id=FLH126&amp;page_name=index"><img border="0" height="120" src="http://www.hyderabadonlineflorists.com/images//nr_19.jpg" title="Bright colorful Bouquet to Hyderabad" width="120"/></a></td>
+                  </tr>
+                  <tr>
+                    <td class="pro_title" height="50"><a href="page_details.asp?product_id=FLH126&amp;page_name=index">Bright colorful Bouquet</a></td>
+                  </tr>
+                  <tr>
+                    <td height="40">Brighten up the moods of your dear ones by present</td>
+                  </tr>
+
+                  <tr>
+                    <td><span class="ico_usd">10.37</span> <span class="ico_rs"> 695</span></td>
+                  </tr>
+                  <tr>
+                    <td><a href="page_details.asp?product_id=FLH126&amp;page_name=index"><img border="0" height="28" src="images/add_button.gif" width="112"/></a></td>
+                  </tr>
+                </tbody></table>	
+								</td>
+                <td align="center" valign="top">
+				
+<table border="0" cellpadding="0" cellspacing="0" id="itembox" width="100%">
+                  <tbody><tr>
+                    <td width="100%">
+					<a href="page_details.asp?product_id=FLH205&amp;page_name=index"><img border="0" height="120" src="http://www.hyderabadonlineflorists.com/images//FLH205.jpg" title="Majestic arrangement of 150 Dutch Red Roses in heart shape to Hyderabad" width="120"/></a>
+					</td>
+                  </tr>
+                  <tr>
+                    <td class="pro_title" height="50"><a href="page_details.asp?product_id=FLH205&amp;page_name=index">Majestic arrangement of 150 Dutch Red Roses in heart shape</a></td>
+                  </tr>
+                  <tr>
+                    <td height="40">Send our 150 Dutch Red Roses in heartshape arrange</td>
+                  </tr>
+
+                  <tr>
+                    <td><span class="ico_usd">59.63</span> <span class="ico_rs"> 3995</span></td>
+                  </tr>
+                  <tr>
+                    <td><a href="page_details.asp?product_id=FLH205&amp;page_name=index"><img border="0" height="28" src="images/add_button.gif" width="112"/></a></td>
+                  </tr>
+                </tbody></table>				
+								</td>
+                <td align="center" valign="top">
+				
+<table border="0" cellpadding="0" cellspacing="0" id="itembox" width="100%">
+                  <tbody><tr>
+                    <td width="100%">
+		<a href="page_details.asp?product_id=FLH210&amp;page_name=index"><img border="0" height="120" src="http://www.hyderabadonlineflorists.com/images//FLH210.jpg" title="Stunning Red Carnations to Hyderabad" width="120"/></a>
+					</td>
+                  </tr>
+                  <tr>
+                    <td class="pro_title" height="50"><a href="page_details.asp?product_id=FLH210&amp;page_name=index">Stunning Red Carnations</a></td>
+                  </tr>
+                  <tr>
+                    <td height="40">Send a treat to any flower lover by gifting this l</td>
+                  </tr>
+
+                  <tr>
+                    <td><span class="ico_usd">11.64</span> <span class="ico_rs"> 780</span></td>
+                  </tr>
+                  <tr>
+                    <td><a href="page_details.asp?product_id=FLH210&amp;page_name=index"><img border="0" height="28" src="images/add_button.gif" width="112"/></a></td>
+                  </tr>
+                </tbody></table>				
+								</td>
+                <td align="center" valign="top">
+				
+<table border="0" cellpadding="0" cellspacing="0" id="itembox" width="100%">
+                  <tbody><tr>
+                    <td width="100%">
+		<a href="page_details.asp?product_id=FLH521&amp;page_name=index"><img border="0" height="120" src="http://www.hyderabadonlineflorists.com/images//FLH521.jpg" title="Joyous Bloom Mix to Hyderabad" width="120"/></a>
+					</td>
+                  </tr>
+                  <tr>
+                    <td class="pro_title" height="50"><a href="page_details.asp?product_id=FLH521&amp;page_name=index">Joyous Bloom Mix</a></td>
+                  </tr>
+                  <tr>
+                    <td height="40">Jocular effervescence nuzzles the heart of your lo</td>
+                  </tr>
+
+                  <tr>
+                    <td><span class="ico_usd">9.63</span> <span class="ico_rs"> 645</span></td>
+                  </tr>
+                  <tr>
+                    <td><a href="page_details.asp?product_id=FLH521&amp;page_name=index"><img border="0" height="28" src="images/add_button.gif" width="112"/></a></td>
+                  </tr>
+                </tbody></table>				
+								</td>
+              </tr>
+              <tr>
+                <td height="10"></td>
+                <td height="10"></td>
+                <td height="10"></td>
+                <td height="10"></td>
+              </tr>
+			
+            </tbody></table>
+			</td>
+          </tr>
+        </tbody></table></td>
+        <td> </td>
+        <td valign="top">
+			  <table border="0" cellpadding="0" cellspacing="0" id="menu-right" width="100%">
+			  <tbody><tr>
+				<td><span>Occasions <img height="10" src="images/hr_ar.gif" width="14"/></span></td>
+			  </tr>
+			  <tr>
+			    <td>
+				<ol>
+				<li><a href="all_purpose_online.asp" title="All Purpose">All Purpose</a></li>
+				<li><a href="anniversary_online.asp" title="Anniversary">Anniversary</a></li>
+				<li><a href="Babyshower_online.asp" title="Baby Shower">Baby Shower</a></li>
+				<li><a href="bhaidooj_online.asp" title="Bhai Dooj">Bhai Dooj</a></li>
+				<li><a href="birthday_online.asp" title="Birthday">Birthday</a></li>
+				<li><a href="condolence_online.asp" title="Condolence">Condolence</a></li>
+				<li><a href="christmas_online.asp" title="Christmas">Christmas</a></li>
+				<li><a href="congratulation_online.asp" title="Congratulation">Congratulation</a></li>
+				<li><a href="diwali_gifts_online.asp" title="Diwali">Diwali</a></li>				
+				<li><a href="fathers_day_gifts_online.asp" title="Father's Day">Father's Day</a></li>
+				<li><a href="friendship_gifts_online.asp" title="Friendship Day">Friendship Day</a></li>				
+				<li><a href="get_well_soon_online.asp" title="Get well Soon">Get well Soon</a></li>				
+				<li><a href="House_Warming_online.asp" title="House Warming">House Warming</a></li>
+				<li><a href="rakhi_rakshabandhan_online.asp" title="Rakhi">Rakhi</a></li>
+				<li><a href="Sorry_online.asp" title="Sorry">Sorry</a></li>
+				<li><a href="Thank_You_online.asp" title="Thank You">Thank You</a></li>
+				<li><a href="valentine_gifts_india_online.asp" title="Valentine's Day">Valentine's Day</a></li>				
+				</ol>				</td>
+		      </tr>
+			</tbody></table>
+
+	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td height="3"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="birthday_online.asp" title="Birthday Gifts"><img border="0" height="96" src="images/birthday_banner.jpg" width="198"/></a></td>
+  </tr>
+  <tr>
+    <td height="3"></td>
+  </tr>  
+  <tr>
+    <td align="center"><a href="anniversary_online.asp" title="Anniversary Gifts"><img border="0" height="96" src="images/anniversary_banner.jpg" width="198"/></a></td>
+  </tr>
+</tbody></table>		</td>
+      </tr>
+
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td colspan="3" height="5"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td align="center" valign="top"><a href="for_him_online.asp" title="Gifts For Him"><img border="0" height="171" src="images/Gifts_him.jpg" width="320"/></a></td>
+        <td align="center" valign="top"><a href="for_her_online.asp" title="Gifts For Her"><img border="0" height="171" src="images/Gifts_her.jpg" width="320"/></a></td>
+        <td align="center" valign="top"><a href="for_kids_online.asp" title="Gifts For Kids"><img border="0" height="171" src="images/Gifts_kids.jpg" width="320"/></a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td colspan="3"> </td>
+  </tr>
+  <tr>
+    <td class="feature_Prod" colspan="3"><i><span id="SendGift">Website to Send Flowers and Gifts to Hyderabad Online</span></i></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+<!--Mother's day Writeup Start-->
+<!--<p class="boldtxt4">
+<strong>Mother's day is celebrated on 8th May, 2016</strong><br /><br />
+<strong>Flower Delivery to Hyderabad for Mom:</strong><br /><br />
+Drive your beloved mother crazy with excitement by gifting her an array of jewel-toned Flowers. The aroma and beauty of blossoms that you send via our online shopping site will surely be loved by her. We help you to connect to her conveniently through our quick delivery services and make her feel special and loved.<br /><br />
+<strong>Same Day Delivery of Gifts for Mamma to Hyderabad:</strong><br /><br />
+Let your mother relish the gift of mouth-watering Cakes, Chocolates and Fruits Basket as a token of remembrance and how much you love her. Spread emotions of your love and bring a nice smile on her lovely face by delivering attractive Hampers on the Same Day to brighten up her special day.<br /><br />
+<strong>Midnight Delivery of Mother’s Day Gifts to Hyderabad:</strong><br /><br />
+Now you can have the pleasure of delighting your loving mom with our Midnight Delivery provision on Mother’s Day and make this day the most remarkable and memorable one forever. Convey your special wishes to her by sending attractive arrangement of Flowers and many other gift items that will uplift her mood in a blink. <br />
+</p> -->
+<!--Mother's day Writeup End-->
+	
+<!--Valentine Writeup Start-->
+<!--<p class="boldtxt4"><strong>Send Flowers to Hyderabad on Valentine’s Day:</strong><br /><br />
+On this special Valentine’s Day, convey your best feelings for your loved ones by sending Flowers to Hyderabad. This online shopping store offers a wide range of Flowers like Roses, Tulips, Lilies, Gerberas, Orchids and many more. Show your intense care and affection by sending these beautiful presents of spectacular Flowers to the dearest one in your life in Hyderabad and make the recipient feel special.<br /><br />
+<strong>Send Valentine Special Gifts to Hyderabad on Same Day:</strong><br /><br />
+Valentine’s Day is considered as the most romantic day in the world. Celebrate this day with your loved ones with amazing collections of Flowers, Cakes, Chocolates, Dry Fruits, Red Roses, various Flower Arrangements and many more and make the day very special and memorable. You can send your best wishes to your dearest and nearest one in Hyderabad in the form of these magnificent Gifts.<br /><br />
+<strong>Delivery of Cakes to Hyderabad for Valentine’s Day:</strong><br /><br />
+Cakes are the center of attraction of each and every occasion. Valentine’s Day is considered as one of the most romantic occasion in the world. Express your valuable feelings and wishes with special Cakes like flavoured Cakes, Heart Shaped Cakes, Fruit Cakes, Chocolate Cakes, Eggless Cakes and many more types of Cakes as a symbol of love.<br />
+</p> -->
+<!--Valentine Writeup End-->
+
+<!--Rakhi Writeup Start-->
+<!--<p class="boldtxt4">
+<strong>Amaze Your Brothers with Beautiful Rakhi:</strong><br />
+Greet your dear Brothers with Beautiful Rakhi Sets (3Pcs), Delicious Choco Pie Box with Sweet Kids Rakhi, Dashing Rakhi for your Brother, Premium Designed Zardozi Rakhi, Designer Rakhi Set 4Pcs, Auspicious Celebration Special Rakhi, Pooja Thali, Attractive Rakhi Gift, Enticing Hamper of Titillating Kaju Katli of 250 G, Bhaiya, Bhabhi and Three Kids Rakh, Sweet Delight with Kaju Pista Roll from Haldiram, An Elegant Silver Plated Twin Rakhi Set, Light Brown Shaded Genuine Leather Gents Wallet, Sweet time for Raksha Bandhan with Kesaria Pedas, Feel-Better Rakhi with delicious Cadburys Temptation, Unique Thali with Multicoloured Rakhi on this Raksha Bandhan and makes them feel special, loved and lucky.<br /><br />
+<strong>Dedicate Your Warm Affection Towards Your Brother with Rakhi Gifts:</strong><br />
+Rakhi is basically a sacred thread of protection embellished with the love and affection of a Sister for her Brother. Send  Camel Colored Leather Belt from Fastrack with Rakhi, Admirable Sisterly Love Manmohini Rakhi, Graceful Rakhi with Sweet and Salty Thali, Exclusive Pooja thali with Kaju Katli, Dry Fruits Hamper, Arresting Gift with Rakhi and Sweets, Silver Plated Thali having Haldirams Badam Katli, Ferroro Rocher with Rakhi, Amazing Silver Plated Pooja Thali, Beautiful Auspicious Rakhi for Brother with Love Stylish Rakhi with a Pack of Exceptional 18 pcs Chocolates, Fascinating Silver Plated Thali, Mixed Dry Fruits, Exciting Pooja Thali, Rakhi and Chocolates, Appealing Rakhi Thread with full of Prosperity to your Brothers on this Raksha Bandhan and see that lovely glow on their faces.<br /><br />
+<strong>Same Day Delivery of Rakhi to Hyderabad:</strong><br />
+Gift your Brothers Scintillating Pure Silver Thali with Dry Fruits, Genuine Leather Watch Case (for 4 Watches), Fascinating Excellent Rakhi Thread, Special Raksha Bandhan Gift, Fantastic Gift with Pantaloons Voucher, Arresting Gents Paco Rabannes 1 Million 100 ml, Showy Rakhi with Fragrant Nautica Blue EDT Perfume, Attractive Rakhi with a Gents Gift on Rakhsha Bandan, Rakhi Bond with Cadburys Celebration and Silver Plated Puja Thali, Yummy Soan papri from Haldirams along with Pooja Thali, Amazing Pooja Thali with Rakhi and Cadburys, Mouth-Watering Haldiram Kaju Katli with Rakhi, Scrabble –The Word Game with Rakhi, Tasty Salty Assortment with Sweetest Dessert Rakhi, Yummy Cadbury Celebration with Mixed Dry Fruits, Exclusive Bhaiya Bhabhi Raksha Bandhan Set, Seductive Ferreo Rocher Chocolates, Pooja Thali Hamper and incorporate happiness into their lives.<br />
+</p> -->
+<!--Rakhi Writeup End-->
+
+<!--Normal Writeup Start-->
+	<p class="boldtxt4">Gifts occupy an important place in our social life. They build our relations with other people. Spread the air of happiness to the life of your dear ones by sending gifts and flowers to Hyderabad through Hyderabad Online Florists. We have wide collections of gifts which contain gorgeous ,Flower Bouquets, amazing Flower arrangements, luscious fresh Fruits, delicious Cakes, yummy Chocolates, Dry Fruits and many more gifts.</p>
+	<p class="boldtxt4">Let’s add extra beauty and charming to your dear ones by sending gifts and fresh flowers to Hyderabad through Hyderabad Online Florists. Celebrate every festival be it ’s a Valentine’s Day, Anniversary, Birthday, Wedding, Mother’s Day, Rakhi or Diwali, we have many gifts, hampers, gift basket ready for delivery to express your best and enormous love in just a single click to Hyderabad.</p>
+	<p class="boldtxt4">The online store is always ready to help its customers with its faithful service. People will feel so happy and delighted when they will find the gifts being distributed under specified categories and sections. Sending and gifting Flowers to Hyderabad as easy as it can be. Impress your family and friends with this great gift.</p>
+	<p class="boldtxt4">We can deliver flowers, sweets and cakes to Hyderabad same day, on any day, anywhere in Hyderabad. Best quality product and service is always available.</p>
+	<p class="boldtxt4">To make your loved ones special day a memorable one shop online at HyderabadOnlineFlorists.com to send flowers and gifts to Hyderabad will be the perfect gift for them to have.</p>
+	
+<!--Normal Writeup End-->		
+	</td>
+  </tr>
+  <tr>
+    <td class="feature_Prod" colspan="3"><i><span id="SecurePayment">Secure Payment Gateway</span></i></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+	<p>We respect your Privacy. We only know the recipient's details and your message and not your payment details. Your online payment is through Secure Payment gateway, www.ccavenue.com/ Securepg.Fssnet.co.in which is secured. Also, we do not share your information. This means that your online transactions are absolutely safe, secure and confidential.</p>	</td>
+  </tr>
+  <tr>
+    <td class="feature_Prod" colspan="3"><i><span id="testimonal">Testimonials for HyderabadOnlineFlorists.com</span></i></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+	<ul style="list-style-position:inside">
+	<li style=" margin:10px 10px;" type="1">“Thank you very much for delivering wonderful gift. You brought a smile to the face of my mother on her birthday”- Rani, U.K.</li>
+	<li style=" margin:10px 10px;" type="1">“Your wonderful bouquet of flowers and fresh cakes came as a delightful surprise. Thanks a lot for your prompt delivery” –Sri Kanth from  USA</li>
+	<li style=" margin:10px 10px;" type="1">“My uncle received your flower arrangement and cake yesterday. They were spectacular. Thanks a ton. I will surely refer your website to all for sending cakes and flowers to Hyderabad.”- Kaniska, Germany</li>
+	<li style=" margin:10px 10px;" type="1">“Your stunning flowers and exclusive gifts have left a lasting memory to my family. I will use your website for flower delivery in Hyderabad for my relatives.”- Damini, Singapore</li>
+	<li style=" margin:10px 10px;" type="1">“Your vibrant flowers and fresh fruits have cheered up my ailing aunt in Hyderabad. The watch and toys for kids were good too. You have helped me to express my feelings in an amazing way.”-Shekhar, Canada</li>
+	<li style=" margin:10px 10px;" type="1">“Your collection of lovely fresh flowers, lip smacking cakes and stunning chocolate gifts had enlivened in a terrific way. I will surely order online through you again to send gifts to Hyderabad.”-Sweta, Dubai</li>
+
+	</ul>	</td>
+  </tr>
+  <tr>
+    <td class="feature_Prod" colspan="3"><i><span id="DLocations">Delivery Locations</span></i></td>
+  </tr>
+  <tr>
+    <td colspan="3" id="Dlocation">  
+	<span id="red">We are deliver gifts and flowers everywhere in Hyderabad. The main locations are :</span><br/>
+	  <a href="flowers_gifts_Adilabad.asp">Adilabad</a>, <a href="flowers_gifts_Afzal Gunj.asp">Afzal Gunj</a>, <a href="flowers_gifts_Alwal.asp">Alwal</a>, <a href="flowers_gifts_Amberpet.asp">Amberpet</a>, <a href="flowers_gifts_Ameerpet.asp">Ameerpet</a>, <a href="flowers_gifts_Ashok Nagar.asp">Ashok Nagar</a>, <a href="flowers_gifts_B K Guda.asp">B K Guda</a>, <a href="flowers_gifts_Banjara Hills.asp">Banjara Hills</a>, <a href="flowers_gifts_Barkat pura.asp">Barkat pura</a>, <a href="flowers_gifts_Basheer Bagh.asp">Basheer Bagh</a>, <a href="flowers_gifts_Begum Bazar.asp">Begum Bazar</a>, <a href="flowers_gifts_Begumpet.asp">Begumpet</a>, <a href="flowers_gifts_Bhoiguda.asp">Bhoiguda</a>, <a href="flowers_gifts_Bolarum.asp">Bolarum</a>,<br/>  <a href="flowers_gifts_Bowenpally.asp">Bowenpally</a>, <a href="flowers_gifts_Chanchalguda.asp">Chanchalguda</a>, <a href="flowers_gifts_Chaitanyapuri Colony.asp">Chaitanyapuri Colony</a>, <a href="flowers_gifts_Chanchalguda.asp">Chanchalguda</a>, <a href="flowers_gifts_Chandanagar.asp">Chandanagar</a>, <a href="flowers_gifts_Chikkadpally.asp">Chikkadpally</a>, <a href="flowers_gifts_Dilsukhnagar.asp">Dilsukhnagar</a>, <a href="flowers_gifts_East Maredpally.asp">East Maredpally</a>, <a href="flowers_gifts_Erragadda.asp">Erragadda</a>, <a href="flowers_gifts_Gachibowli.asp">Gachibowli</a>, <a href="flowers_gifts_Golconda.asp">Golconda</a>,<br/>  <a href="flowers_gifts_Himayat nagar.asp">Himayat nagar</a>, <a href="flowers_gifts_Humayun Nagar.asp">Humayun Nagar</a>, <a href="flowers_gifts_Jubilee H O.asp">Jubilee H O</a>, <a href="flowers_gifts_Khairatabad.asp">Khairatabad</a>, <a href="flowers_gifts_Kanchanbagh.asp">Kanchanbagh</a>, <a href="flowers_gifts_Karmanghat.asp">Karmanghat</a>, <a href="flowers_gifts_Kukatpally.asp">Kukatpally</a>, <a href="flowers_gifts_Malakpet.asp">Malakpet</a>, <a href="flowers_gifts_Malkajgiri.asp">Malkajgiri</a>, <a href="flowers_gifts_Masab tank.asp">Masab tank</a>, <a href="flowers_gifts_Mehdipatnam.asp">Mehdipatnam</a>, <a href="flowers_gifts_Miyapur.asp">Miyapur</a>, <a href="flowers_gifts_Moazzampura.asp">Moazzampura</a>,<br/>  <a href="flowers_gifts_Mushirabad.asp">Mushirabad</a>, <a href="flowers_gifts_Nizamabad.asp">Nizamabad</a>, <a href="flowers_gifts_Narayanguda.asp">Narayanguda</a>, <a href="flowers_gifts_P G Road.asp">P G Road</a>, <a href="flowers_gifts_Padmarao.asp">Padmarao</a>, <a href="flowers_gifts_Ramkote.asp">Ramkote</a>, <a href="flowers_gifts_Sainikpuri.asp">Sainikpuri</a>, <a href="flowers_gifts_Sanathnagar.asp">Sanathnagar</a>, <a href="flowers_gifts_Secunderabad.asp">Secunderabad</a>, <a href="flowers_gifts_Tarnaka.asp">Tarnaka</a>, <a href="flowers_gifts_Trimulghirry.asp">Trimulghirry</a>, <a href="flowers_gifts_Uppal.asp">Uppal</a>, <a href="flowers_gifts_Vidyanagar.asp">Vidyanagar</a>,<br/>  <a href="flowers_gifts_West Maredpally.asp">West Maredpally</a>, <a href="flowers_gifts_Yousufguda.asp">Yousufguda</a>
+</td>  
+
+  </tr>
+  <tr>
+    <td colspan="3"> </td>
+  </tr>
+  <tr>
+    <td colspan="3"><table border="0" cellpadding="0" cellspacing="0" id="bottom_menu" width="100%">
+		  <tbody><tr>
+			<td class="content"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr>
+                <td style="width:20%"></td>
+                <td style="width:20%"></td>
+                <td style="width:20%"></td>
+                <td style="width:20%"></td>
+                <td style="width:20%"></td>
+              </tr>
+              <tr>
+                <td class="hdng" colspan="2">All Stores</td>
+                <td class="hdng">Your Account</td>
+                <td class="hdng">Help</td>
+                <td class="hdng">Payment Option</td>
+              </tr>
+              <tr>
+                <td><a class="bottom_link" href="apparels_online.asp" title=" Apparel Gifts">: : Apparel Gifts</a></td>
+                <td><a class="bottom_link" href="Leather_bags_online.asp">: : Leather Items</a></td>
+                <td><a class="bottom_link" href="hyderabad_signin.asp">: : Member Login</a></td>
+                <td><a class="bottom_link" href="terms.asp">: : Terms and Conditions</a></td>
+                <td><a class="bottom_link" href="payment.asp">: : Credit Cards</a></td>
+              </tr>
+              <tr>
+                <td><a class="bottom_link" href="cakes_online.asp" title="Cakes">: : Cakes</a></td>
+                <td><a class="bottom_link" href="Mobilephone_online.asp" title="Mobile Phones">: : Mobile Phones</a></td>
+                <td><a class="bottom_link" href="order_status.asp" title="Order Status">: : Order Status</a></td>
+                <td><a class="bottom_link" href="delivery_locations.asp" title="Shipping Informations">: : Shipping Informations</a></td>
+                <td><a class="bottom_link" href="payment.asp" title="ATM-cum-Debit Cards">: : ATM-cum-Debit Cards</a></td>
+              </tr>
+              <tr>
+                <td><a class="bottom_link" href="chocolates_online.asp" title="Chocolate GiftsChocolate Gifts">: : Chocolate Gifts</a></td>
+                <td><a class="bottom_link" href="OfficeStationary_online.asp" title="Office Stationary">: : Office Stationary</a></td>
+                <td><a class="bottom_link" href="Shopping_cart.asp" title="Shopping cart">: : Shopping cart</a></td>
+                <td><a class="bottom_link" href="Privacy_Policy.asp" title="Privacy Policy">: : Privacy Policy</a></td>
+                <td><a class="bottom_link" href="payment.asp" title="Cash Payment">: : Cash Payment</a></td>
+              </tr>
+              <tr>
+                <td><a class="bottom_link" href="Combo_Gifts.asp" title="Combo Gifts">: : Combo Gifts</a></td>
+                <td><a class="bottom_link" href="Special_online.asp" title="Premium Flowers">: : Premium Flowers</a></td>
+                <td> </td>
+                <td><a class="bottom_link" href="Substituion_Policy.asp" title="Substituion Policy">: : Substituion Policy</a></td>
+                <td><a class="bottom_link" href="payment.asp" title="Net Banking">: : Net Banking</a></td>
+              </tr>
+              <tr>
+                <td><a class="bottom_link" href="Cosmetics_online.asp" title="Cosmetics/Perfumes">: : Cosmetics/Perfumes</a></td>
+                <td><a class="bottom_link" href="Puja_Items.asp" title="Puja Items">: : Puja Items</a></td>
+                <td class="hdng">Others</td>
+                <td><a class="bottom_link" href="Refund_Policy.asp" title="Refund Policy">: : Refund Policy</a></td>
+                <td><a class="bottom_link" href="payment.asp" title=" Mobile Payment and More">: : Mobile Payment and More</a></td>
+              </tr>
+              <tr>
+                <td><a class="bottom_link" href="Dry_Fruits_online.asp" title="Dry Fruits">: : Dry Fruits</a></td>
+                <td><a class="bottom_link" href="summer_collections_online.asp" title="Summer Collection">: : Summer Collection</a></td>
+                <td><a class="bottom_link" href="Contact-Call.asp" title=" About us">: : About us</a></td>
+                <td><a class="bottom_link" href="Cancellation_Policy.asp" title="Cancellation Policy">: : Cancellation Policy</a></td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td><a class="bottom_link" href="Electronics_online.asp" title="Electronic Gifts">: : Electronic Gifts</a></td>
+                <td><a class="bottom_link" href="SunGlass_online.asp" title="Sun Glasses">: : Sun Glasses</a></td>
+                <td><a class="bottom_link" href="Contact-Call.asp" title="Suggestions">: : Suggestions</a></td>
+                <td><a class="bottom_link" href="sitemap.htm" title=" Site Map">: : Site Map</a></td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td><a class="bottom_link" href="Flowers_online.asp" title="Flowers">: : Flowers</a></td>
+                <td><a class="bottom_link" href="Sweets_online.asp" title="Sweets">: : Sweets</a></td>
+                <td><a class="bottom_link" href="Contact-Call.asp" title=" Gift Finder">: : Gift Finder</a></td>
+                <td align="left" rowspan="3" valign="middle"><table width="83%">
+                  <tbody><tr>
+                    <td align="left" width="34"><a href="https://www.facebook.com/hyderabadonlineflorists" target="_blank" title="Facebook"><img border="0" src="facebookicon.gif"/></a></td>
+                    <td align="left" width="32"><a href="https://twitter.com/hydrb_florists" target="_blank" title="Twitter"><img border="0" src="twittericon.gif"/></a></td>
+                    <td align="left" width="35"><a href="https://plus.google.com/+HyderabadOnlineFloristsSameDay" target="_blank" title="Google+"><img border="0" src="googleplusicon.gif"/></a></td>
+                    <td align="left" width="36"><a href="http://blog.hyderabadonlineflorists.com" target="_blank" title="Blog"><img border="0" src="blogicon.gif"/></a></td>
+                    <td align="left" width="33"><a href="https://www.youtube.com/hyderabadflorists" target="_blank" title="YouTube"><img border="0" src="utubeicon.gif"/></a></td>
+                    <td align="left" width="33"><a href="http://www.pinterest.com/hydrb_florists" target="_blank" title="Pinterest"><img border="0" src="Pinterest.gif"/></a></td>
+                  </tr>
+                </tbody></table></td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td><a class="bottom_link" href="Fresh_Fruits_online.asp" title="Fresh Fruits">: : Fresh Fruits</a></td>
+                <td><a class="bottom_link" href="Toys%20and%20Games_online.asp" title="Toys &amp; Games">: : Toys &amp; Games</a></td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td><a class="bottom_link" href="Handicrafts_online.asp" title=" Handicraft Gifts">: : Handicraft Gifts</a></td>
+                <td><a class="bottom_link" href="Watches_online.asp" title="Watches">: : Watches</a></td>
+                <td class="hdng">Contact us</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td><a class="bottom_link" href="Home%20Appliances_online.asp" title="Home Appliances">: : Home Appliances</a></td>
+                <td><a class="bottom_link" href="Winter_garment_online.asp" title="Winter Collections">: : Winter Collections</a></td>
+                <td><a class="bottom_link" href="Contact-Call.asp" title=" Contact us">: : Contact us</a></td>
+                <td colspan="2" rowspan="2"><a href="Payment.asp" title="Payment"><img border="0" height="32" src="images/cart_pic.gif" width="245"/></a></td>
+              </tr>
+              <tr>
+                <td><a class="bottom_link" href="Kids_Stationery_online.asp" title="Kids Stationery">: : Kids Stationery</a></td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td><a class="bottom_link" href="Kitchen%20wares_online.asp" title=" Kitchen Appliance">: : Kitchen Appliance</a></td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+
+
+            </tbody></table></td>
+		  </tr>
+		  <tr>
+			<td><img height="38" src="images/shadow.jpg" width="963"/></td>
+		  </tr>
+		</tbody></table></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td class="bot_bg" id="bot_bg">
+		<table align="center" border="0" cellpadding="0" cellspacing="0" width="80%">
+  <tbody><tr>
+    <td align="center"><a href="terms.asp">Terms &amp; Conditions</a></td>
+    <td align="center"><img src="images/bot_vr.gif"/></td>
+    <td align="center"><a href="delivery_locations.asp" title="Shipping Informations">Shipping Informations</a></td>
+    <td align="center"><img src="images/bot_vr.gif"/></td>
+    <td align="center"><a href="privacy_policy.asp" title="Privacy Policy">Privacy Policy</a></td>
+    <td align="center"><img src="images/bot_vr.gif"/></td>
+    <td align="center"><a href="Substituion_policy.asp" title="Substituion Policy">Substituion Policy</a></td>
+    <td align="center"><img src="images/bot_vr.gif"/></td>
+    <td align="center"><a href="Refund_policy.asp" title="Refund Policy">Refund Policy</a></td>
+    <td align="center"><img src="images/bot_vr.gif"/></td>
+    <td align="center"><a href="Cancellation_policy.asp" title="Cancellation Policy">Cancellation Policy</a></td>
+    <td align="center"><img src="images/bot_vr.gif"/></td>
+    <td align="center"><a href="sitemap.htm" title="Site Map">Site Map</a></td>
+    <td align="center"><img src="images/bot_vr.gif"/></td>
+    <td align="center"><a href="Disclaimer.asp" title="Disclaimer">Disclaimer</a></td>
+  </tr>
+</tbody></table>
+Copyright @ www.HyderabadOnlineFlorists.com
+		  </td>
+      </tr>
+    </tbody></table>	</td>
+  </tr>
+</tbody></table>
+
+</body></html>

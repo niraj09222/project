@@ -1,0 +1,675 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
+	 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" name="viewport"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Flaberry - Online Flowers Delivery | Send Flowers To India</title>
+<meta content="Shop online for Fresh Flowers straight from the farms and delivered at your doorstep and save upto 50% at flaberry.com. Flowers are delivered under 60 mins." name="description"/>
+<meta content="flowers and bouquets,gift for birthday,flowers in a bouquet,flowers in roses,how to send flowers,flowers online" name="keywords"/>
+<meta content="INDEX,FOLLOW" name="robots"/>
+<meta content="Flower Delivery under 60 Mins" name="author"/>
+<meta content="app-id=com.flaberry.app" name="google-play-app"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="http://m.flaberry.com/" media="only screen and (max-width: 800px)" rel="alternate"/>
+<link href="http://dvjjkgxblej85.cloudfront.net/media/favicon/default/oie_oie_canvas_8_.png" rel="icon" type="image/x-icon"/>
+<link href="http://dvjjkgxblej85.cloudfront.net/media/favicon/default/oie_oie_canvas_8_.png" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://plus.google.com/107825945736897686464" rel="publisher"/>
+<link href="//dvjjkgxblej85.cloudfront.net" rel="dns-prefetch"/>
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://dvjjkgxblej85.cloudfront.net/js/blank.html';
+    var BLANK_IMG = 'http://dvjjkgxblej85.cloudfront.net/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+ <!-- cssjshtmlbeg-->
+<link href="http://dvjjkgxblej85.cloudfront.net/media/css/1960acd9f10023c25442ae125f5e7f17.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://dvjjkgxblej85.cloudfront.net/media/css/4394f10aba6742513dd0ffcca33b4d03.css" media="print" rel="stylesheet" type="text/css"/>
+<script src="http://dvjjkgxblej85.cloudfront.net/media/js/4562803637efa8783936e20f42c55796.js" type="text/javascript"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://dvjjkgxblej85.cloudfront.net/media/css/1d8a3ce1638470ebef15793c5ddfd0ea.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://dvjjkgxblej85.cloudfront.net/media/js/080063bbcf10b1259a751ca0186f87d8.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="http://dvjjkgxblej85.cloudfront.net/media/js/0d9a8bda960b984914a2741590cbd8b5.js"></script>
+<![endif]-->
+<!--[if !IE]>
+<script type="text/javascript" src="http://dvjjkgxblej85.cloudfront.net/media/js/a711488a3f46e6ed3705b6ed69b8a1c5.js"></script>
+<![endif]-->
+<!-- cssjshtmlend-->
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet" type="text/css"/>
+<link href="http://dvjjkgxblej85.cloudfront.net/skin/frontend/default/shopper/css/options.css.php" rel="stylesheet" type="text/css"/>
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.flaberry.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><script type="text/javascript">
+    //<![CDATA[
+    var Shopper = {};
+    Shopper.anystretch_bg = '';
+        //]]>
+</script>
+
+<script type="text/javascript">
+/*
+ Analytics Ninja Google Analytics Implementation
+ https://twitter.com/AnalyticsNinja
+ */
+var _gaq = _gaq || [];
+var gac = new gaCookies();
+_gaq.push(['_setAccount', 'UA-37244904-1'],['_setAllowLinker', true]);
+_gaq.push(['_initData']);
+_gaq.push(function(){
+          var pageTracker = _gat._getTrackerByName();
+          UniqueId = gac.getUniqueId();
+          pageTracker._setCustomVar(1, 'Visitor', UniqueId, 1);
+          var sessions = gac.getSessionCounter();
+          var gasource = gac.getCampaignSource();
+          var gamedium = gac.getCampaignMedium();
+          var gaterm =  gac.getCampaignTerm();
+          var gacampaign = gac.getCampaignName();
+          var gacontent  = gac.getCampaignContent();
+          var gclid = gac.getGclid();
+          if(gclid != null){
+          gasource = 'google';
+          gamedium = 'cpc';
+          }
+          if (sessions == 1){
+          pageTracker._setCustomVar(2, 'FT', gasource+'|'+gamedium+'|'+gaterm+'|'+gacampaign+'|'+gacontent,1);
+          }
+          });
+_gaq.push(['_setSiteSpeedSampleRate', 100]);
+
+_gaq.push(['_trackPageview']);
+(function() {   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+function gaTrackEvent(event, cat1, cat2){
+    _gaq.push(['_trackEvent', event, cat1, cat2]);
+}
+</script>
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50116254-1', 'flaberry.com');
+  ga('send', 'pageview');
+
+</script>
+<link href="http://dvjjkgxblej85.cloudfront.net/pmd/flabupdate/assets/css/custom-flab.css?30041" rel="stylesheet" type="text/css"/>
+<link href="http://www.flaberry.com/media/fonts/rush.css" rel="stylesheet" type="text/css"/>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="http://dvjjkgxblej85.cloudfront.net/js/flabupdate/custom.js" type="text/javascript"></script>
+<style type="text/css">
+	@media (max-width: 991px) {
+		.footer-container .container > .row1 {
+			margin: 0;
+		}
+	}
+</style>
+</head>
+
+<body class=" cms-index-index cms-shopper-home-2col">
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
+     chromium.org/developers/how-tos/chrome-frame-getting-started -->
+<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a
+	different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a>
+	to experience this site.</p><![endif]-->
+
+
+<div class="wrapper">
+		<div class="page">
+		
+
+<link href="http://dvjjkgxblej85.cloudfront.net/media/babyshower/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<!--  <link rel="stylesheet" type="text/css" href="http://dvjjkgxblej85.cloudfront.net/skin/frontend/default/shopper/css/customized11.css?v=2">
+-->
+<link href="http://dvjjkgxblej85.cloudfront.net/pmd/flabupdate/assets/css/customized11.css" rel="stylesheet" type="text/css"/>
+<!--	navdesktop-->
+	<nav class="navbar navbar-default header_nav navbar-fixed-top" id="header_navbar" style="display: block! important;">
+		<style type="text/css">
+			@media only screen adn (min-width: 600px) and (max-width: 1200px)
+				#header_navbar {
+					display: block!important;
+				}
+			}
+		</style>
+		<div class="header_wrapper">
+			<div class="row1 header_bottom_list">
+				<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css"/>
+<link href="http://dvjjkgxblej85.cloudfront.net/css/custom/nav.css" rel="stylesheet" type="text/css"/>
+<div class="container-fluid subscription">
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="navbar-header"><a class="navbar-brand" href="/"><img alt="Flaberry.com - Fastest Online Flower Delivery" src="http://dvjjkgxblej85.cloudfront.net/media/images/flaberry logo.png"/><div class="logo-strong"><strong>Flaberry</strong></div></a></div>
+		<ul class="nav navbar-nav">
+			<li class="navbar-right"><a href="/order-tracking">
+					<div>Track Order</div>
+				</a> <a href="/contacts">
+					<div>8010-760-760</div>
+				</a> <a href="/customer/wprofile-corp-home">
+					<div>Account</div>
+				</a> <a href="/checkout/cart">
+					<div>Cart</div>
+				</a></li>
+			<li class="dropdown" id="menu-shop"><a aria-expanded="true" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button"><b>Shop Category<span class="caret"></span></b></a>
+				<ul class="dropdown-menu">
+					<li class="dropdown-submenu"><a href="http://www.flaberry.com/birthdays.html" onclick="_gaq.push(['_trackEvent','Menu','Text','Birthdays'])">Birthday</a>
+						<ul class="dropdown-menu" style="top:5px">
+							<li><a href="http://www.flaberry.com/birthdays/birthday-for-everyone.html" onclick="_gaq.push(['_trackEvent','Birthday','Text','Birthday for Everyone'])">Birthday for
+									Everyone</a></li>
+							<li><a href="http://www.flaberry.com/birthdays/special-ones.html" onclick="_gaq.push(['_trackEvent','Birthday','Text','Special Ones'])">Special Ones</a></li>
+						</ul>
+					</li>
+					<li class="dropdown-submenu"><a href="http://www.flaberry.com/occasions.html" onclick="_gaq.push(['_trackEvent','Menu','Text','Ocassions'])">Occasions</a>
+						<ul class="dropdown-menu" style="top:-35px">
+							<li><a href="http://www.flaberry.com/occasions/anniversary.html" onclick="_gaq.push(['_trackEvent','Occasions','Text','Anniversary'])">Anniversary</a></li>
+							<li><a href="http://www.flaberry.com/occasions/birthday.html" onclick="_gaq.push(['_trackEvent','Occasions','Text','Birthday'])">Birthday</a></li>
+							<li><a href="http://www.flaberry.com/occasions/congratulations.html" onclick="_gaq.push(['_trackEvent','Occasions','Text','Congratulations'])">Congratulations</a>
+							</li>
+							<li><a href="http://www.flaberry.com/occasions/get-well-soon.html" onclick="_gaq.push(['_trackEvent','Occasions','Text','Get Well Soon'])">Get Well Soon</a></li>
+							<li><a href="http://www.flaberry.com/occasions/love-romance.html" onclick="_gaq.push(['_trackEvent','Occasions','Text','Love &amp; Romance'])">Love &amp; Romance</a>
+							</li>
+							<li><a href="http://www.flaberry.com/occasions/new-born-baby.html" onclick="_gaq.push(['_trackEvent','Occasions','Text','New Born Baby'])">New Born Baby</a></li>
+							<li><a href="http://www.flaberry.com/occasions/expensive-corner.html" onclick="_gaq.push(['_trackEvent','Occasions','Text','Expensive Corner'])">ExpensiveCorner</a>
+							</li>
+							<li><a href="http://www.flaberry.com/occasions/teacher-gifts.html" onclick="_gaq.push(['_trackEvent','Occasions','Text','Teacher Gifts'])">Teacher Gifts</a></li>
+							<li><a href="http://www.flaberry.com/occasions/i-miss-you.html" onclick="_gaq.push(['_trackEvent','Occasions','Text','I Miss You'])">I Miss You</a></li>
+							<li><a href="http://www.flaberry.com/occasions/i-m-sorry.html" onclick="_gaq.push(['_trackEvent','Occasions','Text','I am Sorry'])">I am Sorry</a></li>
+							<li><a href="http://www.flaberry.com/occasions/thank-you.html" onclick="_gaq.push(['_trackEvent','Occasions','Text','Thank You'])">Thank You</a></li>
+							<li><a href="http://www.flaberry.com/occasions/because.html" onclick="_gaq.push(['_trackEvent','Occasions','Text','Because...'])">Because...</a></li>
+						</ul>
+					</li>
+					<li class="dropdown-submenu"><a href="http://www.flaberry.com/flowers.html" onclick="_gaq.push(['_trackEvent','Menu','Text','Flowers'])">Flowers</a>
+						<ul class="dropdown-menu" style="top:-75px;min-width:320px">
+							<div class="nav-flowers" style="float:left;">
+								<li><b style="padding:5px!important">Favourite Flowers</b></li>
+								<li><a href="http://www.flaberry.com/flowers/roses.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Roses'])">Roses</a></li>
+								<li><a href="http://www.flaberry.com/flowers/carnations.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Carnations'])">Carnations</a></li>
+								<li><a href="http://www.flaberry.com/flowers/lilies.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Lilies'])">Lilies</a></li>
+								<li><a href="http://www.flaberry.com/flowers/gerberas.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Gerberas'])">Gerberas</a></li>
+								<li><a href="http://www.flaberry.com/flowers/orchids.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Orchids'])">Orchids</a></li>
+								<li><a href="http://www.flaberry.com/flowers/anthuriums.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Anthuriums'])">Anthuriums</a></li>
+								<li><a href="http://www.flaberry.com/flowers/tulips.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Tulips'])">Tulips</a></li>
+								<li><a href="http://www.flaberry.com/flowers/personalized-vase.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Personalizes Vase'])">Personalized Vase</a>
+								</li>
+							</div>
+							<div class="nav-flowers" style="float:right;">
+								<li><b style="padding:5px!important">Exotic Flowers</b></li>
+								<li><a href="http://www.flaberry.com/luxury/peonies.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Peonies'])">Peonies</a></li>
+								<li><a href="http://www.flaberry.com/luxury/cymbidium-orchid.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Cymbidium Orchid'])">Cymbidium Orchid</a>
+								</li>
+								<li><a href="http://www.flaberry.com/luxury/hydrangea.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Hydrangea'])">Hydrangea</a></li>
+								<li><a href="http://www.flaberry.com/luxury/tulips.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Tulips'])">Tulips</a></li>
+								<li><a href="http://www.flaberry.com/luxury/calla-lilies.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Calla Lilies'])">Calla Lilies</a></li>
+								<li><a href="http://www.flaberry.com/luxury/iris.html" onclick="_gaq.push(['_trackEvent','Flowers','Text','Iris'])">Iris</a></li>
+							</div>
+						</ul>
+					</li>
+					<li class="dropdown-submenu"><a href="http://www.flaberry.com/cakes.html" onclick="_gaq.push(['_trackEvent','Menu','Text','Cakes'])">Cakes</a>
+						<ul class="dropdown-menu" style="top:-115px">
+							<li><a href="http://www.flaberry.com/cakes/half-kg.html" onclick="_gaq.push(['_trackEvent','Cake','Text','Half Kg'])">Half Kg</a></li>
+							<li><a href="http://www.flaberry.com/cakes/one-kg.html" onclick="_gaq.push(['_trackEvent','Cake','Text','One Kg'])">One Kg</a></li>
+							<li><a href="http://www.flaberry.com/cakes/more-than-one-kg.html" onclick="_gaq.push(['_trackEvent','Cake','Text','More than One Kg'])">More than One Kg</a></li>
+							<!--<li><a onclick="_gaq.push(['_trackEvent','Cake','Text','Personalize'])"
+							       href="http://www.flaberry.com/cakes/personalize.html">Personalize</a></li>-->
+							<li><a href="http://www.flaberry.com/cakes/baby-shower-cakes.html" onclick="_gaq.push(['_trackEvent','Cake','Text','Baby Shower'])">Baby Shower</a></li>
+						</ul>
+					</li>
+					<li class=""><a href="http://www.flaberry.com/buy-199.html" onclick="_gaq.push(['_trackEvent','Menu','Text','Starting 399'])">Starting 399</a>
+					</li>
+					<li class="dropdown-submenu"><a href="http://www.flaberry.com/chocolate.html" onclick="_gaq.push(['_trackEvent','Menu','Text','Chocolate'])">Chocolate</a>
+						<ul class="dropdown-menu" style="top:-155px">
+							<li><a href="http://www.flaberry.com/chocolate/dark-ivory-chocolate.html" onclick="_gaq.push(['_trackEvent','Chocolate','Text','Dark Ivory Chocolate'])">Dark
+									IvoryChocolate</a></li>
+							<li><a href="http://www.flaberry.com/chocolate/chocolate-bouquet.html" onclick="_gaq.push(['_trackEvent','Chocolate','Text','Chocolate Bouquet'])">ChocolateBouquet</a>
+							</li>
+							<li><a href="http://www.flaberry.com/wedding-favours" onclick="_gaq.push(['_trackEvent','Chocolate','Text','Wedding Favours'])">Wedding Favours</a></li>
+							<li><a href="http://www.flaberry.com/chocolate/football-mania.html" onclick="_gaq.push(['_trackEvent','Chocolate','Text','Football Mania'])">Football Mania</a></li>
+							<!--<li><a onclick="_gaq.push(['_trackEvent','Chocolate','Text','Limited Collection'])"
+							       href="http://www.flaberry.com/chocolate/limited-collection.html">LimitedCollection</a>
+							</li>-->
+							<li><a href="http://www.flaberry.com/baby-shower-and-announcement" onclick="_gaq.push(['_trackEvent','Chocolate','Text','Baby Announcement Favours'])">Baby AnnouncementFavours</a></li>
+						</ul>
+					</li>
+					<li><a href="http://www.flaberry.com/delivery-cities" onclick="_gaq.push(['_trackEvent','Menu','Text','Same Day'])">Same Day Delivery</a>
+					</li>
+					<li class="dropdown-submenu"><a href="http://www.flaberry.com/plants.html" onclick="_gaq.push(['_trackEvent','Menu','Text','Plants'])">Plants</a>
+						<ul class="dropdown-menu" style="top:-275px">
+							<li><a href="http://www.flaberry.com/plants/lucky-bamboo.html" onclick="_gaq.push(['_trackEvent','Plant','Text','Lucky Bamboo'])">Lucky Bamboo</a></li>
+							<li><a href="http://www.flaberry.com/plants/stress-buster.html" onclick="_gaq.push(['_trackEvent','Plant','Text','Bonsai/Ficus'])">Bonsai/Ficus</a></li>
+							<li><a href="http://www.flaberry.com/plants/tissue-cultured.html" onclick="_gaq.push(['_trackEvent', 'Plant', 'Text', 'Tissue Cultured]);">Tissue Cultured</a></li>
+							<li><a href="http://www.flaberry.com/plants/home-decor.html" onclick="_gaq.push(['_trackEvent','Plant','Text','Home Decor'])">Home Decor</a></li>
+							<li><a href="http://www.flaberry.com/plants/kitchen-herbs.html" onclick="_gaq.push(['_trackEvent','Plant','Text','Kitchen Herbs'])">Kitchen Herbs</a></li>
+							<li><a href="http://www.flaberry.com/plants/delhi-ncr.html" onclick="_gaq.push(['_trackEvent','Plant','Text','Delhi-NCR Special'])">Delhi-NCR Special</a></li>
+							<li><a href="http://www.flaberry.com/plants/plants-at-399.html" onclick="_gaq.push(['_trackEvent','Plant','Text','Under 399'])">Under 399</a></li>
+							<li><a href="http://www.flaberry.com/plants/special-offer.html" onclick="_gaq.push(['_trackEvent','Plant','Text','Special Offer'])">Special Offer</a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<li class="mothers-day-button">
+<!--				<a id="top-button" style="background-color: #00a2e1!important;" href="/occasions/teacher-gifts.html" onclick="_gaq.push(['_trackEvent','Teachers day','Header','Link'])">TEACHER'S DAY-5TH SEPT</a>-->
+				<a href="http://www.flaberry.com/pmd/beta/home" id="top-button" onclick="_gaq.push(['_trackEvent','On Demand','Header','Link'])" style="background-color: #00a2e1!important;">ON DEMAND</a>
+			</li>
+			<script type="text/javascript">if(screen.width<800)document.getElementById("top-button").href="http://www.flaberry.com/pmd/mobile-home";</script>
+			<li class="">
+									<!--<a href="http://www.flaberry.com/fathers-day-2016" onclick="_gaq.push(['_trackEvent','Fathers Day','Header','Link'])">
+						Father's Day (19 June 2016)
+					</a>-->
+					<a href="http://www.flaberry.com/flowers-care" onclick="_gaq.push(['_trackEvent','Flower Care','Header','Link'])">
+						Flower Care
+					</a>
+							</li>
+			<!--<li class=""><a href="/delhi-ncr-deal-of-the-day" onclick="_gaq.push(['_trackEvent','Hot Deals','Header','Link'])">HOT DEALS</a></li>-->
+		</ul>
+	</nav>
+</div>
+			</div>
+		</div>
+	</nav>
+	<!-- ,www.flaberry.com-->
+<!--<div class="hidden-xs" id="fixed_div_back" style="height:100px"></div>-->
+<script>
+	// var e = document.getElementsByClassName('slides');
+	// console.log(e);
+	function animate1(x) {
+		var id = x.id;
+		var divid = id + 'div';
+		var dividtoshow = document.getElementById(divid);
+		dividtoshow.style.display = "block";
+	}
+	function deanimate(x) {
+		var id = x.id;
+		var divid = id + 'div';
+		var dividtoshow = document.getElementById(divid);
+		dividtoshow.style.display = "none";
+	}
+
+
+	window.onscroll = function (e) {
+
+		var f = document.getElementById('header_navbar');
+		var middle_row = document.getElementById('row_middle');
+		if (window.pageYOffset > 150) {
+			//middle_row.hide(100);
+//$('#header_navbar').hide("slow");
+//f.className = 'navbar navbar-default header_nav navbar-fixed-top';
+		}
+		else {
+			//middle_row.show('fast');
+		}
+
+	}
+</script>
+		<div class="std"><link href="apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="http://www.flaberry.com/pmd/mobile-home" media="only screen and (max-width: 640px)" rel="alternate"/>
+
+<script type="text/javascript">
+    <!--
+    if (screen.width <= 800) {
+        window.location = "http://www.flaberry.com/pmd/mobile-home";
+    }
+    //-->
+</script>
+<!-- Place favicon.ico in the root directory -->
+
+<link href="https://fonts.googleapis.com/css?family=Cinzel:700" rel="stylesheet" type="text/css"/>
+<link href="http://dvjjkgxblej85.cloudfront.net/css/subscription/normalize.css" rel="stylesheet"/>
+<link href="http://dvjjkgxblej85.cloudfront.net/css/subscription/main.css" rel="stylesheet"/>
+<link href="http://dvjjkgxblej85.cloudfront.net/css/subscription/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Raleway:500" rel="stylesheet" type="text/css"/>
+<link href="http://dvjjkgxblej85.cloudfront.net/css/subscription/custom7.css" rel="stylesheet"/>
+<link href="http://dvjjkgxblej85.cloudfront.net/css/subscription/testimonial.css" rel="stylesheet"/>
+<script src="http://dvjjkgxblej85.cloudfront.net/js/subscription/vendor/modernizr-2.8.3.min.js"></script>
+<style>
+    .image,.title{text-align:center}.row>h3,h1,h2,h3{text-transform:none!important}.h2,h2{font-size:30px!important}.subscription *{font-family:Lato,sans-serif!important}.product-inner-home{padding:8px;margin-bottom:30px;border:2px solid #eee;box-shadow:0 0 2px 0 #eee}.header-row{margin:0}.header-row h2{margin:10px 3em;font-family:Cinzel,Helvetica,Arial,sans-serif!important;font-weight:700;padding-bottom:5px;border-bottom:3px solid #000}.image img{width:100%}a.product,a.product .product-inner-home,a.product .product-inner-home:focus,a.product .product-inner-home:hover,a.product:focus,a.product:hover{text-decoration:none!important}a.product .product-inner-home,a.product .product-inner-home:focus,a.product .product-inner-home:hover{cursor:pointer}.title{font-family:Cabin,sans-serif;font-size:1.4em;font-weight:600;color:#333;height:2.5em;line-height:1em;margin-top:10px}h1{font-size:1.25em}h1,h2,h3{letter-spacing:0!important}.before-price{font-size:1em;text-decoration:line-through}.row>h3{text-align:center!important;font-size:2.5em!important;font-weight:500!important}.discount,.price{text-align:center}.after-price{font-size:1.1em}.after-price,.before-price{color:#222;padding:0 5px;text-align:center;font-family:Montserrat,sans-serif}.lSNext,a.lSPrev{border-radius:50%;background-color:#BB1515}.percentage{height:4px;border-bottom:4px solid #29a;width:7%}.percentage-container{height:6px;border:1px solid #eee}.lightSlider{margin-top:20px}.discount{position:absolute;top:15px;width:4.2em!important;left:75%;background-color:green;padding:.6em;display:inline-block;border-radius:50%;color:#fff;text-overflow:ellipsis;font-weight:100;word-break:break-all;font-size:.9em;float:left}.discount span{font-size:1.35em;font-weight:600}@media (max-width:767px){.header-row h2{font-size:16px;text-align:center}.row{width:auto!important}.row.video-overlay{margin-left:-15px!important}}@media (min-width:768px){.product-inner-home{margin:3em}.product-row{margin:10px 0}}@media (max-width:991px){.row{width:auto!important}.std{padding-top:60px}}@media (min-width:992px){.row{width:100%}li.mothers-day-button{top:0!important}}.page{background-color:transparent!important}
+</style>
+<!--[if lt IE 8]>
+<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
+    your browser</a> to improve your experience.</p>
+<![endif]-->
+    <div class="full-width-video hidden-xs">
+        <video id="video" poster="http://dvjjkgxblej85.cloudfront.net/media/images/home/florist-fallback-min.jpg">
+            <source src="http://dvjjkgxblej85.cloudfront.net/media/video/home/florist.webm" type="video/webm"></source>
+            <source src="http://dvjjkgxblej85.cloudfront.net/media/video/home/florist.mp4" type="video/mp4"></source>
+            <img src="http://dvjjkgxblej85.cloudfront.net/media/images/home/florist-fallback-min.jpg"/>
+        </video>
+        <script type="text/javascript">
+        if(window.innerWidth > 767){
+            document.getElementById("video").setAttribute("autoplay", "true");
+            document.getElementById("video").setAttribute("loop", "true");
+        }
+        </script>
+    </div>
+    <div class="container-fluid subscription">
+    <div class="row video-overlay" style="background-image: url('http://dvjjkgxblej85.cloudfront.net/media/images/home/florist-fallback-min.jpg');background-repeat: no-repeat;background-position: center;margin-left: 0;background-size: cover;">
+
+
+        <div class="col-md-12" style="height:540px;text-shadow: 0 2px 6px #000;"><div class="col-md-12 text-center" style="margin-bottom:1em;margin-top:2.5em;"><h1 style="padding-top: 1em;font-size:3em;">Find Your Perfect Bouquet</h1><!-- <small>A flower for every emotion, every week.</small>--></div><div class="col-md-4 col-md-push-4 search-box" style="position:relative;top:0px;right:0px;"><input autocomplete="off" class="form-control" id="autocompletePlaces" placeholder="Enter Delivery Location e.g. Greater Kailash" style="height: 50px; text-align: center" type="text"/><div id="bouquet-search">SHOP BOUQUET</div></div><div class="col-md-12 text-center" style="margin-bottom:1em;margin-top:0;"><p style="color:black;margin-top:1em;"><strong>Happiness, delivered at your doorstep.</strong></p></div><div class="hide" style="position:relative;text-align: right; "><div style="position:absolute;top:150px;right:50px;width:250px;"><h2>Beautiful Flowers</h2><p>Description that sells.</p><p><a class="btn btn-primary btn-lg" href="#buyNow">Buy Now</a></p></div></div></div>
+    </div>
+            <div class="row header-row"><h2 class="text-right">SIGNATURE COLLECTION</h2></div><div class="row product-row"><div class=""><a class="col-xs-6 col-md-4 product" href="http://www.flaberry.com/motherly-love.html"><div class="product-inner-home"><div class="image large" style=""><img alt="Fastest Delivery of flowers Bouquet for wedding to girlfriend in India" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/Product_6-min.jpg" title="Fastest Delivery of flowers Bouquet for wedding to girlfriend in India"/></div><div class="title" style="min-height:49px;height:auto">Expression Of Love</div><div class="price"><span class="after-price">Rs. 799</span></div></div></a><a class="col-xs-6 col-md-4 product" href="http://www.flaberry.com/mothers-day-special.html"><div class="product-inner-home"><div class="image large" style=""><img alt="Send flower arrangement to brother in India from Trusted website for Flowers in India" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/Product_1-min.jpg" title="Send flower arrangement to brother in India from Trusted website for Flowers in India"/></div><div class="title" style="min-height:49px;height:auto">Stylish Rose &amp; Lilies Bunch</div><div class="price"><span class="after-price">Rs. 799</span></div></div></a><a class="col-xs-6 col-md-4 product" href="http://www.flaberry.com/mothers-day-out.html"><div class="product-inner-home"><div class="image large" style=""><img alt="White Roses Bunch for Fastest Delivery of flowers in India for birthday Gift to grandparents" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/Product_2-min.jpg" title="White Roses Bunch for Fastest Delivery of flowers in India for birthday Gift to grandparents"/></div><div class="title" style="min-height:49px;height:auto">Celebrating Togetherness</div><div class="price"><span class="after-price">Rs. 499</span></div></div></a><a class="col-xs-6 col-md-4 product" href="http://www.flaberry.com/gift-for-mom.html"><div class="product-inner-home"><div class="image large" style=""><img alt="Send birthday flowers Bright Gerbera to Sister by Flower Delivery In India" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/Product_3-min.jpg" title="Send birthday flowers Bright Gerbera to Sister by Flower Delivery In India"/></div><div class="title" style="min-height:49px;height:auto">Gift to Cherish</div><div class="price"><span class="after-price">Rs. 899</span></div></div></a><a class="col-xs-6 col-md-4 product" href="http://www.flaberry.com/roses-for-mother.html"><div class="product-inner-home"><div class="image large" style=""><img alt="Reliable Florist in India for Housewarming Party gift to parents" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/Product_4-min.jpg" title="Reliable Florist in India for Housewarming Party gift to parents"/></div><div class="title" style="min-height:49px;height:auto">Roses For Her</div><div class="price"><span class="after-price">Rs. 499</span></div></div></a><a class="col-xs-6 col-md-4 product" href="http://www.flaberry.com/for-you-mother.html"><div class="product-inner-home"><div class="image large" style=""><img alt="Send flower arrangement to brother in India from Trusted website for Flowers in India" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/Product_5-min.jpg" title="Send flower arrangement to brother in India from Trusted website for Flowers in India"/></div><div class="title" style="min-height:49px;height:auto">Roses For Her</div><div class="price"><span class="after-price">Rs. 499</span></div></div></a></div></div><div class="row header-row"><h2 class="text-right">TRENDING THIS WEEK</h2></div><div class="row product-row"><div class=""><a class="col-xs-6 col-md-4 product" href="bunch-of-red-roses-jutepack.html"><div class="product-inner-home"><div class="image small"><img alt="Reliable Florist in India for birthday gift to cousin" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/bunch-of-red-roses-min.jpg" title="Reliable Florist in India for birthday gift to cousin"/></div><div class="title">Red Roses</div><div class="price"><span class="before-price">Rs. 525</span><span class="after-price">Rs. 499</span></div></div></a><a class="col-xs-6 col-md-4 product" href="pinku.html"><div class="product-inner-home"><div class="image small"><img alt="Send Same Day Delivery of Flowers in India for anniversary to sister" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/pink_roses-min.jpg" title="Send Same Day Delivery of Flowers in India for anniversary to sister"/></div><div class="title">Pinku</div><div class="price"><span class="before-price">Rs. 499</span><span class="after-price">Rs. 399</span></div></div></a><a class="col-xs-6 col-md-4 product" href="bunch-of-10-dairy-milk.html"><div class="product-inner-home"><div class="image small"><img alt="Send anniversary flowers bunch of 10 dairy milks bouquetto sister by Online Florist in India" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/bunch_of_10_dairy_milk-min.jpg" title="Send anniversary flowers bunch of 10 dairy milks bouquetto sister by Online Florist in India"/></div><div class="title">Dairy Milks</div><div class="price"><span class="before-price">Rs. 699</span><span class="after-price">Rs. 499</span></div></div></a><a class="col-xs-6 col-md-4 product" href="a-lovely-wish.html"><div class="product-inner-home"><div class="image small"><img alt="Buy flowers online for friend's Housewarming Party in India" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/18carnation_4lisanthus_1260__flowers-min.jpg" title="Buy flowers online for friend's Housewarming Party in India"/></div><div class="title">A Lovely Wish</div><div class="price"><span class="before-price">Rs. 999</span><span class="after-price">Rs. 749</span></div></div></a><a class="col-xs-6 col-md-4 product" href="red-and-white-rose.html"><div class="product-inner-home"><div class="image small"><img alt="Buy flowers online for boyfriend's Housewarming Party in India" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/8-red-8-white-rose-min.jpeg" title="Buy flowers online for boyfriend's Housewarming Party in India"/></div><div class="title">Red &amp; White</div><div class="price"><span class="before-price">Rs. 1599</span><span class="after-price">Rs. 899</span></div></div></a><a class="col-xs-6 col-md-4 product" href="simply-red.html"><div class="product-inner-home"><div class="image small"><img alt="Cheap and quality Flowers in India for birthday to grandparents" src="http://dvjjkgxblej85.cloudfront.net/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/2/12redrosesbouquet-180x180.jpg" title="Cheap and quality Flowers in India for birthday to grandparents"/></div><div class="title">Simply Red</div><div class="price"><span class="before-price">Rs. 499</span><span class="after-price">Rs. 399</span></div></div></a></div></div><hr/><div class="row text-center hidden-xs hidden-sm curate"><h3>How We Curate</h3><div class="col-md-12" style="margin-top:1em"><img alt="" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/curate.jpg" style="width:100%" title=""/></div></div><div class="row header-row"><h2 class="text-right">TRENDING THIS MONTH</h2></div><div class="row product-row"><div class=""><a class="col-xs-6 col-md-4 product" href="heart-of-red-roses.html"><div class="product-inner-home"><div class="image small"><img alt="Buy flowers online for friend's anniversary in India" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/heart-of-red-roses-min.jpg" title="Buy flowers online for friend's anniversary in India"/></div><div class="title">Heart Roses</div><div class="price"><span class="before-price">Rs. 1699</span><span class="after-price">Rs. 1399</span></div></div></a><a class="col-xs-6 col-md-4 product" href="caring-roses.html"><div class="product-inner-home"><div class="image small"><img alt="Send flower arrangement to brother in India from Trusted website for Flowers in India" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/yellow-rose-12pcs-003-bouquet-min.jpg" title="Send flower arrangement to brother in India from Trusted website for Flowers in India"/></div><div class="title">Caring Roses</div><div class="price"><span class="before-price">Rs. 499</span><span class="after-price">Rs. 399</span></div></div></a><a class="col-xs-6 col-md-4 product" href="beautiful-flower-basket.html"><div class="product-inner-home"><div class="image small"><img alt="Send Housewarming Party flowers Say Yellow to girlfriend by Online Florist in India" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/10roses_20others_basket-min.jpg" title="Send Housewarming Party flowers Say Yellow to girlfriend by Online Florist in India"/></div><div class="title">Flower Basket</div><div class="price"><span class="before-price">Rs. 1299</span><span class="after-price">Rs. 999</span></div></div></a><a class="col-xs-6 col-md-4 product" href="12-pink-roses-basket.html"><div class="product-inner-home"><div class="image small"><img alt="Rosey for Fastest Delivery of flowers in India for anniversary Gift to mom" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/fla472-min.jpg" title="Rosey for Fastest Delivery of flowers in India for anniversary Gift to mom"/></div><div class="title">Pink Roses</div><div class="price"><span class="before-price">Rs. 1099</span><span class="after-price">Rs. 699</span></div></div></a><a class="col-xs-6 col-md-4 product" href="celebrating-it-big.html"><div class="product-inner-home"><div class="image small"><img alt="Midnight Delivery of Flowers in India for grandparents's wedding" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/red-rose-basket-min.jpg" title="Midnight Delivery of Flowers in India for grandparents's wedding"/></div><div class="title">Celebrating Big</div><div class="price"><span class="before-price">Rs. 999</span><span class="after-price">Rs. 699</span></div></div></a><a class="col-xs-6 col-md-4 product" href="tropicanna-flower-basket.html"><div class="product-inner-home"><div class="image small"><img alt="Cheap and quality Flowers in India for birthday to girlfriend" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/5lilies_15gerberas_basket-min.jpg" title="Cheap and quality Flowers in India for birthday to girlfriend"/></div><div class="title">Tropicana Basket</div><div class="price"><span class="before-price">Rs. 1299</span><span class="after-price">Rs. 1399</span></div></div></a></div></div>
+    <hr/>
+        <div class="row header-row"><h2 class="text-right">SINFUL CHOCOLATE COLLECTION</h2></div><div class="row product-row"><div class=""><a class="col-xs-6 col-md-4 product" href="dignified-love-chocolate-bouquet.html"><div class="product-inner-home"><div class="image small"><img alt="Dignified Love Chocolate Bouquet" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/dignified_love_chocolate_bouquet_1-min.jpg" title="Dignified Love Chocolate Bouquet"/></div><div class="title">Chocolate Bouquet</div><div class="price"><span class="before-price">Rs. 2049</span><span class="after-price">Rs. 1849</span></div></div></a><a class="col-xs-6 col-md-4 product" href="chocolate-bouquet-3.html"><div class="product-inner-home"><div class="image small"><img alt="Chocolate Bouquet 3" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/chocolate_bouuet_3jpg-min.jpg" title="Chocolate Bouquet 3"/></div><div class="title">Chocolate Bouquet 3</div><div class="price"><span class="before-price">Rs. 1649</span><span class="after-price">Rs. 1449</span></div></div></a><a class="col-xs-6 col-md-4 product" href="chocolate-bouquet-9.html"><div class="product-inner-home"><div class="image small"><img alt="Chocolate Bouquet 9" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/choclate_bouquet_9_with_bear-min.jpg" title="Chocolate Bouquet 9"/></div><div class="title">Chocolate Bouquet 9</div><div class="price"><span class="before-price">Rs. 1549</span><span class="after-price">Rs. 1349</span></div></div></a><a class="col-xs-6 col-md-4 product" href="delicacy-in-blue.html"><div class="product-inner-home"><div class="image small"><img alt="Delicacy in Blue" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/delicacy_in_blue-min.jpg" title="Delicacy in Blue"/></div><div class="title">Delicacy Blue</div><div class="price"><span class="before-price">Rs. 1599</span><span class="after-price">Rs. 1199</span></div></div></a><a class="col-xs-6 col-md-4 product" href="eternal-love-chocolate-bouquet.html"><div class="product-inner-home"><div class="image small"><img alt="Eternal Love Chocolate Bouquet" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/eternal_love_chocolate_bouquet-min.jpg" title="Eternal Love Chocolate Bouquet"/></div><div class="title">Eternal Love</div><div class="price"><span class="before-price">Rs. 1649</span><span class="after-price">Rs. 1449</span></div></div></a><a class="col-xs-6 col-md-4 product" href="rose-ferrero-rocher-bunch.html"><div class="product-inner-home"><div class="image small"><img alt="Roses &amp; Ferrero Rocher Bunch" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/mf141-rose-chocolate-min.jpg" title="Roses &amp; Ferrero Rocher Bunch"/></div><div class="title">Roses &amp; Ferrero Rocher</div><div class="price"><span class="before-price">Rs. 1949</span><span class="after-price">Rs. 1649</span></div></div></a></div></div><div class="row header-row"><h2 class="text-right">ALL TIME FAVORITES</h2></div><div class="row product-row"><div class=""><a class="col-xs-6 col-md-4 product" href="2-teddy-with-carnations-and-anthuriums.html"><div class="product-inner-home"><div class="image small"><img alt="2 Teddy with Carnations and Anthuriums" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/mf216-teddy-carnation-min.jpg" title="2 Teddy with Carnations and Anthuriums"/></div><div class="title">2 Teddy</div><div class="price"><span class="before-price">Rs. 1499</span><span class="after-price">Rs. 1099</span></div></div></a><a class="col-xs-6 col-md-4 product" href="warm-wishes.html"><div class="product-inner-home"><div class="image small"><img alt="Warm wishes" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/red-rose-choco-rose-celebration-min.jpg" title="Warm wishes"/></div><div class="title">Warm wishes</div><div class="price"><span class="before-price">Rs. 875</span><span class="after-price">Rs. 699</span></div></div></a><a class="col-xs-6 col-md-4 product" href="long-distance.html"><div class="product-inner-home"><div class="image small"><img alt="Long Distance" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/soft-toy-25-min.jpg" title="Long Distance"/></div><div class="title">Long Distance</div><div class="price"><span class="before-price">Rs. 1999</span><span class="after-price">Rs. 1699</span></div></div></a><a class="col-xs-6 col-md-4 product" href="unforgettable.html"><div class="product-inner-home"><div class="image small"><img alt="Unforgettable" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/mixed-rose-choco-colorful-surprise-min.jpg" title="Unforgettable"/></div><div class="title">Unforgettable</div><div class="price"><span class="before-price">Rs. 800</span><span class="after-price">Rs. 499</span></div></div></a><a class="col-xs-6 col-md-4 product" href="delightful-day.html"><div class="product-inner-home"><div class="image small"><img alt="Delightful day" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/rose-dairy-milk-min.jpg" title="Delightful day"/></div><div class="title">Delightful day</div><div class="price"><span class="before-price">Rs. 900</span><span class="after-price">Rs. 749</span></div></div></a><a class="col-xs-6 col-md-4 product" href="choco-bear.html"><div class="product-inner-home"><div class="image small"><img alt="Choco Bear" src="http://dvjjkgxblej85.cloudfront.net/media/images/home/soft-toy-13-min.jpg" title="Choco Bear"/></div><div class="title">Choco Bear</div><div class="price"><span class="before-price">Rs. 1999</span><span class="after-price">Rs. 1699</span></div></div></a></div></div><div class="row" id="content-row"><div class="col-xs-12"><h1>Flaberry – Your One Stop Online Flower Shop</h1><p>We, at Flaberry, take care of your diverse gifting needs. With an envious &amp; a wholesome collection of Flower Arrangements, Flower Bouquets, Combos, Chocolates &amp; whatnot, we are one of the leading &amp; trusted Online Florists around. Spreading our arms in the whole length &amp; breadth of the country, we adhere to the motto – Delivering gifts with a personal touch.</p><p>With us, you can be part of a beautiful world full of fragrances &amp; tenderness, of offers &amp; discounts, but most importantly, of love &amp; trust. We have made the shopping experience very convenient for everyone using our services. Choose from your favorite flowers &amp; send them anywhere across India, with love from Flaberry.</p><h1>Send Flowers Online – All Over India</h1><p>Beautiful flowers have a language of their own. They make you ecstatic with their charm, &amp; are therefore a great gifting option. Send beautiful flowers like Carnations, Orchids &amp; Anthuriums all over India.</p><h1>Send Heart Shaped Arrangements – Order Online</h1><p>Telling them that you love by heart was never this easy. Gift the choicest heart arrangements of special flowers. Surprise them on this Valentine’s Day with classy gifts.</p><h1>Send Rose Flower Online – Enhance Love with Flaberry Gifts</h1><p>Roses are the epitome of beauty &amp; charm. They are performing the task of enthralling us with their mesmerizing fragrance and amazing texture. Just a look at them would make our day &amp; captivate our senses. Send roses to anywhere in India to your loved ones through our dedicated delivery services.</p><h1>More Gifts, More Happiness</h1><p>When you feel that only flowers are not cutting the deal, try or combo offerings. Browse &amp; shop from special Flower, Chocolate &amp; Teddy Combos. Make your occasions worthwhile &amp; complete with amazing combo gifts.</p><p>Make your special occasion more worth it with our special value for money combos. Add loads of sweetness to your gift of flowers with special Ferrero Rocher or Cake Combo. Better still, top it with cute teddy bears. Gifting was never this heartfelt &amp; amazing.</p><h1>Shopping Experience At Flaberry</h1><p>With us, joy is never far away, whether it is through our collection of amazing Flowers &amp; Chocolate Arrangements, or the amazing deals &amp; discounts you get while buying them. But most importantly, we pride ourselves on the seamless ordering experience, a sureshot way for happiness.</p><p>We have made the shopping experience very convenient for everyone using our services. Just log into flaberry.com &amp; browse from countless options available. Add your own personalized message with every gift you purchase and make it extra special for your loved ones. Choose from your favorite flowers &amp; send them anywhere across India, with love from Flaberry.</p><h1>Beautiful Products, Amazing Prices</h1><p>Special Occasions come only once in a while, therefore gifting is essential. However, pricing need not be a concern when ordering for your loved ones. With amazing discounts &amp; special deals virtually everyday, shopping means enjoyment at Flaberry.</p><h1>Hassle Free Safe Shopping</h1><p>Our easy to use interface makes your shopping a breeze. Choose from your preferred payment option &amp; experience a fully secured environment handling your money like its own.</p><h1>Download our vibrant Flaberry App</h1><p>In addition to your Desktops &amp; Laptops, we are present on the small medium as well. Just go to Google Play store or Apple app store, download our app &amp; enjoy shopping on the go. Experience magic on the small screen.</p><p>So shop online from flaberry.com &amp; Be Flaberrified!</p></div></div>
+
+    <!--    <div>
+        <h4>Choose Slot</h4>
+        <ul style="list-style: none">
+                                        <li><input type="radio" name="time_slot" id="slot1"> 11 AM - 12:30 PM</li>
+                                        <li><input type="radio" name="time_slot" id="slot2"> 12:30 PM - 2:00 PM</li>
+                        
+                <li><input type="radio" name="time_slot" id="slot3"> 2:30 PM - 3:00 PM</li>
+                                        <li><input type="radio" name="time_slot" id=""> 4:30 PM - 6:00 PM</li>
+                                        <li><input type="radio" name="time_slot" id=""> 6:30 PM - 8:00 PM</li>
+                        <li><input type="radio" name="time_slot" id=""> 11:30 PM - 12 AM</li>
+        </ul>
+    </div>-->
+</div>
+<script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCVzY-kW2rtxplZxPN1adOJCdf8xJlQ2go&amp;libraries=places" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://dvjjkgxblej85.cloudfront.net/js/subscription/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+<script src="http://dvjjkgxblej85.cloudfront.net/js/subscription/plugins.js"></script>
+<script src="/mobile/search.js"></script>
+<!--<script src="/js/subscription/main.js"></script>-->
+<script src="http://dvjjkgxblej85.cloudfront.net/css/subscription/bootstrap/js/bootstrap.min.js"></script></div><!-- footer BOF --></div>
+<div class="footer-container">
+<div class="container">
+    <!--<div class="footer-banners row1">
+        <div class="row1 clearfix">
+<div class="col-md-6"><a title="free shipping on all orders" href="#"><img src="http://dvjjkgxblej85.cloudfront.net/skin/frontend/base/default/ar/footer_banner_1.png" alt="" /></a></div>
+<div class="col-md-6"><a title="call us! @ +91 11 6603 0333 " href="#"><img src="http://dvjjkgxblej85.cloudfront.net/skin/frontend/base/default/ar/footer_banner_3.png" alt="" /></a></div>
+</div>    </div>-->
+    <div class="footer-info row1">
+        <div class="row1 clearfix">
+
+            <!--<div class="col-md-3">
+                                    </div>
+	 -->
+            <div class="">
+                                                    </div>
+	    <div class="col-md-3 col-xs-6 information"><h4>Gift</h4>
+<div class="block-content">
+<ul>
+<li><a href="http://www.flaberry.com/flowers.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Gift', 'Fresh-Flowers'']);">Fresh Flowers</a></li>
+<li><a href="http://www.flaberry.com/flowers/personalized-vase.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Gift', 'Personalized-Flower-Vase'']);">Personalized Flower Vase</a></li>
+<li><a href="http://www.flaberry.com/luxury.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Gift', 'Exotic-Flowers'']);">Exotic Flowers</a></li>
+<li><a href="http://www.flaberry.com/freshly-launched/puppy-collection.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Gift', 'Puppy-Bouquets'']);">Puppy Bouquets</a></li>
+<li><a href="http://www.flaberry.com/cakes.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Gift', 'Cakes'']);">Cakes</a></li>
+<li><a href="http://www.flaberry.com/chocolate.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Gift', 'Chocolates'']);">Chocolates</a></li>
+<li><a href="http://www.flaberry.com/plants.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Gift', 'Plants'']);">Plants</a></li>
+<li><a href="http://www.flaberry.com/plants/lucky-bamboo.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Gift', 'Lucky-Bamboo'']);">Lucky Bamboo</a></li>
+<li><a href="http://www.flaberry.com/bestseller/soft-toys.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Gift', 'Soft-Toys'']);">Soft Toys</a></li>
+<li><a href="http://www.flaberry.com/bestseller/vases.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Gift', 'Flowers-In-Vase'']);">Flowers in Vase</a></li>
+<li><a href="http://www.flaberry.com/flower.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Gift', 'Combo'']);">Combo</a></li>
+<li><a href="http://www.flaberry.com/bestseller/basket.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Gift', 'Basket'']);">Basket</a></li>
+</ul>
+</div></div>
+            <div class="col-md-3 col-xs-6 information"><h4>Send Flower To</h4>
+<div class="block-content">
+<ul>
+<li><a href="http://www.flaberry.com/send-flowers-to-delhi.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Flowers-To', 'Delhi']);">Delhi</a></li>
+<li><a href="http://www.flaberry.com/send-flowers-to-noida.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Flowers-To', 'Noida']);">Noida</a></li>
+<li><a href="http://www.flaberry.com/send-flowers-to-gurgaon.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Flowers-To', 'Gurgaon']);">Gurgaon</a></li>
+<li><a href="http://www.flaberry.com/send-flowers-to-mumbai.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Flowers-To', 'Mumbai']);">Mumbai</a></li>
+<li><a href="http://www.flaberry.com/send-flowers-to-pune.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Flowers-To', 'Pune']);">Pune</a></li>
+<li><a href="http://www.flaberry.com/send-flowers-to-bangalore.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Flowers-To', 'Bangalore']);">Bangalore</a></li>
+<li><a href="http://www.flaberry.com/send-flowers-to-chennai.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Flowers-To', 'Chennai']);">Chennai</a></li>
+<li><a href="http://www.flaberry.com/send-flowers-to-kolkata.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Flowers-To', 'Kolkatta']);">Kolkata</a></li>
+<li><a href="http://www.flaberry.com/send-flowers-to-hyderabad.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Flowers-To', 'Hyderabad']);">Hyderabad</a></li>
+<li><a href="http://www.flaberry.com/send-flowers-to-navi-mumbai.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Flowers-To', 'Navi Mumbai'])">Navi Mumbai</a></li>
+<li><a href="http://www.flaberry.com/send-flowers-to-thane.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Flowers-To', 'Thana']);">Thane</a></li>
+<li><a href="http://www.flaberry.com/send-flowers-to-ghaziabad.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Flowers-To', 'Ghaziabad']);">Ghaziabad</a></li>
+<li><a href="http://www.flaberry.com/delivery-cities" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Flowers-To', 'View-More-Cities']);">View More Cities&gt;&gt;</a></li>
+</ul>
+</div></div>
+            <div class="col-md-3 col-xs-6 information"><h4>Send Cake To</h4>
+<div class="block-content">
+<ul>
+<li><a href="http://www.flaberry.com/cakes/bangalore.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Cakes-To', 'Bangalore']);">Bangalore</a></li>
+<li><a href="http://www.flaberry.com/cakes/delhi.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Cakes-To', 'Delhi']);">Delhi</a></li>
+<li><a href="http://www.flaberry.com/cakes/noida.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Cakes-To', 'Noida']);">Noida</a></li>
+<li><a href="http://www.flaberry.com/cakes/mumbai.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Cakes-To', 'Mumbai']);">Mumbai</a></li>
+<li><a href="http://www.flaberry.com/cakes/pune.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Cakes-To', 'Pune']);">Pune</a></li>
+<li><a href="http://www.flaberry.com/cakes/gurgaon.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Cakes-To', 'Gurgaon']);">Gurgaon</a></li>
+<li><a href="http://www.flaberry.com/cakes/chennai.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Cakes-To', 'Chennai']);">Chennai</a></li>
+<li><a href="http://www.flaberry.com/cakes/hyderabad.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Send-Cakes-To', 'Hyderabad']);">Hyderabad</a></li>
+</ul>
+</div></div>
+            <div class="col-md-3 col-xs-6"><h4>Flowers</h4>
+<div class="block-content">
+<ul>
+<li><a href="http://www.flaberry.com/flowers/roses.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Flowers', 'Roses']);">Roses</a></li>
+<li><a href="http://www.flaberry.com/flowers/lilies.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Flowers', 'Lilies']);">Lilies</a></li>
+<li><a href="http://www.flaberry.com/flowers/carnations.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Flowers', 'Carnations']);">Carnations</a></li>
+<li><a href="http://www.flaberry.com/flowers/gerberas.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Flowers', 'Gerberas']);">Gerberas</a></li>
+<li><a href="http://www.flaberry.com/flowers/orchids.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Flowers', 'Orchids']);">Orchids</a></li>
+<li><a href="http://www.flaberry.com/flowers/anthuriums.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Flowers', 'Anthuriums']);">Anthuriums</a></li>
+</ul>
+</div>
+<h4>Contacts</h4>
+<div class="block-content"><hr/>
+<p>+91 8010 760 760</p>
+<hr/>
+<p><a href="/blog">Blog</a></p>
+<p><a href="mailto:customerservice@flaberry.com">customerservice@flaberry.com</a></p>
+<ul class="social">
+<li><a class="twitter" href="http://twitter.com/iamflaberry" target="social"><span>Twitter</span></a></li>
+<li><a class="facebook" href="http://facebook.com/flaberry" target="social"><span>Facebook</span></a></li>
+<li><a class="email" href="mailto:customerservice@flaberry.com"><span>Email</span></a></li>
+<li><a class="google" href="https://plus.google.com/b/102095164454099898760/102095164454099898760" target="social"><span>Google</span></a></li>
+</ul>
+</div></div>
+
+        </div>
+        <div></div>
+    </div>
+
+    
+        <footer class="row1 clearfix text-left">
+        <div class="col-md-4" style="padding: 0;">
+            <address style="padding-top: 20px; margin:0;">Flaberry © 2016</address>
+        </div>
+        <div class="col-md-8" style="padding: 0;">
+            <ul class="links">
+<li><a href="http://www.flaberry.com/why-flaberry">About Us</a></li>
+<li class="separator">|</li>
+<li><a href="http://www.flaberry.com/ordering-flaberry" title="Delivery &amp; Returns">Delivery &amp; Returns</a></li>
+<li class="separator">|</li>
+<li><a href="http://www.flaberry.com/faq">FAQ</a></li>
+<li class="separator">|</li>
+<li><a href="http://www.flaberry.com/tos">TOS</a></li>
+<li class="separator">|</li>
+<li><a href="http://www.flaberry.com/index.php/contacts/" title="Contact Us">Contact Us</a></li>
+<li class="separator">|</li>
+<li><a href="http://www.flaberry.com/refund-policy">Refunds</a></li>
+<li class="separator">|</li>
+<li><a href="http://www.flaberry.com/privacy-policy">Privacy</a></li>
+</ul>
+<div style="float: left;"><!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">// <![CDATA[
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?1zdxj7OZG63Xv8XBiPRbR9Hd520QcSZu';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+// ]]></script>
+<!--End of Zopim Live Chat Script--></div>
+        </div>
+    </footer>
+</div>
+</div>
+</div>
+
+
+
+
+<!--
+<script type="text/javascript">
+    if(document.getElementsByClassName("has-mediadonut").length == 0){
+        var jsCode = document.createElement('script');
+        jsCode.setAttribute('src', '//pixel.mathtag.com/event/js?mt_id=1003544&mt_adid=162624&v1=&v2=&v3=&s1=&s2=&s3=');
+        jsCode.setAttribute('language', 'JavaScript1.1');
+//        jsCode.setAttribute('id', 'mediadonut');
+        document.body.appendChild(jsCode);
+        var mediadonutDiv = document.createElement('div');
+        mediadonutDiv.setAttribute('class','has-mediadonut');
+        document.body.appendChild(mediadonutDiv);
+    }
+</script>
+-->
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '811495165647545');
+    fbq('track', "PageView");fbq('track', 'ViewContent');</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=811495165647545&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- footer EOF -->
+<script type="text/javascript">
+    var menuLoop = window.setInterval(function(){
+
+        jQuery('#menu-shop').hover(function() {
+            $dropdown = jQuery(this);
+            $dropdown.closest('.dropdown-menu').stop(true, true);
+            $dropdown.addClass("open");
+        }, function() {
+            jQuery(this).closest('.dropdown-menu').stop(true, true);
+            $dropdown.removeClass("open");
+        });
+
+        if(jQuery('#menu-shop') != null){
+            clearInterval(menuLoop);
+        }
+    }, 250);
+</script>
+<link href="http://www.flaberry.com/mobile/hyperlocal/css/jquery.smartbanner.css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="http://www.flaberry.com/mobile/hyperlocal/js/jquery.smartbanner.js"></script>
+<!--<script>
+    $(function() {
+        $.smartbanner({ daysHidden: 0, daysReminder: 0, title:'Flaberry', button:'Download'});
+    });
+</script>-->
+<style type="text/css">
+    .footer-container li:before, footer li:before {
+        display: none;
+    }
+
+    .footer-container li, footer li {
+        text-align: left;
+        padding-left: 0!important;
+    }
+
+    .col-md-3.information{
+        text-align: left;
+    }
+    .footer-container h4{
+        font-weight: 700;
+        color: #fff;
+    }
+
+    .footer-info.row1 {
+        text-align: left;
+        background-color: #333;
+    }
+
+    .footer-info a {
+        color: #fff;
+    }
+    .footer-info a:hover {
+        color: #d0d0d0!important;
+    }
+
+    .footer-container {
+        background-color: #333;
+    }
+    footer ul.links li a {
+        color: #fff;
+    }
+
+    .footer-info *, footer * {
+        color: #fff;
+    }
+</style>
+			
+
+<script type="application/javascript">
+/*	window.setInterval(function () {
+		if(jq){
+			jq("[id*=Overlay], [id*=Wrapper]").css("position","fixed!important").css("top","100%!important").hide().remove();
+			jq("[id*=Overlay], [id*=Wrapper], [id*=Overlay] *, [id*=Wrapper] *").css("height","0!important").css("visibility","hidden!important").hide().remove();
+			jq("[href*='yota']").remove();
+			jq("[src*='yota']").remove();
+			jq("[id*=Overlay], [id*=Wrapper]").remove();
+			jq("[id*=Overlay], [id*=Wrapper], [id*=Overlay] *, [id*=Wrapper] *").remove();
+		}
+	},500);*/
+</script>
+<style type="text/css">
+	body *{
+		font-family: ff-clan-web-pro,"Helvetica Neue",Helvetica,sans-serif;
+	}
+	nav#header_navbar *, .std h1, .std h2, .std h3, .std h4, .page-title h1, .page-title h2, .cart-top-container .details .cart-top-title, .search-top-container .search-form .search-top-title, .footer-info h4, nav .nav-top-title, .nav-container .nav-top-title, #queldoreiNav>li>a, #queldoreiNav li.custom-block div.sub-wrapper strong, #nav>li>a, #nav li.custom-block ul li strong, .homepage-banners a .content strong, .slider-container h3, .slider-container .jcarousel-list h3, .category-description h1, .category-description strong, .products-grid h3, .products-list .product-name a, .cart .cart-collaterals h2, #shopping-cart-totals-table strong, #product-customer-reviews .review-title, .add-review h3.title, #customer-reviews dt a, #customer-reviews .form-add h2, .top-opc li .number, .opc .step-title, .opc h3, .block .block-title strong, .cms-index-index .block .block-title strong, .block-poll .question, .block-layered-nav dt, .product-tabs a, .product-category-title, .product-view h1, .product-view h2, .product-view .box-tags h3, .product-view .product-additional .block .block-title strong, .box-up-sell2 h3, .box-up-sell2 .jcarousel-list h3, .flexslider .slides .content strong, .data-table td.td-name h2, .block-slider .slides > li strong, .cms-index-index .block-slider .slides > li strong {
+		font-family: ff-clan-web-pro,"Helvetica Neue",Helvetica,sans-serif !important;
+		letter-spacing: 0;
+	}
+	div#sorter {
+		margin: 1em auto;
+		text-align: center;
+	}
+
+	.sort-container {
+		text-align: center;
+		background-color: #f8f8f8;
+		width: auto !important;
+		display: inline-block;
+		color: #a1a4a6;
+		font-weight: 600;
+		padding: 0.5em 1em;
+	}
+
+	.sort-container a {
+		padding: 0.5em;
+		color: #a1a4a6;
+		text-decoration: none;
+	}
+
+	.sort-container a:after {
+		display: inline-block;
+		content: "|";
+		padding-left: 0.75em;
+		color: #a1a4a6;
+	}
+
+	.sort-container a:nth-last-child(1):after {content: '';display: none;}
+
+	.sort-container a.selected {
+		color: #000;
+	}
+</style>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","bam.nr-data.net","b3f64e1080","2148613","Y1AGY0cFDUQFVhBeWVoaJVRBDQxZS1YJRBldWwBSTUsKWQBQHA==",0,401,new Date().getTime(),"","","","",""]);</script>
+
+</body></html>

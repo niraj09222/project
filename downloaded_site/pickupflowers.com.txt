@@ -1,0 +1,1678 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+    <script src="http://ia1.pickupflowers.com/images/javascripts/jquery-1.7.2.js" type="text/javascript"></script>
+    <script src="http://ia2.pickupflowers.com/images/javascripts/jquery.tmpl.js" type="text/javascript"></script>
+    <script src="http://ia3.pickupflowers.com/images/javascripts/bubbletip.js" type="text/javascript"></script> 
+<meta content="Pickup Flowers" property="og:title"/>
+<meta content="company" property="og:type"/>
+<meta content="http://www.pickupflowers.com/" property="og:url"/>
+<meta content="Pickup Flowers" property="og:site_name"/>
+<meta content="182836788403361" property="fb:page_id"/>
+<script src="//connect.facebook.net/en_US/all.js#xfbml=1"></script>
+		<title>
+			Flower Delivery Shop - Buy &amp; Send Flowers Online, International Flower Delivery | Pickupflowers
+		</title>
+		<meta content="Flower Delivery Shop - Buy &amp; Send Flowers Online, International Flower Delivery | Pickupflowers" name="title"/>
+		<meta content="Buy &amp; Send Flowers International Online, Same Day Delivery Flowers, Flower Delivery Shop, Gift Flowers Online, Send Flowers Online, Flower Delivery, Order Flowers Online" name="keywords"/>
+		<meta content="Flower Delivery Shop: Buy &amp; send premium fresh flowers online with 100% Refund/Replacement Guarantee! Same or next day international flower delivery to 180+ countries." name="description"/>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+	<meta content="89ab4b8f6f02c531" name="y_key"/>
+	<meta content="b3702e4820447a50182d01950ca9da31" name="p:domain_verify"/>
+	<link href="/images/css/puf.css" rel="stylesheet" type="text/css"/>
+	<link href="http://ia4.pickupflowers.com/images/css/calendarPopup/calendarStyles.css" rel="stylesheet" type="text/css"/>
+	<link href="http://ia5.pickupflowers.com/images/css/calendarPopup/calendarTable.css" rel="stylesheet" type="text/css"/>
+	<link "="" href="http://ia1.pickupflowers.com/images/css/cart.css" rel="stylesheet" type="text/css"/>
+
+	
+	 	<link href="http://ia2.pickupflowers.com/images/css/auto-complete.css" rel="stylesheet" type="text/css"/>
+		<link href="http://www.pickupflowers.com/" rel="canonical"/>
+	  
+	
+	<meta content="w92ZaICqjMDecmn5LT2/ASc1DL47DCmVzfZT+Q+i9wM=" name="verify-v1"/>
+	
+	<script type="text/javascript">
+		var PAGETYPE='HOME1';
+	</script>
+	
+	
+	<script src="http://ia3.pickupflowers.com/images/javascripts/jquery-ui.js" type="text/javascript"></script>
+	<script src="http://ia4.pickupflowers.com/images/javascripts/calendarPopup/calendarPopup.js" type="text/javascript"></script>
+	<script type="text/javascript">document.write(getCalendarStyles());</script>
+	<script src="http://ia5.pickupflowers.com/images/javascripts/jquery.carouFredSel.js" type="text/javascript"></script>
+	<script src="http://ia1.pickupflowers.com/images/javascripts/jquery.cookies.js" type="text/javascript"></script>
+	<script src="/images/javascripts/gni.js" type="text/javascript"></script>
+	<script src="http://ia2.pickupflowers.com/images/javascripts/SimpleDHTML.js" type="text/javascript"></script>
+	<script src="http://ia3.pickupflowers.com/images/javascripts/cart.js" type="text/javascript"></script>
+
+
+		<meta content="1gj7Kx2EBOy8dfUN2mpRE8mRI68GXnmXpqXHsxj7d_w" name="google-site-verification"/> 
+
+	
+		
+		<script type="text/javascript">
+			
+		</script>
+		
+		<script type="text/javascript">
+                    var isAirlinePricingEnable = false
+			var PUF_SECURE_URL = "secure.pickupflowers.com";
+			var REDIRECT_URL="/flower-guide/get-expert-gift-suggestions";
+			var FACEBOOK_API_KEY="243489552357440";
+			var API_DOMAIN='api.pickupflowers.com';
+			var GIFT_HER='her';
+			var GIFT_HIM='him';
+			var IMAGES_PATH='http://ia4.pickupflowers.com/images/ecommerce';
+			var TEMPLATE_URL="/control/socialMediaSignUpMail";
+			var CURRENCY_FORMAT = "EUR";
+			var baseFormat = CURRENCY_FORMAT;
+			var giftsuggestionsproductslimit="12";
+		</script>
+	
+		<link href="http://ia5.pickupflowers.com/images/css/facebookserving.css" rel="stylesheet" type="text/css"/>
+		<script async="async" src="http://ia1.pickupflowers.com/images/javascripts/socialgiftsuggestion/socialgiftsuggestor.js" type="text/javascript"></script>
+	</head>
+	<body>	
+<script>
+        var dataLayer=[];
+</script>
+        
+<!-- Google Tag Manager -->
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-RXFX" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-RXFX');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Analytics -->
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		 
+		  ga('create', 'UA-225426-8', 'auto');
+		  ga('send', 'pageview');
+		 
+		</script>
+<!-- End Google Analytics -->
+	 <div id="sendgifts" style="display:none"><div id="sendgiftslist"></div></div>
+	 <div id="fb-root"></div>
+<img alt="gifting inc. family of brands" height="40" id="gibrandsimage" src="http://ia2.pickupflowers.com/images/gibrand-2.gif" usemap="#gibrandsmap" width="960"/>
+<map id="gibrandsmap" name="gibrandsmap">
+	<area alt="giftinginc.com" coords="280,0,380,40" href="http://www.giftinginc.com/?utm_source=pickupflowers&amp;utm_medium=referral&amp;utm_campaign=brands-header" rel="nofollow" shape="rect" target="_blank" title="giftinginc.com"></area>
+	<area alt="International Gifting Made Easy" coords="580,0,680,40" href="http://www.giftsnideas.com/?utm_source=pickupflowers&amp;utm_medium=referral&amp;utm_campaign=brands-header" rel="nofollow" shape="rect" target="_blank" title="International Gifting Made Easy"></area>
+</map>
+	   
+	<script type="text/javascript">
+	//<![CDATA[
+			document.write("<style type='text/css'>.bottomcontent{display:none;} </style>");
+		//]]>
+	</script>
+	<div id="container"><div id="bodycontainer">
+<div id="header">
+<div id="banner">
+<div id="logo">
+</div>
+			<div id="giftsuggestorcntcnt" style="display:none;">
+				<a href="/flower-guide/get-expert-gift-suggestions">
+				<img alt="Best Sellers" class="popupimage" id="subpromo1" name="promo" src="http://ia3.pickupflowers.com/images/pop-up-puf.jpg" style="height: 300px;
+width: 300px;" value="bestsellers"/>
+				</a>
+			</div>
+			<div itemscope="" itemtype="http://schema.org/WebPage">
+				<div itemscope="" itemtype="http://schema.org/Organization">
+					<span content="http://ia4.pickupflowers.com/images/ecommerce/puf-logo-1.jpg" itemprop="logo">
+					<div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+			           <span content="pickupflowers.com" itemprop="name">
+			            <span content="PMB 7044, 2711 Centerville Rd., Ste 120" itemprop="streetAddress">
+			            <span content="Wilmington" itemprop="addressLocality">
+			            <span content="DE 19808" itemprop="postalCode">
+			            <span content="1-415-315-9697" itemprop="telephone">
+			            <span content="1-651-304-1601" itemprop="faxNumber">
+					 </span></span></span></span></span></span></div>
+				</span></div>
+			</div>
+<div id="toptoolbarstrip">
+	<div class="websitetoolbar" id="websitetoolbar">
+		
+ 
+
+<script>
+var showpopupenable = "false";
+var FB_API_KEY = '205788919576923';
+var LN_API_KEY = '6x8jk8vk4q9p';
+var showSuggesterPopupProbability= "30";
+var showSuggesterPopupDelay= "1";
+var suggesterCookieExpireTime= "12";
+var values="N;2;0;shoppingcartpromotion-message_puf";
+var shoppingcartpromotionvalues=values.split(";");
+var shoppingcartmessage = "<img width='180' height='112' src='/images/images/surprise-puf180x112.png' alt='surprise'>";
+	
+var SequenceId=31807944;
+</script>
+	<div class="bordercontainer">
+	         <a class="sendgiftsheading citiestodeliver" data-val="featured" href="javascript:void(0);" onclick="showCatalogSelector(this,event,'/send-flowers-to-$catalog$','');" title="Gifts delivered to 12279 cities across the globe">
+        	        <img alt="Gifts delivered to 12279 cities across the globe" src="http://ia5.pickupflowers.com/images/ecommerce/citiesicon.png"/>
+	        </a>
+	</div>
+		<div class="bordercontainer"><div class="borderleft">   </div><div class="bordercontent"><a class="toolbarlink" href="javascript:void(0)" onclick="return livechat('topmenu')" title="Live Chat">Live Chat</a></div><div class="borderright">   </div></div>
+	<div class="bordercontainer">
+			<div class="borderleft"></div>
+			<div class="bordercontent">
+					<a class="toolbarlink" href="https://secure.pickupflowers.com/control/myaccount;jsessionid=B13FD561BDBA1A21E0CB124590089671.jvm2" onclick="trackGAByGet(this);" title="My Account">My Account</a>
+			</div>
+			<div class="borderright"></div>
+	</div>
+ 	<div class="bordercontainer">
+ 		<div class="borderleft"> </div>
+ 			<div class="bordercontent loginoauthtabs">
+					<span style="color: #777;">Login </span>				
+					<img border="0" src="http://ia1.pickupflowers.com/images/images/social-login-icons.jpg" style="vertical-align: middle;" usemap="#socialloginicons"/>
+					<map name="socialloginicons">
+						<area alt="Facebook" coords="3,0,20,20" href="javascript:void(0);" onclick="return openOAuthLoginPopup('about:blank', 'FACEBOOK', 'N');" shape="rect" title="Facebook"></area>
+						<area alt="Linked In" coords="25,0,45,20" href="javascript:void(0);" onclick="return openOAuthLoginPopup('about:blank', 'LINKED_IN', 'N');" shape="rect" title="Linked In"></area>					
+						<area alt="Google" coords="25,0,70,20" href="javascript:void(0);" onclick="return openOAuthLoginPopup('about:blank', 'GOOGLE', 'N');" shape="rect" title="Google"></area>
+						<area alt="Yahoo!" coords="25,0,95,20" href="javascript:void(0);" onclick="return openOAuthLoginPopup('about:blank', 'YAHOO', 'N')" shape="rect" title="Yahoo!"></area> 
+						<area alt="Twitter" coords="25,0,115,20" href="javascript:void(0);" onclick="return openOAuthLoginPopup('about:blank', 'TWITTER', 'N')" shape="rect" title="Twitter"></area> 
+					</map>
+					<a class="toolbarlink" href="https://secure.pickupflowers.com/control/myaccount;jsessionid=B13FD561BDBA1A21E0CB124590089671.jvm2" onclick="trackGAByGet(this);" style="display:inline;" title="My Account">
+						<img alt="My Account" src="http://ia2.pickupflowers.com/images/images/email-icon.png" style="vertical-align:middle;width:18px;"/>
+					</a>								
+			</div>
+		<div class="borderright">   </div>
+	</div>	
+	<form action="https://secure.pickupflowers.com/control/loginHandler;jsessionid=B13FD561BDBA1A21E0CB124590089671.jvm2" id="oauthform" method="POST" name="oauthform" style="display:none;">
+		<input name="loginType" type="hidden" value="O_AUTH"/>
+		<input name="providerId" type="hidden" value=""/>
+		<input name="isHttp" type="hidden" value="N"/>
+		<input name="isFromSocialGiftSuggestor" type="hidden" value="N"/>	
+		<input name="submitButton" type="submit" value="Submit"/>
+	</form>
+ 
+	</div>
+</div>
+</div>
+</div>
+<div id="promocontainer">
+<div class="promostrip" id="promocontainer-left">
+</div>
+<div id="promocontainer-center">
+</div>
+</div>
+<div class="pufhomecontainer" id="contentcontainer">
+<script type="text/javascript">
+// this used by promo corosual- @susanta
+var SPEED=6;
+var SLIDER=false;
+var TRACKINGCODE="?utm_source=puf&utm_medium=puf&utm_campaign=homepageslideshow&utm_content=";
+var mycarousel_itemList = [
+{url:"/images/ecommerce/birthday-flowers-cakes-unforgettables-puf.jpg", alt:"Birthdays", val:"birthday", categoryURL:"/send-birthday-flowers-to-$catalog$",pageType:""},
+{url:"/images/ecommerce/let-her-indulge.jpg", alt:"For Her", val:"gifts-for-her", categoryURL:"/send-gifts-for-her-flowers-to-$catalog$",pageType:""},
+{url:"/images/ecommerce/eternal-roses-home-puf-feb14.jpg", alt:"Roses", val:"gift-card", categoryURL:"/send-roses-to-$catalog$",pageType:""},
+{url:"/images/ecommerce/anniversary-blushes-home-puf-feb14.jpg", alt:"Anniversaries", val:"anniversary", categoryURL:"/send-anniversary-flowers-to-$catalog$",pageType:""}
+];
+
+var moziac_section1List=[
+{url:"/images/ecommerce/puf-home-jan-bday.jpg", alt:"Birthday", val:"birthday-flowers", categoryURL:"/send-birthday-flowers-to-$catalog$",pageType:""},
+{url:"/images/ecommerce/puf-home-july-roses-new.jpg", alt:"Mixed Bouquets And Arrangements", val:"mixed-bouquets-and-arrangements", categoryURL:"/send-mixed-bouquets-and-arrangements-to-$catalog$",pageType:""},
+{url:"/images/ecommerce/puf-home-jan-anniv-Congratulations.jpg", alt:"Sympathy", val:"sympathy-flowers", categoryURL:"/send-sympathy-flowers-to-$catalog$",pageType:""},
+{url:"/images/ecommerce/puf-home-june-23mixedflwr.jpg", alt:"Flower Combos", val:"flower-combos", categoryURL:"/send-flower-combos-to-$catalog$",pageType:""}
+];
+
+var moziac_section2List=[
+{url:"/images/ecommerce/puf-home-nov-anniv.jpg", alt:"Roses", val:"roses", categoryURL:"/send-roses-to-$catalog$",pageType:""},
+{url:"/images/ecommerce/deals-of-the-week-puf.jpg", alt:"Discount", val:"discount-flowers", categoryURL:"/send-discount-flowers-to-$catalog$",pageType:""},
+{url:"/images/ecommerce/anni-puf-aug.jpg", alt:"Anniversary", val:"anniversary-flowers", categoryURL:"/send-anniversary-flowers-to-$catalog$",pageType:""},
+{url:"/images/ecommerce/vds_puf-New-Year-Special.jpg", alt:"Gourmet Gift Baskets", val:"gourmet-gift-baskets", categoryURL:"/send-gourmet-gift-baskets-to-$catalog$",pageType:""},
+
+{url:"/images/ecommerce/lilies-aug-puf.jpg", alt:"Best Sellers", val:"best-sellers-flowers", categoryURL:"/send-best-sellers-flowers-to-$catalog$",pageType:""},
+{url:"/images/ecommerce/puf-home-june-23forhim.jpg", alt:"Same day Delivery", val:"same-day-delivery-flowers", categoryURL:"/send-same-day-delivery-flowers-to-$catalog$",pageType:""},
+{url:"/images/ecommerce/puf-home-june-23flowercombos.jpg", alt:"Romantic", val:"romantic-flowers", categoryURL:"/send-romantic-flowers-to-$catalog$",pageType:""}
+];
+
+var moziac_section3List=[
+{url:"/images/ecommerce/puf-home-dec-sympathy.jpg", alt:"Chocolate", val:"chocolate-flowers", categoryURL:"/send-chocolate-flowers-to-$catalog$",pageType:""},
+{url:"/images/ecommerce/280x160_for-her_puf.jpg", alt:"For Her", val:"gifts-for-her-flowers", categoryURL:"/send-for-her-flowers-to-$catalog$",pageType:""},
+{url:"/images/ecommerce/puf-home-dec-best-sellers.jpg", alt:"For Him", val:"gifts-for-him-flowers", categoryURL:"/send-gifts-for-him-flowers-to-$catalog$",pageType:""}
+];
+</script>
+<div itemscope="" itemtype="http://schema.org/Product">
+<span content="pickupflowers.com" itemprop="name"></span>
+<div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+  <span content="4.0529853921" itemprop="ratingValue"></span>
+  <span content="42306" itemprop="reviewCount"></span>
+</div>
+</div>
+
+<script type="text/javascript">
+<!--
+var clickedPromo;
+var clickedPromoCategoryURL;
+var goToPageType;
+function showCatalogSelector(promoInput, event, promoCategoryURL, pageType){
+	if(pageType.indexOf(".com")>0){
+		trackGoogleEvent("content_mothersdaycontest",'add',"home");
+		document.location.href = pageType;
+	}else if(pageType!=""){
+		document.location.href = affiliatePrefix+"/"+pageType;
+	}
+	var divCatalogSelector = document.getElementById("catalogselector");
+	var divContent = "Loading. . .";
+	//divCatalogSelector.innerHTML = divContent;
+	clickedPromo = promoInput;
+	clickedPromoCategoryURL=promoCategoryURL;
+	goToPageType=pageType;
+	repositionCatalogSelector(event);
+	/*
+	//condition added for slideshow
+	if	(slideShowObjects[objIndex].link!=null && slideShowObjects[objIndex].link==0) {defaultcatalog(slideShowObjects[objIndex].value);}//code added
+	else
+	{
+	repositionCatalogSelector(event);
+	}
+	*/
+	
+}
+function getCatalogSelector(){
+	var divCatalogSelector;
+	if (document.getElementById){
+			divCatalogSelector = document.getElementById("catalogselector");
+	}
+	else if (document.all){
+			divCatalogSelector = document.all.catalogselector;
+	}
+	return divCatalogSelector;
+}
+function repositionCatalogSelector(event){
+	var IE = document.all?true:false;
+	if (IE) { // MSIE
+		var ScrollTop = document.body.scrollTop;
+		var ScrollLeft = document.body.scrollLeft;
+		if (ScrollTop == 0)
+		{
+		    if (window.pageYOffset){
+		        ScrollTop = window.pageYOffset;
+		        ScrollLeft = window.pageXOffset;
+		    }
+		    else{
+		        ScrollTop = (document.body.parentElement) ? document.body.parentElement.scrollTop : 0;
+		        ScrollLeft = (document.body.parentElement) ? document.body.parentElement.scrollLeft : 0;
+		    }
+		}
+		x = event.clientX+ScrollLeft;
+		y = event.clientY+ScrollTop;
+	} else { // Netscape, etc.
+	 	x = event.pageX;
+	    y = event.pageY;
+	}
+	var divCatalogSelector = getCatalogSelector();
+	if (divCatalogSelector!=null){		//if condition added
+		divCatalogSelector.style.left = (x - 120 - 5) + "px";
+		divCatalogSelector.style.top = y + "px";
+		$(divCatalogSelector).css("z-index" ,"10000");
+		loadCatalogSelector();
+	}
+}
+var request;
+function loadCatalogSelector(){
+			var category;
+			var filterCategory;
+			if($(clickedPromo).data('val')== undefined)
+			{
+			category=clickedPromo.value;
+
+			}else{
+				 category=$(clickedPromo).data('val');
+			
+			}
+			if(category.split("/")[1]!=null && typeof(category.split("/")[1])!="undefined"){
+				filterCategory = category.split("/")[1];
+			}
+			category=category.split("/")[0]
+			//var category = clickedPromo.value;
+			if(category){
+				getCatalogSelector().innerHTML = "<div id=\"catalogselectorcontent\">Loading .</div>";
+				getCatalogSelector().style.display = "block";
+				request=getAjaxRequest();
+				request.onreadystatechange = updateContent;
+				request.open("POST", "/control/showcatalogselector", true);
+				request.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+				if(filterCategory!=null && filterCategory!="" && typeof(filterCategory)!="undefined"){
+					catalogParams=encodeURI(category+"&pageType="+goToPageType+"&filterCategory="+filterCategory);
+				}else{
+					catalogParams=encodeURI(category+"&pageType="+goToPageType);
+				}
+				request.send("promo="+catalogParams);
+				updateContent();
+			}
+		}
+function updateContent(){
+		if(request.readyState == 3){
+				document.getElementById("catalogselectorcontent").innerHTML = document.getElementById("catalogselectorcontent").innerHTML + " .";
+			}
+			else if (request.readyState == 4){
+				if(request.status == 200){
+					if (request.responseText){
+						//showData1();
+						$("#catalogselectorcontent").fadeIn(showData1);
+					}
+				}
+				else{
+					getCatalogSelector().innerHTML = "Could not load catalogs for '" + clickedPromo.value + "' category.";
+				}
+			}
+}
+function showData1(){
+	getCatalogSelector().innerHTML = request.responseText;
+	$("#catalogselectorcontent").hide();
+	document.getElementById("catalogselectorcontent").style.borderWidth = "1px";
+	document.getElementById("catalogselectorcontent").style.borderStyle = "solid";
+	document.getElementById("catalogselectorcontent").style.borderColor = "#8e5c8d";
+	//new Effect.Appear("catalogselectorcontent");
+	$("#catalogselectorcontent").slideDown(700);
+}
+function gotoCategory(categorySelect){
+	var filterCategory;
+	var affiliatePrefix = "";
+	var categorySplit = categorySelect.options[categorySelect.selectedIndex].value.split("/");
+	var category=categorySplit[0].replace(/ /g,"");
+	if(category == "featured"){
+		category = "flowers";
+	}
+	categorySplit=(categorySplit[1]).split("_");
+	if(categorySplit[0]!=null && categorySplit[0]!="" && typeof(categorySplit[0])!="undefined"){
+		filterCategory=categorySplit[0];
+	}
+	var pageType = "";
+	if(categorySplit[2] != "undefined" && categorySplit[2] != "category") {
+		pageType = categorySplit[2];
+	} 
+	if(filterCategory!=null && filterCategory!="" && typeof(filterCategory)!="undefined"){
+		var categoryPage = affiliatePrefix + pageType + "/send/"+  categorySplit[1].replace(/ /g,"")+"/"+filterCategory+"/"+category;
+	}else{
+		var categoryPage = affiliatePrefix + pageType + "/send-"+category+ "-to-" +  categorySplit[1].replace(/ /g,"");
+	}
+	trackGoogleEvent("content_"+clickedPromo.id,'change',categorySelect.options[categorySelect.selectedIndex].value);
+	document.location.href = categoryPage;
+}
+function gotoProduct(productSelect){
+	var affiliatePrefix = "";
+	var productPage = affiliatePrefix + "/products/" + productSelect.options[productSelect.selectedIndex].value.split("_")[1] + "/" +  productSelect.options[productSelect.selectedIndex].value.split("_")[0];
+	trackGoogleEvent("content_"+clickedPromo.id,'change',productSelect.options[productSelect.selectedIndex].value);
+	document.location.href = productPage;
+}
+
+//added function when image banner dont have any category
+function gotoLink(categorySelect){
+	var selectValue=categorySelect.options[categorySelect.selectedIndex].value.replace(/ /g,"");
+	var affiliatePrefix = "";
+	if(clickedPromoCategoryURL!=""){
+		var categoryPage = affiliatePrefix + clickedPromoCategoryURL.replace("$catalog$",selectValue.substring(selectValue.indexOf("to-")+3));
+	}
+	else{
+		var categoryPage = affiliatePrefix +selectValue.split("_")[0];
+	}
+	document.location.href = categoryPage;
+}
+
+function closeClicked(closeButton, e){
+	//new Effect.SlideUp("catalogselectorcontent");
+	$("#catalogselector").slideUp();
+	trackGoogleEvent("content_"+clickedPromo.id,'click',closeButton.title,1);
+	
+	if($('#promocarousel').size()>0){
+		$("#promocarousel").trigger("play");
+	}
+	
+	//return false;
+	if (e && e.preventDefault){
+		e.preventDefault(); // DOM style
+		return true; // IE style
+	}
+	else {
+		return false;
+	}
+}
+//method for sending to a country or to a product page when promo is clicked	
+	function sendtocountry(category,country){
+		var affiliatePrefix = "";
+		if (category.match("_")==null){
+			document.location.href = affiliatePrefix +  "/send-"+category+"-to-"+country;
+		}else{
+			category=category.substring(0,category.indexOf("_"));
+			document.location.href = affiliatePrefix + "/products/"+(category!="gift-card"?country+"/":"")+category;
+		}
+	}
+//function to check promotion and show content related to tieup created using promotion name	
+window.onload=function(){
+	checkCookie("promotion");
+}
+document.write("<style type='text/css'>#catalogselector{width:160px;} </style>");
+/*
+//Facebook Activity Plugin
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1&appId="+ FACEBOOK_API_KEY;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+function showTabContent(tabId) {
+	if(tabId.indexOf("facebook") != -1) {
+		document.getElementById(tabId).style.backgroundColor ="white";
+		document.getElementById("testimonials_tab").style.backgroundColor ="#B86C9F";
+		document.getElementById("facebook_tabcontent").style.display = "block";
+		document.getElementById("home-rightBar-section2").style.display = "none";
+	} else {
+		document.getElementById("testimonials_tab").style.backgroundColor ="white";
+		document.getElementById("facebook_tab").style.backgroundColor ="#B86C9F";
+		document.getElementById("facebook_tabcontent").style.display = "none";
+		document.getElementById("home-rightBar-section2").style.display = "block";
+	}
+	
+}*/
+//-->
+</script>
+<!--<style>
+.right-tabs {
+	background: #B86C9F;
+	padding: 2px 14px 2px 12px;
+	text-decoration:none;
+	color: black;
+}
+.right-tabs:hover {
+	text-decoration:underline;
+}
+#testimonials_tab {
+        background: white;
+}
+</style>-->
+<div id="specialDayBody">
+	<div id="content">
+		<h1 class="flowerbloom">International Flower Delivery</h1>
+		    <div class="homepgfgfdiv">
+					
+	<script type="text/javascript">
+	//<![CDATA[
+	 function validateGiftForm(giftForm) {
+			if(giftForm.CURRENT_CATALOG_ID.value == "select"){
+				addErrorSpan('catalog', 'left');
+				return false;
+			}
+			if(giftForm.CURRENT_CATEGORY_ID.value == "select"){
+				addErrorSpan('category', 'center');
+				return false;
+			}
+			if(giftForm.delivery_date_gift.value == "select"){
+				addErrorSpan('delivery date', 'right');
+				return false;
+			}
+		giftForm.category_id.value = "featured_" + giftForm.CURRENT_CATALOG_ID.value;
+		return true;
+	}
+	function checkselection(categorySelect){
+		if (categorySelect[categorySelect.selectedIndex].text=="Select Occasion"){
+			var optionsLength=categorySelect.length;
+			var selectedCountry=document.getElementById('GIFT_CATALOG_ID');
+			if (optionsLength==1 && selectedCountry[selectedCountry.selectedIndex].text=="Select Destination") {
+				addErrorSpan("destination first.", "center");
+			}
+		}
+	}
+	function addErrorSpan(listName, textAlign){
+		$("#fferrormeessage").text("Please select "+ listName).css("text-align",textAlign).show();
+	}
+	function removeSpanError(){
+		$("#fferrormeessage").hide();
+	}
+	function loadelements(){
+	}
+
+	function loadElementsForSelectedCatalog(){
+			var selectedCountry=document.getElementById('GIFT_CATALOG_ID');
+			var index=document.getElementById('GIFT_CATALOG_ID').selectedIndex;
+			var country=selectedCountry[index].value;
+			if (selectedCountry!="Select Destination"){
+				getCategories(country,document.getElementById('GIFT_CATEGORY_ID'),document.getElementById('delivery_date_gift'));
+			}
+			if (selectedCountry!="Select Destination"){
+				var liElement=document.getElementById('fgflioccasion');
+				if (document.getElementById('spanerrmsg')!=null && liElement.childNodes[0].id!="fgfspanoccasion"){
+					liElement.removeChild(liElement.childNodes[0]);
+				}
+			}
+	};
+	//]]>
+	
+	</script>
+
+<div class="findGiftsFastDiv" id="findgiftsfast">
+	   		<p id="findagiftheadingone">Find flowers fast</p>
+			
+	   <div id="fferrormeessage" style="display:none;"></div>
+	   <form action="/control/findagiftfast" id="findagiftform" method="post" onsubmit="return validateGiftForm(this);">
+				<div id="findGiftsFastInnerDiv">
+				<ul class="homefindGiftsFastUl">
+							<li class="findgiftselectone"> </li>
+							<li id="fgflicountry"><span id="fgfspancountry">Where should we deliver?</span></li>	
+				   			<li class="findgiftselectone"><select class="homefindGiftsFastSelect FGFCat" id="GIFT_CATALOG_ID" name="CURRENT_CATALOG_ID" onchange="loadElementsForSelectedCatalog();removeSpanError();" onkeypress="searchCountryDropDown(this);" onmouseover="searchCountryDropDown(this);">
+				   			<option selected="selected" value="select">Select Destination</option>
+				   			</select>
+				   			</li>
+						
+						
+				 </ul>
+				 <ul class="homefindGiftsFastUl"> 
+	   				<li id="fgflioccasion"><span id="fgfspanoccasion">What do you need?</span></li>
+		   			<li class="findgiftselectone">
+			   			<select class="homefindGiftsFastSelect FGFCat" id="GIFT_CATEGORY_ID" name="CURRENT_CATEGORY_ID" onchange="getDeliveryDatesForCategory();" onclick="checkselection(this);removeSpanError();">  
+							<option selected="selected" value="select">Select Category
+							</option>
+						</select>
+					</li>
+				</ul>
+				<ul class="homefindGiftsFastUl">				
+		   			<li id="fgflideliveryd"><span id="fgfspanddate">When should it reach?</span></li>
+		   			<li class="findgiftselectone">
+			   			<select class="homefindGiftsFastSelect FGFCat" id="delivery_date_gift" name="delivery_date_gift" onclick="removeSpanError();">  
+							<option selected="selected" value="select">Select Delivery Date</option>
+						</select>
+					</li>
+				</ul>
+				
+					<ul id="homefindGiftsFastUlbutton">	
+						<li><input alt="Find a Gift" class="homefindGiftFastGo gobutton" onclick="findgiftfasttracking('Category',this.form.CURRENT_CATEGORY_ID.value);" src="http://ia3.pickupflowers.com/images/spacer.gif" type="image"/></li>
+					</ul>	
+					<input name="PAGETYPE" type="hidden" value="CATALOG_HOME1"/>
+					<input name="VIEW_SIZE" type="hidden" value="40"/>
+					<input name="search" type="hidden" value="Search"/>  		
+					<input id="category_id" name="category_id" type="hidden" value=""/>
+			</div>
+		</form>
+		<script>loadelements();</script>
+</div>
+
+	
+
+		   </div>
+			<div class="promocontentdiv" id="divfortieups"></div>
+			</div>
+			</div>
+			<div id="rightbar">
+			<div id="home-rightBar-section1">
+				<div class="rounded-middle">
+					<p class="experience_h2">Experience Superior Service</p>
+					<ul class="experience_ul">
+						<li>Premium quality flowers</li>
+						<li>No hidden costs</li>
+						<li>On time delivery</li>
+						<li>24/7 live chat</li>
+						<li>Easy &amp; secure ordering</li>
+					</ul>
+				</div>
+				<div class="rounded-bottom"></div>
+			</div>
+			
+		</div>
+			<form action="/control/showcatalogselector" class="showcatalogform" id="homemainbanner" method="POST" onsubmit="return false;">
+					<noscript>
+						<div>
+							<input name="target" type="hidden" value="component://puf/widget/ContentScreens.xml#pufhome"/>
+							<input name="PAGETYPE" type="hidden" value="HOME1"/>
+						</div>
+					</noscript>
+						<div class="homeslider">
+							<ul class="jcarousel-skin-tango" id="promocarousel">
+							</ul>
+						</div>
+						
+			</form>
+			
+			<div class="clearboth"></div>
+		<div class="endcolumns"></div>
+		<div class="contentborder" id="interestinginformation">
+			<p class="categorytitleh1 paddingbottom5">Useful Information</p>
+			 <div class="productTabs" id="productInfoTabs">
+				<div class="cleaner"></div>		
+				<div class="long-description" id="productinformationcontent">
+						<div class="description-firsttab">
+<p class="flowerbloom">About Us</p>
+<div class="categorytitleh1bottom"></div> <div class="plainbordercontent width520">
+
+<p style="color:#996699"><strong>Buy &amp; Send Fresh Flowers Online </strong></p>
+<p>The Flower Experts at PickupFlowers.com help you to connect and express through flowers. Buy and send premium quality fresh flowers online to more than 184 countries through our international flower delivery services.</p>
+
+<br/>
+<p style="color:#996699"><strong>Same Day Delivery of Flowers</strong></p>
+<p>When waiting is not an option, try our same-day flower delivery service to 184+ countries. And if the cut off time has passed, please see the product page for the earliest delivery date. 
+<br/>
+At PickupFlowers.com, getting flowers delivered is hassle-free, regardless of where your recipient is. We make it easy for you to find flowers fast – by destination and delivery date. So you can order flowers online – no matter where you’re located – and get them delivered to your recipient across any corner of the globe today! </p>
+
+<br/>
+<p style="color:#996699"><strong>100% Customer Satisfaction – Refund or Replace Guarantee </strong></p>
+<p></p>Buy &amp; send flowers online – safely and easily with: <p></p>
+<p>•	24/7 assistance via Email, phone or chat </p>
+<p>•	Same day delivery of flowers </p>
+<p>•	On-time international delivery </p>
+
+<br/>
+<p>If for any reason you’re not satisfied with our flower delivery shop (or services), we will refund or replace your order.  </p>
+
+
+
+
+
+<p style="color:#996699"><strong>Upcoming Occasions:</strong></p><p style="color:#996699"><strong><br/></strong></p>
+<!-- <strong> Valentine's Day-Brazil: 12th June </strong><br>  
+Celebrate this Valentine's Day with <a href="http://www.pickupflowers.com/" title="Pickup flowers">Pickup flowers</a> . There is no best way to <strong>send valentine flowers</strong> overseas to express your love than giving a bunch of roses or any other flowers that your valentine loves. Check out the Pickupflowers.com’s online valentine flower delivery collection that hosts the most romantic roses in shades of vibrant red and lovely pink, elegant lilies, mesmerizing tulips & more seasonal flowers for the <a href="http://www.pickupflowers.com/send-flowers-to-brazil" title="valentine’s day">valentine’s day</a> </p><br>
+<br> -->
+
+<!--<p><strong>Spring Starts: 20th March to june 21st </strong><br>
+Spring is the season of renewal and flowers! Spring Flowers are beautiful and fragrant. Spring is a wonderful time of the year for fresh flowers. Take a moment and enjoy the myriad of colors that Spring Flowers. Spring is here, brighten someone’s day with a colorful spring flower bouquets and arrangement from Pickupflowers. Spread joy of colors! it's the perfect time of year to express yourself with our truly original Spring flowers and gifts.<a href="http://www.pickupflowers.com/flower-guide/spring-collection-flowers"> Send Spring Flowers Internationally! </a> </p><br>-->
+<!--<p><strong> Summer: 21st June </strong><br>
+<p>This Summer Send Gifts for any occassion from <a href="http://www.pickupflowers.com/send-mixed-bouquets-and-arrangements-to-usa" title="Pickupflowers">Pickupflowers</a>. 
+Rosesbouquet, Orchids, Sessional Flowers, <a href="http://send-gift-baskets-to-usa" title="fruit baskets">Cakes</a>, Cool Mixed Arrangements to celebrate. 
+Our flower ideas are perfect for all birthdays or family vacations. Our flower experts have brought a huge collection to make every occasion, this summer a memorable and joyous one. </p> <br> -->
+<!--<p><strong> Independence Day: 4th July </strong><br>
+Independence Day is the national day of the United States. 
+Celebrate 4th of july with <a href="http://www.pickupflowers.com/send-american-independence-day-flowers-to-usa" title="flowers">flowers</a> - spa gift baskets, Mixed Roses, Chocolate Cake, Sweet Sentiments, <a href="http://www.pickupflowers.com/flower-guide/send-lilies-internationally" title="Lily Garden flowers">Lily Garden flowers</a>,
+all of these and more are available right here from <a href="http://www.pickupflowers.com/flower-guide/mixed-bouquets-and-arrangements" title="Flower guide">Flower guide</a>. Celebrate the red, white and blue with our gifts</p><br>-->
+<!--</p><p><strong> Ramadan: 17th July</strong><br>
+Ramadan or Ramzan is the most significant festival for any Muslim. Ramadan, the ninth month of the Islamic calendar, begins after the crescent moon has been sighted. After completion of month long fasting, Eid-Ul-Fitr is celebrated by wishing people, greeting relatives & friends and exchanging <a href="http://www.pickupflowers.com/send-birthday-flowers-to-uae" title="gifts">gifts</a> and sweets. It’s traditional to give gifts during this month so as to share the blessings of this holy season. When the time comes to send exquisite gifts to family, friends, or business associates you can trust our gift experts to help you choose the best quality gourmet gifts, sweets, dry fruits, assorted <a href="http://www.pickupflowers.com/send-chocolate-flowers-to-usa">chocolate box</a>, delightful Eid-baskets with date and flowers. Send <a href="http://www.pickupflowers.com/send-ramadan-flowers-to-uae">Ramadan Gifts Internationally</a></p> <br>-->
+<!--</p><p><strong> Rakhi: 29th August </strong><br>
+Rakhi is the time to celebrate the sibling love with your brother or sister.The auspicious occasion signifies the special bond of love among siblings. Send your loved ones abroad the most amazing <a href="http://www.pickupflowers.com/send-rakhi-flowers-to-india"> Rakhi gifts </a> with us. Sisters do send <a href="http://www.pickupflowers.com/send-indian-signatures-flowers-to-india">sweets</a>, chocolates and dry fruit gift hampers with the precious rakhi thread.</p><br> -->
+<!--</p><p><strong> Friendship Day: 2nd August</strong><br>
+Friends are the siblings that we choose for ourselves. Be it joy or sorrow, success or failure or the best or worst; we share it all with them. An occasion to celebrate such a precious bond; must never go waste. August 2, 2015 is<a href="http://www.pickupflowers.com/send-friendship-day-flowers-to-india"> Friendship Day</a>; flood their day with Friendship Day Gifts and let them know that you care. Send gourmet gift baskets, <a href="http://www.pickupflowers.com/flower-guide/chocolate-flowers">chocolates</a>, fruits, teddy, flowers and many more.</p><br> -->
+
+<!-- </p><p><strong> Labor Day -<a href="http://www.pickupflowers.com/send-labor-day-flowers-to-usa"> USA</a>,<http://www.pickupflowers.com/send-labor-day-flowers-to-canada"> Canada</a>: 7th September </strong><br>
+Labor Day (Labor Day in the United States) is an annual holiday to celebrate the achievements of workers. Labor Day has its origins in the Labor union movement, specifically the eight-hour day movement, which advocated eight hours for work, eight hours for recreation, and eight hours for rest. Labor day gifts ideas - A fresh <a href="http://www.pickupflowers.com/send-roses-to-usa"> Roses </a> with <a href="http://www.pickupflowers.com/send-chocolate-to-australia"> chocolate </a>is perfect for all your Labor Day get-togethers with family and friends! </p><br> -->
+<!--</p><p><strong> <a href="http://www.pickupflowers.com/send-grandparents-day-flowers-to-usa"> Grandparents Day - USA</a>: 13th Septembr </strong><br>
+National Grandparents Day is Sunday, September 13th! Thank your grandparents for all their love and support with a beautiful gift of <a href="http://www.pickupflowers.com/send-grandparents-day-flowers-to-usa">flowers</a> like <a href="http://www.pickupflowers.com/send-roses-to-usa">Roses</a>,<a href="http://www.pickupflowers.com/send-lilies-to-canada"> lilies</a>, <a href="http://www.pickupflowers.com/send-orchids-to-canada"> Orchids</a>, <a href="http://www.pickupflowers.com/send-carnations-to-usa">carnations </a>and <a href="http://www.pickupflowers.com/flowers-guide"> many more</a>. This is the perfect time to surprise them. Go ahead and share the good times, moments like these that last forever. </p><br> -->
+<!-- </p><p><strong> <a href="http://www.pickupflowers.com/send-rosh-hashanah-flowers-to-usa"> Rosh Hashanah - Jewish New Year - USA</a>: 13th, 14th,15th Septembr </strong><br> 
+Rosh Hashanah is the Holiday when Jews all over the world celebrate the Jewish New Year. It is the time for evaluating our past actions and expressing our hopes for the future. In particular, Rosh Hashanah is time well spent with friends and family. We offer a variety of greeting cards, flowers, Rosh Hashanah <a href="http://www.pickupflowers.com/send-flowers-to-philippines">Flower Bouquets</a> filled with <a href="http://www.pickupflowers.com/send-roses-to-philippines"> White roses</a>, <a href="http://www.pickupflowers.com/send-carnations-to-canada">pink carnations</a>, <a href="http://www.pickupflowers.com/send-lavenders-to-usa">Lavenders</a> and much more to wish a Sweet and Healthy Year!!  -->
+<!-- </p><p><strong> <a href="http://www.pickupflowers.com/send-fall-flowers-to-usa"> Fall</a>: October, November </strong><br>
+Fall flowers and gifts are perfect for Fall birthdays, anniversaries, Thanksgiving Day celebrations, office parties, house warmings, home comings, family gatherings, Halloween and all other Autumn events. Our Fall gifts also make a great way to say thank you to business associates, clients and special friends with <a href="http://www.pickupflowers.com/send-fall-flowers-to-usa"> Mixed Flower arrangements </a> and <a href="http://www.pickupflowers.com/send-roses-to-usa">Roses</a> Mixed Roses </a>, <a href="http://www.pickupflowers.com/send-lilies-to-usa">Cala lilies </a>. This Fall celebrate the beautiful season with all the spectacular, crisp colors and delicious tastes. </p><br> -->
+<!-- </p><p><strong> <a href="http://www.pickupflowers.com/send-teachers-day-flowers-to-usa"> Teachers Day</a>: 5th October </strong><br>
+Teachers' Day is intended to be a special day for the appreciation of teacher's and include celebrations to honor them for their special contributions in a particular field or the community in general. Most students offer flowers like <a href="http://www.pickupflowers.com/send-lilies-to-usa">Oriental lilies, <a href="http://www.pickupflowers.com/send-roses-to-canada">special Pink Roses,<a href="http://www.pickupflowers.com/send-carnations-to-philippines"> Mixed Carnations</a> to their teachers on this special occasion. Send Teachers Day Gifts Internationally. </p><br> -->
+<!-- </p><p><strong> <a href="http://www.pickupflowers.com/send-thanksgiving-flowers-to-canada"> Thanksgiving Day</a>: 12th October </strong><br>
+Thanksgiving Day in Canada is celebrated on October 12th, 2015. Make the most of this by expressing love and admiration for everyone who cares for you and is very special to you! Try and remember everyone who did something good to you - those who were present with you when you badly wanted their support, or those who brought smile on your face when you were in a pensive mood... Gift them a tight-warm hug, a beautiful flower, a pretty Thank You <a href="http://www.pickupflowers.com/send-flowers-to-canada"> Flower bouquet </a>or a beautiful Thanksgiving Flowers like <a href="http://www.pickupflowers.com/send-roses-to-canada"> Red Roses &<a href="http://www.pickupflowers.com/send-lilies-to-canada"> Pink Lilies </a> to express your sincerest love and admiration for them. </p><br> -->
+<!-- </p><p><strong> <a href="http://www.pickupflowers.com/send-bosses-day-flowers-to-usa"> Bosses Day</a>: 16th October </strong><br>
+Bosses Day is celebrated on October 16th. Now here is a day that gives you a chance to tell and show the boss what you really think of him or her. And, it is an opportunity to give your boss the appreciation that he or she truely deserves. So go right ahead and give it to him good! After all, it only comes around once a year. Most offices and companies celebrate Boss's Day by giving small tokens of appreciation such as mixed flowers, <a href="http://www.pickupflowers.com/send-carnations-to-usa">Carnations</a>, <a href="http://www.pickupflowers.com/send-roses-to-usa"> Roses</a>,<a href="http://www.pickupflowers.com/send-lilies-to-philippines"> Lilies</a>, <a href="http://www.pickupflowers.com/send-orchids-to-australia">orchids </a> etc. Its your turn now to send Boss's Day Flowers. </p><br>
+-->
+
+<p><em> <a href="http://www.pickupflowers.com/send-rosh-hashanah-flowers-to-usa"> Rosh Hashanah - Jewish New Year - USA</a>: October  2nd </em><br/> 
+Rosh Hashanah is the Holiday when Jews all over the world celebrate the Jewish New Year. It is the time for evaluating our past actions and expressing our hopes for the future. In particular, Rosh Hashanah is time well spent with friends and family. We offer a variety of greeting cards, flowers, Rosh Hashanah <a href="http://www.pickupflowers.com/send-flowers-to-philippines">Flower Bouquets</a> filled with <a href="http://www.pickupflowers.com/send-roses-to-philippines"> White roses</a>, <a href="http://www.pickupflowers.com/send-carnations-to-canada">pink carnations</a>, <a href="http://www.pickupflowers.com/send-lavenders-to-usa">Lavenders</a> and much more to wish a Sweet and Healthy Year!!</p>
+
+
+<br/><p><em> <a href="http://www.pickupflowers.com/flower-guide/thanksgiving-flowers"> Thanksgiving Day</a> (<a href="http://www.pickupflowers.com/send-thank-you-flowers-to-usa" target="_blank">US</a>, <a href="http://www.pickupflowers.com/send-thank-you-flowers-to-canada" target="_blank"> Canada</a>) : October 10th</em><br/>Thanksgiving Day is a national holiday celebrated primarily in the United States and Canada as a day of giving thanks for the blessing of the harvest and of the preceding year. Several other places around the world observe similar celebrations. It is celebrated on the fourth Thursday of November in the United States and on the second Monday of October in Canada. Thanksgiving has its historical roots in religious and cultural traditions, and has long been celebrated in a secularmanner as well.</p>
+
+<br/><p><em><a href="http://www.pickupflowers.com/flower-guide/diwali-flowers">Diwali</a> (<a href="http://www.pickupflowers.com/send-diwali-flowers-to-india" target="_blank">India</a>):October  30th</em><br/>Diwali, India's most anticipated, widely celebrated festival of lights is also India's largest shopping and gift giving festival. Because it is associated with prosperity, the tradition of shopping and giving gifts is very prominent and important part of the celebrations. Diwali is a time during which the entire Indian country goes on shopping and gift giving sprees.</p>
+
+
+<br/><p><em> <a href="http://www.pickupflowers.com/send-halloween-flowers-to-usa"> Halloween</a>: October  31st</em><br/>
+Evolving from the ancient Celtic holiday of Samhain, modern Halloween has become less about literal ghosts and ghouls and more about costumes and candy. The Celts used the day to mark the end of the harvest season and the beginning of winter, and also believed that this transition between the seasons was a bridge to the world of the dead. Over the millennia the holiday transitioned from a somber pagan ritual to a day of merriment, costumes, parades and sweet treats for children and adults. Send Halloween <a href="http://www.pickupflowers.com/send-roses-to-australia">Roses</a>, teddy, <a href="http://www.pickupflowers.com/send-lilies-to-russia">Calla Lilies</a>, <a href="http://www.pickupflowers.com/send-carnations-to-china">carnations</a> etc. </p><br/>
+
+
+
+<br/>
+<p><strong>Order / Buy / Gift from finest selection of beautiful flowers</strong>, floral arrangements, <a href="/flower-guide/international-plant-delivery">Plants</a>, <a href="/flower-guide/gift-baskets">Gift baskets</a>, Gourmet foods. </p>
+<p>We are known to our customers to bring the best choice to: <br/> <a href="/flower-guide/send-roses-internationally">Send Roses</a> : Roses are the best way to express your love and care to someone. We have got a wide variety of roses from "single rose" to "100 long stem roses in a vase", from "red roses" to "white roses", from "beautiful roses with delicious chocolates" to "lovely roses with cuddly teddy" which can express every mood of yours. All of our premium quality roses will be delivered in fresh condition to more than 15000 cities worldwide on your preferred date, Guaranteed. </p>
+<p><a href="/flower-guide/carnations-flowers">Send Carnations</a>: Which flower lasts long even after it is cut? Yes! it’s the Carnation, so if you want to keep your sense of presence for a longer time, you should definitely consider our best seller products like "red, pink and white Carnations" or "pink Carnation in a vase" and much more. We have got a wonderful collection of beautiful Carnation flowers in our catalogs for you to choose from. </p>
+<p><a href="/flower-guide/send-lilies-internationally">Send Lilies</a> : What can be a better idea than sending lilies on a wedding or an anniversary? Beautiful Lilies can be sent for any casual event, even if you just want to say hi to your friends with a lovely flower bouquet or you are meeting someone for lunch somewhere. Gorgeous Lilies come in many colors and some lilies mixed with other flowers can give you a wider selection to choose from.</p>
+<p><a href="/flower-guide/mixed-bouquets-and-arrangements">Send Mixed Bouquets &amp; Arrangements</a> : Gorgeous Mixed bouquets and other various arrangements are the new in thing today! Everybody adores an array of colors gifted to them to brighten up their lives and homes. This is where our collection of nothing but the finest bouquets and arrangements that comes in handy. Gift your loved ones a mixed bouquet and stay stylish!</p>
+<p>When recipients get most delighted? Get flowers of their choice and they will love it. If you want to do so but confused about the recipient favorite flower then send our gift card and let them choose a flower for them-self from our store.</p>
+<p>Looking to save some money while buying flowers for your loved one? You can avail a discount through our <a href="/flower-guide/pickupflowers-coupons" title="Pickupflowers Coupons">Pickupflowers Coupons</a>.</p> </div>
+<div class="pufcomprei"><div class="pufcomiset"><h5>Send Flowers Internationally</h5><ul><li><a href="http://www.pickupflowers.com/local/france/send-flowers-to-paris">Flowers In Paris Delivery</a></li><li><a href="http://www.pickupflowers.com/send-anniversary-flowers-to-italy">Italy Florist</a></li><li><a href="http://www.pickupflowers.com/local/uae/send-flowers-to-sharjah">Sharjah Flowers Delivery</a></li><li><a href="http://www.pickupflowers.com/send-gift-baskets-to-australia">Send Flowers In Australia</a></li><li><a href="http://www.pickupflowers.com/send-get-well-flowers-to-usa">USA Florist</a></li><li><a href="http://www.pickupflowers.com/local/uk/send-flowers-to-london">Flowers To London</a></li><li><a href="http://www.pickupflowers.com/send-boy-friend-flowers-to-italy">Online Flower Delivery Italy</a></li><li><a href="http://www.pickupflowers.com/local/uae/send-flowers-to-dubai">Flowers Online Dubai</a></li><li><a href="http://www.pickupflowers.com/send-boy-friend-flowers-to-russia">Russia Flowers Delivery</a></li><li><a href="http://www.pickupflowers.com/send-congratulations-flowers-to-korea">Flower Delivery In The korea</a></li></ul></div><div class="pufcomiset"><h5>Local Florists</h5><ul><li><a href="http://www.pickupflowers.com/local/south-africa/send-flowers-to-johannesburg">Johannesburg Flower Shops</a></li><li><a href="http://www.pickupflowers.com/send-congratulations-flowers-to-france">Flower Delivery In The france</a></li><li><a href="http://www.pickupflowers.com/local/lebanon/send-flowers-to-beirut">Online Flower Johannesburg</a></li><li><a href="http://www.pickupflowers.com/local/south-africa/send-flowers-to-cape-town">Send Flowers To Cape town</a></li><li><a href="http://www.pickupflowers.com/send-thank-you-flowers-to-italy">Sending Flowers to Italy</a></li><li><a href="http://www.pickupflowers.com/local/philippines/send-flowers-to-cebu">Flower Delivery Cebu Same Day</a></li><li><a href="http://www.pickupflowers.com/send-christmas-flowers-to-korea">Florist Russia</a></li><li><a href="http://www.pickupflowers.com/local/malaysia/send-flowers-to-johor-bahru">Johor-Bahru Flowers Delivery</a></li><li><a href="http://www.pickupflowers.com/local/russia/send-flowers-to-moscow">Flowers In Moscow Delivery</a></li><li><a href="http://www.pickupflowers.com/send-carnations-flowers-to-japan">Flower Delivery Japan</a></li></ul></div><div class="pufcomiset"><h5>Flower Delivery</h5><ul><li><a href="http://www.pickupflowers.com/local/australia/send-flowers-to-melbourne">Flower Delivery Melbourne</a></li><li><a href="http://www.pickupflowers.com/send-girl-friend-flowers-to-italy">Order Flowers Online Italy</a></li><li><a href="http://www.pickupflowers.com/send-him-flowers-to-china">Flower In China people</a></li><li><a href="http://www.pickupflowers.com/send-baby-flowers-to-singapore">Flower For Singapore</a></li><li><a href="http://www.pickupflowers.com/send-gifts-for-mom-flowers-to-korea">Flower To korea</a></li><li><a href="http://www.pickupflowers.com/send-gifts-for-wife-flowers-to-singapore">Florist In Paris Singapore</a></li><li><a href="http://www.pickupflowers.com/send-kids-flowers-to-russia">Send Flower To Russia</a></li><li><a href="http://www.pickupflowers.com/send-graduation-flowers-to-uk">Flowers To Singapore From UK</a></li><li><a href="http://www.pickupflowers.com/send-gifts-for-her-flowers-to-hong-kong">Hong kong Flowers</a></li><li><a href="http://www.pickupflowers.com/local/uae/send-flowers-to-abu-dhabi">Flowers Online Abu-Dhabi</a></li></ul></div></div>						</div>
+						<b>We deliver to</b>
+<p class="flowerbloom">Countries</p>
+<div class="categorytitleh1bottom"></div>
+<div class="plainbordercontent width520">
+<a href="/send-flowers-to-philippines" title="Send Flowers to Philippines"> Send Flowers to Philippines</a>
+| <a href="/send-flowers-to-usa" title="Send Flowers to USA"> Send Flowers to USA</a>
+| <a href="/send-flowers-to-germany" title="Send Flowers to Germany"> Send Flowers to Germany</a>
+| <a href="/send-flowers-to-malaysia" title="Send Flowers to Malaysia"> Send Flowers to Malaysia</a>
+| <a href="/send-flowers-to-canada" title="Send Flowers to Canada"> Send Flowers to Canada</a>
+| <a href="/send-flowers-to-japan" title="Send Flowers to Japan"> Send Flowers to Japan</a>
+| <a href="/send-flowers-to-south-africa" title="Send Flowers to South Africa"> Send Flowers to South Africa</a>
+| <a href="/send-flowers-to-indonesia" title="Send Flowers to Indonesia"> Send Flowers to Indonesia</a>
+| <a href="/send-flowers-to-colombia" title="Send Flowers to Colombia"> Send Flowers to Colombia</a>
+| <a href="/send-flowers-to-hong-kong" title="Send Flowers to Hong Kong"> Send Flowers to Hong Kong</a>
+</div>
+<p class="flowerbloom">Cities</p>
+<div class="categorytitleh1bottom"></div>
+<div class="plainbordercontent width520">
+<a href="/local/philippines/send-flowers-to-quezon" title="Send Flowers to Quezon"> Send Flowers to Quezon</a>
+| <a href="/local/indonesia/send-flowers-to-jakarta" title="Send Flowers to Jakarta"> Send Flowers to Jakarta</a>
+| <a href="/local/colombia/send-flowers-to-bogota" title="Send Flowers to Bogota"> Send Flowers to Bogota</a>
+| <a href="/local/japan/send-flowers-to-tokyo" title="Send Flowers to Tokyo"> Send Flowers to Tokyo</a>
+| <a href="/local/philippines/send-flowers-to-manila" title="Send Flowers to Manila"> Send Flowers to Manila</a>
+| <a href="/local/malaysia/send-flowers-to-kuching" title="Send Flowers to Kuching"> Send Flowers to Kuching</a>
+| <a href="/local/switzerland/send-flowers-to-zurich" title="Send Flowers to Zurich"> Send Flowers to Zurich</a>
+| <a href="/local/malaysia/send-flowers-to-petaling-jaya" title="Send Flowers to Petaling Jaya"> Send Flowers to Petaling Jaya</a>
+| <a href="/local/argentina/send-flowers-to-san-francisco" title="Send Flowers to San Francisco"> Send Flowers to San Francisco</a>
+| <a href="/local/canada/send-flowers-to-vancouver" title="Send Flowers to Vancouver"> Send Flowers to Vancouver</a>
+</div>				</div>			
+			</div>
+			<div class="donotdisplay" id="productTabs2">
+			</div>	
+			<div class="donotdisplay" id="productTabs3">
+<p class="flowerbloom">Countries</p>
+<div class="categorytitleh1bottom"></div>
+<div class="plainbordercontent width520">
+<a href="/send-flowers-to-philippines" title="Send Flowers to Philippines"> Send Flowers to Philippines</a>
+| <a href="/send-flowers-to-usa" title="Send Flowers to USA"> Send Flowers to USA</a>
+| <a href="/send-flowers-to-germany" title="Send Flowers to Germany"> Send Flowers to Germany</a>
+| <a href="/send-flowers-to-malaysia" title="Send Flowers to Malaysia"> Send Flowers to Malaysia</a>
+| <a href="/send-flowers-to-canada" title="Send Flowers to Canada"> Send Flowers to Canada</a>
+| <a href="/send-flowers-to-japan" title="Send Flowers to Japan"> Send Flowers to Japan</a>
+| <a href="/send-flowers-to-south-africa" title="Send Flowers to South Africa"> Send Flowers to South Africa</a>
+| <a href="/send-flowers-to-indonesia" title="Send Flowers to Indonesia"> Send Flowers to Indonesia</a>
+| <a href="/send-flowers-to-colombia" title="Send Flowers to Colombia"> Send Flowers to Colombia</a>
+| <a href="/send-flowers-to-hong-kong" title="Send Flowers to Hong Kong"> Send Flowers to Hong Kong</a>
+</div>
+<p class="flowerbloom">Cities</p>
+<div class="categorytitleh1bottom"></div>
+<div class="plainbordercontent width520">
+<a href="/local/philippines/send-flowers-to-quezon" title="Send Flowers to Quezon"> Send Flowers to Quezon</a>
+| <a href="/local/indonesia/send-flowers-to-jakarta" title="Send Flowers to Jakarta"> Send Flowers to Jakarta</a>
+| <a href="/local/colombia/send-flowers-to-bogota" title="Send Flowers to Bogota"> Send Flowers to Bogota</a>
+| <a href="/local/japan/send-flowers-to-tokyo" title="Send Flowers to Tokyo"> Send Flowers to Tokyo</a>
+| <a href="/local/philippines/send-flowers-to-manila" title="Send Flowers to Manila"> Send Flowers to Manila</a>
+| <a href="/local/malaysia/send-flowers-to-kuching" title="Send Flowers to Kuching"> Send Flowers to Kuching</a>
+| <a href="/local/switzerland/send-flowers-to-zurich" title="Send Flowers to Zurich"> Send Flowers to Zurich</a>
+| <a href="/local/malaysia/send-flowers-to-petaling-jaya" title="Send Flowers to Petaling Jaya"> Send Flowers to Petaling Jaya</a>
+| <a href="/local/argentina/send-flowers-to-san-francisco" title="Send Flowers to San Francisco"> Send Flowers to San Francisco</a>
+| <a href="/local/canada/send-flowers-to-vancouver" title="Send Flowers to Vancouver"> Send Flowers to Vancouver</a>
+</div>			</div>
+			<script type="text/javascript">$("#productTabs2").html($("#productinformationcontent .description-firsttab").html());</script>
+		</div>
+
+		
+		<div class="endcolumns"></div>
+<div id="contentbottom">
+	<script type="text/javascript">
+	//<![CDATA[
+	 function validateSearchForm(searchForm) {
+		if(searchForm.SEARCH_STRING.value == "" || searchForm.SEARCH_STRING.value == " " || searchForm.SEARCH_STRING.value == "enter product"){
+				alert("Please enter a keyword to search for products.");
+				return false;
+			}
+		if(searchForm.SEARCH_CATALOG_ID.value == "selectCatalog"){
+			alert("Please select country to search for products.");
+			return false;
+		}
+		if(typeof lastSearchSuggestedData != "undefined" && typeof lastSearchSuggestedData[searchForm.SEARCH_STRING.value] != "undefined"){
+			window.location.href = lastSearchSuggestedData[searchForm.SEARCH_STRING.value];
+			return false;
+		}
+		searchForm.CURRENT_CATALOG_ID.value = searchForm.SEARCH_CATALOG_ID.value;
+		searchForm.category_id.value = "featured_" + searchForm.SEARCH_CATALOG_ID.value;
+		return true;
+	}
+
+	function searchCountryDropDown(countrydropdownlist)
+	{
+
+		  var a="argentina, australia, austria, azerbaijan, bahrain, bangladesh, belarus, belgium, brazil, bulgaria, cambodia, canada, chile, china, colombia, croatia, czech-republic, denmark, dominican-republic, egypt, finland, france, georgia, germany, greece, hong-kong, hungary, india, indonesia, ireland, israel, italy, jamaica, japan, jordan, kazakhstan, kenya, korea, kuwait, kyrgyzstan, latvia, lithuania, luxembourg, malaysia, maldives, malta, mauritius, mexico, morocco, nepal, netherlands, new-zealand, norway, oman, pakistan, peru, philippines, poland, portugal, qatar, romania, russia, saudi-arabia, singapore, south-africa, spain, sri-lanka, sweden, switzerland, taiwan, thailand, trinidad-and-tobago, turkey, uae, uk, ukraine, uzbekistan, vietnam, usa, bahamas, barbados, cyprus, macedonia, slovakia, slovenia, nigeria";
+		  var b="Argentina, Australia, Austria, Azerbaijan, Bahrain, Bangladesh, Belarus, Belgium, Brazil, Bulgaria, Cambodia, Canada, Chile, China, Colombia, Croatia, Czech Republic, Denmark, Dominican Republic, Egypt, Finland, France, Georgia, Germany, Greece, Hong Kong, Hungary, India, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Korea, Kuwait, Kyrgyzstan, Latvia, Lithuania, Luxembourg, Malaysia, Maldives, Malta, Mauritius, Mexico, Morocco, Nepal, Netherlands, New Zealand, Norway, Oman, Pakistan, Peru, Philippines, Poland, Portugal, Qatar, Romania, Russia, Saudi Arabia, Singapore, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Trinidad and Tobago, Turkey, UAE, UK, Ukraine, Uzbekistan, Vietnam, USA, Bahamas, Barbados, Cyprus, Macedonia, Slovakia, Slovenia, Nigeria";
+		  if(countrydropdownlist.options.length<=3){
+		  	addCountries(a,b,countrydropdownlist);
+		  }
+
+	}
+		function clearinput(inputbox){
+			if (inputbox!=null ){	if (inputbox.value=="enter product"){inputbox.value="";}
+			inputbox.style.color="#000000";
+			}
+		}
+	//]]>
+	</script>
+<div class="contentborder" id="searchcontent" style="_margin-top:10px;">
+	<div id="searchboxleft">
+		<p class="categorytitleh1">
+				What are you shopping for?
+		</p>
+			<form action="/control/dosearch" id="searchform" method="get" onsubmit="return validateSearchForm(this);">
+			<div id="searchformdiv">
+				<label for="find" id="find">Search </label>				
+				<select id="SEARCH_CATALOG_ID" name="SEARCH_CATALOG_ID" onchange="document.getElementById('searchinput').value='';" onkeydown="searchCountryDropDown(this);" onmouseover="searchCountryDropDown(this);" style="width:180px;">
+					<option selected="selected" value="usa">USA
+					</option>
+					<option disabled="disabled" value="selectCatalog">---</option>
+			   </select>
+			   <input class="searchinput" id="searchinput" name="SEARCH_STRING" onclick="clearinput(this);" size="20" type="text" value="enter product"/>
+				<input name="PAGETYPE" type="hidden" value="CATALOG_HOME1"/>
+				<input name="VIEW_SIZE" type="hidden" value="9999"/>
+				<input name="DISPLAY_SIZE" type="hidden" value="120"/>
+				<input id="CURRENT_CATALOG_ID" name="CURRENT_CATALOG_ID" type="hidden" value=""/>
+				<input id="category_id" name="category_id" type="hidden" value=""/>
+				<input name="sortOrder" type="hidden" value="SortKeywordRelevancy"/>
+				<input alt="" class="gobutton" src="http://ia4.pickupflowers.com/images/images/spacer.gif" type="image"/>
+			</div>
+		</form>
+	</div>
+			<div id="searchboxright">
+					<div id="havequestions">
+						<div class="havequestionstopsmall"></div>
+						<div class="commonmiddlesmall">Get <a href="javascript:void(0)" onclick="return livechat('searchbar')" rel="nofollow" title="live assistance">live assistance </a> now</div>
+					</div>
+			</div>
+	<div class="endcolumns"></div>
+</div>
+</div>
+</div>
+<div class="leftmenu" id="HOME1">
+<div id="leftbar">
+	<div id="flowerexpert">
+		<a class="toolbarlink" href="javascript:void(0)" onclick="return clickreturnvalue()" style="display:block" title="From the Flower experts"> <img alt="Tips from the flower expert" src="http://ia5.pickupflowers.com/images/ecommerce/tips-tfe-button.png" style="display:block;width:184px;height:35px" title="Tips from the flower expert"/></a>
+<div class="topcategory" id="fromtheexperts" style="display:none;width:440px;position:relative;margin-top:0px">
+	
+		<div class="topmenufloats">
+			<div class="headerTagFix categorytitleh1" style="width: 97%;">Roses</div>
+			<div>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/mostpopularflowers/rose" rel="nofollow" title="theflowerexpert">About Me</a>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/aboutflowers/flowermeanings/rose-flower-meanings" rel="nofollow" title="theflowerexpert">Language I Know</a>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/miscellaneous/flowersandhistory/history-of-roses" rel="nofollow" title="theflowerexpert">My History</a>
+			</div>
+		</div>	
+		<div class="topmenufloats">
+			<div class="headerTagFix categorytitleh1" style="width: 97%;">Occasion</div>
+			<div>
+				<a class="theflowerexpertlink" href="/partners/tfe/flower-blog/default/2012/10/23/Flowers-Open-Your-Heart-to-Love" rel="nofollow" title="theflowerexpert">Open Your Heart</a>
+
+				
+			</div>
+		</div>	
+	
+		<div class="topmenufloats">
+			<div class="headerTagFix categorytitleh1" style="width: 97%;">Cut Flowers</div>
+			<div>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/mostpopularflowers/cut-flowers" rel="nofollow" title="theflowerexpert">Popular Cut Flowers</a>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/aboutflowers/flower-meanings" rel="nofollow" title="theflowerexpert">Flower Meanings</a>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/mostpopularflowers/lilies" rel="nofollow" title="theflowerexpert">Lilies</a>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/mostpopularflowers/carnations" rel="nofollow" title="theflowerexpert">Carnations</a>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/mostpopularflowers/gerberas" rel="nofollow" title="theflowerexpert">Gerberas</a>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/aboutflowers/exoticflowers/tulips" rel="nofollow" title="theflowerexpert">Tulips</a>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/care-of-cut-flowers" rel="nofollow" title="theflowerexpert">Flower Care</a>
+			</div>
+		</div>
+		<div class="cleaner"></div>
+		<div class="topmenufloats">
+			<div class="headerTagFix categorytitleh1" style="width: 97%;">Anniversary
+			</div>
+			<div>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersandoccassions/anniversary-flowers" rel="nofollow" title="theflowerexpert">About Anniversary Flowers</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersasgift/romantic-flower-gift" rel="nofollow" title="theflowerexpert">Romantic Flower Gifts</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersandoccassions/anniversary-flower-arrangement" rel="nofollow" title="theflowerexpert">Floral Arrangements</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersandoccassions/anniversary-flower-gift" rel="nofollow" title="theflowerexpert">Flowers As Gift</a>
+			</div>
+		</div>
+
+		<div class="topmenufloats">
+			<div class="headerTagFix categorytitleh1" style="width: 97%;">Plants
+			</div>
+			<div>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growing-flowers" rel="nofollow" title="theflowerexpert">Growing Flowers</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growingflowers/container-gardening" rel="nofollow" title="theflowerexpert">Container Gardening</a>
+			</div>
+		</div>
+		<div class="topmenufloats">
+			<div class="headerTagFix categorytitleh1" style="width: 97%;">Bonsai
+			</div>
+			<div>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growingflowers/flowering-bonsai" rel="nofollow" title="theflowerexpert">Flowering Bonsai</a>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growingflowers/flowering-bonsai-care" rel="nofollow" title="theflowerexpert">Growing and Care</a>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growingflowers/growing-and-care-of-indoor-bonsais" rel="nofollow" title="theflowerexpert">Indoor Bonsais - Growing &amp; Care</a>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growingflowers/growing-and-care-of-outdoor-bonsais" rel="nofollow" title="theflowerexpert">Outdoor Bonsais - Growing &amp; Care</a>
+				<a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growingflowers/flowering-bonsai-care" rel="nofollow" title="theflowerexpert">Flowering Bonsai Care</a>
+			</div>
+		</div>
+		<div class="cleaner"></div>
+		<div class="topmenufloats">
+			<div class="headerTagFix categorytitleh1" style="width: 97%;">Others</div>
+			<div>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowers-as-gift" rel="nofollow" title="theflowerexpert">Flowers as Gift</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/miscellaneous/flower-language" rel="nofollow" title="theflowerexpert">Language of Flowers</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersasgift/flower-gifting-in-different-cultures" rel="nofollow" title="theflowerexpert">Flower Gifting in Different Cultures</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/floral-keepsakes" rel="nofollow" title="theflowerexpert">Floral Keep Sakes</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersasgift/floral-gift-baskets" rel="nofollow" title="theflowerexpert">Floral Gift Baskets</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/flowerart/flower-arrangements" rel="nofollow" title="theflowerexpert">Floral Arrangements</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/floral-bouquets" rel="nofollow" title="theflowerexpert">Varities of Bouquets</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersasgift/funeral-flowers" rel="nofollow" title="theflowerexpert">Sympathy Flowers</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/quotations-for-flower-gifts" rel="nofollow" title="theflowerexpert">Quotations</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/flowerbusiness/floralindustry/how-safe-are-our-flowers" rel="nofollow" title="theflowerexpert">How safe are the flowers we use?</a>
+			<a class="theflowerexpertlink" href="/partners/tfe/content/miscellaneous/flower-therapy" rel="nofollow" title="theflowerexpert">Flower Therapy</a>
+			</div>
+		</div>
+		<div class="cleaner"></div>
+	</div>	</div> 
+
+	<div id="leftticker">
+		<div id="discountticker">
+			<div class="signupheader"> 
+				<div style="text-align: right; padding: 0px; margin: 0px;">
+					<a class="smallerfont closeticker" href="javascript:void(0);" style="color:#FFFFFF;padding:0px;margin:0px;">close</a> 
+				</div>
+				Save <span id="disc">5%</span> now!
+			</div> 	
+			<div class="earliestDeliveryNote" style="margin-top: 0px;">	
+				<div class="smallfont">
+					<b>Exclusively for you.</b> <br/>Place the order in next <br/><span id="discounttimer">30 mins. 00 secs</span> to avail this offer.
+				</div>
+				<div style="text-align: right;"><a href="javascript:void(0);" onclick="return discountTicker();">Click here to accept</a> </div>
+				<hr/>
+				<div class="smallerfont"><b>Note: </b> This offer cannot be mixed with any other offer.</div> 
+			</div>	
+		</div>
+	</div>
+
+<script type="text/javascript">
+		$(document).ready(function(){
+			loadDynamicContent("/control/toolbar?category_id=featured_international&pageSpecificHelp=help");
+		});
+</script>
+	<div class="plaintophome">
+		<h2 class="plaincontenth2">Send flowers to</h2></div>
+		<div class="sendflowersto" id="sendflowersto">
+		<div id="sourceGeoCatalog">
+			<noscript>
+<ul id="shopbycountries" style="list-style:none;margin-top:0;padding-left:20px;font-size:1.1em;line-height:1.6em;_margin-left:0;#margin-left:0;">
+			<li><a href="/send-flowers-to-philippines" title="Philippines">Philippines</a></li>
+			<li><a href="/send-flowers-to-india" title="India">India</a></li>
+			<li><a href="/send-flowers-to-germany" title="Germany">Germany</a></li>
+			<li><a href="/send-flowers-to-singapore" title="Singapore">Singapore</a></li>
+			<li><a href="/send-flowers-to-hong-kong" title="Hong Kong">Hong Kong</a></li>
+			<li><a href="/send-flowers-to-russia" title="Russia">Russia</a></li>
+			<li><a href="/send-flowers-to-china" title="China">China</a></li>
+			<li><a href="/send-flowers-to-pakistan" title="Pakistan">Pakistan</a></li>
+			<li><a href="/send-flowers-to-usa" title="USA">USA</a></li>
+			<li><a href="/send-flowers-to-japan" title="Japan">Japan</a></li>
+			<li><a href="/send-flowers-to-indonesia" title="Indonesia">Indonesia</a></li>
+			<li><a href="/send-flowers-to-uae" title="UAE">UAE</a></li>
+			<li><a href="/send-flowers-to-thailand" title="Thailand">Thailand</a></li>
+			<li><a href="/send-flowers-to-italy" title="Italy">Italy</a></li>
+			<li><a href="/send-flowers-to-australia" title="Australia">Australia</a></li>
+</ul>
+			</noscript>
+		</div>	
+		<script type="text/javascript">
+			updateElementContent("/control/topLeftCountriesList?PAGETYPE=HOME1",changeHTMLContent,"sourceGeoCatalog",'GET');
+		</script>
+		<div class="outercontent positionrelative" onclick="populateCountryList('innerdivision1');" style="width:170px;">
+			<script type="text/javascript">
+				//<![CDATA[
+				document.write('<a title="more countries &raquo;" href="javascript:void(0)"  class="morelink">more countries &raquo;</a>');
+				//]]>
+			</script>
+			<noscript>
+					<p>
+	     				<a class="morelink" href="http://www.pickupflowers.com/info/send-flowers-worldwide" title="more countries »">more countries »</a>
+		 			</p>
+		 	</noscript>
+				<div class="innerdiv" id="innerdivision1" onmouseout="mouseOutInnerDiv();hideOuterContent('innerdivision1');" onmouseover="mouseOnInnerDiv('innerdivision1');">
+					
+<script type="text/javascript">
+//<![CDATA[
+
+
+		var countries=new Array();
+
+
+		var affiliatePrefix = "";
+
+				
+
+
+		countries[0]="Select the country where you would like your flowers delivered.<br/><div style='float:left;width:100px;'>";
+
+			countries[1]="<b>A</b>";
+
+			countries[2]="<br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-argentina'>Argentina</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-armenia'>Armenia</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-australia'>Australia</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-austria'>Austria</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-azerbaijan'>Azerbaijan</a><br/><br/>";
+
+
+
+			countries[3]="<b>B</b>"; 
+
+			countries[4]="<br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-bahamas'>Bahamas</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-bahrain'>Bahrain</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-bangladesh'>Bangladesh</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-barbados'>Barbados</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-belarus'>Belarus</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-belize'>Belize</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-belgium'>Belgium</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-benin'>Benin</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-bhutan'>Bhutan</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-bolivia'>Bolivia</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-botswana'>Botswana</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-brazil'>Brazil</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-bulgaria'>Bulgaria</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-burma'>Burma</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-burundi'>Burundi</a><br/>--><br/>";
+
+
+
+			countries[5]="<b>C</b>";
+
+			countries[6]="<br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-cambodia'>Cambodia</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-cameroon'>Cameroon</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-canada'>Canada</a><br/> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-chad'>Chad</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-chile'>Chile</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-china'>China</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-colombia'>Colombia</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-costa-rica'>Costa Rica</a><br/>--> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-comoros'>Comoros</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-croatia'>Croatia</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-cuba'>Cuba</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-cyprus'>Cyprus</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-czech-republic'>Czech Republic</a><br/><br/>";
+
+
+
+			countries[7]="<b>D</b>";
+
+			countries[8]="<br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-djibouti'>Djibouti</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-denmark'>Denmark</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-dominica'>Dominica</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-dominican-republic'>Dominican Republic</a><br/><br/>";	
+
+
+
+			countries[9]="<b>E</b>";
+
+			countries[10]="<br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-ecuador'>Ecuador</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-egypt'>Egypt</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-el-salvador'>El Salvador</a><br/>--> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-eritrea'>Eritrea</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-estonia'>Estonia</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-ethiopia'>Ethiopia</a><br/><br/>-->";
+
+
+		countries[11]="</div>";
+
+		
+
+
+		countries[12]="<div style='float:left;width:120px;'>";
+
+			countries[13]="<b>F</b>";
+
+			countries[14]="<br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-fiji'>Fiji</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-finland'>Finland</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-france'>France</a><br/><br/>";
+
+
+
+			countries[15]="<b>G</b>";
+
+			countries[16]="<br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-germany'>Germany</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-georgia'>Georgia</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-greece'>Greece</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-gozo'>Gozo</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-guatemala'>Guatemala</a><br/><br/>-->";
+
+
+
+			countries[17]="<b>H</b>";
+
+			countries[18]="<br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-haiti'>Haiti</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-honduras'>Honduras</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-hong-kong'>Hong Kong</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-hungary'>Hungary</a><br/><br/>";
+
+
+
+			countries[19]="<b>I</b>";
+
+			countries[20]="<br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-iceland'>Iceland</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-india'>India</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-indonesia'>Indonesia</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-iran'>Iran</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-ireland'>Ireland</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-israel'>Israel</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-italy'>Italy</a><br/>";
+
+
+
+			countries[21]="<b>J</b>";
+
+			countries[22]="<br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-jamaica'>Jamaica</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-japan'>Japan</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-jordan'>Jordan</a><br/><br/>";
+
+
+
+			countries[23]="<b>K</b>";
+
+			countries[24]="<br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-kazakhstan'>Kazakhstan</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-kenya'>Kenya</a><br/> <!-- <a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-kiribati'>Kiribati</a><br/>--> <a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-korea'>Korea</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-kuwait'>Kuwait</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-kyrgyzstan'>Kyrgyzstan</a>";
+
+
+		countries[25]="</div>";
+
+		
+
+
+		countries[26]="<div style='float:left;width:100px;'>";	
+
+			countries[27]="<b>L</b>";
+
+			countries[28]="<br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-laos'>Laos</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-latvia'>Latvia</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-lebanon'>Lebanon</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-lesotho'>Lesotho</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-liberia'>Liberia</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-libya'>Libya</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-liechtenstein'>Liechtenstein</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-lithuania'>Lithuania</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-luxembourg'>Luxembourg</a><br/><br/>";
+
+
+
+			countries[29]="<b>M</b>";
+
+			countries[30]="<br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-macau'>Macau</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-macedonia'>Macedonia</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-madagascar'>Madagascar</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-malawi'>Malawi</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-malaysia'>Malaysia</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-maldives'>Maldives</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-mali'>Mali</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-malta'>Malta</a><br/> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-marshall-islands'>Marshall Islands</a><br/>--> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-mauritania'>Mauritania</a><br/>--> <a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-mauritius'<Mauritius></a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-mexico'>Mexico</a><br/> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-micronesia'<Micronesia></a><br/>--> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-moldova'>Moldova</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-monaco'>Monaco</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-montenegro'>Montenegro</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-morocco'>Morocco</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-mozambique'>Mozambique</a><br/>--><br/>";
+
+
+
+			countries[31]="<b>N</b>";
+
+			countries[32]="<br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-namibia'>Namibia</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-nauru'>Nauru</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-nepal'>Nepal</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-netherlands'>Netherlands</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-nicaragua'>Nicaragua</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-new-zealand'>New Zealand</a><br/> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-niger'>Niger</a><br/>--> <a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-nigeria'>Nigeria</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-norway'>Norway</a><br/><br/>";
+
+
+
+			countries[33]="<b>O</b>";
+
+			countries[34]="<br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-oman'>Oman</a><br/><br/>";
+
+
+
+		    	countries[35]="<b>P</b>";
+
+			countries[36]="<br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-pakistan'>Pakistan</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-palau'>Palau</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-panama'>Panama</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-paraguay'>Paraguay</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-peru'>Peru</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-philippines'>Philippines</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-poland'>Poland</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-portugal'>Portugal</a><br/>";
+
+
+
+		countries[37]="</div>";
+
+		
+
+
+		countries[38]="<div style='float:left;width:100px;'>";
+
+countries[39]="<b>Q</b>";
+
+			countries[40]="<br><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-qatar'>Qatar</a><br><br>";
+			countries[41]="<b>R</b>";
+
+			countries[42]="<br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-romania'>Romania</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-russia'>Russia</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-rwanda'>Rwanda</a><br/>--><br/>";
+
+
+
+			countries[43]="<b>S</b>";
+
+			countries[44]="<br/> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-saint-kitts-and-nevis'>Saint Kitts And Nevis</a><br/>--> <a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-saudi-arabia'>Saudi Arabia</a><br/> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-saint-vincent-and-the-grenadines'>Saint Vincent And The Grenadines</a><br/>--> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-samoa'>Samoa</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-san-marino'>San Marino</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-senegal'>Senegal</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-seychelles'>Seychelles</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-singapore'>Singapore</a><br/> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-solomon-islands'>Solomon Islands</a><br/>--> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-somalia'>Somalia</a><br/>--> <a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-south-africa'>South Africa</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-spain'>Spain</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-sri-lanka'>Sri Lanka</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-sudan'>Sudan</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-suriname'>Suriname</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-swaziland'>Swaziland</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-sweden'>Sweden</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-switzerland'>Switzerland</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-syria'>Syria</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-serbia'>Serbia</a><br/><br/>-->";
+
+
+
+			countries[45]="<b>T</b>";
+
+			countries[46]="<br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-taiwan'>Taiwan</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-tajikistan'>Tajikistan</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-tanzania'>Tanzania</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-thailand'>Thailand</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-togo'>Togo</a><br/>--> <!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-tonga'>Tonga</a><br/>--> <a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-trinidad-and-tobago'>Trinidad and Tobago</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-tunisia'>Tunisia</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-turkey'>Turkey</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-turkmenistan'>Turkmenistan</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-tuvalu'>Tuvalu</a><br/><br/>-->";
+
+
+
+			countries[47]="<b>U</b>";
+
+			countries[48]="<br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-uae'>UAE</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-uganda'>Uganda</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-uk'>UK</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-ukraine'>Ukraine</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-usa'>USA</a><br/><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-uzbekistan'>Uzbekistan</a><br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-uruguay'>Uruguay</a><br/>--><br/>";
+
+
+		countries[49]="</div>";
+
+		countries[50]="<div style='float:left;width:100px;'>";
+			countries[51]="<b>V</b>";
+			countries[52]="<br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-vanuatu'>Vanuatu</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-venezuela'>Venezuela</a><br/>--><a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-vietnam'>Vietnam</a><br/><br/>";
+
+	countries[53]="<b>Y</b>";
+	countries[54]="<br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-yemen'>Yemen</a><br/>--><br/>";
+
+
+			countries[55]="<b>Z</b>";
+			countries[56]="<br/><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-zambia'>Zambia</a><br/>--><!--<a title='morecountries' href='" + affiliatePrefix + "/send-flowers-to-zimbabwe'>Zimbabwe</a><br/><br/>-->";
+
+		countries[57]="</div>";
+
+		var i = 0;
+
+		var countryListHtml = '<h2 class="plaincontentrighth2" style="text-align:center;">International Online Flower Delivery</h2>';
+
+		for(i=0; i<=57; i++){
+
+			countryListHtml += countries[i];
+
+			//e.innerHTML = e.innerHTML + countries[i];
+
+		}
+
+		document.write(countryListHtml);		
+		
+	        function populateCountryList(divId){
+                        $("#"+divId).fadeIn();
+             	}		
+
+//]]>
+
+</script>
+				</div>
+		</div>
+	</div>
+<div class="ui-widget" id="autoComplete">
+<div class="topgradientbordersmall"> </div>
+	<div class=" usefulinfoborder">
+		<label class="autocomplete-lable" for="city">Find Local Gift Shop</label>
+		<input id="city" onblur="setAppropriateValue(event, this)" onfocus="setAppropriateValue(event, this)" size="25" type="text" value="Type city &amp; choose"/>
+		<img alt="Go local" height="24" id="autocomplete-city-go-button" src="http://ia3.pickupflowers.com/images/spacer.gif" title="Type city &amp; choose" width="66"/>		
+	</div>
+	<div class="bottomgradientbordersmall"> </div>
+</div>
+<div id="home-rightBar-section2" style="border-top: 1px dashed #CCCCCC;">
+				<div class="rounded-top"></div>
+				<div class="rounded-middle">
+					
+					<div id="customerpraise">
+						<div id="hideComments">
+						 	<ul class="customersays">
+			<li>
+				
+Dear customerservice, Thank you very much for delivering a box of Ferrero rocher chocolates to my friend in the cruise ship Norwegian Gem in Naples.  -<b> Gerardo Tapiador, Philippines</b>
+			</li>
+			<li>
+				Thank you so much. I'm first time customer and I would like to say thank you for your service. My mom got flowers in Sweden .You are amazing.  -<b> JASMINA MILJATOVIC, United States</b>
+			</li>
+			<li>
+				
+Both of my friends texted already to thank me. They've received the items. Thank you very much for the good service. Great job.  -<b> Rhodney Espares Teng, Philippines</b>
+			</li>
+			<li>
+				
+Thank you very very much it was wonderful, looking forward to buying flowers from you again in the near future.  -<b> Jesus Leonardo Saucedo, United States</b>
+			</li>
+			<li>
+				
+Many thanks! It was a successful delivery and delightful surprise.  -<b> Maria Alaguru, Malaysia</b>
+			</li>
+			<li>
+				
+Thank you so much for sending the flowers again. She did receive them for sure! Thanks. She said they are lovely!  -<b> Ann Quinn, United States</b>
+			</li>
+			<li>
+				
+I hear the arrangement is beautiful. I will definately use this service again! thanks so much for helping to make someone's day extra special.  -<b> Jennifer Eden, Australia</b>
+			</li>
+	</ul>
+
+						</div>
+					    <span class="quotes" style="vertical-align:-20%;">“</span>
+			            <span id="contenthome"></span>
+			            <span class="quotes quotesend" style="vertical-align:-35%;">”</span>
+			            <p id="name"> </p>
+	          		</div>
+					<script type="text/javascript">initCustomerPraise();</script>
+				</div>
+				<div class="rounded-bottom"></div>
+			</div>
+			<!-- <div>
+				<div style="height: 15px;">
+					<div style="float:left;margin:0px;border: 1px solid #B86C9F;padding-top: 2px;"><a href="javascript:showTabContent('home-rightBar-section2');" id="testimonials_tab" class="right-tabs">Testimonials</a></div>
+					<div style="float:right;margin:0px;border: 1px solid #B86C9F;padding-top: 2px;"><a href="javascript:showTabContent('facebook_tab');" id="facebook_tab"  class="right-tabs">Facebook</a></div>
+					<div style="clear:both;"></div>
+				</div>				
+				<div id="home-rightBar-section2" style="border-top: 1px dashed #CCCCCC;">
+					<div class="rounded-top"></div>
+					<div class="rounded-middle">
+						
+						<div id="customerpraise">
+						    <span class="quotes" style="vertical-align:-20%;">&ldquo;</span>
+				            <span id="contenthome">I wanted to tell you know that the flowers were delivered yesterday evening and I understand they are beautiful. Thank you very much for taking care of this for me</span>
+				            <span class="quotes quotesend" style="vertical-align:-35%;">&rdquo;</span>
+				            <p id="name">&mdash; Rob Williams</p>
+		          		</div>
+						<script type="text/javascript">initCustomerPraise();</script>
+					</div>
+					<div class="rounded-bottom"></div>
+				</div>
+				<div style="display: none;margin-top: 6px;" id="facebook_tabcontent">
+                  <div class="fb-activity" data-site="pickupflowers.com" data-width="188" data-height="289" data-header="true" data-recommendations="true" ref="fb"></div>
+              	</div>
+			</div>-->
+<div class="paddingmargin">
+		<div class="topgradientbordersmall"> </div>
+		<div class=" usefulinfoborder">
+		<label class="autocomplete-lable" style="font-size:1.25em">Satisfaction Guarantee</label>
+		 <ul class="reasonstobuybulletssmall">
+	  	 <li>On time delivery</li>
+		 <li>No Hidden Costs</li>	
+		<li>Refund or replace, if not satisfied</li>
+	         </ul>
+		</div>
+	<div class="bottomgradientbordersmall"> </div>
+</div><div class="ccimage">
+<ul style="margin:0;padding:0;">
+ <li style="list-style: none outside none; text-align:center">
+
+<!-- (c) 2005, 2015. Authorize.Net is a registered trademark of CyberSource Corporation 
+var ANS_customer_id="d64f9674-360b-4e5d-a6bd-4c0616b58d1a";
+var ANS_customer_id="7d1933f6-73d0-4981-bf70-d1bc1cc41205";
+--> 
+<div class="AuthorizeNetSeal" style=" display: inline-block;"> <script language="javascript" type="text/javascript">var ANS_customer_id="7d1933f6-73d0-4981-bf70-d1bc1cc41205";</script> <script language="javascript" src="http://ia1.pickupflowers.com/images/javascripts/source/seal.js" type="text/javascript"></script> </div>
+
+ <!--<span display: block;" id="siteseal"> <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=ep3Xf0VF3YEFkgQ6m3Px8rNoqQ0WjNHJTIylL2b1YbTf1xa7diO"></script></span> -->
+<span id="siteseal">
+<img alt="godaddy verified Seal" height="60" onclick="window.open('https://seal.godaddy.com/verifySeal?sealID=g8iK48oHDeX98f0SVbJGjzJhK6VwlkXHUYeq1bT1MH0dBSIF28lNq8Tp','SealVerfication','location=yes,status=yes,resizable=yes,scrollbars=no,width=592,height=433')" src="http://ia2.pickupflowers.com/images/siteseal_gd_1_h_s_dv_iv.png" style="cursor:pointer;cursor:hand;vertical-align:middle;" width="115"/>
+</span>
+</li>
+
+</ul>
+<br/>
+<img alt="We Accept Paypal, Credit Cards - American express (Amex), Visa, Mastercard, Discover and Google Checkout" height="176" src="http://ia3.pickupflowers.com/images/images/credit-cards-small.jpg" width="176"/>
+<img alt="We accept GiroPay, Sofort, ukash and Neteller" class="lastimg" height="57" src="http://ia4.pickupflowers.com/images/images/neteller-paymentoptions.jpg" width="165"/>
+<br/>
+<br/>
+
+</div>
+</div>
+</div>
+<div id="footer">
+
+
+	<div style="clear:both"></div>
+	<div id="footer">
+	     <div id="menubottom">
+	     		<div class="footerstrip">
+					<img alt="Send Flowers Today and Join more than 100,000 satisfied customers across 80 countries." height="34" src="http://ia5.pickupflowers.com/images/footer-puf.jpg" width="960"/>
+				</div>
+				<div class="otherBrand" id="otherbrand">
+   <div class="smicons"> <div class="floatleft bottomlinks"> <div><a href="/info/help">Help</a></div> <div><a href="/info/about-us">About us</a></div> <div><a href="/info/contact-us">Contact us</a></div> <div><a href="/affiliate/affiliate-program">Affiliate Program</a></div> <div><a href="/info/privacy-policy">Privacy Policy</a></div> <div><a href="/info/security-policy">Security Policy</a></div> <div><a href="/info/terms-and-conditions">Terms &amp; Conditions</a></div></div> <div class="bottomsignup"> 	<div id="checkthisoutimg_8">	
+		<form action="/control/sendSignUpEmail" id="signupemailbottom" method="post" name="signupemailbottom" onsubmit="return signUpForContactList(document.forms['signupemailbottom']);">
+			<div class="signupdiv" id="signupemailbottom-signupdiv">
+				<input id="signuptextbox" name="emailforid" onblur="setDefault(this)" onclick="this.value='';this.style.color='#000000';" onfocus="this.value='';this.style.color='#000000';" size="25" type="text" value="Enter your E-mail ID"/>
+				<input name="reload" type="hidden" value="true"/>
+				<input name="contactListId" type="hidden" value="10450"/>
+					<input name="sendQueryString" type="hidden" value="canonicalURL=http://www.pickupflowers.com/"/>			
+							<a class="signupgobutton" href="javascript:void(0)" onclick="return signUpForContactList(document.getElementById('signupemailbottom'));"><img height="20" src="http://ia3.pickupflowers.com/images/spacer.gif" width="25"/></a>
+			</div>
+		</form>
+	</div>
+	<div class="signuperrordiv"><span class="errorMessage" id="signupemailbottom-err"></span></div>
+	<div class="cleaner"></div>
+ </div> <div class="floatleft followUs"> <b> Follow Us &amp; Win Prizes! </b> <div class="socialmediasharejoycontainer"> <div class="socialmediasharejoylinks twitter"><a href="http://www.twitter.com/pickupflowers"><img alt="twitter" height="32" src="http://ia3.pickupflowers.com/images/spacer.gif" width="32"/></a></div> <div class="socialmediasharejoylinks facebook"><a href="http://www.facebook.com/pickupflower"><img alt="facebook" height="32" src="http://ia3.pickupflowers.com/images/spacer.gif" width="32"/></a></div> <div class="socialmediasharejoylinks googleplus"><a href="https://plus.google.com/u/0/b/113542295233600528979/"><img alt="google plus" height="32" src="http://ia3.pickupflowers.com/images/spacer.gif" width="32"/></a></div> <div class="socialmediasharejoylinks pintrest"><a class="pin-it-button" count-layout="horizontal" href="http://pinterest.com/pickupflowers/" target="_blank"> <img alt="Pin It" height="32" src="http://ia3.pickupflowers.com/images/spacer.gif" width="32"/></a> </div> </div> </div> <div class="floatleft" style="_width:440px">  <div class="floatleft followUs" style="margin-right:0px;width:265px"> <b> Like us, spread the word:</b> <div style="margin-top:5px;"> <div style="float:left;width:33%"><a class="twitter-share-button" data-count="horizontal" data-via="pickupflowers" href="http://twitter.com/share">Tweet</a><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div> <div style="float:left;width:33%"><fb:like href="http://www.pickupflowers.com/" layout="button_count" show_faces="false" width="100"></fb:like></div> <div style="float:left;width:33%"><g:plusone callback="plusone_vote" size="medium"></g:plusone><script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script></div> </div> </div>  <div style="float: left;margin-left:10px"> <b> Share your joy with us: </b><br/> <div class="youtube"><a href="/smm/youtube"><img height="34" src="http://ia3.pickupflowers.com/images/spacer.gif" width="34"/></a></div> <div class="picasa"><a href="/smm/picasa"><img height="34" src="http://ia3.pickupflowers.com/images/spacer.gif" width="34"/></a></div> </div> </div> <div class="cleaner"></div> </div> <script type="text/javascript"> function extractParamFromUri(uri, paramName) { if (!uri) { return; } var uri = uri.split('#')[0]; 
+// Remove anchor.
+ var parts = uri.split('?'); 
+// Check for query params.
+ if (parts.length == 1) { return; } var query = decodeURI(parts[1]);
+ // Find url param.
+ paramName += '='; var params = query.split('&'); for (var i = 0, param; param = params[i]; ++i) { if (param.indexOf(paramName) === 0) { return unescape(param.split('=')[1]); } } } function plusone_vote( obj ) { _gaq.push(['_trackEvent','plusone',obj.state]); } </script>					
+				</div>
+			<div id="footerlinks">
+					<div id="menuholder">    
+				       		        <a class="browsecategorybutton" href="/info/corporate-gifts" title="Corporate Gifts">Corporate Gifts</a> |
+	<a class="browsecategorybutton" href="/usa-flower-delivery" title="USA Flower Delivery">USA Flower Delivery</a> | 
+	<a class="browsecategorybutton" href="/uk-flower-delivery" title="UK Flower Delivery">UK Flower Delivery</a> | 
+	<a class="browsecategorybutton" href="/australia-flower-delivery" title="Australia Flower Delivery">Australia Flower Delivery</a>
+	<br/> <a class="browsecategorybutton" href="/singapore-flower-delivery" title="Flower Delivery Singapore">Flower Delivery Singapore</a> 
+	| <a class="browsecategorybutton" href="/philippines-flower-delivery" title="Flower Delivery Philippines">Flower Delivery Philippines</a> 
+        | <a class="browsecategorybutton" href="/flower-guide" title="Send flowers">Flower Guide</a>
+	| <a class="browsecategorybutton" href="/flower-guide/pickupflowers-coupons" title="Pickupflowers Coupons">Pickupflowers Coupons</a>  
+
+         
+					</div>
+					<div>  
+						<b>Directory of all Countries:</b>   
+						 <a class="browsecategorybutton" href="/info/directory/country-list-1" title="A to I">A to I</a>                    
+						| <a class="browsecategorybutton" href="/info/directory/country-list-2" title="J to R">J to R</a>                    
+						| <a class="browsecategorybutton" href="/info/directory/country-list-3" title="S to Z">S to Z</a>     		 
+			      	</div>
+			      	<div>  
+			     <b>Directory of all cities:</b>   
+			        <a class="browsecategorybutton" href="/info/directory/city-list-1" title="A to B">A to B</a>                    
+			      | <a class="browsecategorybutton" href="/info/directory/city-list-2" title="C to E">C to E</a>
+                  | <a class="browsecategorybutton" href="/info/directory/city-list-3" title="F to I">F to I</a> 
+                  | <a class="browsecategorybutton" href="/info/directory/city-list-4" title="J to L">J to L</a>
+                  | <a class="browsecategorybutton" href="/info/directory/city-list-5" title="M to O">M to O</a> 
+                  | <a class="browsecategorybutton" href="/info/directory/city-list-6" title="P to R">P to R</a>
+                  | <a class="browsecategorybutton" href="/info/directory/city-list-7" title="S to T">S to T</a> 
+                  | <a class="browsecategorybutton" href="/info/directory/city-list-8" title="U to Z">U to Z</a> 
+		         </div>
+		     </div>
+			<div id="copyright" style="margin-top:10px;">
+		 	Last modified on Thu Oct 06 08:00:00 CDT 2016 © 2005-2016 Pickupflowers.com.
+				 <div>
+				 	GeoIp javascript powered by <a class="browsecategorybutton" href="http://www.maxmind.com" rel="nofollow" style="top:0px;">www.maxmind.com</a>
+				 </div>
+			</div> 		
+		</div>
+	</div>	
+
+	<script type="text/javascript">
+	try {
+		
+		if(typeof referrer !="undefined" && (referrer== "" || referrer.match(document.domain)==null)){
+		    dataLayer.push({'To-Cntry':'international','event':'customVar'});
+		}
+		
+	}
+	catch(err) {
+	}
+	</script>
+	
+     	<!-- Tag for Activity Group: Visits, Activity Name: Visits-puf, Activity ID: 904614 -->
+		<!-- Expected URL: http://www.pickupflowers.com -->
+		
+		
+		<!--
+		Start of DoubleClick Floodlight Tag: Please do not remove
+		Activity name of this tag: Visits-puf
+		URL of the webpage where the tag is expected to be placed: http://www.pickupflowers.com
+		This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+		Creation Date: 10/05/2011
+		-->
+        <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+<!--HitTail Code-->
+<!--End HitTail Code-->
+<script type="text/javascript">
+//<![CDATA[
+	var elements = document.getElementsByName('slideLink');
+	if(elements){
+		for(i=0;i< elements.length;i++){
+			elements[i].style.display='inline';
+		}
+	}
+	elements = document.getElementsByName('slideUpLink');
+	if(elements){
+		for(i=0;i< elements.length;i++){
+			elements[i].style.display='block';
+		}
+	}
+//]]>
+</script>
+
+	<script type="text/javascript">
+		updateAffiliateVisits();
+	</script>
+<script src="http://ia1.pickupflowers.com/images/javascripts/jquery.hoveraccordion.js" type="text/javascript"></script>
+<script src="http://ia2.pickupflowers.com/images/javascripts/jquery.jscrollpane.min.js" type="text/javascript"></script>
+<script src="http://ia3.pickupflowers.com/images/javascripts/jquery.mousewheel.js" type="text/javascript"></script>
+<div id="cartdialog" style="display:none"></div>
+<!-- code for opens tracking -->
+<script type="text/javascript"><!--//<![CDATA[
+    var p = (location.protocol=='https:'?'https://ads.giftinginc.com/openx/www/delivery/tjs.php':'http://ads.giftinginc.com/openx/www/delivery/tjs.php');
+
+    var r=Math.floor(Math.random()*999999);
+    document.write ("<" + "script language='JavaScript' ");
+    document.write ("type='text/javascript' src='"+p);
+    document.write ("?trackerid=11&amp;append=0&amp;r="+r+"'><" + "\/script>");
+//]]>--></script><noscript><div id="m3_tracker_11" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img alt="" height="0" src="http://ads.giftinginc.com/openx/www/delivery/ti.php?trackerid=11&amp;cb=0.2163402244" width="0"/></div></noscript>
+<!-- end of openx tracking -->
+	<div id="stickyfooter" style="display: none;">
+  		<ul id="stickyfooter_menu">
+			<li class="imgmenu">
+  				<a href="http://www.pickupflowers.com"></a>
+  			</li>
+  			<li>
+				<div id="giftSuggestionBanner"> Expert Gift Suggestions </div>
+    		</li>
+    		<li>
+				<div class="bordercontainer">
+					<div class="borderleft"></div>
+					<div class="bordercontent">			
+    					<a class="sfmenuheading" href="#">Flower Expert Tips</a>
+					</div>
+					<div class="borderright"></div>
+			    </div>
+
+    			<div class="dropdown_3columns">
+		      		 <div class="col_1">
+		      	 		<div class="categorytitleh1" style="padding-left:5px;width:99%">Roses</div> 		    	        	<ul class="simple">
+				        		<li><a class="theflowerexpertlink" href="/partners/tfe/content/mostpopularflowers/rose" title="usa">About Roses</a></li>
+				        		<li><a class="theflowerexpertlink" href="/partners/tfe/content/aboutflowers/flowermeanings/rose-flower-meanings">Rose Meanings</a></li>
+				        		<li><a class="theflowerexpertlink" href="/partners/tfe/content/miscellaneous/flowersandhistory/history-of-roses">History of Roses</a></li>
+		        	    	</ul>   
+   					</div>
+				 	<div class="col_1">
+					<div class="categorytitleh1" style="padding-left:5px;width:99%">Cut Flowers</div>
+		    	       	<ul class="simple">
+			       			<li><a class="theflowerexpertlink" href="/partners/tfe/content/mostpopularflowers/cut-flowers">Popular Cut Flowers</a></li>
+			        		<li><a class="theflowerexpertlink" href="/partners/tfe/content/aboutflowers/flower-meanings">Flower Meaning</a></li>
+			        		<li><a class="theflowerexpertlink" href="/partners/tfe/content/mostpopularflowers/lilies">Lillie</a></li>
+			        		<li><a class="theflowerexpertlink" href="/partners/tfe/content/mostpopularflowers/carnations">Carnations</a></li>
+			        		<li><a class="theflowerexpertlink" href="/partners/tfe/content/mostpopularflowers/gerberas">Gerberas</a></li>
+							<li><a class="theflowerexpertlink" href="/partners/tfe/content/aboutflowers/exoticflowers/tulips">Tulips</a></li>
+							<li><a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/care-of-cut-flowers">Flower Care</a></li>
+							<li><a class="theflowerexpertlink" href="/partners/tfe/content/mostpopularflowers/gerberas">Gerberas</a></li>
+				    	</ul>   
+					</div>
+					<div class="clear"></div>
+				 	<div class="col_1">
+		      	 		<div class="categorytitleh1" style="padding-left:5px;width:99%">Anniversary</div>
+		    	        	<ul class="simple">
+				        		<li><a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersandoccassions/anniversary-flowers">About Anniversary Flowers</a></li>
+				        		<li><a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersasgift/romantic-flower-gift">Romantic Flower Gifts</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersandoccassions/anniversary-flower-arrangement">Floral Arrangements</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersandoccassions/anniversary-flower-gift">Flowers as Gift</a></li>
+				    		</ul>   
+					</div>
+				 	<div class="col_1">
+		      	 		<div class="categorytitleh1" style="padding-left:5px;width:99%">Plants</div>
+		    	        	<ul class="simple">
+			        			<li><a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growing-flowers">Growing Flowers</a></li>
+			        			<li><a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growingflowers/container-gardening">Container Gardening</a></li>
+				    		</ul>   
+					</div>
+   				 	<div class="col_1">
+		      	 		<div class="categorytitleh1" style="padding-left:5px;width:99%">Bonsai</div>
+		    	        	<ul class="simple">
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growingflowers/flowering-bonsai">Flowering Bonsai</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growingflowers/flowering-bonsai-care">Growing and Care</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growingflowers/growing-and-care-of-indoor-bonsais">Indoor Bonsais - Growing &amp; Care </a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growingflowers/growing-and-care-of-outdoor-bonsais">Outdoor Bonsais - Growing &amp; Care</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/growingflowers/growingflowers/flowering-bonsai-care">Flowering Bonsai Care</a></li>
+					    	</ul>   
+   					</div>
+   				 	<div class="col_1">
+		      	 		<div class="categorytitleh1" style="padding-left:5px;width:99%">Others</div>
+		    	        	<ul class="simple">
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowers-as-gift">Flowers as Gift</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/miscellaneous/flower-language">Language of Flowers</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersasgift/flower-gifting-in-different-cultures">Flower Gifting in Different Cultures</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/floral-keepsakes">Floral Keep Sakes</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersasgift/floral-gift-baskets">Floral Gift Baskets</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/flowerart/flower-arrangements">Floral Arrangements</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/floral-bouquets">Varities of Bouquets</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/flowersasgift/funeral-flowers">Sympathy Flowers</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/giftflowers/quotations-for-flower-gifts">Quotations</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/flowerbusiness/floralindustry/how-safe-are-our-flowers">How safe are the flowers we use?</a></li>
+								<li><a class="theflowerexpertlink" href="/partners/tfe/content/miscellaneous/flower-therapy">Flower Therapy</a></li>
+					   		</ul>   
+       					</div>
+       					<div class="clear"></div>
+	            	</div>
+				</li>
+             	<li>
+					<div class="bordercontainer">
+						<div class="borderleft"></div>
+							<div class="bordercontent">
+							<a class="sfmenuheading" href="#">About us</a>
+						</div>
+						<div class="borderright"></div>
+					</div>
+					<div class="dropdown_2columns">
+						<div id="about-us"></div>
+					</div>
+				</li>        		<li>
+					<div class="bordercontainer">
+						<div class="borderleft"></div>
+						<div class="bordercontent">
+	        				<a href="javascript:void(0);" onclick=" return livechat('stickyfooter');" title="Live Chat">Live Chat</a>
+						</div>
+						<div class="borderright"></div>
+	       			 </div>
+				</li>
+                <li id="stickysurvey" style="display:none">
+					 <div class="bordercontainer">
+						<div class="borderleft"></div>
+						<div class="bordercontent">
+							<a class="sfmenuheading" href="#">Feedback</a>
+						</div>
+						<div class="borderright"></div>
+		       		</div>
+					<div class="dropdown_2columns">
+		        		<div class="col_2">
+	                  		<div id="feedback"></div>
+	            		</div>
+					</div>
+               </li>
+	  		   <li class="right" id="closesticklielement" style="border: none;padding-top: 9px;padding-right: 2px;">
+		  			<a class="stickyfooterclose" href="javascript:void(0)" id="closeanchor">
+	  					<img alt="close" src="/images/spacer.gif"/>
+  					</a>
+	  		   </li>
+      		</ul>
+	</div> 
+<div id="stickyfootermaximize">
+		<a class="stickyfooterminimizeIcon" href="javascript:void(0)" id="stickyfooterminimize" title="Show"><img alt="Show" src="/images/spacer.gif" title="Show"/></a>
+</div>
+<div id="theflowerexpertsreader" style="display:none">
+	<div id="theflowerexpertsreaderpane">
+		<img alt="" id="loadingexperts" src="http://ia4.pickupflowers.com/images/loading.gif"/>
+	</div>
+</div>
+<script src="http://ia5.pickupflowers.com/images/javascripts/validations.js" type="text/javascript"></script>
+
+	<script src="//tags.mediaforge.com/js/3356" type="text/javascript"></script>
+
+	<script type="text/javascript"><!--
+		var accessToken=null;
+		var oAuthProvider = null;
+		//-->
+	</script>
+	<script async="true" src="//static.criteo.net/js/ld/ld.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		window.criteo_q = window.criteo_q || [];
+		var deviceType = /Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile/.test(navigator.userAgent) ? "m" : "d";
+		window.criteo_q.push(
+		{ event: "setAccount", account: [18533,18534,18536,18569,20012]},
+		{ event: "setSiteType", type: deviceType},
+		{ event: "setEmail", email: ""},
+		{ event: "viewHome"});
+	</script>
+
+<!-- Piwik New code
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.giftinginc.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 2]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik.giftinginc.com/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+ End Piwik Code -->
+<script type="text/javascript">
+(function(){"use strict";var e=null,b="4.0.0",
+n="11904",
+additional="",
+t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.substring(0,2048)):""}catch(o){t=document.referrer!==null?document.referrer.toString().substring(0,2048):""}try{r=window&&window.top&&document.location&&window.top.location===document.location?document.location:window&&window.top&&window.top.location&&""!==window.top.location?window.top.location:document.location}catch(u){r=document.location}try{i=parent.location.href!==""?encodeURIComponent(parent.location.href.toString().substring(0,2048)):""}catch(a){try{i=r!==null?encodeURIComponent(r.toString().substring(0,2048)):""}catch(f){i=""}}var l,c=document.createElement("script"),h=null,p=document.getElementsByTagName("script"),d=Number(p.length)-1,v=document.getElementsByTagName("script")[d];if(typeof l==="undefined"){l=Math.floor(Math.random()*1e17)}h="dx.steelhousemedia.com/spx?"+"dxver="+b+"&shaid="+n+"&tdr="+t+"&plh="+i+"&cb="+l+additional;c.type="text/javascript";c.src=("https:"===document.location.protocol?"https://":"http://")+h;v.parentNode.insertBefore(c,v)})()
+</script>
+</div>
+
+</div>
+</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+                
+		
+		
+		 
+		 
+
+        	
+<div id="catalogselector">
+		No catalogs found!
+	</div>
+<div id="livezilla_tracking" style="display:none"></div>
+<script type="text/javascript"><!--//<![CDATA[
+var CATALOG_TIME_OFFSET = 0;
+var imageURL = "http://ia1.pickupflowers.com";	
+var CURRENT_CATEGORY_ID = null;
+var CURRENT_CATALOG_ID = 'international'; 
+var CURRENT_CITY_ID="";
+var CURRENT_STATE_ID="";
+var product_tag="";
+	//Embedded LiveZilla
+	//LiveZilla Tracking Code (ALWAYS PLACE IN BODY ELEMENT)
+	var script = document.createElement("script");script.type="text/javascript";
+	var src = "http://livechat.giftinginc.com/server.php?request=track&output=jcrpt&eh=aHR0cDovL2ltYWdlcy5waWNrdXBmbG93ZXJzLmNvbS9pbWFnZXMvZWNvbW1lcmNlL3B1Zi1jaGF0LWhlYWRlci1pbWFnZS5qcGc%3D&nse="+Math.random();
+	var livezillaTimeOut=setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);
+
+//]]>--></script>
+<noscript>
+		<img alt="" height="0" src="http://livechat.giftinginc.com/server.php?request=track&amp;output=nojcrpt" style="visibility:hidden;" width="0"/>
+</noscript>
+
+
+
+</body></html>

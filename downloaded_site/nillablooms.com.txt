@@ -1,0 +1,2645 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]--><!--[if IE 8 ]><html dir="ltr" lang="en" class="ie8"><![endif]--><!--[if IE 9 ]><html dir="ltr" lang="en" class="ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html dir="ltr" lang="en"><!--<![endif]--><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Send flowers to Coimbatore, Bouquet, gifts &amp; cakes delivery in Coimbatore</title>
+<base href="http://www.nillablooms.com/"/>
+<meta content="Send Flowers, Flower bouquet to Coimbatore - Online gifts, cakes &amp; toys delivery in &amp; to Coimbatore. Flower, florist shop in Coimbatore. Same day door delivery." name="description"/>
+<meta content="Flower shop - Send Flowers, Flower bouquet online delivery to Coimbatore. Send gifts, soft toys online delivery to Coimbatore, Pollachi, Mettupalayam" name="keywords"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<link href="http://www.nillablooms.com/image/catalog/cart.png" rel="icon"/>
+<script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<link href="catalog/view/javascript/bootstrap/css/bootstrap.min.css" media="screen" rel="stylesheet"/>
+<script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+
+
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Lato:400,900,700" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,500,600,700,900,800,300" rel="stylesheet" type="text/css"/>
+
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,400i,300,700" rel="stylesheet" type="text/css"/>
+
+
+<link href="catalog/view/theme/micra/stylesheet/stylesheet.css" rel="stylesheet"/>
+<link href="catalog/view/theme/micra/stylesheet/font-awesome.css" rel="stylesheet"/>
+<link href="catalog/view/theme/micra/stylesheet/animate.css" rel="stylesheet"/>
+<link href="catalog/view/theme/micra/stylesheet/jquery.mobile-menu.css" rel="stylesheet" type="text/css"/>
+<link href="catalog/view/theme/micra/stylesheet/style.css" rel="stylesheet"/>
+
+
+
+<style type="text/css">
+
+/* sale label */
+.sale-label {background:#00adef}
+
+/*Main color section */
+
+
+/* header color section */ 
+
+
+/*Top Menu */
+/*background*/
+/*main menu links*/
+/*main menu link hover*/
+/*sub links hover*/
+ 
+
+/*buttons*/
+
+
+/*price*/
+
+/*footer*/
+
+</style>
+
+<link href="catalog/view/theme/micra/stylesheet/revslider.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="catalog/view/theme/micra/stylesheet/full-slider.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="catalog/view/javascript/jquery/owl-carousel/owl.carousel.css" media="screen" rel="stylesheet" type="text/css"/>
+
+<!-- <script src="catalog/view/javascript/common.js" type="text/javascript"></script> -->
+<script src="catalog/view/theme/micra/js/parallax.js" type="text/javascript"></script>
+<script src="catalog/view/theme/micra/js/common.js" type="text/javascript"></script>
+<script src="catalog/view/theme/micra/js/common1.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/jquery/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+<script src="catalog/view/theme/micra/js/jquery.mobile-menu.min.js" type="text/javascript"></script>
+<link href="catalog/view/theme/micra/js/fancybox/jquery.fancybox.css" rel="stylesheet"/>
+<script src="catalog/view/theme/micra/js/fancybox/jquery.fancybox.js" type="text/javascript"></script>
+
+<script src="catalog/view/theme/micra/js/revslider.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/jquery/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58800807-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+<body class="common-home">
+
+<div id="page">
+  <header class="header-container">
+    <div class="header-top">
+      <div class="container">
+        <div class="row">
+          
+          <div class="col-lg-6 col-md-4 col-sm-3 col-xs-12">
+                        <div class="phone hidden-xs">
+                <div class="phone-box"><strong>Call:</strong> <span>+91 99659 08888</span></div>
+            </div>
+                        
+             <div class="welcome-msg hidden-xs">Welcome visitor!</div>
+             <a class="track-order" href="http://www.nillablooms.com/index.php?route=account/order">Track Order</a> <a class="track-order" href="http://www.nillablooms.com/index.php?route=checkout/checkout">Quick Checkout</a>
+          </div>
+          
+          <div class="col-lg-6 col-md-8 col-sm-9 col-xs-12">
+            <div class="top-cart-contain">
+              <div class="mini-cart">
+              <div id="cart">
+
+  <div class="header basket dropdown-toggle">
+   <a href="http://www.nillablooms.com/index.php?route=checkout/cart"><i class="icon-cart"></i> <span class="before-cart-total cart-box"><span id="cart-total">0</span></span></a>
+  </div>
+
+
+  <ul class="dropdown-menu pull-right top-cart-content arrow_box">
+   
+        <li>
+      <p class="text-center">Your shopping cart is empty!</p>
+    </li>
+      </ul>
+</div>
+              </div>
+            </div><!-- top-cart-contain -->
+
+            <!-- <div class="collapse navbar-collapse">
+              <div class="navbar-form" role="search">
+                <div class="input-group">
+                  <input type="text" class="form-control b" placeholder="Search" name="search">
+                  <span class="input-group-btn">
+                  <button type="reset" class="btn btn-default a"> <span class="glyphicon glyphicon-remove"> <span class="sr-only">Close</span> </span> </button>
+                  <button type="text" class="btn btn-default"> <span class="glyphicon glyphicon-search"> <span class="sr-only">Search</span> </span> </button>
+                  </span> </div>
+              </div>
+            </div> -->
+
+<div class="search-bar" id="form-search">
+   <div id="search_mini_form">                     
+        <input autocomplete="off" class="search-bar-input" maxlength="128" name="search" placeholder="Search" type="text" value="women"/>
+        <div class="search-icon a" title="Search"><span></span></div>
+        <button class="search-icon b" style="display:none" title="Search"><span></span></button>
+
+       
+      
+   </div>
+ </div>
+<script type="text/javascript">
+            new UISearch(document.getElementById('form-search'));
+</script>             
+<script>
+$('.search-bar .a').click(function() {
+//$('#form-search').attr('class','search-bar search-bar-open');
+$('#form-search .a').hide();
+$('#form-search .b').show();
+});
+</script>
+
+<script>
+// jQuery(document).ready(function(){
+// $('.glyphicon-search').click(function() {
+// $('.navbar-form').attr('class','navbar-form active');
+//$('#form-search .a').hide();
+//$('#form-search .b').show();
+// });
+// });
+</script>
+
+
+<!-- <div id="form-search" class="search-bar">
+   <a  id="search_mini_form">                     
+        <input type="text" maxlength="128" value="" placeholder="" name="search" class="search-bar-input" autocomplete="off">
+        <div class="search-icon a" title="Search"><span></span></div>
+        <button class="search-icon b" title="Search" style="display:none"><span></span></button>
+  </a>
+ </div> -->
+<script>
+// $('.search-bar .a').click(function() {
+// //$('#form-search').attr('class','search-bar search-bar-open');
+// $('#form-search .a').hide();
+// $('#form-search .b').show();
+// });
+</script>
+            <div class="toplinks">
+              <div class="links">
+                <div class="login">
+                                <a href="http://www.nillablooms.com/index.php?route=account/login" title="Login"><span class="hidden-xs">Login</span></a>
+
+                                </div>
+                
+                <div class="wishlist"><a href="http://www.nillablooms.com/index.php?route=account/wishlist" title="0"><span class="hidden-xs"><i class="icon-star"> </i><span class="wishlist-items" id="wishlist-total">0</span></span></a>
+                </div>
+
+              </div>
+            </div><!-- toplinks -->
+            
+                            <div class="dropdown block-currency-wrapper">
+<form action="http://www.nillablooms.com/index.php?route=common/currency/currency" enctype="multipart/form-data" id="currency" method="post">
+
+    <a class="block-currency dropdown-toggle" data-toggle="dropdown">
+                    <!-- <strong></strong> -->
+     INR<span class="caret"></span>
+                            </a>
+
+    <ul class="dropdown-menu">
+                  <li><a class="currency-select btn btn-link btn-block" name="EUR">€ Euro</a></li>
+                        <li><a class="currency-select btn btn-link btn-block" name="INR">Rs  Indian Rupee</a></li>
+                        <li><a class="currency-select btn btn-link btn-block" name="GBP">£ Pound Sterling</a></li>
+                        <li><a class="currency-select btn btn-link btn-block" name="USD">$ US Dollar</a></li>
+                </ul>
+  
+  <input name="code" type="hidden" value=""/>
+  <input name="redirect" type="hidden" value="http://www.nillablooms.com/index.php?route=common/home"/>
+</form>
+</div>
+              
+            
+            
+              
+           
+          </div>
+
+        </div><!-- row -->
+      </div><!-- container -->
+    </div><!-- header-top -->
+  </header>
+  
+  <nav>
+    <div class="header container">
+    <div class="row">
+    <div class="col-xs-12">
+
+      <div class="mm-toggle-wrap">
+      <div class="mm-toggle"> <i class="icon-align-justify"></i><span class="mm-label">Menu</span> </div>
+      </div>
+     
+            <a class="logo" href="http://www.nillablooms.com/index.php?route=common/home"><img alt="Nilla Blooms" class="img-responsive" src="http://www.nillablooms.com/image/catalog/logo/logo.png" title="Nilla Blooms"/></a>
+        
+     
+
+      <div class="nav-inner">
+
+
+    <ul class="hidden-xs" id="nav">
+        <li class="level0 nav-5 level-top"><a class="active level-top" href="http://www.nillablooms.com/index.php?route=common/home" id="tab_home"><span>Home</span></a></li>
+      <li class="level0 level-top parent">
+      <a class="" href="http://www.nillablooms.com/cakes">
+      <span>Cakes</span>  </a>
+                  <div class="level0-wrapper dropdown-6col" style="left: 0px; display: none;">    
+
+      <div class="level0-wrapper2">
+       
+    
+
+
+          <div class="nav-block nav-block-center">
+          
+          <ul class="level0">
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/cakes/send-five-star-rated-cakes"><span>5 Star Rated</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/cakes/send-delightful-cakes-online"><span>Delightful</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/cakes/send-designer-cakes-online"><span>Designer cake</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/cakes/send-premium-cakes-online"><span>Premium</span></a>
+                    </li>
+                              </ul>
+
+          
+          </div>
+
+
+          
+
+                    </div>
+      </div>  
+          </li>
+      <li class="level0 level-top parent">
+      <a class="" href="http://www.nillablooms.com/products">
+      <span>Flowers</span>  </a>
+                  <div class="level0-wrapper dropdown-6col" style="left: 0px; display: none;">    
+
+      <div class="level0-wrapper2">
+       
+    
+
+
+          <div class="nav-block nav-block-center">
+          
+          <ul class="level0">
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/products/choose-the-flower"><span>Choose The Flower </span></a>
+                    <ul class="level1">
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/choose-the-flower/flower-bouquets"><span>Carnation</span></a></li>
+
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/choose-the-flower/send-gerbera-flower-bouquets"><span>Gerbera </span></a></li>
+
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/choose-the-flower/mixed-color-flower-bouquets"><span>Mixed Color Flowers</span></a></li>
+
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/choose-the-flower/send-red-rose-flower-bouquets"><span>Rose</span></a></li>
+
+
+                    </ul>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/products/send-flowers-gifts-for-occasions"><span>Occassions</span></a>
+                    <ul class="level1">
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/send-flowers-gifts-for-occasions/send-gifts-for-birthday"><span>Birthday Special</span></a></li>
+
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/send-flowers-gifts-for-occasions/wedding-anniversary-gifts-flowers"><span>Happy Anniversary</span></a></li>
+
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/send-flowers-gifts-for-occasions/i-am-sorry-flowers"><span>I Am Sorry</span></a></li>
+
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/send-flowers-gifts-for-occasions/flowers-gifts-for-marriage"><span>Marriage gifts</span></a></li>
+
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/send-flowers-gifts-for-occasions/send-retirement-flowers"><span>Retirement</span></a></li>
+
+
+                    </ul>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/products/other-products"><span>Other Products</span></a>
+                    <ul class="level1">
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/other-products/send-handy-combo"><span>Handy Combos</span></a></li>
+
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/other-products/soft-toys-gifts"><span>Soft Toys</span></a></li>
+
+
+                    </ul>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/products/party-decoration-services"><span>Party Decors</span></a>
+                    <ul class="level1">
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/party-decoration-services/birthday-party-balloon-decoration"><span>Balloon Bonaza</span></a></li>
+
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/index.php?route=product/category&amp;path=90_91_75"><span>BirthDay Blast </span></a></li>
+
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/party-decoration-services/wedding-stage-decoration"><span>Wedding Stage Decoration</span></a></li>
+
+
+                    </ul>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/products/special-color-bouquet-and-basket"><span>Special Color Bouquet and Basket</span></a>
+                    <ul class="level1">
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/special-color-bouquet-and-basket/send-flower-choco-basket"><span>Choco Basket </span></a></li>
+
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/special-color-bouquet-and-basket/grand-arrangement-flowers"><span>Grand Arrangement </span></a></li>
+
+
+                    <li class="level2 nav-6-1-1"><a href="http://www.nillablooms.com/products/special-color-bouquet-and-basket/send-hand-flower-bouquets"><span>Hand Bouquet Type </span></a></li>
+
+
+                    </ul>
+                    </li>
+                              </ul>
+
+          
+          </div>
+
+
+          
+
+                    </div>
+      </div>  
+          </li>
+      <li class="level0 level-top parent">
+      <a class="" href="http://www.nillablooms.com/Send-Flowers-by-Location">
+      <span>Send Flowers by Location</span>  </a>
+                  <div class="level0-wrapper dropdown-6col" style="left: 0px; display: none;">    
+
+      <div class="level0-wrapper2">
+       
+    
+
+
+          <div class="nav-block nav-block-center">
+          
+          <ul class="level0">
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/send-flowers-to-amirta"><span>Send Flowers to Amirta</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Annur"><span>Send Flowers to Annur</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Avinashi"><span>Send Flowers to Avinashi</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/send-flowers-to-chennai"><span>Send Flowers to Chennai</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Coimbatore"><span>Send Flowers to Coimbatore</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Coonoor"><span>Send Flowers to Coonoor</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/send-flowers-to-karunya"><span>Send Flowers to Karunya</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Mettupalayam"><span>Send Flowers to Mettupalayam</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Ooty"><span>Send Flowers to Ooty</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-palakkad"><span>Send Flowers to palakkad</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Pollachi"><span>Send Flowers to Pollachi</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/send-flowers-to-psg"><span>Send Flowers to psg</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/send-flowers-to-salem"><span>Send Flowers to Salem</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Saravanampatti"><span>Send Flowers to Saravanampatti</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Sathyamangalam"><span>Send Flowers to Sathyamangalam</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Sulur"><span>Send Flowers to Sulur</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Tirupur"><span>Send Flowers to Tirupur</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Trichy"><span>Send Flowers to Trichy</span></a>
+                    </li>
+                              </ul>
+
+          
+          </div>
+
+
+          
+
+                    </div>
+      </div>  
+          </li>
+      <li class="level0 level-top parent">
+      <a class="" href="http://www.nillablooms.com/Send-Gifts-by-Locaition">
+      <span>Send Gifts by Location</span>  </a>
+                  <div class="level0-wrapper dropdown-6col" style="left: 0px; display: none;">    
+
+      <div class="level0-wrapper2">
+       
+    
+
+
+          <div class="nav-block nav-block-center">
+          
+          <ul class="level0">
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Amirta"><span>Send Gifts to Amirta</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Annur"><span>Send Gifts to Annur</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Avinashi"><span>Send Gifts to Avinashi</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Chennai"><span>Send Gifts to Chennai</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Coimbatore"><span>Send Gifts to Coimbatore</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Coonoor"><span>Send Gifts to Coonoor</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Karunya"><span>Send Gifts to Karunya</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Mettupalayam"><span>Send Gifts to Mettupalayam</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Ooty"><span>Send Gifts to Ooty</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Palakkad"><span>Send Gifts to Palakkad</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Pollachi"><span>Send Gifts to Pollachi</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Psg"><span>Send Gifts to Psg</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Salem"><span>Send Gifts to Salem</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Saravanampatti"><span>Send Gifts to Saravanampatti</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Sathyamangalam"><span>Send Gifts to Sathyamangalam</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Sulur"><span>Send Gifts to Sulur</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Tirupur"><span>Send Gifts to Tirupur</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Trichy"><span>Send Gifts to Trichy</span></a>
+                    </li>
+                              </ul>
+
+          
+          </div>
+
+
+          
+
+                    </div>
+      </div>  
+          </li>
+      <li class="level0 level-top parent">
+      <a class="" href="http://www.nillablooms.com/special-occasions">
+      <span>Special Occasions</span>  </a>
+                  <div class="level0-wrapper dropdown-6col" style="left: 0px; display: none;">    
+
+      <div class="level0-wrapper2">
+       
+    
+
+
+          <div class="nav-block nav-block-center">
+          
+          <ul class="level0">
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/special-occasions/christmas-offer"><span>Christmas Offer</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/special-occasions/diwali-offer"><span>Diwali Offer</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/special-occasions/new-year-offer"><span>New Year Offer</span></a>
+                    </li>
+                                        <li class="level1 nav-6-1 parent item">
+           
+          <a href="http://www.nillablooms.com/special-occasions/valentines-day-offer"><span>Valentines Day Offer</span></a>
+                    </li>
+                              </ul>
+
+          
+          </div>
+
+
+          
+
+                    </div>
+      </div>  
+          </li>
+      <li class="level0 level-top parent">
+      <a class="" href="http://www.nillablooms.com/send-sweets-online">
+      <span>Sweets </span>  </a>
+                </li>
+            </ul>
+    
+
+
+      </div><!-- <div class="nav-inner"> -->
+     
+
+    </div>
+    </div>
+    </div>
+
+  </nav>
+  <style type="text/css">
+#mgkquickview {
+  display: none;
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 100%;
+  height: 1200px;
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+  </style><div class="magik-slideshow" id="magik-slideshow">
+  <div class="rev_slider_wrapper fullwidthbanner-container" id="rev_slider_4_wrapper">
+        <div class="rev_slider fullwidthabanner" id="rev_slider_4">
+          <ul>
+                          <style>#ms0{ cursor: pointer;}</style>
+                    <script type="text/javascript">
+                    $(document).ready(function(){
+                           $("#ms0").click(function() {
+                                  window.open('','_blank');
+                           });   });  </script>
+                    
+                    <li data-masterspeed="1000" data-slotamount="7" data-thumb="http://www.nillablooms.com/image/cache/catalog/ganesh-chaturti-1920x680.png" data-transition="random" id="ms0">
+                <img data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" src="http://www.nillablooms.com/image/cache/catalog/ganesh-chaturti-1920x680.png" title=""/>
+                              </li>
+                          <style>#ms1{ cursor: pointer;}</style>
+                    <script type="text/javascript">
+                    $(document).ready(function(){
+                           $("#ms1").click(function() {
+                                  window.open('','_blank');
+                           });   });  </script>
+                    
+                    <li data-masterspeed="1000" data-slotamount="7" data-thumb="http://www.nillablooms.com/image/cache/catalog/logo/slider1-1920x680.jpg" data-transition="random" id="ms1">
+                <img data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" src="http://www.nillablooms.com/image/cache/catalog/logo/slider1-1920x680.jpg" title=""/>
+                              </li>
+                          <style>#ms2{ cursor: pointer;}</style>
+                    <script type="text/javascript">
+                    $(document).ready(function(){
+                           $("#ms2").click(function() {
+                                  window.open('','_blank');
+                           });   });  </script>
+                    
+                    <li data-masterspeed="1000" data-slotamount="7" data-thumb="http://www.nillablooms.com/image/cache/catalog/logo/slider2-1920x680.jpg" data-transition="random" id="ms2">
+                <img data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" src="http://www.nillablooms.com/image/cache/catalog/logo/slider2-1920x680.jpg" title=""/>
+                              </li>
+                          <style>#ms3{ cursor: pointer;}</style>
+                    <script type="text/javascript">
+                    $(document).ready(function(){
+                           $("#ms3").click(function() {
+                                  window.open('','_blank');
+                           });   });  </script>
+                    
+                    <li data-masterspeed="1000" data-slotamount="7" data-thumb="http://www.nillablooms.com/image/cache/catalog/demo/discount-banner-min-1920x680-1920x680.jpg" data-transition="random" id="ms3">
+                <img data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" src="http://www.nillablooms.com/image/cache/catalog/demo/discount-banner-min-1920x680-1920x680.jpg" title=""/>
+                              </li>
+                          <style>#ms4{ cursor: pointer;}</style>
+                    <script type="text/javascript">
+                    $(document).ready(function(){
+                           $("#ms4").click(function() {
+                                  window.open('','_blank');
+                           });   });  </script>
+                    
+                    <li data-masterspeed="1000" data-slotamount="7" data-thumb="http://www.nillablooms.com/image/cache/catalog/slide-11-1920x680.png" data-transition="random" id="ms4">
+                <img data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" src="http://www.nillablooms.com/image/cache/catalog/slide-11-1920x680.png" title=""/>
+                              </li>
+                      </ul>
+        </div><!-- rev_slider_4 -->
+    </div><!-- rev_slider_4_wrapper -->
+</div>
+
+
+</div><!-- page started in header-->
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+jQuery('#rev_slider_4').show().revolution({
+dottedOverlay: 'none',
+delay: 5000,
+startwidth: 1920,
+startheight: 680,
+
+hideThumbs: 200,
+thumbWidth: 200,
+thumbHeight: 50,
+thumbAmount: 2,
+
+navigationType: 'thumb',
+navigationArrows: 'solo',
+navigationStyle: 'round',
+
+touchenabled: 'on',
+onHoverStop: 'on',
+
+swipe_velocity: 0.7,
+swipe_min_touches: 1,
+swipe_max_touches: 1,
+drag_block_vertical: false,
+
+spinner: 'spinner0',
+keyboardNavigation: 'off',
+
+navigationHAlign: 'center',
+navigationVAlign: 'bottom',
+navigationHOffset: 0,
+navigationVOffset: 20,
+
+soloArrowLeftHalign: 'left',
+soloArrowLeftValign: 'center',
+soloArrowLeftHOffset: 20,
+soloArrowLeftVOffset: 0,
+
+soloArrowRightHalign: 'right',
+soloArrowRightValign: 'center',
+soloArrowRightHOffset: 20,
+soloArrowRightVOffset: 0,
+
+shadow: 0,
+fullWidth: 'on',
+fullScreen: 'off',
+
+stopLoop: 'off',
+stopAfterLoops: -1,
+stopAtSlide: -1,
+
+shuffle: 'off',
+
+autoHeight: 'off',
+forceFullWidth: 'on',
+fullScreenAlignForce: 'off',
+minFullScreenHeight: 0,
+hideNavDelayOnMobile: 1500,
+
+hideThumbsOnMobile: 'off',
+hideBulletsOnMobile: 'off',
+hideArrowsOnMobile: 'off',
+hideThumbsUnderResolution: 0,
+
+hideSliderAtLimit: 0,
+hideCaptionAtLimit: 0,
+hideAllCaptionAtLilmit: 0,
+startWithSlide: 0,
+fullScreenOffsetContainer: ''
+});
+});
+</script><div>
+    <div class="offer-banner-section"><div class="container"><div class="row"><div class="col over-effect col-lg-4 col-xs-12 col-sm-4 wow bounceInUp animated"><img alt="offer banner1" src="http://www.nillablooms.com/image/catalog/logo/special-occasion.jpg"/><div class="mask"><a class="info" href="#">Read More</a></div>
+
+
+
+
+</div>
+
+
+
+
+<div class="col over-effect col-lg-4 col-xs-12 col-sm-4 wow bounceInLeft animated"><img alt="offer banner2" src="http://www.nillablooms.com/image/catalog/logo/instant-delivery.jpg"/><div class="mask"><a class="info" href="#">Read More</a></div>
+
+
+
+
+</div>
+
+
+
+
+<div class="col over-effect col-lg-4 col-xs-12 col-sm-4 wow bounceInRight animatedt"><img alt="offer banner3" src="http://www.nillablooms.com/image/catalog/offer.png"/><div class="mask"><a class="info" href="#">Read More</a></div>
+
+
+
+
+</div>
+
+
+
+
+</div>
+
+
+
+
+</div>
+
+
+
+
+</div></div>
+<div class="featured-pro container wow bounceInUp animated">
+<div class="slider-items-products">
+<div class="new_title center"><h2>Featured</h2></div>
+<div class="product-flexslider hidden-buttons" id="featured-slider">
+  <div class="slider-items slider-width-col4"> 
+                <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="100 Mixed Color Rose hand bunch" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/100 Mixed Rose-200x200.jpg" style="display: block;"/> 
+                  <img alt="100 Mixed Color Rose hand bunch" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/100 Mixed Rose-200x200.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('291');"><i class="icon-shopping-cart"> </i>Add to Cart</a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=291');" title="Quick View" type="button"><i class="icon-zoom"> </i>Quick View</a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/send-100-mixed-color-rose-flower-bouquet" title="100 Mixed Color Rose hand bunch">100 Mixed Color Rose hand bunch</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 5,538.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 3,930.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt=" Mangala pookal" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/Mangala pookal-200x200.jpg" style="display: block;"/> 
+                  <img alt=" Mangala pookal" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/Mangala pookal-200x200.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('162');"><i class="icon-shopping-cart"> </i>Add to Cart</a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=162');" title="Quick View" type="button"><i class="icon-zoom"> </i>Quick View</a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/send-mangala-pookal-flower-bouquet" title=" Mangala pookal"> Mangala pookal</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 2,413.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 1,930.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="Best Of All" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/Best best-200x200.jpg" style="display: block;"/> 
+                  <img alt="Best Of All" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/Best best-200x200.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('191');"><i class="icon-shopping-cart"> </i>Add to Cart</a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=191');" title="Quick View" type="button"><i class="icon-zoom"> </i>Quick View</a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=191" title="Best Of All">Best Of All</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 11,048.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 8,838.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="Bunch of 8 gerbera Flowers" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/Bunch of 20 Flowers-200x200.jpg" style="display: block;"/> 
+                  <img alt="Bunch of 8 gerbera Flowers" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/Bunch of 20 Flowers-200x200.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('286');"><i class="icon-shopping-cart"> </i>Add to Cart</a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=286');" title="Quick View" type="button"><i class="icon-zoom"> </i>Quick View</a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=286" title="Bunch of 8 gerbera Flowers">Bunch of 8 gerbera Flowers</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 596.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 387.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="colorful gerbera " class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/bunch of 35-200x200.jpg" style="display: block;"/> 
+                  <img alt="colorful gerbera " class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/bunch of 35-200x200.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('283');"><i class="icon-shopping-cart"> </i>Add to Cart</a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=283');" title="Quick View" type="button"><i class="icon-zoom"> </i>Quick View</a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=283" title="colorful gerbera ">colorful gerbera </a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 750.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 600.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="LOVE YOU FOREVER" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/Love you forever-200x200.jpg" style="display: block;"/> 
+                  <img alt="LOVE YOU FOREVER" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/Love you forever-200x200.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('346');"><i class="icon-shopping-cart"> </i>Add to Cart</a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=346');" title="Quick View" type="button"><i class="icon-zoom"> </i>Quick View</a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/Valentines-Day-Special-Love-You-Forever" title="LOVE YOU FOREVER">LOVE YOU FOREVER</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 1,673.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 1,338.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+      </div><!-- slider-items -->
+</div><!-- featured-slider -->
+</div>
+</div><div>
+    <div class="offer-banner-section"><div class="container"><div class="row"><div class="offer-inner col-lg-12"><!--newsletter-wrap--><div class="left wow bounceInLeft animated"><div class="col"><a href="http://www.nillablooms.com/send-gifts-for-birthday"><img alt="offer banner1" src="http://www.nillablooms.com/image/catalog/logo/bs-flower.jpg"/></a></div>
+<div class="col mid"><a href="http://www.nillablooms.com/send-delightful-cakes-online"><img alt="offer banner1" src="http://www.nillablooms.com/image/catalog/logo/delightful-cakes.jpg"/></a></div>
+<div class="col last"><a href="http://www.nillablooms.com/products/special-color-bouquet-and-basket/grand-arrangement-flowers"><img alt="offer banner3" src="http://www.nillablooms.com/image/catalog/logo/middle-offer-banner3.jpg"/></a></div>
+</div>
+<div class="right wow bounceInRight animated"><div class="col"><div class="add-slider"><ul id="add-slideshow">
+<li><a href="http://www.nillablooms.com/products" title=""><img alt="" src="http://www.nillablooms.com/image/catalog/logo/flower1.jpg"/></a></li>
+<!--<li><a href="#" title=""><img src="catalog/view/theme/micra/image/middle-offer-banner5.jpg" alt=""></a></li>
+<li><a href="#/" title=""><img src="catalog/view/theme/micra/image/middle-offer-banner6.jpg" alt=""></a></li>
+--></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="middle-slider container">
+<div class="row">
+<div class="col-md-12">
+<div class="bag-product-slider small-pr-slider wow bounceInLeft animated">
+<div class="slider-items-products">
+<div class="new_title center"><h2>Rose</h2></div>
+<div class="product-flexslider hidden-buttons" id="bag-seller-slider">
+     <div class="slider-items slider-width-col3"> 
+                       <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="Bunch Of 10 Rose" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/twenty-four-roses-700x850.jpg" style="display: block;"/> 
+                  <img alt="Bunch Of 10 Rose" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/twenty-four-roses-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('274');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=274');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/send-bunch-of-10-roses" title="Bunch Of 10 Rose">Bunch Of 10 Rose</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 525.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 350.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                       <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="Bunch Of 100 Red Rose" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/100 Red Rose-700x850.jpg" style="display: block;"/> 
+                  <img alt="Bunch Of 100 Red Rose" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/100 Red Rose-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('280');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=280');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=280" title="Bunch Of 100 Red Rose">Bunch Of 100 Red Rose</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 3,513.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 3,010.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                       <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="Bunch Of 15 Red Rose" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/foto 152-700x850.jpg" style="display: block;"/> 
+                  <img alt="Bunch Of 15 Red Rose" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/foto 152-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('275');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=275');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=275" title="Bunch Of 15 Red Rose">Bunch Of 15 Red Rose</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 694.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 555.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                       <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="Bunch Of 20 Red Rose" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/bunch of red rose-700x850.jpg" style="display: block;"/> 
+                  <img alt="Bunch Of 20 Red Rose" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/bunch of red rose-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('276');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=276');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=276" title="Bunch Of 20 Red Rose">Bunch Of 20 Red Rose</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 863.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 690.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                       <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="Bunch Of 25 mixed flowers" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/Bunch of 30 Flowers-700x850.jpg" style="display: block;"/> 
+                  <img alt="Bunch Of 25 mixed flowers" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/Bunch of 30 Flowers-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('277');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=277');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=277" title="Bunch Of 25 mixed flowers">Bunch Of 25 mixed flowers</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 1,088.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 990.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                       <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="Bunch Of 30 Rose" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/bunch of 25 roses-700x850.jpg" style="display: block;"/> 
+                  <img alt="Bunch Of 30 Rose" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/bunch of 25 roses-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('278');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=278');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=278" title="Bunch Of 30 Rose">Bunch Of 30 Rose</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 1,363.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 1,090.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                       <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="Bunch Of 50 Rose" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/Bunch of 50 Rose-700x850.jpg" style="display: block;"/> 
+                  <img alt="Bunch Of 50 Rose" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/Bunch of 50 Rose-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('279');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=279');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=279" title="Bunch Of 50 Rose">Bunch Of 50 Rose</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 2,175.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 1,740.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                       <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="Bunch Of 75 Rose" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/75 Roses-700x850.jpg" style="display: block;"/> 
+                  <img alt="Bunch Of 75 Rose" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/75 Roses-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('281');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=281');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=281" title="Bunch Of 75 Rose">Bunch Of 75 Rose</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 3,400.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 2,720.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                       <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="Single Rose with Cute Teddy" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/data/21-71-large-700x850.jpg" style="display: block;"/> 
+                  <img alt="Single Rose with Cute Teddy" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/data/21-71-large-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('310');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=310');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/send-single-rose-with-teddy" title="Single Rose with Cute Teddy">Single Rose with Cute Teddy</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 130.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 104.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+        </div>
+  </div><!-- bag-seller-slider -->
+</div>
+</div>
+</div>
+</div>
+</div><div class="recommend container bounceInUp animated">
+<div class="recommend-product-slider small-pr-slider bounceInUp animated">
+<div class="slider-items-products">
+<div class="new_title center">
+<h2>Latest</h2>
+</div>
+<div class="product-flexslider hidden-buttons" id="recommend-slider">
+ <div class="slider-items slider-width-col3"> 
+                    <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="yellow tall" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/yellow tall-700x850.jpg" style="display: block;"/> 
+                  <img alt="yellow tall" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/yellow tall-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('370');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=370');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=370" title="yellow tall">yellow tall</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 1,811.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 1,449.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                    <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="true love" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/true love-700x850.jpg" style="display: block;"/> 
+                  <img alt="true love" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/true love-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('369');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=369');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=369" title="true love">true love</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 1,798.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 1,438.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                    <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="teddy with orchid" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/teddy with orchid-700x850.jpg" style="display: block;"/> 
+                  <img alt="teddy with orchid" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/teddy with orchid-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('368');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=368');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=368" title="teddy with orchid">teddy with orchid</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 1,049.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 839.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                    <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="red suprises" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/red suprises-700x850.jpg" style="display: block;"/> 
+                  <img alt="red suprises" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/red suprises-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('367');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=367');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=367" title="red suprises">red suprises</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 1,020.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 816.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                    <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="pinky tall" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/pinky tall-700x850.jpg" style="display: block;"/> 
+                  <img alt="pinky tall" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/pinky tall-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('366');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=366');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=366" title="pinky tall">pinky tall</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 1,298.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 1,038.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                    <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="pinky rose" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/pinky rose-700x850.jpg" style="display: block;"/> 
+                  <img alt="pinky rose" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/pinky rose-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('365');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=365');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=365" title="pinky rose">pinky rose</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 1,111.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 889.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                    <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="gracefull red arrangement" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/gracefull red arrangement-700x850.jpg" style="display: block;"/> 
+                  <img alt="gracefull red arrangement" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/gracefull red arrangement-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('364');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=364');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=364" title="gracefull red arrangement">gracefull red arrangement</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 4,048.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 3,238.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                    <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="colorfull combo" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/colorfull combo-700x850.jpg" style="display: block;"/> 
+                  <img alt="colorfull combo" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/colorfull combo-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('363');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=363');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=363" title="colorfull combo">colorfull combo</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 1,361.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 1,089.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                    <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="Attractive carnation" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/attractive carnation-700x850.jpg" style="display: block;"/> 
+                  <img alt="Attractive carnation" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/attractive carnation-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('362');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=362');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/Send-flower-for -admirable" title="Attractive carnation">Attractive carnation</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 1,438.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 1,090.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+                    <div class="item">
+                  <div class="product-block">
+                                    <div class="product-image">
+                  <a href="javascript:;">
+                  <figure class="product-display">
+                                    <div class="sale-label sale-top-right">Sale</div>
+                                    <img alt="simple cute" class="lazyOwl product-mainpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/simple cute-700x850.jpg" style="display: block;"/> 
+                  <img alt="simple cute" class="product-secondpic img-responsive" src="http://www.nillablooms.com/image/cache/catalog/simple cute-700x850.jpg" width="258"/> 
+                  </figure>
+                  </a> 
+                  </div><!-- product-image -->    
+                  <div class="product-meta">
+                  <div class="product-action">
+                  <a class="addcart" onclick="cart.add('361');"><i class="icon-shopping-cart"> </i></a>
+                                    <a class="quickview" data-fancybox-type="ajax" onclick="callQuickView('index.php?route=product/quickview&amp;product_id=361');" title="Quick View" type="button"><i class="icon-zoom"> </i></a>
+                   
+                  </div>
+                  </div><!-- product-meta -->
+                                    </div><!-- product-block -->
+
+
+                  <div class="item-info">
+                  <div class="info-inner">
+                  <div class="item-title"> <a href="http://www.nillablooms.com/index.php?route=product/product&amp;product_id=361" title="simple cute">simple cute</a> 
+                  </div>
+                  <div class="item-content">
+                                    <div class="item-price">
+                  <div class="price-box"> 
+                                    <span class="old-price"><span class="price">Rs 874.00</span></span> 
+                  <span class="special-price"><span class="price">Rs 699.00</span></span>
+                                                      </div>
+                  </div>
+                                                      <div class="rating">
+                  <div class="ratings">
+                  <div class="rating-box">
+                                                      <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                      </div>
+                  </div>
+                  </div><!-- rating -->
+                                      
+                  </div><!-- item-content -->
+                  </div><!-- info-inner -->
+                  </div><!-- item-info -->
+
+
+              </div><!-- item -->
+   </div><!-- slider-items -->
+</div><!-- recommend-slider -->
+</div>
+</div>
+</div><div class="brand-logo wow bounceInUp animated">
+    <div class="container">
+      <div class="slider-items-products">
+        <div class="product-flexslider hidden-buttons" id="brand-logo-slider0">
+          <div class="slider-items slider-width-col6">
+            
+                        
+                        <div class="item"><img alt="RedBull" class="img-responsive" src="http://www.nillablooms.com/image/cache/catalog/demo/manufacturer/redbull-130x50.png"/></div>
+                                    
+                        <div class="item"><img alt="Sony" class="img-responsive" src="http://www.nillablooms.com/image/cache/catalog/demo/manufacturer/sony-130x50.png"/></div>
+                                    
+                        <div class="item"><img alt="Coca Cola" class="img-responsive" src="http://www.nillablooms.com/image/cache/catalog/demo/manufacturer/cocacola-130x50.png"/></div>
+                                    
+                        <div class="item"><img alt="Burger King" class="img-responsive" src="http://www.nillablooms.com/image/cache/catalog/demo/manufacturer/burgerking-130x50.png"/></div>
+                                    
+                        <div class="item"><img alt="Canon" class="img-responsive" src="http://www.nillablooms.com/image/cache/catalog/demo/manufacturer/canon-130x50.png"/></div>
+                                    
+                        <div class="item"><img alt="Nintendo" class="img-responsive" src="http://www.nillablooms.com/image/cache/catalog/demo/manufacturer/nintendo-130x50.png"/></div>
+                                    
+                        <div class="item"><img alt="Harley Davidson" class="img-responsive" src="http://www.nillablooms.com/image/cache/catalog/demo/manufacturer/harley-130x50.png"/></div>
+                                    
+                        <div class="item"><img alt="Starbucks" class="img-responsive" src="http://www.nillablooms.com/image/cache/catalog/demo/manufacturer/starbucks-130x50.png"/></div>
+                                    
+                        <div class="item"><img alt="Dell" class="img-responsive" src="http://www.nillablooms.com/image/cache/catalog/demo/manufacturer/dell-130x50.png"/></div>
+                                    
+                        <div class="item"><img alt="NFL" class="img-responsive" src="http://www.nillablooms.com/image/cache/catalog/demo/manufacturer/nfl-130x50.png"/></div>
+                                    
+                        <div class="item"><img alt="Disney" class="img-responsive" src="http://www.nillablooms.com/image/cache/catalog/demo/manufacturer/disney-130x50.png"/></div>
+                        
+          </div><!-- slider-items slider-width-col6 -->
+        </div>
+      </div><!-- slider-items-products -->
+    </div><!-- container -->
+  </div>
+
+<script type="text/javascript"><!--
+$("#brand-logo-slider0 .slider-items").owlCarousel({
+  autoplay : true,
+  items : 6, //10 items above 1000px browser width
+  itemsDesktop : [1024,4], //5 items between 1024px and 901px
+  itemsDesktopSmall : [900,3], // 3 items betweem 900px and 601px
+  itemsTablet: [600,2], //2 items between 600 and 0;
+  itemsMobile : [320,1],
+  navigation : true,
+  navigationText : ["<a class=\"flex-prev\"></a>","<a class=\"flex-next\"></a>"],
+  slideSpeed : 500,
+  pagination : false     
+});
+--></script><!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?2d82HCoPqX3bZQ7OPX2IKonUqFoP6wjI';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+<!--End of Zopim Live Chat Script--><div>
+    <div class="promo-banner-section container wow bounceInDown animated"><div class="row"><div class="col-lg-12 col-sm-12"><div class="new_title center"><h2>Testimonials</h2></div><div class="csslider">        <input checked="" id="slides_1" name="slides" type="radio"/>       <!--  <input type="radio" name="slides" id="slides_2" />        <input type="radio" name="slides" id="slides_3" />        <input type="radio" name="slides" id="slides_4" /> -->        <input id="slides_N" name="slides" type="radio"/>        <ul>            <li>I would like to thank you for handling my two orders. Once again, you have done a wonderful job. I would like to Thank you once again for the awesome work.<br/><strong></strong><p style="text-align:right;margin-top:10px;margin-right:2%;font-size:16px;"><strong> - Ganapathy</strong></p></li>            <li>The flowers are amazing, as usual! Thank you so much! You helped make my parent's Easter wonderful!<br/><strong></strong><p style="text-align:right;margin-top:10px;margin-right:2%;font-size:16px;"><strong> - Joshua</strong></p></li>            <!-- <li>I would like to thank you for handling my two orders. Once again, you have done a wonderful job. I would like to Thank you once again for the awesome work.</li>            <li>The flowers are amazing, as usual! Thank you so much! You helped make my parent's Easter wonderful!</li>            <li>I would like to thank you for handling my two orders. Once again, you have done a wonderful job. I would like to Thank you once again for the awesome work.</li> -->        </ul>        <div class="arrows">            <label for="slides_1"></label>           <!--  <label for="slides_2"></label>            <label for="slides_3"></label>            <label for="slides_4"></label> -->            <label for="slides_N"></label>        </div>        <div class="navigation">            <div>                <label for="slides_1"></label>               <!--  <label for="slides_2"></label>                <label for="slides_3"></label>                <label for="slides_4"></label> -->                <label for="slides_N"></label>            </div>        </div>    </div></div></div></div></div>
+
+
+<div class="our-features-box bounceInUp animated">
+<div class="container">
+<div class="row">
+<div class="col-md-4 col-xs-12 col-sm-4">
+<div class="feature-box">
+<div class="icon-truck"> </div>
+<div class="content">Free Shipping in Coimbatore</div></div>
+</div>
+<div class="col-md-4 col-xs-12 col-sm-4">
+<div class="feature-box">
+<div class="icon-love"> </div>
+<div class="content">Customer Support</div></div>
+</div>
+<div class="col-md-4 col-xs-12 col-sm-4">
+<div class="feature-box">
+<div class="icon-return"> </div>
+<div class="content">30 days money back</div></div>
+</div>
+</div>
+</div>
+</div><footer class="">
+<div class="newsletter-wrap">
+  <div class="container">
+    <div class="row">
+    <div class="col-xs-12">
+      <div class="newsletter">
+
+      <h4>Subscribe for offers</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet cumque, perferendis accusamus porro illo exercitationem molestias.</p>            </div>
+    </div>
+    </div><!-- row -->
+  </div>
+</div><!-- newsletter-wrap -->
+
+<div class="footer-middle" style="padding-top: 35px;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-4">
+             <h4>About Us</h4>
+
+<p style="color:#aaa">Nilla blooms is a floral designing boutique established since 2002. Nilla blooms speciality is in designing. Exquisite flower arrangements that are made from exotic, fresh and beautiful flowers sourced from all parts of India.</p> 
+      </div>
+      
+      <div class="col-md-2 col-sm-4">
+                <h4>Information</h4>
+        <ul class="links">
+                <li class="first"><a href="http://www.nillablooms.com/about_us">About Us</a></li>
+                <li class=""><a href="http://www.nillablooms.com/delivery">Delivery &amp; Shipping Policy</a></li>
+                <li class=""><a href="http://www.nillablooms.com/privacy">Privacy Policy</a></li>
+                <li class=""><a href="http://www.nillablooms.com/refund-and-cancellation-policy">Refund and Cancellation Policy</a></li>
+                <li class=""><a href="http://www.nillablooms.com/terms">Terms &amp; Conditions</a></li>
+                </ul>
+              </div>
+
+      <div class="col-md-2 col-sm-4">
+        <h4>Customer Service</h4>
+      <ul class="links">
+          <li class="first"><a href="http://www.nillablooms.com/index.php?route=information/contact">Contact Us</a></li>
+          <li><a href="http://www.nillablooms.com/index.php?route=account/return/add">Returns</a></li>
+          <li><a href="http://www.nillablooms.com/index.php?route=account/wishlist">Wish List</a></li>
+          <li><a href="http://www.nillablooms.com/index.php?route=information/sitemap">Site Map</a></li>
+          <li class="last"><a href="http://www.nillablooms.com/index.php?route=account/account" title="My Account">My Account</a></li>
+        </ul> 
+      </div>
+
+      <div class="col-md-2 col-sm-4">
+        <h4>Extras</h4>
+      <ul class="links">
+          <li><a href="http://www.nillablooms.com/index.php?route=account/voucher">Gift Vouchers</a></li>
+          <li><a href="http://www.nillablooms.com/index.php?route=affiliate/account">Affiliates</a></li>
+          <li><a href="http://www.nillablooms.com/index.php?route=account/wishlist">Wish List</a></li>
+          <li><a href="http://www.nillablooms.com/index.php?route=account/order">Track Order</a></li>
+          <li class="last"><a href="http://www.nillablooms.com/index.php?route=product/special">Specials</a></li>
+        </ul>
+      </div>
+
+
+      <div class="col-md-3 col-sm-4">
+            <h4>Contact Us</h4>
+            <div class="contacts-info">
+
+                            <address>
+              <i class="add-icon"> </i>
+              1047 COCO HP Petrol Bunk<br/>Avinashi Road CBE-18              </address>
+              
+                            <div class="phone-footer">
+                <i class="phone-icon"> </i> 
+                +91 99659 08888              </div>
+                            
+                
+              <div class="email-footer">
+                <i class="email-icon"> </i> 
+                <a href="#">info@nillablooms.com</a> 
+              </div>
+              
+            </div>
+          </div>
+
+    </div><!-- row -->
+  </div>
+</div><!-- footer-middle -->
+
+<div class="footer-top">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-6">
+            <div class="payment-accept"> 
+              <img alt="payment1" src="catalog/view/theme/micra/image/payment-1.png"/> 
+              <img alt="payment2" src="catalog/view/theme/micra/image/payment-2.png"/> 
+              <img alt="payment3" src="catalog/view/theme/micra/image/payment-3.png"/> 
+              <img alt="payment4" src="catalog/view/theme/micra/image/payment-4.png"/>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-6">
+            <div class="social">
+              <ul>
+                            <li class="fb"><a href="https://www.facebook.com/nillablooms.florist" target="_blank"></a></li>
+                                          <li class="tw"><a href="https://twitter.com/Nillablooms" target="_blank"></a></li>
+                                          <li class="googleplus"><a href="https://plus.google.com/104079152500830430657/about" target="_blank"></a></li>
+                                                                                    </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+    
+      <p><span style="color: rgb(255, 255, 255); font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; text-align: left;">Copyright 2015 Nilla Blooms </span><br/></p>   
+</div>
+</div>
+</div>
+<div id="mgkquickview">
+<div id="magikloading" style="display:none;text-align:center;margin-top:400px;"><img alt="loading" src="catalog/view/theme/micra/image/loading.gif"/>
+</div></div>
+</footer>
+<div id="mobile-menu">
+  <ul>
+          <li>
+        <div class="home"><a class="active" href="http://www.nillablooms.com/index.php?route=common/home"><i class="icon-home"></i>Home</a></div>
+      </li>
+            <li><a href="http://www.nillablooms.com/cakes">Cakes</a>
+                <ul>
+                    <li><a href="http://www.nillablooms.com/cakes/send-five-star-rated-cakes">5 Star Rated</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/cakes/send-delightful-cakes-online">Delightful</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/cakes/send-designer-cakes-online">Designer cake</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/cakes/send-premium-cakes-online">Premium</a>
+               
+          </li>
+                  </ul>
+              </li>
+            <li><a href="http://www.nillablooms.com/products">Flowers</a>
+                <ul>
+                    <li><a href="http://www.nillablooms.com/products/choose-the-flower">Choose The Flower </a>
+                            <ul>
+                                <li><a href="http://www.nillablooms.com/products/choose-the-flower/flower-bouquets">Carnation</a></li>
+                                <li><a href="http://www.nillablooms.com/products/choose-the-flower/send-gerbera-flower-bouquets">Gerbera </a></li>
+                                <li><a href="http://www.nillablooms.com/products/choose-the-flower/mixed-color-flower-bouquets">Mixed Color Flowers</a></li>
+                                <li><a href="http://www.nillablooms.com/products/choose-the-flower/send-red-rose-flower-bouquets">Rose</a></li>
+                              </ul>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/products/send-flowers-gifts-for-occasions">Occassions</a>
+                            <ul>
+                                <li><a href="http://www.nillablooms.com/products/send-flowers-gifts-for-occasions/send-gifts-for-birthday">Birthday Special</a></li>
+                                <li><a href="http://www.nillablooms.com/products/send-flowers-gifts-for-occasions/wedding-anniversary-gifts-flowers">Happy Anniversary</a></li>
+                                <li><a href="http://www.nillablooms.com/products/send-flowers-gifts-for-occasions/i-am-sorry-flowers">I Am Sorry</a></li>
+                                <li><a href="http://www.nillablooms.com/products/send-flowers-gifts-for-occasions/flowers-gifts-for-marriage">Marriage gifts</a></li>
+                                <li><a href="http://www.nillablooms.com/products/send-flowers-gifts-for-occasions/send-retirement-flowers">Retirement</a></li>
+                              </ul>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/products/other-products">Other Products</a>
+                            <ul>
+                                <li><a href="http://www.nillablooms.com/products/other-products/send-handy-combo">Handy Combos</a></li>
+                                <li><a href="http://www.nillablooms.com/products/other-products/soft-toys-gifts">Soft Toys</a></li>
+                              </ul>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/products/party-decoration-services">Party Decors</a>
+                            <ul>
+                                <li><a href="http://www.nillablooms.com/products/party-decoration-services/birthday-party-balloon-decoration">Balloon Bonaza</a></li>
+                                <li><a href="http://www.nillablooms.com/index.php?route=product/category&amp;path=90_91_75">BirthDay Blast </a></li>
+                                <li><a href="http://www.nillablooms.com/products/party-decoration-services/wedding-stage-decoration">Wedding Stage Decoration</a></li>
+                              </ul>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/products/special-color-bouquet-and-basket">Special Color Bouquet and Basket</a>
+                            <ul>
+                                <li><a href="http://www.nillablooms.com/products/special-color-bouquet-and-basket/send-flower-choco-basket">Choco Basket </a></li>
+                                <li><a href="http://www.nillablooms.com/products/special-color-bouquet-and-basket/grand-arrangement-flowers">Grand Arrangement </a></li>
+                                <li><a href="http://www.nillablooms.com/products/special-color-bouquet-and-basket/send-hand-flower-bouquets">Hand Bouquet Type </a></li>
+                              </ul>
+               
+          </li>
+                  </ul>
+              </li>
+            <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location">Send Flowers by Location</a>
+                <ul>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/send-flowers-to-amirta">Send Flowers to Amirta</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Annur">Send Flowers to Annur</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Avinashi">Send Flowers to Avinashi</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/send-flowers-to-chennai">Send Flowers to Chennai</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Coimbatore">Send Flowers to Coimbatore</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Coonoor">Send Flowers to Coonoor</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/send-flowers-to-karunya">Send Flowers to Karunya</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Mettupalayam">Send Flowers to Mettupalayam</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Ooty">Send Flowers to Ooty</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-palakkad">Send Flowers to palakkad</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Pollachi">Send Flowers to Pollachi</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/send-flowers-to-psg">Send Flowers to psg</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/send-flowers-to-salem">Send Flowers to Salem</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Saravanampatti">Send Flowers to Saravanampatti</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Sathyamangalam">Send Flowers to Sathyamangalam</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Sulur">Send Flowers to Sulur</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Tirupur">Send Flowers to Tirupur</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Flowers-by-Location/Send-Flowers-to-Trichy">Send Flowers to Trichy</a>
+               
+          </li>
+                  </ul>
+              </li>
+            <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition">Send Gifts by Location</a>
+                <ul>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Amirta">Send Gifts to Amirta</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Annur">Send Gifts to Annur</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Avinashi">Send Gifts to Avinashi</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Chennai">Send Gifts to Chennai</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Coimbatore">Send Gifts to Coimbatore</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Coonoor">Send Gifts to Coonoor</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Karunya">Send Gifts to Karunya</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Mettupalayam">Send Gifts to Mettupalayam</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Ooty">Send Gifts to Ooty</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Palakkad">Send Gifts to Palakkad</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Pollachi">Send Gifts to Pollachi</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Psg">Send Gifts to Psg</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Salem">Send Gifts to Salem</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Saravanampatti">Send Gifts to Saravanampatti</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Sathyamangalam">Send Gifts to Sathyamangalam</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Sulur">Send Gifts to Sulur</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Tirupur">Send Gifts to Tirupur</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/Send-Gifts-by-Locaition/Send-Gifts-to-Trichy">Send Gifts to Trichy</a>
+               
+          </li>
+                  </ul>
+              </li>
+            <li><a href="http://www.nillablooms.com/special-occasions">Special Occasions</a>
+                <ul>
+                    <li><a href="http://www.nillablooms.com/special-occasions/christmas-offer">Christmas Offer</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/special-occasions/diwali-offer">Diwali Offer</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/special-occasions/new-year-offer">New Year Offer</a>
+               
+          </li>
+                    <li><a href="http://www.nillablooms.com/special-occasions/valentines-day-offer">Valentines Day Offer</a>
+               
+          </li>
+                  </ul>
+              </li>
+            <li><a href="http://www.nillablooms.com/send-sweets-online">Sweets </a>
+              </li>
+        </ul>
+</div><!-- mobile-menu -->
+
+
+
+<script type="text/javascript">
+var isTouchDevice = ('ontouchstart' in window) || (navigator.msMaxTouchPoints > 0);
+jQuery(window).on("load", function() {
+
+if (isTouchDevice)
+{
+jQuery('#nav a.level-top').click(function(e) {
+$t = jQuery(this);
+$parent = $t.parent();
+if ($parent.hasClass('parent'))
+{
+if ( !$t.hasClass('menu-ready'))
+{                    
+jQuery('#nav a.level-top').removeClass('menu-ready');
+$t.addClass('menu-ready');
+return false;
+}
+else
+{
+$t.removeClass('menu-ready');
+}
+}
+});
+}
+//on load
+jQuery().UItoTop();
+
+
+}); //end: on load
+
+//]]>
+
+
+/*--------| UItoTop jQuery Plugin 1.1-------------------*/
+(function($){
+jQuery.fn.UItoTop = function(options) {
+
+var defaults = {
+text: '',
+min: 200,
+inDelay:600,
+outDelay:400,
+containerID: 'toTop',
+containerHoverID: 'toTopHover',
+scrollSpeed: 1200,
+easingType: 'linear'
+};
+
+var settings = $.extend(defaults, options);
+var containerIDhash = '#' + settings.containerID;
+var containerHoverIDHash = '#'+settings.containerHoverID;
+
+jQuery('body').append('<a href="#" id="'+settings.containerID+'">'+settings.text+'</a>');
+jQuery(containerIDhash).hide().click(function(){
+jQuery('html, body').animate({scrollTop:0}, settings.scrollSpeed, settings.easingType);
+jQuery('#'+settings.containerHoverID, this).stop().animate({'opacity': 0 }, settings.inDelay, settings.easingType);
+return false;
+})
+.prepend('<span id="'+settings.containerHoverID+'"></span>')
+.hover(function() {
+jQuery(containerHoverIDHash, this).stop().animate({
+'opacity': 1
+}, 600, 'linear');
+}, function() { 
+jQuery(containerHoverIDHash, this).stop().animate({
+'opacity': 0
+}, 700, 'linear');
+});
+
+jQuery(window).scroll(function() {
+var sd = $(window).scrollTop();
+if(typeof document.body.style.maxHeight === "undefined") {
+jQuery(containerIDhash).css({
+'position': 'absolute',
+'top': $(window).scrollTop() + $(window).height() - 50
+});
+}
+if ( sd > settings.min ) 
+jQuery(containerIDhash).fadeIn(settings.inDelay);
+else 
+jQuery(containerIDhash).fadeOut(settings.Outdelay);
+});
+
+};
+})(jQuery);
+
+
+/*--------| End UItoTop -------------------*/
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 961089278;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/961089278/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+
+<!--
+OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@opencart.com
+//-->
+
+<!-- Theme created by Welford Media for OpenCart 2.0 www.welfordmedia.co.uk -->
+
+</body></html>

@@ -1,0 +1,2190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html dir="ltr" version="XHTML+RDFa 1.0" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fb="http://ogp.me/ns/fb#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="http://d24pyncn3hxs0c.cloudfront.net/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<link href="http://m.floweraura.com/" media="only screen and (max-width: 640px)" rel="alternate"/>
+<link href="http://www.floweraura.com" rel="canonical"/>
+<meta content="FlowerAura - Online flower delivery in India. Largest collection of flowers, chocolates bouquet, Valentine gifts, cakes for you. Same day delivery in your city" name="description"/>
+<meta content="on" http-equiv="x-dns-prefetch-control"/>
+<link href="//d24pyncn3hxs0c.cloudfront.net" rel="dns-prefetch"/>
+<meta content="Flowers, florist, florist flowers, online gifts, flower delivery in, flowers delivery, flower shops, send flowers, online flowers, flowers and gifts, online flowers delivery, online florist, send flowers online, florists India, flower delivery shops" name="keywords"/>
+  <title>Online Flower Delivery &amp; Order Cakes Online | FlowerAura</title>
+  <link href="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/cdn/css/http/css_jc_LvE2wm2ZIQwNDp-J2jr1VlDFHmWEhK8RBvZtW0J8.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/cdn/css/http/css_vPNekH7f1GLBUHgxRU4eo1cQynxPk22JONO6COfoiZY.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/cdn/css/http/css_kbJo5vEky7iZAaX714tiVEQ--jw2Nf-ZZnDF8avcUcM.css" media="all" rel="stylesheet" type="text/css"/>
+<style media="all" type="text/css">
+<!--/*--><![CDATA[/*><!--*/
+#back-top{right:40px;}#back-top span#button{background-color:#A6A6A6;}#back-top span#button:hover{opacity:1;filter:alpha(opacity = 1);background-color:#777777;}
+
+/*]]>*/-->
+</style>
+<link href="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/cdn/css/http/css_Bg3Es8PmIBJ84ZrSshTd2-w5gsrJcPTnTVvmpdVNeL4.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/cdn/css/http/css_gMpHmAttvrvZhTYmKWKRrwFXky7AdWo93IIZL5Ixplo.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/cdn/css/http/css_m7lTgzBsDlCE_APLktKk1a_IFrG1whDH3ndJvxx94r8.css" media="all" rel="stylesheet" type="text/css"/>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/cdn/css/http/css_CQ6eoaDQ9JbIFnnc8xtnLAPZkaOrPoOFTgYbssbKgTg_ie.css.css" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/cdn/css/http/css_qvY3lZIZDNHRNsIKQYZKZOxljoe9Mn-xk-hYDicQHRs_ie6.css.css" media="all" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/cdn/css/http/css_SthskeV2tfKsIE13rJuwHHPfsIm8aKkLJAnr47h_2hE_ie8.css.css" media="all" />
+<![endif]-->
+  <script src="//code.jquery.com/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js" type="text/javascript"></script>
+<script src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/js/js_9BKMNQnCcMZbZPj0ZgtIL-1kN0o36Oz49SZEyBYmHfs.js" type="text/javascript"></script>
+<script src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/js/js_gtXW20cwduxIUtORi0OMGTA47XuWMWxWdWHREvGuOaA.js" type="text/javascript"></script>
+<script src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/js/js_pJHedjcFW2lnWJ4TL8iqmSNzGpzi8cBbWGUjj7Ktoxc.js" type="text/javascript"></script>
+<script src="http://d24pyncn3hxs0c.cloudfront.net/sites/all/modules/lightbox2/js/lightbox.js?1475819655" type="text/javascript"></script>
+<script src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/js/js_ymVgzyiKHpPt0tXlpMyu2Q40WA7S23pFaPQo5hMOUzg.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _bout = _bout || [];var _boutAKEY ='fjkska52m2haj0s8ksjs7hd4xjk4zhnhghb4n4z4mh';var _boutPID ='30776';var d = document, f =d.getElementsByTagName("script")[0], _sc =d.createElement("script");_sc.type = "text/javascript";_sc.async = true;_sc.src = "//d22vyp49cxb9py.cloudfront.net/jal-v2.min.js";f.parentNode.insertBefore(_sc, f);_bout.push(["identify",{email:""}])
+//--><!]]>
+</script>
+<script src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/js/js_KEubI8NvLjq5bo0SArBplhO61VmgAsyjBKHRY0Yrizw.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"facd7","theme_token":"AqsU_g-vGxguqSjueecCVYqXDjHosVllKIIuwlQ7mUI","jquery_version":"1.7","js":{"\/\/code.jquery.com\/jquery-1.7.2.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/uc_message\/uc_message.js":1,"sites\/all\/modules\/lazyloader\/jquery.lazyloader.js":1,"sites\/all\/modules\/modal_forms\/js\/modal_forms_login.js":1,"sites\/all\/modules\/modal_forms\/js\/modal_forms_register.js":1,"sites\/all\/modules\/modal_forms\/js\/modal_forms_password.js":1,"sites\/all\/modules\/fboauth\/fboauth_popup.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"misc\/progress.js":1,"sites\/all\/modules\/ctools\/js\/modal.js":1,"sites\/all\/modules\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/scroll_to_top\/scroll_to_top.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"1":1,"sites\/all\/modules\/jcarousel\/js\/jcarousel.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/jcarousel\/js\/jquery.jcarousel.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/scroll_to_top\/scroll_to_top.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/ubercart\/uc_order\/uc_order.css":1,"sites\/all\/modules\/ubercart\/uc_product\/uc_product.css":1,"sites\/all\/modules\/ubercart\/uc_store\/uc_store.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/nodeorder\/css\/nodeorder.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox_alt.css":1,"sites\/all\/modules\/ctools\/css\/modal.css":1,"sites\/all\/modules\/modal_forms\/css\/modal_forms_popup.css":1,"0":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"sites\/all\/modules\/jcarousel\/skins\/default\/jcarousel-default.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow_controls_text.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/themes\/facd7\/css\/style.css":1,"sites\/all\/themes\/facd7\/css\/ipad.css":1,"sites\/all\/themes\/facd7\/css\/ie.css":1,"sites\/all\/themes\/facd7\/css\/ie6.css":1,"sites\/all\/themes\/facd7\/css\/ie8.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views","carousels":{"jcarousel-dom-1":{"view_options":{"view_args":"","view_path":"node\/705","view_base_path":null,"view_display_id":"block","view_name":"best_seller","jcarousel_dom_id":1},"skin":"default","autoPause":1,"start":1,"selector":".jcarousel-dom-1"},"jcarousel-dom-2":{"view_options":{"view_args":"","view_path":"node\/705","view_base_path":null,"view_display_id":"block_1","view_name":"best_seller","jcarousel_dom_id":2},"skin":"default","autoPause":1,"start":1,"selector":".jcarousel-dom-2"},"jcarousel-dom-3":{"view_options":{"view_args":"","view_path":"node\/705","view_base_path":null,"view_display_id":"block_2","view_name":"best_seller","jcarousel_dom_id":3},"skin":"default","autoPause":1,"start":1,"selector":".jcarousel-dom-3"},"jcarousel-dom-4":{"view_options":{"view_args":"","view_path":"node\/705","view_base_path":null,"view_display_id":"block_3","view_name":"best_seller","jcarousel_dom_id":4},"skin":"default","autoPause":1,"start":1,"selector":".jcarousel-dom-4"}}},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":1,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":620,"iframe_height":420,"iframe_border":1,"enable_video":0},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/d24pyncn3hxs0c.cloudfront.net\/sites\/all\/modules\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/d24pyncn3hxs0c.cloudfront.net\/sites\/all\/modules\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":450,"height":200},"modalOptions":{"opacity":0.8,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/d24pyncn3hxs0c.cloudfront.net\/sites\/all\/modules\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":450,"height":360},"modalOptions":{"opacity":0.8,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/d24pyncn3hxs0c.cloudfront.net\/sites\/all\/modules\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"fixed","width":650,"height":510},"modalOptions":{"opacity":0.8,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/d24pyncn3hxs0c.cloudfront.net\/sites\/all\/modules\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"scroll_to_top":{"label":"Back to top"},"viewsSlideshow":{"slideshow_home-block":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0},"testimonials-block":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowPager":{"slideshow_home-block":{"top":{"type":"viewsSlideshowPagerFields"},"bottom":{"type":"viewsSlideshowPagerFields"}}},"viewsSlideshowPagerFields":{"slideshow_home-block":{"top":{"activatePauseOnHover":0},"bottom":{"activatePauseOnHover":0}}},"viewsSlideshowControls":{"slideshow_home-block":{"bottom":{"type":"viewsSlideshowControlsText"}},"testimonials-block":{"top":{"type":"viewsSlideshowControlsText"}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_slideshow_home-block":{"num_divs":4,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"slideshow_home-block","effect":"fade","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"},"#views_slideshow_cycle_main_testimonials-block":{"num_divs":10,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"testimonials-block","effect":"scrollHorz","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-705 node-type-page featured">
+  <div id="skip-link">
+    <a class="element-invisible element-focusable" href="#main-content">Skip to main content</a>
+  </div>
+    <meta content="width=1100" name="viewport"/>
+<!--<link rel="stylesheet" type="text/css" href="http://cdn.webrupee.com/font">
+<script src=http://cdn.webrupee.com/js type="text/javascript"></script>-->
+
+<!--[if IE 9]>
+<style type="text/css">
+       #loginface {
+		    float: left;
+		    margin-right: 10px;
+		    position: static;
+		}
+
+       </style>
+<![endif]-->
+<!--[if IE 8]>
+      <style type="text/css">
+       #loginface {
+		    float: left;
+		    margin-right: 10px;
+		    position: static;
+		}
+
+       </style>
+    <![endif]-->
+
+
+<script type="text/javascript">
+jQuery(document).ready(function(){    
+    jQuery("#featured .block-menu ul li ul li").each(function(){
+        var findVal = jQuery(this).text();
+        var className = findVal.toLowerCase();
+        jQuery(this).addClass(className);
+    });
+});
+</script>
+
+
+
+
+<div id="main-wrapper"> <!-- start main-wrapper-->
+	<div class="header-wrapper">
+		<div class="header-inner">
+	<div class="logo">
+		<a href="/" id="logo" rel="home" title="Home">
+		<img alt="Floweraura.com - Online Flower Delivery" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/logo%20fA_1.png"/>
+		</a>
+	
+		<div class="element-invisible" id="name-and-slogan">
+			<div class="element-invisible" id="site-name">
+	<strong>
+	<a href="/" rel="home" title="Home"><span>FlowerAura</span></a>
+	</strong>
+	</div>
+		
+	
+	</div>
+	 
+	</div>
+	<div class="header-top-right">
+		  <div class="region region-header">
+    <div class="block block-block" id="block-block-32">
+<div class="content">
+<div class="header-main">
+<div class="user_name">+91-8882077077
+<div id="usermenublock"><ul class="menu clearfix"><li class="first leaf"><a href="/user/login?current=node/705" title="Sign In">Sign In</a></li>
+<li class="leaf"><a href="/user/register" title="Register">Register</a></li>
+<li class="last leaf"><a href="/trackorder" title="Track Order">Track Order</a></li>
+</ul></div>
+<form accept-charset="UTF-8" action="/" id="search-block-form" method="post"><div><div class="container-inline">
+      <div class="element-invisible" id="title">Search form</div>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input class="form-text" id="edit-search-block-form--2" maxlength="128" name="search_block_form" size="15" title="Enter the terms you wish to search for." type="text" value=""/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="form-submit" id="edit-submit" name="op" type="submit" value="GO"/></div><input name="form_build_id" type="hidden" value="form-jnorNPTogOcAXZlBJD1Hb6OtdSXbK9pkpgS1--ob4Ss"/>
+<input name="form_id" type="hidden" value="search_block_form"/>
+</div>
+</div></form></div>
+<div class="cart_main"><a href="http://www.floweraura.com/cart"><div class="cart-icon">0</div>
+<p class="js-cart-text">Cart</p>
+</a></div>
+<div class="services">
+<a class="js-open-modal sameday-link" data-modal-id="sameday_delivery" href="#"> Same day deliveries </a>
+<a class="js-open-modal midnight-link" data-modal-id="midnight_delivery" href="#"> Mid Night deliveries </a>
+</div>
+</div>
+
+<script type="text/javascript">
+jQuery(function(){
+
+var appendthis =  ("<div id='modal-overlay-services' class='js-modal-close modal-overlay-services'></div>");
+jQuery("body").append(jQuery(appendthis));
+jQuery("#modal-overlay-services").hide();
+
+jQuery('a[data-modal-id]').click(function(e) {
+    e.preventDefault();
+    //jQuery("body").append(jQuery(appendthis));
+	jQuery("#modal-overlay-services").show();
+    jQuery("#modal-overlay-services").fadeTo(500, 0.7);
+    //$(".js-modalbox").fadeIn(500);
+    var modalBox = jQuery(this).attr('data-modal-id');
+    jQuery('#'+modalBox).fadeIn(jQuery(this).data());
+  });  
+  
+jQuery(".js-modal-close, #modal-overlay-services").click(function() {	
+  jQuery(".popup-day-services, #modal-overlay-services").fadeOut(500, function() {
+    jQuery("#modal-overlay-services").hide();
+  });
+});
+ 
+jQuery(window).resize(function() {
+  jQuery(".popup-day-services").css({
+    top: (jQuery(window).height() - jQuery(".popup-day-services").outerHeight()) / 2,
+    left: (jQuery(window).width() - jQuery(".popup-day-services").outerWidth()) / 2
+
+  });
+});
+ 
+jQuery(window).resize();
+
+jQuery(document).ready(function($) {
+	var samedayselector = '.sameday-link';
+	var midnightselector = '.midnight-link';
+        var cakecityselecter = '.cake-delivery-city-link';
+	jQuery(samedayselector).click(function(e) {
+		e.preventDefault();
+		$.ajax({
+			url: Drupal.settings.basePath + "samedaydelivery_ajax",
+			success: function(data) {
+				jQuery('#sameday_ajax_content').replaceWith(data);
+			}
+		});
+	});
+	
+	jQuery(midnightselector).click(function(e) {
+		e.preventDefault();
+		$.ajax({
+			url: Drupal.settings.basePath + "midnightdelivery_ajax",
+			success: function(data) {
+				jQuery('#midnight_ajax_content').replaceWith(data);
+			}
+		});
+	});
+
+ jQuery(cakecityselecter).click(function(e) {
+        e.preventDefault();
+        $.ajax({
+            url: Drupal.settings.basePath + "flowercakecity_ajax",
+            success: function(data) {
+                jQuery('#flowercakecity_ajax_content').replaceWith(data);
+            }
+        });
+    });
+	
+});
+ 
+});
+</script>
+
+<div class="popup-day-services" id="sameday_delivery">  
+	<span class="js-modal-close close">X</span>
+	<div class="modal-body">
+    <div id="sameday_ajax_content"></div>
+	</div>
+</div>
+
+<div class="popup-day-services" id="midnight_delivery">  
+	<span class="js-modal-close close">X</span>
+	<div class="modal-body">
+	<div id="midnight_ajax_content"></div>
+
+	</div>
+</div>
+
+ <div class="popup-day-services" id="cake_delivery_city">  
+    <span class="js-modal-close close">X</span>
+    <div class="modal-body">
+    <div id="flowercakecity_ajax_content"></div>
+
+    </div>
+</div>
+</div>
+</div>   </div>
+	</div>
+</div>
+ 	<div class="main-menu">
+		  <div class="region region-primarymenus">
+    <div class="block block-tb-megamenu" id="block-tb-megamenu-menu-new-main-menu">
+<div class="content">
+<div class="tb-megamenu tb-megamenu-menu-new-main-menu">
+      <button class="btn btn-navbar tb-megamenu-button" data-target=".nav-collapse" data-toggle="collapse" type="button">
+      <i class="fa fa-reorder"></i>
+    </button>
+    <div class="nav-collapse always-show">
+    <ul class="tb-megamenu-nav nav level-0 items-15">
+  <li class="tb-megamenu-item level-1 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1398" data-level="1" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/birthday-flowers" title="Birthday">
+        
+    Birthday          </a>
+  </li>
+
+<li class="tb-megamenu-item level-1 mega mega-align-justify dropdown" data-alignsub="justify" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1262" data-level="1" data-type="menu_item" data-xicon="">
+  <a class="dropdown-toggle" href="#" title="Flowers">
+        
+    Flowers          <span class="caret"></span>
+          </a>
+  <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="1500" style="width: 1500px;">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row row-fluid">
+  <div class="tb-megamenu-column span2 mega-col-nav" data-class="" data-hidewcol="0" data-width="2" id="tb-megamenu-column-2">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li class="tb-megamenu-item level-2 mega menu-flower-group mega-group" data-alignsub="" data-caption="" data-class="menu-flower-group" data-group="1" data-hidesub="0" data-hidewcol="0" data-id="1263" data-level="2" data-type="menu_item" data-xicon="">
+  <a class="mega-group-title" href="#" title="By Price">
+        
+    By Price          <span class="caret"></span>
+          </a>
+  <div class="tb-megamenu-submenu mega-group-ct nav-child" data-class="" data-width="">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row row-fluid">
+  <div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-hidewcol="0" data-width="12" id="tb-megamenu-column-1">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-2 items-4">
+  <li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1264" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/price/less_than_500" title="Under 600">
+        
+    Under 600          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1265" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/price/500_to_750" title="600 to 1000">
+        
+    600 to 1000          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1266" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/price/750_to_1200" title="1000 to 2000">
+        
+    1000 to 2000          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1267" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/price/above_1200" title="Above 2000">
+        
+    Above 2000          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+
+<div class="tb-megamenu-column span4 mega-col-nav" data-class="" data-hidewcol="" data-width="4" id="tb-megamenu-column-5">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li class="tb-megamenu-item level-2 mega menu-flower-group mega-group" data-alignsub="" data-caption="" data-class="menu-flower-group" data-group="1" data-hidesub="0" data-hidewcol="0" data-id="1268" data-level="2" data-type="menu_item" data-xicon="">
+  <a class="mega-group-title" href="#" title="By Occasion">
+        
+    By Occasion          <span class="caret"></span>
+          </a>
+  <div class="tb-megamenu-submenu mega-group-ct nav-child" data-class="" data-width="">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row row-fluid">
+  <div class="tb-megamenu-column span6 mega-col-nav" data-class="" data-hidewcol="0" data-width="6" id="tb-megamenu-column-3">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-2 items-6">
+  <li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1270" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/anniversary-flowers" title="Anniversary">
+        
+    Anniversary          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1271" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/birthday-flowers" title="Birthday">
+        
+    Birthday          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1272" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/appreciation-flowers" title="Appreciation">
+        
+    Appreciation          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1273" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/cheerup" title="Cheer Up">
+        
+    Cheer Up          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1274" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/send-flowers-to-friend" title="Friends">
+        
+    Friends          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1275" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/get-well-soon-flowers" title="Get well soon">
+        
+    Get well soon          </a>
+  </li>
+</ul>
+  </div>
+</div>
+
+<div class="tb-megamenu-column span6 mega-col-nav" data-class="" data-hidewcol="" data-width="6" id="tb-megamenu-column-4">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-2 items-6">
+  <li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1276" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/sorry-flowers" title="I am sorry">
+        
+    I am sorry          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1277" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/congratulations-flowers" title="Congratulations">
+        
+    Congratulations          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1278" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/valentine" title="Love &amp;amp; Affection">
+        
+    Love &amp; Affection          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1279" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/new-baby-flowers" title="New Born">
+        
+    New Born          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1280" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/thankyou-flowers" title="Thank you">
+        
+    Thank you          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1575" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/send-flowers-to-friend" title="Friendship day flowers">
+        
+    Friendship day flowers          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+
+<div class="tb-megamenu-column span2 mega-col-nav" data-class="" data-hidewcol="" data-width="2" id="tb-megamenu-column-7">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li class="tb-megamenu-item level-2 mega menu-flower-group mega-group" data-alignsub="" data-caption="" data-class="menu-flower-group" data-group="1" data-hidesub="0" data-hidewcol="0" data-id="1282" data-level="2" data-type="menu_item" data-xicon="">
+  <a class="mega-group-title" href="#" title="By Type">
+        
+    By Type          <span class="caret"></span>
+          </a>
+  <div class="tb-megamenu-submenu mega-group-ct nav-child" data-class="" data-width="">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row row-fluid">
+  <div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-hidewcol="0" data-width="12" id="tb-megamenu-column-6">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-2 items-6">
+  <li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1283" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/type/send-roses" title="Roses">
+        
+    Roses          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1284" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/type/carnations" title="Carnations">
+        
+    Carnations          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1285" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/type/gerberas" title="Gerberas">
+        
+    Gerberas          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1286" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/type/lilies" title="Lilies">
+        
+    Lilies          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1287" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/type/orchids" title="Orchids">
+        
+    Orchids          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1288" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/type/mixedflowers" title="Mixed Flowers">
+        
+    Mixed Flowers          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+
+<div class="tb-megamenu-column span2 mega-col-nav" data-class="" data-hidewcol="" data-width="2" id="tb-megamenu-column-9">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li class="tb-megamenu-item level-2 mega menu-flower-group mega-group" data-alignsub="" data-caption="" data-class="menu-flower-group" data-group="1" data-hidesub="0" data-hidewcol="0" data-id="1289" data-level="2" data-type="menu_item" data-xicon="">
+  <a class="mega-group-title" href="#" title="By Color">
+        
+    By Color          <span class="caret"></span>
+          </a>
+  <div class="tb-megamenu-submenu mega-group-ct nav-child" data-class="" data-width="">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row row-fluid">
+  <div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-hidewcol="0" data-width="12" id="tb-megamenu-column-8">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-2 items-5">
+  <li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1290" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/colour/red" title="Red Flowers">
+        
+    Red Flowers          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1291" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/colour/pink" title="Pink Flowers">
+        
+    Pink Flowers          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1292" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/colour/white" title="White Flowers">
+        
+    White Flowers          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1293" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/colour/yellow" title="Yellow Flowers">
+        
+    Yellow Flowers          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1294" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/colour/mixed" title="Mixed Flowers">
+        
+    Mixed Flowers          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+
+<div class="tb-megamenu-column span2 mega-col-nav" data-class="" data-hidewcol="" data-width="2" id="tb-megamenu-column-11">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li class="tb-megamenu-item level-2 mega menu-flower-group mega-group" data-alignsub="" data-caption="" data-class="menu-flower-group" data-group="1" data-hidesub="0" data-hidewcol="0" data-id="1295" data-level="2" data-type="menu_item" data-xicon="">
+  <a class="mega-group-title" href="#" title="Important Links">
+        
+    Important Links          <span class="caret"></span>
+          </a>
+  <div class="tb-megamenu-submenu mega-group-ct nav-child" data-class="" data-width="">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row row-fluid">
+  <div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-hidewcol="0" data-width="12" id="tb-megamenu-column-10">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-2 items-5">
+  <li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1449" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/teddy-with-flowers" title="Flowers &amp;amp; Teddies">
+        
+    Flowers &amp; Teddies          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1296" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/chocolate-bouquet" title="Chocolate Bouquets">
+        
+    Chocolate Bouquets          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1297" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflower/bouquet_type/combos" title="Flower Combos">
+        
+    Flower Combos          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1298" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/gifts/precious-flowers" title="Precious Flowers">
+        
+    Precious Flowers          </a>
+  </li>
+
+<li class="tb-megamenu-item level-3 mega all_menu_link" data-alignsub="" data-caption="" data-class="all_menu_link" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1299" data-level="3" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers" title="All Flowers">
+        
+    All Flowers          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li class="tb-megamenu-item level-1 mega dropdown" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1300" data-level="1" data-type="menu_item" data-xicon="">
+  <a class="dropdown-toggle" href="#" title="Cakes">
+        
+    Cakes          <span class="caret"></span>
+          </a>
+  <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row row-fluid">
+  <div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-hidewcol="0" data-width="12" id="tb-megamenu-column-12">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-6">
+  <li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1301" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/cake-delivery/send-regular-cakes" title="Delicious Cakes">
+        
+    Delicious Cakes          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1302" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/cake-delivery/eggless-cakes" title="Eggless Cakes">
+        
+    Eggless Cakes          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1303" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/cake-delivery/5-star-cakes" title="5 Star Cakes">
+        
+    5 Star Cakes          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1304" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/cake-delivery/themed-cakes" title="Themed Cakes">
+        
+    Themed Cakes          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1305" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/birthday-cakes" title="Birthday Cakes">
+        
+    Birthday Cakes          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega all_menu_link" data-alignsub="" data-caption="" data-class="all_menu_link" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1306" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/cake-delivery" title="All Cakes">
+        
+    All Cakes          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li class="tb-megamenu-item level-1 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1307" data-level="1" data-type="menu_item" data-xicon="">
+  <a href="/sendflower/bouquet_type/combos" title="Combos">
+        
+    Combos          </a>
+  </li>
+
+<li class="tb-megamenu-item level-1 mega dropdown" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1308" data-level="1" data-type="menu_item" data-xicon="">
+  <a class="dropdown-toggle" href="#" title="Gifts">
+        
+    Gifts          <span class="caret"></span>
+          </a>
+  <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row row-fluid">
+  <div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-hidewcol="0" data-width="12" id="tb-megamenu-column-13">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-7">
+  <li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1309" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/gifts/teddies" title="Teddy House">
+        
+    Teddy House          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1310" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/gifts/mugs" title="Mugs">
+        
+    Mugs          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1311" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/gifts/precious-flowers" title="Precious Flowers">
+        
+    Precious Flowers          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1312" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/gifts/chocolate" title="Chocolates">
+        
+    Chocolates          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1313" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/gifts/divine-collection" title="Divine Collection">
+        
+    Divine Collection          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1314" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/gifts/miscellaneous" title="Other">
+        
+    Other          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega all_menu_link" data-alignsub="" data-caption="" data-class="all_menu_link" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1315" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/gifts" title="All Gifts">
+        
+    All Gifts          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li class="tb-megamenu-item level-1 mega dropdown" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1316" data-level="1" data-type="menu_item" data-xicon="">
+  <a class="dropdown-toggle" href="#" title="By Occasions">
+        
+    By Occasions          <span class="caret"></span>
+          </a>
+  <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row row-fluid">
+  <div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-hidewcol="0" data-width="12" id="tb-megamenu-column-14">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-10">
+  <li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1690" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/daughters-day" title="Daughters Day">
+        
+    Daughters Day          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1318" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/anniversary-flowers" title="Anniversary">
+        
+    Anniversary          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1319" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/birthday-flowers" title="Birthday">
+        
+    Birthday          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1320" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/appreciation-flowers" title="Appreciation">
+        
+    Appreciation          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1322" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/send-flowers-to-friend" title="Friends">
+        
+    Friends          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1323" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/get-well-soon-flowers" title="Get well soon">
+        
+    Get well soon          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1324" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/sorry-flowers" title="I am sorry">
+        
+    I am sorry          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1325" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/congratulations-flowers" title="Congratulations">
+        
+    Congratulations          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1327" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/sendflowers/occasion/new-baby-flowers" title="New Born">
+        
+    New Born          </a>
+  </li>
+
+<li class="tb-megamenu-item level-2 mega all_menu_link" data-alignsub="" data-caption="" data-class="all_menu_link" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1330" data-level="2" data-type="menu_item" data-xicon="">
+  <a href="/all-occasion" title="All Occasions">
+        
+    All Occasions          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li class="tb-megamenu-item level-1 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1331" data-level="1" data-type="menu_item" data-xicon="">
+  <a href="/delivery-cities" title="Delivery Cities">
+        
+    Delivery Cities          </a>
+  </li>
+</ul>
+      </div>
+  </div>
+</div>
+</div>   </div>
+	</div>
+
+
+<!-- start code login Registration popup form -->
+ 
+
+<!-- End code login Registration popup form-->
+
+
+
+
+
+	</div>
+
+<div class="mid-wrapper"><!-- start mid-wrapper-->
+	<div class="wrapper">
+		
+	<!-- Position for breadcrumbs , removed mahima -->
+		
+		<div id="featured">
+		<div class="section clearfix">
+		  <div class="region region-featured">
+    <div class="block block-menu" id="block-menu-menu-side-menu">
+<div class="content">
+<ul class="menu clearfix"><li class="first expanded"><span class="nolink" title="By Occasion">By Occasion</span><ul class="menu clearfix"><li class="first leaf"><a href="/sendflowers/occasion/birthday-flowers" title="Birthday">Birthday</a></li>
+<li class="leaf"><a href="/sendflowers/occasion/anniversary-flowers" title="Anniversary">Anniversary</a></li>
+<li class="leaf"><a href="/sendflowers/occasion/send-flowers-to-friend" title="Friends">Friends</a></li>
+<li class="leaf"><a href="/sendflowers/occasion/valentine" title="Love &amp; Affection">Love &amp; Affection</a></li>
+<li class="last leaf"><a href="/sendflowers/occasion/congratulations-flowers" title="Congratulations">Congratulations</a></li>
+</ul></li>
+<li class="last expanded"><span class="nolink" title="Gifts For">Gifts For</span><ul class="menu clearfix"><li class="first leaf"><a href="/gifts-for-her" title="Her">Her</a></li>
+<li class="last leaf"><a href="/gifts-for-him" title="Him">Him</a></li>
+</ul></li>
+</ul></div>
+</div> <div class="block block-views" id="block-views-slideshow-home-block">
+<div class="content">
+<script>
+jQuery(document).ready(function(){
+    jQuery(".toggle-content").hide();
+    jQuery("#toggle-click").click(function(){
+        jQuery("div.down-arrow" ).toggleClass("up-arrow");
+        jQuery(".toggle-content").slideToggle("fast");
+    });
+});
+</script>
+
+<div class="view view-slideshow-home view-id-slideshow_home view-display-id-block view-dom-id-e5a3610a7dadc6ba3d1e4666acb5ea1f">
+         
+  
+
+
+  
+    	  <div class="pagerinsite clearfix" id="view-top-pager">
+		<div class="noofresultleft">
+			Item 4 of  total		</div>
+
+	    <div class="pagerright">
+
+	      
+	    </div>
+	  </div>
+  
+      <div class="view-content">
+      
+<div class="skin-default">
+      <div class="views-slideshow-controls-top clearfix">
+      <div class="views-slideshow-pager-fields widget_pager widget_pager_top views_slideshow_pager_field" id="widget_pager_top_slideshow_home-block">
+  <div class="views-slideshow-pager-field-item views_slideshow_pager_field_item views_slideshow_active_pager_field_item views-row-odd" id="views_slideshow_pager_field_item_top_slideshow_home-block_0">
+  </div>
+<div class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" id="views_slideshow_pager_field_item_top_slideshow_home-block_1">
+  </div>
+<div class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd" id="views_slideshow_pager_field_item_top_slideshow_home-block_2">
+  </div>
+<div class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" id="views_slideshow_pager_field_item_top_slideshow_home-block_3">
+  </div>
+</div>
+    </div>
+  
+  <div class="views_slideshow_cycle_main views_slideshow_main" id="views_slideshow_cycle_main_slideshow_home-block"><div class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section" id="views_slideshow_cycle_teaser_section_slideshow_home-block">
+  <div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd" id="views_slideshow_cycle_div_slideshow_home-block_0">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-upload-image">        <div class="field-content"><a href="/sendflowers/occasion/anniversary-flowers" title=""><img alt="Anniversary Collection - Anniversary Flowers" height="278" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/Home-Page-Banner-Anniversary.jpg" title="Anniversary Collection - Anniversary Flowers" typeof="foaf:Image" width="773"/></a></div>  </div></div>
+</div>
+<div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_slideshow_home-block_1">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-upload-image">        <div class="field-content"><a href="/sendflowers/occasion/birthday-flowers" title=""><img alt="Birthday Surprise - Birthday Flowers" height="278" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/Birthday_0.jpg" title="Birthday Surprise - Birthday Flowers" typeof="foaf:Image" width="773"/></a></div>  </div></div>
+</div>
+<div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" id="views_slideshow_cycle_div_slideshow_home-block_2">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-upload-image">        <div class="field-content"><a href="/sendflowers" title=""><img alt="Beautiful Flower - Flower Delivery India" height="278" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/Flowers.jpg" title="Beautiful Flower - Flower Delivery India" typeof="foaf:Image" width="773"/></a></div>  </div></div>
+</div>
+<div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_slideshow_home-block_3">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-upload-image">        <div class="field-content"><a href="/cake-delivery" title=""><img alt="Delicious Cake Delivery India" height="278" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/delicious-cake-delivery.jpg" title="Delicious Cake Delivery India" typeof="foaf:Image" width="773"/></a></div>  </div></div>
+</div>
+</div>
+</div>
+      <div class="views-slideshow-controls-bottom clearfix">
+      <div class="views-slideshow-pager-fields widget_pager widget_pager_bottom views_slideshow_pager_field" id="widget_pager_bottom_slideshow_home-block">
+  <div class="views-slideshow-pager-field-item views_slideshow_pager_field_item views_slideshow_active_pager_field_item views-row-odd" id="views_slideshow_pager_field_item_bottom_slideshow_home-block_0">
+  <div class="views-field-title">
+    <div class="views-content-title">
+    Anniversary Collection  </div>
+</div>
+</div>
+<div class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" id="views_slideshow_pager_field_item_bottom_slideshow_home-block_1">
+  <div class="views-field-title">
+    <div class="views-content-title">
+    Birthday Surprise  </div>
+</div>
+</div>
+<div class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd" id="views_slideshow_pager_field_item_bottom_slideshow_home-block_2">
+  <div class="views-field-title">
+    <div class="views-content-title">
+    Beautiful Flowers  </div>
+</div>
+</div>
+<div class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" id="views_slideshow_pager_field_item_bottom_slideshow_home-block_3">
+  <div class="views-field-title">
+    <div class="views-content-title">
+    Delicious Cakes  </div>
+</div>
+</div>
+</div>
+<div class="views-slideshow-controls-text views_slideshow_controls_text" id="views_slideshow_controls_text_slideshow_home-block">
+  <span class="views-slideshow-controls-text-previous views_slideshow_controls_text_previous" id="views_slideshow_controls_text_previous_slideshow_home-block"><a href="#">Previous</a></span>
+  <span class="views-slideshow-controls-text-pause views_slideshow_controls_text_pause" id="views_slideshow_controls_text_pause_slideshow_home-block"><a href="#">Pause</a></span>
+  <span class="views-slideshow-controls-text-next views_slideshow_controls_text_next" id="views_slideshow_controls_text_next_slideshow_home-block"><a href="#">Next</a></span>
+</div>
+    </div>
+  </div>
+    </div>
+  
+    	  <div class="pagerinsite clearfix" id="view-bottom-pager">
+		<div class="noofresultleft">
+			Item 4 of  total		</div>
+	    <div class="pagerright"></div>
+	  </div>
+  
+  
+  
+
+  
+  
+</div>
+</div>
+</div> <div class="block block-block" id="block-block-33">
+<div class="content">
+<div id="strip_banner">
+<a href="http://www.floweraura.com/sendflowers/occasion/anniversary-flowers"><img alt="Anniversary Gifts" src="http://d24pyncn3hxs0c.cloudfront.net/sites/all/themes/facd7/images/new_images/Home-Combo-Strip-Banner-Anniversary-new.jpg"/></a>
+</div>
+</div>
+</div>   </div>
+		</div>
+	</div>
+	
+		
+		
+	<div class="column" id="content">
+	<div class="section">
+	<a id="main-content"></a>
+		<!--	<h1 class="title" id="page-title">
+	Home	</h1>
+	-->
+         			<div class="tabs">
+		</div>
+				  <div class="region region-content">
+    <div class="block block-system" id="block-system-main">
+<div class="content">
+<div about="/home" class="node node-page node-full clearfix" id="node-705" typeof="foaf:Document">
+
+      
+  
+  <div class="content clearfix">
+    <span class="print-link"></span>  </div>
+
+  
+  
+</div>
+</div>
+</div> <div class="block block-views" id="block-views-best-seller-block">
+<div class="content">
+<script>
+jQuery(document).ready(function(){
+    jQuery(".toggle-content").hide();
+    jQuery("#toggle-click").click(function(){
+        jQuery("div.down-arrow" ).toggleClass("up-arrow");
+        jQuery(".toggle-content").slideToggle("fast");
+    });
+});
+</script>
+
+<div class="view view-best-seller view-id-best_seller view-display-id-block view-dom-id-a4286c2ae650a8035282794b4de4c051">
+         
+      <div class="view-header">
+      <div class="main-title">
+<h2>Best Sellers</h2>
+</div>
+    </div>
+  
+
+
+  
+    	  <div class="pagerinsite clearfix" id="view-top-pager">
+		<div class="noofresultleft">
+			Item 13 of 16 total		</div>
+
+	    <div class="pagerright">
+
+	      
+	    </div>
+	  </div>
+  
+      <div class="view-content">
+      <ul class="jcarousel jcarousel-view--best-seller--block jcarousel-dom-1 jcarousel-skin-default">
+      <li class="jcarousel-item-1 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/12-red-roses-bunch" title=""><img alt="A bunch of 12 red roses packed beautifully online flower delivey" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Keep%20It%20Simple%20Silly%20%28KISS%29.jpg?itok=-AKazI0E" title="Kiss - A bunch consists of 12 Red roses packed beautifully" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/12-red-roses-bunch" title="Keep It Simple Silly (KISS...">Keep It Simple Silly (KISS...</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.449</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/12-red-roses-bunch" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-2 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/xmas-choco" title=""><img alt="Xmas chocolate combo" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Xmas-Choco.jpg?itok=Q2VzwEj8" title="Xmas Choco" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/xmas-choco" title="Xmas Choco">Xmas Choco</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1599</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/xmas-choco" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-3 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/24-red-roses-bunch" title=""><img alt="Online Red Roses Delivery " height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/24%20Red%20Roses%20bunch.jpg?itok=RvekSHMG" title="24 Red Roses bunch" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/24-red-roses-bunch" title="24 Red Roses bunch">24 Red Roses bunch</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.729</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/24-red-roses-bunch" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-4 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/ultimate-fantasy" title=""><img alt="buy flowers online" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Ultimate-Fantasy.jpg?itok=Hih6YvAX" title="send flowers and cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/ultimate-fantasy" title="Ultimate Fantasy">Ultimate Fantasy</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1999</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/ultimate-fantasy" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-5 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/exotica" title=""><img alt="best online flower delivery" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Exotica.jpg?itok=cvtFzUrN" title="Exotica" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/exotica" title="Exotica">Exotica</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1249</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/exotica" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-6 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/purple-beauty" title=""><img alt="Orchids Flowers Store" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/16253avz.jpg?itok=Uz_5wo8I" title="A bunch of 12 orchids" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/purple-beauty" title="Purple beauty">Purple beauty</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.999</span> 
+<span class="listprice">Rs.1299</span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/purple-beauty" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-7 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/new-year-smiles" title=""><img alt="Mother's Day Special" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/New-Year-Smiles.jpg?itok=aXBejjex" title="Mother's Day Special" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/new-year-smiles" title="All Season Favourite">All Season Favourite</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.799</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/new-year-smiles" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-8 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/orchid-n-roses" title=""><img alt="online roses delivery" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/white.jpg?itok=t6RVLYx4" title="Orchid N Roses" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/orchid-n-roses" title="Orchid N Roses">Orchid N Roses</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.899</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/orchid-n-roses" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-9 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/carnation-bunch" title=""><img alt="Online Delivery Of Flowers" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Loving-Blooms.jpg?itok=_xKet1jh" title="Red Carnation Bunch" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/carnation-bunch" title="Loving Blooms">Loving Blooms</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.965</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/carnation-bunch" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-10 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/send-cakes/chocolate-cake-half-kg" title=""><img alt="birthday cakes order online home delivery" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Chocolate-cake-edit.jpg?itok=rofAEKb_" title="birthday cakes order online home delivery" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/send-cakes/chocolate-cake-half-kg" title="Chocolate Cake 1/2 Kg">Chocolate Cake 1/2 Kg</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.699</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/send-cakes/chocolate-cake-half-kg" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-11 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/must-be-santa" title=""><img alt="Christmas gifts to India" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Must-Be-Santa.jpg?itok=-ozU8w9C" title="Christmas gifts to India" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/must-be-santa" title="Must Be Santa">Must Be Santa</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1799</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/must-be-santa" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-12 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/send-flowers/red-rose-in-a-box" title=""><img alt="Red Rose in a Box" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Red-Rose-in-a-Box.jpg?itok=h2xYlTW3" title="Red Rose in a Box" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/send-flowers/red-rose-in-a-box" title="Red Rose in a Box">Red Rose in a Box</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.349</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/send-flowers/red-rose-in-a-box" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-13 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/fall-love" title=""><img alt="Deliver Flower Online" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Fall-in-love_0.jpg?itok=YgEg2jjL" title="Send roses to India/Send flowers to India " typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/fall-love" title="Fall in Love">Fall in Love</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.2649</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/fall-love" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+  </ul>
+    </div>
+  
+    	  <div class="pagerinsite clearfix" id="view-bottom-pager">
+		<div class="noofresultleft">
+			Item 13 of 16 total		</div>
+	    <div class="pagerright"></div>
+	  </div>
+  
+  
+  
+
+  
+  
+</div>
+</div>
+</div> <div class="block block-block" id="block-block-34">
+<div class="content">
+<script>
+jQuery(document).ready(function($){
+  jQuery('ul.tabs-sections').each(function(){
+    var $active, $content, $links = jQuery(this).find('a');
+    $active = jQuery($links.filter('[href="'+location.hash+'"]')[0] || $links[0]);
+    $active.addClass('active');
+    $content = jQuery($active[0].hash);
+    $links.not($active).each(function () {
+      jQuery(this.hash).hide();
+    });
+    jQuery(this).on('click', 'a', function(e){
+      $active.removeClass('active');
+      $content.hide();
+      $active = jQuery(this);
+      $content = jQuery(this.hash);
+      $active.addClass('active');
+      $content.show();
+      e.preventDefault();
+    });
+  });
+ }) 
+</script>	
+<div class="main-title"><h2>send gift across India</h2></div>
+<ul class="tabs-sections">
+	<a href="#flowers-section1"><li>Flowers</li></a>
+	<a href="#cakes-section1"><li>Cakes</li></a>
+	<a href="#combos-section1"><li>Combos</li></a>
+</ul>
+<div class="tab_product" id="flowers-section1">
+<div class="slide-view-all"><a href="http://www.floweraura.com/sendflowers">view all flowers</a></div>
+<div class="product-slider">
+<div class="block block-views" id="block-views-best-seller-block-1">
+<div class="content">
+<script>
+jQuery(document).ready(function(){
+    jQuery(".toggle-content").hide();
+    jQuery("#toggle-click").click(function(){
+        jQuery("div.down-arrow" ).toggleClass("up-arrow");
+        jQuery(".toggle-content").slideToggle("fast");
+    });
+});
+</script>
+
+<div class="view view-best-seller view-id-best_seller view-display-id-block_1 view-dom-id-b84e6fd01cb0848c5e55fff73ca589e2">
+         
+  
+
+
+  
+    	  <div class="pagerinsite clearfix" id="view-top-pager">
+		<div class="noofresultleft">
+			Item 13 of 194 total		</div>
+
+	    <div class="pagerright">
+
+	      
+	    </div>
+	  </div>
+  
+      <div class="view-content">
+      <ul class="jcarousel jcarousel-view--best-seller--block-1 jcarousel-dom-2 jcarousel-skin-default">
+      <li class="jcarousel-item-1 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/12-yellow-roses-bunch" title=""><img alt="Caring Heart yellow roses" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Caring-Heart.jpg?itok=3Jz4KXg1" title="Caring Heart yellow roses" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/12-yellow-roses-bunch" title="Caring Heart">Caring Heart</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.399</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/12-yellow-roses-bunch" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-2 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/send-flowers/sweet-sin-combo" title=""><img alt="Red rose and chocolate cake" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Sweet%20Sin%20Combo.jpg?itok=bAww5ov8" title="Red rose and chocolate cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/send-flowers/sweet-sin-combo" title="Sweet Sin Combo">Sweet Sin Combo</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.999</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/send-flowers/sweet-sin-combo" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-3 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/send-flowers/yellow-delight" title=""><img alt="Flowers For Birthday" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Yellow-Delight.jpg?itok=WO_fDf7J" title="Yellow Delight" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/send-flowers/yellow-delight" title="Yellow Delight">Yellow Delight</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1249</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/send-flowers/yellow-delight" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-4 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/Pure-Love-Roses-and-Chocolates" title=""><img alt='12 Roses with a cute 6" Teddy and 16 Ferrero Rochers' height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Pure%20Love%20%E2%80%93%20Roses%20And%20Chocolates.jpg?itok=GxiDy82W" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/Pure-Love-Roses-and-Chocolates" title="Pure Love – Roses and Choc...">Pure Love – Roses and Choc...</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.799</span> 
+<span class="listprice">Rs.899</span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/Pure-Love-Roses-and-Chocolates" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-5 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/blooming-love-rose" title=""><img alt="Blooming Love – 18 Roses" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/20.jpg?itok=jlzf1nA3" title="Blooming Love – 18 Roses" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/blooming-love-rose" title="Blooming Love">Blooming Love</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.649</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/blooming-love-rose" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-6 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/send-flowers/lovely-choice" title=""><img alt="flowers delivery online" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Lovely%20choice.jpg?itok=0fHUb3eW" title="Lovely choice" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/send-flowers/lovely-choice" title="Lovely choice">Lovely choice</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.799</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/send-flowers/lovely-choice" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-7 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/send-flowers/my-simple-mom" title=""><img alt="My Simple Mom Mothers Day Flowers" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/My-Simple-Mom_0.jpg?itok=qX00aBjf" title="My Simple Mom Mothers Day Flowers" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/send-flowers/my-simple-mom" title="My Simple Pink">My Simple Pink</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1149</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/send-flowers/my-simple-mom" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-8 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/joy-world" title=""><img alt="Send Christmas flowers to India" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Joy-To-The-World.jpg?itok=tnrf6TjB" title="Joy To The World" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/joy-world" title="Joy To The World">Joy To The World</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.699</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/joy-world" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-9 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/lady-charmers" title=""><img alt="Send Bouquet Cake and Teddy Online" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Lady-Charmers_0.jpg?itok=BmpUILnl" title="Send Bouquet Cake and Teddy" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/lady-charmers" title="Lady Charmers">Lady Charmers</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1239</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/lady-charmers" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-10 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/30-Roses-Basket" title=""><img alt="Order Online Flowers" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Love-Express.jpg?itok=g5B2SPyD" title="Order Online Flowers" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/30-Roses-Basket" title="Love Express">Love Express</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1299</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/30-Roses-Basket" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-11 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/friendly-roses" title=""><img alt="Send Roses For Birthday" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Friendly%20Roses.jpg?itok=Newu5sMT" title="Red and Yellow Roses" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/friendly-roses" title="Friendly Roses">Friendly Roses</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.649</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/friendly-roses" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-12 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/sunrise-special" title=""><img alt="order flowers online cheap" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/sunrise%20special_0.jpg?itok=weTTTgwA" title="Send yellow roses to Friends | Send Flowers to India" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/sunrise-special" title="Sunrise Special">Sunrise Special</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1495</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/sunrise-special" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-13 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/LoveMessenger" title=""><img alt="same day flower delivery" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Love-Messenger.jpg?itok=1Wvwys0c" title="Teddies And Flowers" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/LoveMessenger" title="Love Messenger">Love Messenger</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.949</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/LoveMessenger" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+  </ul>
+    </div>
+  
+    	  <div class="pagerinsite clearfix" id="view-bottom-pager">
+		<div class="noofresultleft">
+			Item 13 of 194 total		</div>
+	    <div class="pagerright"></div>
+	  </div>
+  
+  
+  
+
+  
+  
+</div>
+</div>
+</div> </div>
+</div>
+<div class="tab_product" id="cakes-section1">
+<div class="slide-view-all"><a href="http://www.floweraura.com/cake-delivery">view all cakes</a></div>
+<div class="product-slider">
+<div class="block block-views" id="block-views-best-seller-block-2">
+<div class="content">
+<script>
+jQuery(document).ready(function(){
+    jQuery(".toggle-content").hide();
+    jQuery("#toggle-click").click(function(){
+        jQuery("div.down-arrow" ).toggleClass("up-arrow");
+        jQuery(".toggle-content").slideToggle("fast");
+    });
+});
+</script>
+
+<div class="view view-best-seller view-id-best_seller view-display-id-block_2 view-dom-id-3c7402d9ab1ccadbcf151ba1a43ad0d8">
+         
+  
+
+
+  
+    	  <div class="pagerinsite clearfix" id="view-top-pager">
+		<div class="noofresultleft">
+			Item 13 of 86 total		</div>
+
+	    <div class="pagerright">
+
+	      
+	    </div>
+	  </div>
+  
+      <div class="view-content">
+      <ul class="jcarousel jcarousel-view--best-seller--block-2 jcarousel-dom-3 jcarousel-skin-default">
+      <li class="jcarousel-item-1 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/cake-delivery/choco-nuts-cake" title=""><img alt="Choco nuts cake delivery in Gurgaon" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/midnight-cake-delivery-in-gurgaon-Choco-Nuts-half-kg-cake.jpg?itok=IEv3K-6R" title="Choco nuts cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/cake-delivery/choco-nuts-cake" title="Choco Nuts Cake 1/2 kg">Choco Nuts Cake 1/2 kg</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.549</span> 
+<span class="listprice">Rs.649</span>
+</div>
+<span class="firstthing5"><a href="/cake-delivery/choco-nuts-cake" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-2 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/cake-delivery/black-forest-cake-g" title=""><img alt="online black forest 1/2 kg cake order in Gurgaon" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/black%20forest-half-kg-order-cake-online-gurgaon.jpg?itok=3RwVlKBV" title="black forest 1/2 kg cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/cake-delivery/black-forest-cake-g" title="Black Forest Cake 1/2 kg">Black Forest Cake 1/2 kg</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.499</span> 
+<span class="listprice">Rs.699</span>
+</div>
+<span class="firstthing5"><a href="/cake-delivery/black-forest-cake-g" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-3 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/cake-delivery/ferrero-rocher-half-kg-cake" title=""><img alt="Order Ferrero Rocher 1 kg Cake online Gurgaon" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Ferrero-rocher-half-kg-Cake-online-delivery-in-gurgaon.jpg?itok=3LE7Yzhc" title="Ferrero Rocher 1 kg Cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/cake-delivery/ferrero-rocher-half-kg-cake" title="Ferrero Rocher 1 kg Cake">Ferrero Rocher 1 kg Cake</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1049</span> 
+<span class="listprice">Rs.1199</span>
+</div>
+<span class="firstthing5"><a href="/cake-delivery/ferrero-rocher-half-kg-cake" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-4 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/cake-delivery/choco-walnut-half-kg-cake" title=""><img alt="Online Choco Walnut 1/2 kg cake delivery in Gurgaon" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/cake-delivery-in-gurgaon-Choco-Walnut-half-kg-Cake.jpg?itok=u-7W3Iwm" title="Choco Walnut 1/2 kg Cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/cake-delivery/choco-walnut-half-kg-cake" title="Choco Walnut 1/2 kg Cake">Choco Walnut 1/2 kg Cake</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.549</span> 
+<span class="listprice">Rs.699</span>
+</div>
+<span class="firstthing5"><a href="/cake-delivery/choco-walnut-half-kg-cake" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-5 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/cake-delivery/kiwi-cake-half-kg" title=""><img alt="Kiwi 1/2 Kg Cake delivery in Gurgaon" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Kiwi-half-kg-online-cake-order-in-gurgaon.jpg?itok=S7zVSNYe" title="Kiwi Cake 1/2 Kg" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/cake-delivery/kiwi-cake-half-kg" title="Kiwi Cake 1/2 kg">Kiwi Cake 1/2 kg</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.499</span> 
+<span class="listprice">Rs.649</span>
+</div>
+<span class="firstthing5"><a href="/cake-delivery/kiwi-cake-half-kg" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-6 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/cake-delivery/oreo-chocolate-cake" title=""><img alt="Order Oreo Chocolate Cake 1/2 kg online Gurgaon" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/online-cake-delivery-in-gurgaon-oreo-chocolate-cake-half-kg.jpg?itok=ZglrpYK1" title="Oreo Chocolate Cake 1/2 kg" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/cake-delivery/oreo-chocolate-cake" title="Oreo Chocolate Cake 1/2 kg">Oreo Chocolate Cake 1/2 kg</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.549</span> 
+<span class="listprice">Rs.699</span>
+</div>
+<span class="firstthing5"><a href="/cake-delivery/oreo-chocolate-cake" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-7 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/cake-delivery/blue-berry-cake" title=""><img alt="Online BlueBerry 1/2 kg cake delivery in gurgaon" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/cake-delivery-in-gurgaon-blueberry-half-kg-cake.jpg?itok=bZRamRUE" title="BlueBerry 1/2 kg cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/cake-delivery/blue-berry-cake" title="BlueBerry 1/2 kg cake">BlueBerry 1/2 kg cake</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.549</span> 
+<span class="listprice">Rs.699</span>
+</div>
+<span class="firstthing5"><a href="/cake-delivery/blue-berry-cake" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-8 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/cake-delivery/german-black-forest-half-kg-cake" title=""><img alt="German black forest 1/2 kg cake delivery in Gurgaon" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/online-cake-order-in-gurgaon-german-black-forest-half-kg-cake.jpg?itok=F7wCPOXj" title="German black forest 1/2 kg cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/cake-delivery/german-black-forest-half-kg-cake" title="German Black Forest 1/2 kg...">German Black Forest 1/2 kg...</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.549</span> 
+<span class="listprice">Rs.649</span>
+</div>
+<span class="firstthing5"><a href="/cake-delivery/german-black-forest-half-kg-cake" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-9 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/cake-delivery/chocolate-truffle-half-kg-cake" title=""><img alt="Online Chocolate Truffle 1/2 kg cake order in Gurgaon" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/order-cake-online-gurgaon-chocolate-truffle-half-kg-cake.jpg?itok=tUd6-AWw" title="Chocolate Truffle 1/2 kg cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/cake-delivery/chocolate-truffle-half-kg-cake" title="Chocolate Truffle 1/2 kg c...">Chocolate Truffle 1/2 kg c...</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.549</span> 
+<span class="listprice">Rs.699</span>
+</div>
+<span class="firstthing5"><a href="/cake-delivery/chocolate-truffle-half-kg-cake" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-10 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/chocolate-truffle-1kg-heart-shaped-cake" title=""><img alt="Order Chocolate Truffle 1kg heart shaped Cake online Gurgaon" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/online-cake-delivery-in-gurgaon-chocolate-truffle-1kg-heart-shaped-cake.jpg?itok=Xzq8G2C-" title="Chocolate Truffle 1kg heart shaped Cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/chocolate-truffle-1kg-heart-shaped-cake" title="Chocolate Truffle 1kg hear...">Chocolate Truffle 1kg hear...</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.949</span> 
+<span class="listprice">Rs.1249</span>
+</div>
+<span class="firstthing5"><a href="/chocolate-truffle-1kg-heart-shaped-cake" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-11 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/cake-delivery/choco-butter-scotch-half-kg-cake" title=""><img alt="Online Choco Butter Scotch 1/2 kg Cake delivery in gurgaon" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/cake-delivery-in-gurgaon-choco-butterscotch-half-kg-cake.jpg?itok=84fYwm7V" title="Choco Butter Scotch 1/2 kg Cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/cake-delivery/choco-butter-scotch-half-kg-cake" title="Choco Butter Scotch 1/2 kg...">Choco Butter Scotch 1/2 kg...</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.549</span> 
+<span class="listprice">Rs.699</span>
+</div>
+<span class="firstthing5"><a href="/cake-delivery/choco-butter-scotch-half-kg-cake" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-12 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/cake-delivery/chocolate-vanilla-cake" title=""><img alt="Chocolate Vanilla 1/2 Kg Cake delivery in gurgaon" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/online-cake-order-in-gurgaon-choclate-vanilla-cake-half-kg.jpg?itok=zSb7NeUN" title="Chocolate Vanilla Cake 1/2 Kg" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/cake-delivery/chocolate-vanilla-cake" title="Chocolate Vanilla Cake 1/2...">Chocolate Vanilla Cake 1/2...</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.499</span> 
+<span class="listprice">Rs.649</span>
+</div>
+<span class="firstthing5"><a href="/cake-delivery/chocolate-vanilla-cake" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-13 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/cake-delivery/coffee-mocha-half-kg-cake" title=""><img alt="Online Coffee Mocha 1/2 kg cake order in Gurgaon" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/order-cake-online-gurgaon-coffee-mocha-half-kg-cake.jpg?itok=jg0miNaW" title="Coffee Mocha 1/2 kg cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/cake-delivery/coffee-mocha-half-kg-cake" title="Coffee Mocha 1/2 kg cake">Coffee Mocha 1/2 kg cake</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.549</span> 
+<span class="listprice">Rs.699</span>
+</div>
+<span class="firstthing5"><a href="/cake-delivery/coffee-mocha-half-kg-cake" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+  </ul>
+    </div>
+  
+    	  <div class="pagerinsite clearfix" id="view-bottom-pager">
+		<div class="noofresultleft">
+			Item 13 of 86 total		</div>
+	    <div class="pagerright"></div>
+	  </div>
+  
+  
+  
+
+  
+  
+</div>
+</div>
+</div> </div>
+</div>
+<div class="tab_product" id="combos-section1">
+<div class="slide-view-all"><a href="http://www.floweraura.com/sendflower/bouquet_type/combos">view all combos</a></div>
+<div class="product-slider">
+<div class="block block-views" id="block-views-best-seller-block-3">
+<div class="content">
+<script>
+jQuery(document).ready(function(){
+    jQuery(".toggle-content").hide();
+    jQuery("#toggle-click").click(function(){
+        jQuery("div.down-arrow" ).toggleClass("up-arrow");
+        jQuery(".toggle-content").slideToggle("fast");
+    });
+});
+</script>
+
+<div class="view view-best-seller view-id-best_seller view-display-id-block_3 view-dom-id-61f4ac2080b08ca023444082f408873d">
+         
+  
+
+
+  
+    	  <div class="pagerinsite clearfix" id="view-top-pager">
+		<div class="noofresultleft">
+			Item 13 of 82 total		</div>
+
+	    <div class="pagerright">
+
+	      
+	    </div>
+	  </div>
+  
+      <div class="view-content">
+      <ul class="jcarousel jcarousel-view--best-seller--block-3 jcarousel-dom-4 jcarousel-skin-default">
+      <li class="jcarousel-item-1 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/send-flowers/sweet-sin-combo" title=""><img alt="Red rose and chocolate cake" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Sweet%20Sin%20Combo.jpg?itok=bAww5ov8" title="Red rose and chocolate cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/send-flowers/sweet-sin-combo" title="Sweet Sin Combo">Sweet Sin Combo</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.999</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/send-flowers/sweet-sin-combo" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-2 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/xmas-choco" title=""><img alt="Xmas chocolate combo" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Xmas-Choco.jpg?itok=Q2VzwEj8" title="Xmas Choco" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/xmas-choco" title="Xmas Choco">Xmas Choco</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1599</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/xmas-choco" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-3 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/Pure-Love-Roses-and-Chocolates" title=""><img alt='12 Roses with a cute 6" Teddy and 16 Ferrero Rochers' height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Pure%20Love%20%E2%80%93%20Roses%20And%20Chocolates.jpg?itok=GxiDy82W" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/Pure-Love-Roses-and-Chocolates" title="Pure Love – Roses and Choc...">Pure Love – Roses and Choc...</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.799</span> 
+<span class="listprice">Rs.899</span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/Pure-Love-Roses-and-Chocolates" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-4 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/send-flowers/my-simple-mom" title=""><img alt="My Simple Mom Mothers Day Flowers" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/My-Simple-Mom_0.jpg?itok=qX00aBjf" title="My Simple Mom Mothers Day Flowers" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/send-flowers/my-simple-mom" title="My Simple Pink">My Simple Pink</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1149</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/send-flowers/my-simple-mom" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-5 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/lady-charmers" title=""><img alt="Send Bouquet Cake and Teddy Online" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Lady-Charmers_0.jpg?itok=BmpUILnl" title="Send Bouquet Cake and Teddy" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/lady-charmers" title="Lady Charmers">Lady Charmers</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1239</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/lady-charmers" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-6 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/LoveMessenger" title=""><img alt="same day flower delivery" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Love-Messenger.jpg?itok=1Wvwys0c" title="Teddies And Flowers" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/LoveMessenger" title="Love Messenger">Love Messenger</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.949</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/LoveMessenger" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-7 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/cuddley-choco-combo" title=""><img alt="" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Cuddly-Choco-Combo.jpg?itok=WESmMpkQ" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/cuddley-choco-combo" title="Cuddly Choco Combo">Cuddly Choco Combo</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1399</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/cuddley-choco-combo" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-8 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/ultimate-fantasy" title=""><img alt="buy flowers online" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Ultimate-Fantasy.jpg?itok=Hih6YvAX" title="send flowers and cake" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/ultimate-fantasy" title="Ultimate Fantasy">Ultimate Fantasy</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1999</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/ultimate-fantasy" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-9 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/send-flowers/sweet-gesture" title=""><img alt="Sweet Gesture for Mom" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Sweet-Gesture_0.jpg?itok=wsXhqxvu" title="Sweet Gesture for Mom" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/send-flowers/sweet-gesture" title="Sweet Gesture">Sweet Gesture</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1099</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/send-flowers/sweet-gesture" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-10 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/sinfully-beautiful-pink-roses-chocolates" title=""><img alt="" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Sinfully%20Beautiful%20%E2%80%93%20Pink%20Roses%20%26%20Chocolates.jpg?itok=L5A3Vooe" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/sinfully-beautiful-pink-roses-chocolates" title="Sinfully Beautiful – Pink...">Sinfully Beautiful – Pink...</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.749</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/sinfully-beautiful-pink-roses-chocolates" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-11 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/sendflowers/cuddly-roses-combo" title=""><img alt="Cuddly Rose and Teddy Combo" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Cuddly-Roses-Combo_6.jpg?itok=Oq722M6Z" title="Cuddly Roses and Teddy Combo" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/sendflowers/cuddly-roses-combo" title="Cuddly Roses Combo">Cuddly Roses Combo</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.689</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/sendflowers/cuddly-roses-combo" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-12 even">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/send-flowers/misty-rosey-combo" title=""><img alt="Flower Bouquet Delivery With Sweets" height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Misty-Rosey-Combo_3.jpg?itok=pwLRPdZZ" title="Misty Rosey Combo" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/send-flowers/misty-rosey-combo" title="Misty Rosey Combo">Misty Rosey Combo</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.999</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/send-flowers/misty-rosey-combo" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+      <li class="jcarousel-item-13 odd">  
+  <div class="views-field views-field-buyitnowbutton">        <div class="field-content"><div class="showview">
+<div class="firstthing1"><a href="/send-flowers/loads-of-love-papa" title=""><img alt="Loads of Love " height="210" src="http://d24pyncn3hxs0c.cloudfront.net/sites/default/files/styles/uc_product_list_new/public/Loads-Of-Love-Papa_0.jpg?itok=rB7XHYXm" title="Loads of Love" typeof="foaf:Image" width="210"/></a></div>
+<div class="firstthing4">
+<div class="firstthing2"><a href="/send-flowers/loads-of-love-papa" title="Loads Of Love">Loads Of Love</a></div>
+<div class="pricewrap">
+<span class="firstthing3">Rs.1249</span> 
+<span class="listprice"></span>
+</div>
+<span class="firstthing5"><a href="/send-flowers/loads-of-love-papa" title="view">view</a></span>
+</div>
+</div></div>  </div></li>
+  </ul>
+    </div>
+  
+    	  <div class="pagerinsite clearfix" id="view-bottom-pager">
+		<div class="noofresultleft">
+			Item 13 of 82 total		</div>
+	    <div class="pagerright"></div>
+	  </div>
+  
+  
+  
+
+  
+  
+</div>
+</div>
+</div> </div>
+</div></div>
+</div> <div class="block block-block" id="block-block-36">
+<div class="content">
+<div class="home-footer-content">
+<div id="TRUSTEDCOMPANY_widget_3098">
+<script async="" src="https://d3643s33l1rfut.cloudfront.net/js/widget?w=BQYHDBEcXkZaR1lfQV9aUw"></script></div>
+<div class="main-title">
+<h1>#1 Online Flower Delivery Portal in India</h1>
+</div>
+<p><b>Is there anyone in this world who does not like flowers?</b> Anyone who does not admire the beauty of flowers? Of course not! Because flowers undoubtedly bring a smile on everyone’s face, they add the warmth of Sunshine to the day and make the soul feel calm and peaceful. And so to speak the language of flowers and express emotions when words are just not enough, FlowerAura has taken the responsibility to become your Messenger of Emotions, thereby adding more smiles to your loved one’s face.</p>
+<p><b>What is their favorite flower?</b> Does your recipient love Roses, Carnations, Gerberas, Anthuriums, orchids, Lilies or? Whichever be the flower of their choice, you’ll find it at FlowerAura. We deliver fleshly cut <b>flowers in the most beautiful and classic arrangements</b>. Wrapped beautifully in different designs and colorful paper, these bouquets are sure to make your loved one’s face to shine even brighter.</p>
+<p>So the next time <b>you need to send flowers online</b>, you know where to head to!</p>
+<h2>FlowerAura.com - When Words are not Enough</h2>
+<p>Floweraura, a name that has now become synonymous to its commitment of making your occasions even grander, helps you express your deepest of emotions through its wide assortment of freshly handpicked flowers Arrangements, Amazingly Delicious Cakes, Handmade Chocolates and Heartwarming Gifts. <b>FlowerAura.com is an Online Gifting portal</b> that ensures best quality services to its customers. And this is not all, along with these gifting options Floweraura also provides Special Song Dedication Service on Guitar for the NCR Region. </p>
+<p><b>Floweraura is your messenger of Affection at your service Just a Click away</b></p>
+<p>Sending Gifts to your loved ones have become convenient than ever. Marking its presence over 150+ cities, FlowerAura’s user friendly and intuitive interface provides you with and easy hassle-free process. <b>Being an online florist and gifting portal of repute for the past 6 years</b>, and with strong affiliate network, FlowerAura has enabled itself to strengthen the vendor linkage in pan India, thereby making the delivery processes even more diligent in terms of service and quality parameters. And FlowerAura provides all this at the ease of a click.</p>
+<h3>Perfect Cakes And Gifts for Your Loved Ones</h3>
+<p>Some relationships deserve something extra, something different and something extremely special. And with our Unique and Stunning variety of Flower Bouquets, delectable Cakes and Personalized Gifts, you’ll surely find the perfect gift for your loved ones.</p>
+<p>It’s not just about the special days, but those special moments that make the celebrations grander and joyful. And what other than cakes can make the celebrations extra special? Be it the birthday, Anniversary, <a href="http://www.floweraura.com/mothers-day">Mothers Day</a>, <a href="http://www.floweraura.com/fathers-day">Father’s Day</a>, <a href="http://www.floweraura.com/valentine">Valentine Day</a> or even our religious festivals like <a href="http://www.floweraura.com/diwali">Diwali</a> or <a href="http://www.floweraura.com/online-rakhi-gifts">Rakhi</a>, there are flower, gift and cakes for each occasion. Add more charm to your celebrations with FlowerAura’s lip-smacking Cakes collection – Does your recipient like Passionate Truffle, Classic Black Forest or Strawberry Blush? Any flavor you want, you name it and we have it. You know why? Because we understand, how important it is to make the celebrations memorable. </p>
+<p>FlowerAura also provides an Ecstatic Gifts Collection suited for every occasion. There is a plethora of options to choose from. Customized Mugs, Cushions, Teddy Bears, Candles, Deities, etc.</p>
+<p><i>Online Flower Delivery comes with a great deal of responsibility and so we at FlowerAura, respect the sentiments of the customers and believe that Customer Satisfaction is of utmost importance. So, we always make sure that we deliver the best to you at the right time and in the right emotion.</i></p>
+</div>
+</div>
+</div> <div class="block block-views" id="block-views-testimonials-block">
+<div class="content">
+<script>
+jQuery(document).ready(function(){
+    jQuery(".toggle-content").hide();
+    jQuery("#toggle-click").click(function(){
+        jQuery("div.down-arrow" ).toggleClass("up-arrow");
+        jQuery(".toggle-content").slideToggle("fast");
+    });
+});
+</script>
+
+<div class="view view-testimonials view-id-testimonials view-display-id-block view-dom-id-2c5263a234ec66aee7112cca37ff44a5">
+         
+      <div class="view-header">
+      <div class="main-title">
+<div class="left-heading"><h2>Customer Testimonials</h2></div>
+<!--<div class="right-heading"><a href="http://www.floweraura.com/customer-testimonials">View All</a></div>-->
+</div>    </div>
+  
+
+
+  
+    	  <div class="pagerinsite clearfix" id="view-top-pager">
+		<div class="noofresultleft">
+			Item 10 of  total		</div>
+
+	    <div class="pagerright">
+
+	      
+	    </div>
+	  </div>
+  
+      <div class="view-content">
+      
+<div class="skin-default">
+      <div class="views-slideshow-controls-top clearfix">
+      <div class="views-slideshow-controls-text views_slideshow_controls_text" id="views_slideshow_controls_text_testimonials-block">
+  <span class="views-slideshow-controls-text-previous views_slideshow_controls_text_previous" id="views_slideshow_controls_text_previous_testimonials-block"><a href="#">Previous</a></span>
+  <span class="views-slideshow-controls-text-pause views_slideshow_controls_text_pause" id="views_slideshow_controls_text_pause_testimonials-block"><a href="#">Pause</a></span>
+  <span class="views-slideshow-controls-text-next views_slideshow_controls_text_next" id="views_slideshow_controls_text_next_testimonials-block"><a href="#">Next</a></span>
+</div>
+    </div>
+  
+  <div class="views_slideshow_cycle_main views_slideshow_main" id="views_slideshow_cycle_main_testimonials-block"><div class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section" id="views_slideshow_cycle_teaser_section_testimonials-block">
+  <div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd" id="views_slideshow_cycle_div_testimonials-block_0">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><div class="testimonial-full-content">
+<div class="left-quotes"></div>
+<div class="testimonial-content">I would like to thank your team and especially naina for making a prompt flower delivery as per my requirement. Thanks once again.</div>
+<div class="right-quotes"></div>
+<span class="testimonials-name">Aseem Suri</span>
+</div></span>  </div></div>
+</div>
+<div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_testimonials-block_1">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><div class="testimonial-full-content">
+<div class="left-quotes"></div>
+<div class="testimonial-content">You are amazing....and your service is tooo fast &amp; too good....me &amp; my husband are using you site from past 2 years and you people have never disappointed Us...thank you for delivery cake n gifts on time</div>
+<div class="right-quotes"></div>
+<span class="testimonials-name">Jyots kumari</span>
+</div></span>  </div></div>
+</div>
+<div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" id="views_slideshow_cycle_div_testimonials-block_2">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><div class="testimonial-full-content">
+<div class="left-quotes"></div>
+<div class="testimonial-content">Thanks for ur committed timely fresh flower Deleivery</div>
+<div class="right-quotes"></div>
+<span class="testimonials-name">Smruti</span>
+</div></span>  </div></div>
+</div>
+<div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_testimonials-block_3">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><div class="testimonial-full-content">
+<div class="left-quotes"></div>
+<div class="testimonial-content">I want to thank the entire team for the timely delivery of flowers and cake on both Mothers Day and Fathers Day. The cake was excellent quality and the flowers were very fresh. My parents were surprised and extremely happy.
+
+Once...</div>
+<div class="right-quotes"></div>
+<span class="testimonials-name">Namrata prashar</span>
+</div></span>  </div></div>
+</div>
+<div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd" id="views_slideshow_cycle_div_testimonials-block_4">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><div class="testimonial-full-content">
+<div class="left-quotes"></div>
+<div class="testimonial-content">It was My Fiance's first bday after We got engaged.
+Unfortunately I had to leave the country for work purpose and I was heartbroken since I wouldn't be able to make Her feel special on Her bday.
+Thanks to FlowerAura, I could at...</div>
+<div class="right-quotes"></div>
+<span class="testimonials-name">Preetam Salve</span>
+</div></span>  </div></div>
+</div>
+<div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-6 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_testimonials-block_5">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><div class="testimonial-full-content">
+<div class="left-quotes"></div>
+<div class="testimonial-content">Wow! What an experience! Thank you so much for delivering flowers for my mothers birthday on the same day within a few hours and that too on a busy day i.e. Diwali... Thank you...! You have earned a customer for a lifetime :)</div>
+<div class="right-quotes"></div>
+<span class="testimonials-name">Shirin Shariyari</span>
+</div></span>  </div></div>
+</div>
+<div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-7 views_slideshow_cycle_hidden views-row-odd" id="views_slideshow_cycle_div_testimonials-block_6">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><div class="testimonial-full-content">
+<div class="left-quotes"></div>
+<div class="testimonial-content">Thanks flower aura for your fast &amp; prompt service. My sister is so Happy and glad to take the order.............. thanks again</div>
+<div class="right-quotes"></div>
+<span class="testimonials-name">Manish Bule</span>
+</div></span>  </div></div>
+</div>
+<div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-8 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_testimonials-block_7">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><div class="testimonial-full-content">
+<div class="left-quotes"></div>
+<div class="testimonial-content">i would thank you for the effort, in helping us sending gifts. Customer Service is Excellent they feel responsible and respond very quickly. Thanks Kapil Sharma for getting me informed on all aspects. I will rate it Excellent on...</div>
+<div class="right-quotes"></div>
+<span class="testimonials-name">Seshadri</span>
+</div></span>  </div></div>
+</div>
+<div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-9 views_slideshow_cycle_hidden views-row-odd" id="views_slideshow_cycle_div_testimonials-block_8">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><div class="testimonial-full-content">
+<div class="left-quotes"></div>
+<div class="testimonial-content">beautiful flowers...... special class deliveries ;-)
+keep going</div>
+<div class="right-quotes"></div>
+<span class="testimonials-name">Sandeep Sharma</span>
+</div></span>  </div></div>
+</div>
+<div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-10 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_testimonials-block_9">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-title">        <span class="field-content"><div class="testimonial-full-content">
+<div class="left-quotes"></div>
+<div class="testimonial-content">Hi,  my order to Nims university jaipur delhi highway just now got delivered.I really appreciate the service.I tried several times to deliver flower and cake to that  address but no other online delivery site accepted the order....</div>
+<div class="right-quotes"></div>
+<span class="testimonials-name">Ankita saha</span>
+</div></span>  </div></div>
+</div>
+</div>
+</div>
+  </div>
+    </div>
+  
+    	  <div class="pagerinsite clearfix" id="view-bottom-pager">
+		<div class="noofresultleft">
+			Item 10 of  total		</div>
+	    <div class="pagerright"></div>
+	  </div>
+  
+  
+  
+
+  
+  
+</div>
+</div>
+</div>   </div>
+	
+	</div>
+	</div>
+	</div>
+	
+</div><!-- end mid-wrapper-->
+
+<div class="footer-wrapper">
+	  <div class="region region-footer">
+    <div class="block block-block" id="block-block-35">
+<div class="content">
+<div class="js-footer">
+<div class="js-footer-flowers">
+<h2>SEND FLOWERS TO</h2>
+<ul>
+<li><a href="http://www.floweraura.com/sendflowers/bangalore">Bangalore</a></li>
+<li><a href="http://www.floweraura.com/sendflowers/bhopal">Bhopal</a></li>
+<li><a href="http://www.floweraura.com/sendflowers/chennai">Chennai</a></li>
+<li><a href="http://www.floweraura.com/sendflowers/delhi">Delhi</a></li>
+<li><a href="http://www.floweraura.com/sendflowers/gurgaon">Gurgaon</a></li>
+<li><a href="http://www.floweraura.com/sendflowers/hyderabad">Hyderabad</a></li>
+<li><a href="http://www.floweraura.com/sendflowers/kolkata">Kolkata</a></li>
+<li><a href="http://www.floweraura.com/sendflowers/mumbai">Mumbai</a></li>
+<li><a href="http://www.floweraura.com/sendflowers/pune">Pune</a></li>
+<li><a href="http://www.floweraura.com/sendflowers/vizag">Vizag</a></li>
+<li><a href="http://www.floweraura.com/sendflowers/mathura">Mathura</a></li>
+<li><a href="http://www.floweraura.com/sendflowers/rajkot">Rajkot</a></li>
+<li><a href="http://www.floweraura.com/delivery-cities">All Other Cities</a></li>
+</ul>
+</div>
+
+<div class="js-footer-Cakes">
+<h2>CAKE DELIVERY IN</h2>
+<ul>
+<li><a href="http://www.floweraura.com/cake-delivery/ahmedabad">Ahmedabad</a></li>
+<li><a href="http://www.floweraura.com/cake-delivery/bangalore">Bangalore</a></li>
+<li><a href="http://www.floweraura.com/cake-delivery/chennai">Chennai</a></li>
+<li><a href="http://www.floweraura.com/cake-delivery/delhi">Delhi</a></li>
+<li><a href="http://www.floweraura.com/cake-delivery/gurgaon">Gurgaon</a></li>
+<li><a href="http://www.floweraura.com/cake-delivery/hyderabad">Hyderabad</a></li>
+<li><a href="http://www.floweraura.com/cake-delivery/kolkata">Kolkata</a></li>
+<li><a href="http://www.floweraura.com/cake-delivery/mumbai">Mumbai</a></li>
+<li><a href="http://www.floweraura.com/cake-delivery/pune">Pune</a></li>
+<li><a href="http://www.floweraura.com/delivery-cities">Other Cake Delivery Cities</a></li></ul>
+</div>
+
+
+<div class="js-footer-bottom"><ul>
+<li>
+<h3>Connect With Us</h3>
+<div class="js-connect-us">
+<ul>
+<li><a href="https://www.facebook.com/floweraura" target="_blank"><img alt="Floweraura Facebook" src="http://d24pyncn3hxs0c.cloudfront.net/sites/all/themes/facd7/images/new_images/fb.png" style="margin-top: -2px;"/></a></li>
+<li><a href="https://plus.google.com/+Floweraura" target="_blank"><img alt="Floweraura GPlus" src="http://d24pyncn3hxs0c.cloudfront.net/sites/all/themes/facd7/images/new_images/g-plus.png"/></a></li>
+<li><a href="https://twitter.com/floweraura" target="_blank"><img alt="Floweraura Twitter" src="http://d24pyncn3hxs0c.cloudfront.net/sites/all/themes/facd7/images/new_images/tweet.png"/></a></li>
+<li><a href="https://www.pinterest.com/flowerauraIndia/" target="_blank"><img alt="Floweraura Pinterest" src="http://d24pyncn3hxs0c.cloudfront.net/sites/all/themes/facd7/images/new_images/pintrst.png"/></a></li>
+<li><a href="https://www.instagram.com/floweraura/" target="_blank"><img alt="Floweraura Instagram" src="http://d24pyncn3hxs0c.cloudfront.net/sites/all/themes/facd7/images/new_images/insta.png"/></a></li>
+</ul>
+<div class="js-Secure-text"><img alt="Secure Payment" src="http://d24pyncn3hxs0c.cloudfront.net/sites/all/themes/facd7/images/new_images/lock.png"/> 100% Secure Payments</div>
+</div>
+</li>
+<li><h3>Payment Options</h3>
+<div class="js-payment-icons"><img alt="Floweraura Payment Option" src="http://d24pyncn3hxs0c.cloudfront.net/sites/all/themes/facd7/images/new_images/payment-icons.png"/></div>
+</li>
+<li><h3>FlowerAura</h3>
+<div class="js-floweraura-bottom">
+	<ul class="menu clearfix"><li class="first leaf"><a href="/aboutus" title="About Us">About Us</a></li>
+<li class="leaf"><a href="/blog" title="Blog">Blog</a></li>
+<li class="leaf"><a href="/coupons" title="Coupons &amp; Deals">Coupons &amp; Deals</a></li>
+<li class="leaf"><a href="/careers" title="Career">Career</a></li>
+<li class="leaf"><a href="/press-release" title="Press Release">Press Release</a></li>
+<li class="last leaf"><a href="/customer-testimonials" title="Testimonial">Testimonial</a></li>
+</ul></div>
+</li>
+
+<li><h3>Need Help?</h3>
+<div class="js-need-help-bottom">
+	<ul class="menu clearfix"><li class="first leaf"><a href="/terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+<li class="leaf"><a href="/disclaimer" title="Disclaimer">Disclaimer</a></li>
+<li class="leaf"><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+<li class="last leaf"><a href="/cancellation-and-refund-policy" title="Cancellation &amp; Refund">Cancellation &amp; Refund</a></li>
+</ul></div>
+</li>
+</ul></div>
+
+</div>
+
+<div class="js-footer-copyright">
+<div class="js-copyright">Copyright ©2016 FlowerAura. All Rights Reserved</div>
+</div></div>
+</div>   </div>
+<!-- Processing bar on popup login  -->
+<style type="text/css">
+#process_bar{z-index: 1002; top: 50%;left:50%;display: block; position: absolute;display: none; }
+</style>
+<div id="process_bar"><img alt="loader" src="http://www.floweraura.com/sites/all/themes/facd7/images/loading_animation.gif"/></div>
+<!-- End of Processing bar on popup login  -->
+
+<!-- Get coupon code on cart page textbox  -->
+<script type="text/javascript">
+var str = jQuery(".coupon").text();
+var resultsrt1=str.replace("Coupon", "");
+var resultsrt=resultsrt1.replace(":", "");
+var coupon = jQuery.trim(resultsrt);
+jQuery("#uc-coupon-form #edit-code").val(coupon);
+</script>
+<!-- End of Get coupon code on cart page textbox  -->
+
+
+<!--Start of Zopim Live Chat Script-->
+
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?nvLg3R67lSfcex2Q8qdPuX3iXNPftMdE';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+
+<!--End of Zopim Live Chat Script-->
+
+<!--Start of Facebook Script-->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '1420586741537528']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img alt="" height="1" src="https://www.facebook.com/tr?id=1420586741537528&amp;ev=PixelInitialized" style="display:none" width="1"/></noscript>
+<!--End of Facebook Script-->
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-K23HC7" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K23HC7');</script>
+<!-- End Google Tag Manager --></div>
+
+
+  </div> <!-- end main-wrapper-->  
+
+</body></html>

@@ -1,0 +1,1 @@
+{'online_presence': {'facebook.com': {'url': 'http://www.facebook.com/2008/fbml/about/', 'short_description': '', 'long_description': '', 'company_overview': ''}}, 'site_url': 'http://1800flowers.com'}

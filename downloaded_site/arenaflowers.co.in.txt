@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Send Flowers, Roses Delivery, Gifts Online India | ArenaFlowers</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Freshest blooming flowers delivery India for the fresh flower bouquet, gifts &amp; cakes online and get 15% Off ArenaFlowers. Get Same Day Online flower delivery." name="description"/>
+<meta content="roses flowers online delivery arenaflowers, flower delivery India, send flowers" name="keywords"/>
+<meta content="INDEX,FOLLOW" name="robots"/>
+<link href="https://www.arenaflowers.co.in/media/favicon/default/favicon.png" rel="icon" type="image/x-icon"/>
+<link href="https://www.arenaflowers.co.in/media/favicon/default/favicon.png" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://fonts.googleapis.com/css?family=Vollkorn:400&amp;subset=latin" rel="stylesheet"/><link href="https://www.arenaflowers.co.in/media/css_secure/0b5463dc895ec85bdc4c57b5818c0be1.css" media="all" rel="stylesheet" type="text/css"/>
+<script src="https://www.arenaflowers.co.in/js/prototype/prototype.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/js/lib/ccard.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/js/prototype/validation.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/js/scriptaculous/builder.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/js/scriptaculous/effects.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/js/scriptaculous/dragdrop.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/js/scriptaculous/controls.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/js/varien/js.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/js/varien/form.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/js/mage/translate.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/js/mage/cookies.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/js/lib/jquery.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/js/lib/noconflict.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/js/configurableswatches/product-media.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/js/configurableswatches/swatches-list.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/js/lib/modernizr.js" type="text/javascript"></script>
+<script src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/js/lib/slider.js" type="text/javascript"></script>
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="https://www.arenaflowers.co.in/media/css_secure/2cbd2c66659e8b632d4a9d819c837702.css" media="all" />
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.arenaflowers.co.in';
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var mbPopupParams = {"storeId":"1","previewId":0,"templateId":0,"popupPageId":1,"filterId":0,"isAjax":"0","requestType":"GET","rootUrl":"https%3A%2F%2Fwww.arenaflowers.co.in%2F","ajaxAsync":"true","doGaTracking":"true","customParams":""};
+
+//]]>
+</script>
+<script async="" src="https://www.arenaflowers.co.in/skin/frontend/base/default/js/magebird_popup/jquery.js" type="text/javascript"></script>
+<script async="" src="https://www.arenaflowers.co.in/skin/frontend/base/default/js/magebird_popup/main.js?v=1.4.6d" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script>
+</head>
+<body class=" cms-index-index cms-home default en_us clformfields">
+<div class="off-canvas-wrap">
+<div class="inner-wrap">
+<header class="main-header">
+<div style="position: absolute; margin-top: 0px; margin-left: 960px; z-index: 1901;"><span style="display: inline-block; z-index: 1901;">
+<a href="https://www.arenaflowers.co.in/flowersauthority_asia/" target="_blank" title="flowers authority"><img alt="No 1 ratings" height="140px" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/wide.png" width="100px"/></a>
+</span>
+</div>
+<div class="row top-header">
+<div class="small-6 medium-3 large-3 logo-container columns">
+<a href="https://www.arenaflowers.co.in/">
+<img alt="ArenaFlowers" class="main-logo" src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/images/arena-logo.jpg" title="ArenaFlowers"/>
+<img alt="ArenaFlowers" class="main-logo-small" src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/images/logo-small.png" title="ArenaFlowers"/>
+</a>
+</div>
+<div class="small-6 medium-3 medium-push-6 large-3 large-push-6 icons-for-small columns text-right">
+<div class="welcome-message show-for-medium-up"><span aria-hidden="true" class="icon-phone"></span>Ph: +91-8222 088 366 (Customer Care) <br/><br/> <a href="http://bit.ly/2aHGC9Q">Track Order</a><br/><a href="https://www.arenaflowers.co.in/custom-orders/">Instant Payment</a></div>
+<a class="right-off-canvas-toggle show-for-small-only icon-main-menu" href="#"></a> <a class="hide-for-large-up icon-cart" href="https://www.arenaflowers.co.in/checkout/cart/"></a> <a class="show-for-medium-only icon-user" href="https://www.arenaflowers.co.in/customer/account/"></a>
+</div>
+<div class="medium-6 large-6 medium-pull-3 large-pull-3 columns">
+<div style="margin-left:21%; margin-top:10px; min-height:30px;"><a href="" id="samedaypopup"><img src="https://www.arenaflowers.co.in/media/wysiwyg/mages/calendar-256_1.png"/>
+SameDay Delivery</a> - <a href="" id="midnightpopup"><img src="https://www.arenaflowers.co.in/media/wysiwyg/mages/calendar-256_1.png"/>
+Midnight</a></div>
+<form action="https://www.arenaflowers.co.in/catalogsearch/result/" id="search_mini_form" method="get">
+<div class="form-search">
+<div class="action">
+<button class="button" title="Search" type="submit"><span aria-hidden="true" class="icon-search"></span></button>
+</div>
+<div class="search-box">
+<input class="input-text placeholder" id="search" maxlength="128" name="q" type="text" value=""/>
+<label for="search">Search entire store here...</label>
+<div class="left"></div>
+<div class="right"></div>
+<div class="bottom"></div>
+<div class="search-autocomplete" id="search_autocomplete"></div>
+<script type="text/javascript">
+    //<![CDATA[
+        var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+        searchForm.initAutocomplete('https://www.arenaflowers.co.in/catalogsearch/ajax/suggest/', 'search_autocomplete');
+    //]]>
+    </script>
+</div>
+</div>
+</form>
+</div>
+</div>
+<nav class="top-bar right-off-canvas-menu expanded main-nav horizontal" data-topbar="">
+<ul class="title-area">
+<li class="name show-for-small-only">
+<form action="https://www.arenaflowers.co.in/catalogsearch/result/" id="search_nav_form" method="get">
+<div class="form-search">
+<div class="action">
+<button class="button" title="Search" type="submit"><span aria-hidden="true" class="icon-search"></span></button>
+</div>
+<div class="search-box">
+<input class="input-text placeholder" id="search2" maxlength="128" name="q" type="text" value=""/>
+<label for="search2">Search</label>
+<div class="left"></div>
+<div class="right"></div>
+<div class="bottom"></div>
+<div class="search-autocomplete" id="search_autocomplete2"></div>
+<script type="text/javascript">
+            //<![CDATA[
+                var searchForm = new Varien.searchForm('search_nav_form', 'search2', '');
+                searchForm.initAutocomplete('https://www.arenaflowers.co.in/catalogsearch/ajax/suggest/', 'search_autocomplete2');
+            //]]>
+            </script>
+</div>
+</div>
+</form>
+</li>
+<li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
+</ul>
+<section class="top-bar-section clearfix">
+ 
+<ul class="right show-for-large-up">
+<li class="has-dropdown hide-for-small-only">
+<a href="https://www.arenaflowers.co.in/customer/account/login/"><span class="sup truncate">Hello. Sign in</span>Your Account</a>
+<ul class="dropdown account-dropdown">
+<li class="arrow-box">
+<div class="bg-box">
+<a class="button sign-in" href="https://www.arenaflowers.co.in/customer/account/login/">Sign in</a>
+<p class="small">New customer? <a href="https://www.arenaflowers.co.in/customer/account/create/">Start here</a>.</p>
+</div>
+<ul class="links-list">
+<li class="first"><a href="https://www.arenaflowers.co.in/customer/account/" title="Your Account">Your Account</a></li>
+<li><a href="https://www.arenaflowers.co.in/sales/order/history/" title="Your Orders">Your Orders</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="has-dropdown hide-for-small-only">
+<a href="https://www.arenaflowers.co.in/checkout/cart/"><span aria-hidden="true" class="icon-cart"></span><span class="sup">0 items</span>Shopping Basket</a>
+<ul class="dropdown cart-dropdown">
+<li class="arrow-box">
+<div class="dropdown-title">Shopping Basket (0)<a class="icon-edit" href="https://www.arenaflowers.co.in/checkout/cart/" title="Edit your shopping basket"><span class="hide">Edit Basket</span></a></div>
+<p class="small cart-empty">Your shopping cart is currently empty.</p>
+<div class="bg-box">
+<p class="subtotal">
+Subtotal: 
+<span class="price">
+<span class="price">₹0.00</span> </span>
+</p>
+<a class="button sign-in" href="https://www.arenaflowers.co.in/checkout/onepage/">Buy Now</a>
+</div>
+<div class="sb-cart-dropdown">
+<h6>Best Rated Florist in India</h6>
+<p class="small">(EthicalFlorist.org Certified)</p>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+ 
+<ul class="left">
+<li class="show-for-small-only group-title">Shop</li>
+<li class="level0 nav-1 first has-dropdown mega-menu"><a class="level0 has-children" href="https://www.arenaflowers.co.in/s.html">Flowers</a><ul class="level0 dropdown arrow-box"><li class="level1"><a class="level1" href="https://www.arenaflowers.co.in/s.html">View All Flowers</a></li><li class="level1 nav-1-1 first has-dropdown "><a class="level1 has-children" href="https://www.arenaflowers.co.in/s/f.html">Select By Type</a><ul class="level1 dropdown"><li class="level2"><a class="level2" href="https://www.arenaflowers.co.in/s/f.html">View All Select By Type</a></li><li class="level2 nav-1-1-1 first"><a class="level2 " href="https://www.arenaflowers.co.in/s/f/best-sellers.html">Best Sellers</a></li><li class="level2 nav-1-1-2"><a class="level2 " href="https://www.arenaflowers.co.in/s/f/roses.html">Roses</a></li><li class="level2 nav-1-1-3"><a class="level2 " href="https://www.arenaflowers.co.in/s/f/lilies.html">Lilies</a></li><li class="level2 nav-1-1-4"><a class="level2 " href="https://www.arenaflowers.co.in/s/f/carnations.html">Carnations</a></li><li class="level2 nav-1-1-5"><a class="level2 " href="https://www.arenaflowers.co.in/s/f/orchids.html">Orchids</a></li><li class="level2 nav-1-1-6"><a class="level2 " href="https://www.arenaflowers.co.in/s/f/gerbera.html">Gerbera</a></li><li class="level2 nav-1-1-7 "><a class="level2 " href="https://www.arenaflowers.co.in/s/f/mixed-combinations.html">Mixed Combinations</a></li></ul></li><li class="level1 nav-1-2 has-dropdown "><a class="level1 has-children" href="https://www.arenaflowers.co.in/s/clr.html">Select By Color</a><ul class="level1 dropdown"><li class="level2"><a class="level2" href="https://www.arenaflowers.co.in/s/clr.html">View All Select By Color</a></li><li class="level2 nav-1-2-1 first"><a class="level2 " href="https://www.arenaflowers.co.in/s/clr/lovely-red.html">Red Color</a></li><li class="level2 nav-1-2-2"><a class="level2 " href="https://www.arenaflowers.co.in/s/clr/bright-yellow.html">Bright Yellow</a></li><li class="level2 nav-1-2-3"><a class="level2 " href="https://www.arenaflowers.co.in/s/clr/pink-elegance.html">Pink Color</a></li><li class="level2 nav-1-2-4"><a class="level2 " href="https://www.arenaflowers.co.in/s/clr/devine-white.html">Divine White</a></li><li class="level2 nav-1-2-5"><a class="level2 " href="https://www.arenaflowers.co.in/s/clr/orange-color.html">Orange Color</a></li><li class="level2 nav-1-2-6"><a class="level2 " href="https://www.arenaflowers.co.in/s/clr/purple-color.html">Purple Color</a></li><li class="level2 nav-1-2-7 "><a class="level2 " href="https://www.arenaflowers.co.in/s/clr/vivid-mix-color.html">Mix Color Charm</a></li></ul></li><li class="level1 nav-1-3 has-dropdown "><a class="level1 has-children" href="https://www.arenaflowers.co.in/s/design.html">Select By Design</a><ul class="level1 dropdown"><li class="level2"><a class="level2" href="https://www.arenaflowers.co.in/s/design.html">View All Select By Design</a></li><li class="level2 nav-1-3-1 first"><a class="level2 " href="https://www.arenaflowers.co.in/s/design/bouquets.html">Bouquets</a></li><li class="level2 nav-1-3-2"><a class="level2 " href="https://www.arenaflowers.co.in/s/design/basket-arrangements.html">Basket Arrangements</a></li><li class="level2 nav-1-3-3"><a class="level2 " href="https://www.arenaflowers.co.in/s/design/florist-choice.html">Florist Choice</a></li><li class="level2 nav-1-3-4"><a class="level2 " href="https://www.arenaflowers.co.in/s/design/tall-standing-arragements.html">Tall Standing Arragements</a></li><li class="level2 nav-1-3-5 "><a class="level2 " href="https://www.arenaflowers.co.in/s/design/packages.html">Packages</a></li></ul></li><li class="level1 nav-1-4 has-dropdown "><a class="level1 has-children" href="https://www.arenaflowers.co.in/s/customized.html">My Custom Order</a><ul class="level1 dropdown"><li class="level2"><a class="level2" href="https://www.arenaflowers.co.in/s/customized.html">View All My Custom Order</a></li><li class="level2 nav-1-4-1 first "><a class="level2 " href="https://www.arenaflowers.co.in/s/customized/customized-roses.html">Customized Roses</a></li></ul></li></ul></li><li class="level0 nav-2 has-dropdown mega-menu"><a class="level0 has-children" href="https://www.arenaflowers.co.in/price-range.html">Price Range</a><ul class="level0 dropdown arrow-box"><li class="level1"><a class="level1" href="https://www.arenaflowers.co.in/price-range.html">View All Price Range</a></li><li class="level1 nav-2-1 first"><a class="level1 " href="https://www.arenaflowers.co.in/price-range/500-range.html">Below 500 Rs</a></li><li class="level1 nav-2-2"><a class="level1 " href="https://www.arenaflowers.co.in/price-range/1500-range.html">500 to 1500 RS</a></li><li class="level1 nav-2-3"><a class="level1 " href="https://www.arenaflowers.co.in/price-range/4000-range.html">Above 1500 to 4000 Rs</a></li><li class="level1 nav-2-4 "><a class="level1 " href="https://www.arenaflowers.co.in/price-range/above-4000-range.html">Above 4000 Rs</a></li></ul></li><li class="level0 nav-3 has-dropdown mega-menu"><a class="level0 has-children" href="https://www.arenaflowers.co.in/occasions.html">Occasions</a><ul class="level0 dropdown arrow-box"><li class="level1"><a class="level1" href="https://www.arenaflowers.co.in/occasions.html">View All Occasions</a></li><li class="level1 nav-3-1 first has-dropdown "><a class="level1 has-children" href="https://www.arenaflowers.co.in/occasions/popular-occasions.html">Popular Occasions</a><ul class="level1 dropdown"><li class="level2"><a class="level2" href="https://www.arenaflowers.co.in/occasions/popular-occasions.html">View All Popular Occasions</a></li><li class="level2 nav-3-1-1 first"><a class="level2 " href="https://www.arenaflowers.co.in/occasions/popular-occasions/birthday-ideas-guide.html">Birthday Ideas</a></li><li class="level2 nav-3-1-2"><a class="level2 " href="https://www.arenaflowers.co.in/occasions/popular-occasions/anniversary-guide.html">Anniversary Guide</a></li><li class="level2 nav-3-1-3 "><a class="level2 " href="https://www.arenaflowers.co.in/occasions/popular-occasions/love-and-romance.html">Love and Romance</a></li></ul></li><li class="level1 nav-3-2 has-dropdown "><a class="level1 has-children" href="https://www.arenaflowers.co.in/occasions/all-events.html">All Occasions</a><ul class="level1 dropdown"><li class="level2"><a class="level2" href="https://www.arenaflowers.co.in/occasions/all-events.html">View All All Occasions</a></li><li class="level2 nav-3-2-1 first"><a class="level2 " href="https://www.arenaflowers.co.in/occasions/all-events/get-well-soon-flowers.html">Get Well Soon Flowers</a></li><li class="level2 nav-3-2-2"><a class="level2 " href="https://www.arenaflowers.co.in/occasions/all-events/birthday-surprises.html">Birthdays</a></li><li class="level2 nav-3-2-3"><a class="level2 " href="https://www.arenaflowers.co.in/occasions/all-events/love.html">Love</a></li><li class="level2 nav-3-2-4"><a class="level2 " href="https://www.arenaflowers.co.in/occasions/all-events/anniversary-collection.html">Anniversary Collection</a></li><li class="level2 nav-3-2-5"><a class="level2 " href="https://www.arenaflowers.co.in/occasions/all-events/just-becasue.html">Just Becasue</a></li><li class="level2 nav-3-2-6"><a class="level2 " href="https://www.arenaflowers.co.in/occasions/all-events/thanks-giving.html">Thanks Giving</a></li><li class="level2 nav-3-2-7"><a class="level2 " href="https://www.arenaflowers.co.in/occasions/all-events/i-m-sorry-flowers.html">I m Sorry Flowers</a></li><li class="level2 nav-3-2-8"><a class="level2 " href="https://www.arenaflowers.co.in/occasions/all-events/special-congratulations.html">Special Congratulations</a></li><li class="level2 nav-3-2-9 "><a class="level2 " href="https://www.arenaflowers.co.in/occasions/all-events/sympathy-funeral.html">Sympathy/Funeral</a></li></ul></li><li class="level1 nav-3-3 has-dropdown "><a class="level1 has-children" href="https://www.arenaflowers.co.in/occasions/special-occasions.html">Upcoming Occasions</a><ul class="level1 dropdown"><li class="level2"><a class="level2" href="https://www.arenaflowers.co.in/occasions/special-occasions.html">View All Upcoming Occasions</a></li><li class="level2 nav-3-3-1 first"><a class="level2 " href="https://www.arenaflowers.co.in/occasions/special-occasions/diwali-gifts-online.html">Diwali Gifts Online (30 Oct)</a></li><li class="level2 nav-3-3-2 "><a class="level2 " href="https://www.arenaflowers.co.in/occasions/special-occasions/christmas-occasion.html">Christmas (25 Dec)</a></li></ul></li></ul></li><li class="level0 nav-4 has-dropdown mega-menu"><a class="level0 has-children" href="https://www.arenaflowers.co.in/gifts-collection.html">Gift Collection</a><ul class="level0 dropdown arrow-box"><li class="level1"><a class="level1" href="https://www.arenaflowers.co.in/gifts-collection.html">View All Gift Collection</a></li><li class="level1 nav-4-1 first has-dropdown "><a class="level1 has-children" href="https://www.arenaflowers.co.in/gifts-collection/shop-by-cake.html">Shop By Cake</a><ul class="level1 dropdown"><li class="level2"><a class="level2" href="https://www.arenaflowers.co.in/gifts-collection/shop-by-cake.html">View All Shop By Cake</a></li><li class="level2 nav-4-1-1 first"><a class="level2 " href="https://www.arenaflowers.co.in/gifts-collection/shop-by-cake/5-star-cakes.html">5 Star Cakes</a></li><li class="level2 nav-4-1-2"><a class="level2 " href="https://www.arenaflowers.co.in/gifts-collection/shop-by-cake/a1-regular-cakes.html">A1 Cakes</a></li><li class="level2 nav-4-1-3"><a class="level2 " href="https://www.arenaflowers.co.in/gifts-collection/shop-by-cake/designer-cakes.html">Designer Cakes</a></li><li class="level2 nav-4-1-4 "><a class="level2 " href="https://www.arenaflowers.co.in/gifts-collection/shop-by-cake/wedding-cakes.html">Wedding Cakes</a></li></ul></li><li class="level1 nav-4-2 has-dropdown "><a class="level1 has-children" href="https://www.arenaflowers.co.in/gifts-collection/gifts-flowers.html">Gifts Flowers</a><ul class="level1 dropdown"><li class="level2"><a class="level2" href="https://www.arenaflowers.co.in/gifts-collection/gifts-flowers.html">View All Gifts Flowers</a></li><li class="level2 nav-4-2-1 first"><a class="level2 " href="https://www.arenaflowers.co.in/gifts-collection/gifts-flowers/flower-cakes-combos.html">Flower Cakes Combos</a></li><li class="level2 nav-4-2-2"><a class="level2 " href="https://www.arenaflowers.co.in/gifts-collection/gifts-flowers/fruit-baskets.html">Fruit Baskets</a></li><li class="level2 nav-4-2-3"><a class="level2 " href="https://www.arenaflowers.co.in/gifts-collection/gifts-flowers/chocolate-gifts.html">Chocolate Gifts</a></li><li class="level2 nav-4-2-4"><a class="level2 " href="https://www.arenaflowers.co.in/gifts-collection/gifts-flowers/balloons-bouquet.html">Balloons Bouquet</a></li><li class="level2 nav-4-2-5 "><a class="level2 " href="https://www.arenaflowers.co.in/gifts-collection/gifts-flowers/soft-toys-teddy-bears.html">Soft Toys/Teddy Bears</a></li></ul></li></ul></li><li class="level0 nav-5"><a class="level0 " href="https://www.arenaflowers.co.in/birthdays.html">Birthdays</a></li><li class="level0 nav-6 has-dropdown mega-menu"><a class="level0 has-children" href="https://www.arenaflowers.co.in/arena-specialities.html">Specials</a><ul class="level0 dropdown arrow-box"><li class="level1"><a class="level1" href="https://www.arenaflowers.co.in/arena-specialities.html">View All Specials</a></li><li class="level1 nav-6-1 first"><a class="level1 " href="https://www.arenaflowers.co.in/arena-specialities/theme-parties-style.html">Theme Parties</a></li><li class="level1 nav-6-2"><a class="level1 " href="https://www.arenaflowers.co.in/arena-specialities/birthday-anniversary-parties.html">Birthday - Anniversary Parties</a></li><li class="level1 nav-6-3"><a class="level1 " href="https://www.arenaflowers.co.in/arena-specialities/balloon-decorations-style.html">Balloon Decorations Style</a></li><li class="level1 nav-6-4"><a class="level1 " href="https://www.arenaflowers.co.in/arena-specialities/wedding-decorations-designs.html">Wedding Decorations Designs</a></li><li class="level1 nav-6-5"><a class="level1 " href="https://www.arenaflowers.co.in/arena-specialities/best-deals-on-flowers.html">Best Deals on Flowers</a></li><li class="level1 nav-6-6 "><a class="level1 " href="https://www.arenaflowers.co.in/arena-specialities/multiple-days-surprise.html">Multiple Days Surprise</a></li></ul></li> <li class="custom-menu has-dropdown-for-large">
+<a href="https://www.arenaflowers.co.in/">Blogs</a>
+<div class="dropdown arrow-box">
+<ul class="links-list">
+<li>
+<a href="https://www.arenaflowers.co.in/blog/" title="Blogs">Blogs</a>
+</li>
+<li>
+<a href="https://www.arenaflowers.co.in/blog/category/flower-meaning/" title="Flower Meaning">Flower Meaning</a>
+</li>
+<li>
+<a href="https://www.arenaflowers.co.in/blog/category/flower-garden/" title="Flower Garden">Flower Garden</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="show-for-small-only group-title">Pages</li>
+<li class="show-for-small-only"><a href="https://www.arenaflowers.co.in/checkout/cart/">Cart</a></li>
+<li class="show-for-small-only"><a href="https://www.arenaflowers.co.in/customer/account/">Your Account</a></li>
+</ul>
+</section>
+</nav>
+</header> <div class="block-compare">
+</div>
+<div class="cms-wrapper"><div class="orbit-wrapper spinner clearfix">
+<ul class="hero orbit-container" data-options="animation:fade; animation_speed:600; timer_speed:7000; pause_on_hover:0; circular:1; swipe:1; slide_number:0; variable_height:1;" data-orbit="">
+<li class="item dark">
+<img alt="" data-interchange="[https://www.arenaflowers.co.in/media/orbitslider/image/h/o/home-banner-sample2--medium.jpg, (default)], [https://www.arenaflowers.co.in/media/orbitslider/image/h/o/home-banner-sample2-small.jpg, (small)], [https://www.arenaflowers.co.in/media/orbitslider/image/h/o/home-banner-sample2--medium.jpg, (medium)], [https://www.arenaflowers.co.in/media/orbitslider/image/h/o/home-banner-sample2-1500_1.jpg, (large)]" height="800" src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/images/clear.png" width="1920"/>
+<noscript><img alt="Remarkably Crisp and Clear" height="800" src="https://www.arenaflowers.co.in/media/orbitslider/image/h/o/home-banner-sample2-1500_1.jpg" width="1920"/></noscript>
+<div class="hero-text left" style="background: none repeat scroll 0% 0% rgb(221, 236, 243); -ms-transform: none; -moz-transform: none; -o-transform: none; -webkit-transform: none; transform: none; top: 40%;">
+<h1 class="show-for-medium-up" data-size="54" style="color: #0284a9; font-size: 54px; font-style: normal; font-weight: 300">Moms Are Special<br/>Send Flowers Today.</h1>
+<h1 class="show-for-small-only" style="color: #0284a9; font-size: 24px; font-style: normal; font-weight: 300">New Season. New Arrivals.</h1>
+<h5 class="show-for-medium-up" data-size="20" style="color: #22313f; font-size: 20px; font-style: normal; font-weight: normal">SAME DAY DELIVERY OF HANDCRAFTED FLOWERS STARTING AT 379 RS.</h5>
+<h5 class="show-for-small-only" style="color: #777777; font-size: 14px; font-style: normal; font-weight: normal">SAME DAY DELIVERY OF HANDCRAFTED FLOWERS STARTING AT 379 RS.</h5>
+<a class="button " data-bgout="#f89406" data-bgover="#5b6064" data-colorout="#ffffff" data-colorover="#ffffff" href="https://www.arenaflowers.co.in/s/f.html" style="color: #ffffff !important; background-color: #f89406 !important">Shop Flowers Now</a>
+<a class="button ghost " data-bgout="#fd5e77" data-bgover="#fd3051" data-colorout="#fd5e77" data-colorover="#fd3051" href="https://www.arenaflowers.co.in/occasions/all-events/birthday-surprises.html" style="color: #fd5e77 !important; border-color: #fd5e77 !important">Birthday Blooms</a>
+</div>
+</li>
+<li class="item">
+<img alt="" data-interchange="[https://www.arenaflowers.co.in/media/orbitslider/image/h/o/home-banner-sample1-medium.jpg, (default)], [https://www.arenaflowers.co.in/media/orbitslider/image/h/o/home-banner-sample1-small.jpg, (small)], [https://www.arenaflowers.co.in/media/orbitslider/image/h/o/home-banner-sample1-medium.jpg, (medium)], [https://www.arenaflowers.co.in/media/orbitslider/image/h/o/home-banner-sample1-1500.jpg, (large)]" height="800" src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/images/clear.png" width="1920"/>
+<noscript><img alt="Remarkably Crisp and Clear" height="800" src="https://www.arenaflowers.co.in/media/orbitslider/image/h/o/home-banner-sample1-1500.jpg" width="1920"/></noscript>
+<div class="hero-text left" style="background: none repeat scroll 0% 0% rgb(213, 213, 201); -ms-transform: none; -moz-transform: none; -o-transform: none; -webkit-transform: none; transform: none; top: 15%;">
+<h1 class="show-for-medium-up" data-size="54" style="color: #34271a; font-size: 54px; font-style: normal; font-weight: 300">SAY IT WITH BLOOMS</h1>
+<h1 class="show-for-small-only" style="color: #34271a; font-size: 24px; font-style: normal; font-weight: 300">SAY IT WITH BLOOMS</h1>
+<h5 class="show-for-medium-up" data-size="20" style="color: #222222; font-size: 20px; font-style: normal; font-weight: normal">Now blooming the entire India!
+Get your blooms the same day, get an evolving menu of fresh flowers.</h5>
+<h5 class="show-for-small-only" style="color: #6c5f57; font-size: 14px; font-style: normal; font-weight: normal">Now blooming the entire India!
+Get your blooms the same day, get an evolving menu of fresh flowers.</h5>
+<a class="button " data-bgout="#f5ab35" data-bgover="#1ba39c" data-colorout="#ffffff" data-colorover="#ffffff" href="https://www.arenaflowers.co.in/s/f/best-sellers.html" style="color: #ffffff !important; background-color: #f5ab35 !important">Buy Flowers Now</a>
+<a class="button ghost " data-bgout="#f5ab35" data-bgover="#1ba39c" data-colorout="#f4f4f4" data-colorover="#f4f4f4" href="https://www.arenaflowers.co.in/occasions/all-events/anniversary-collection.html" style="color: #f4f4f4 !important; border-color: #f5ab35 !important">Best Anniversary Gifts</a>
+</div>
+</li>
+</ul>
+<script>
+	    	jQuery('.hero .button').hover(
+	    		function() { jQuery(this).attr('style', 'color: '+jQuery(this).data('colorover')+' !important; background-color: '+jQuery(this).data('bgover')+'; border-color: '+jQuery(this).data('bgover')+' !important;'); },
+	    		function() { jQuery(this).attr('style', 'color: '+jQuery(this).data('colorout')+' !important; background-color: '+jQuery(this).data('bgout')+'; border-color: '+jQuery(this).data('bgout')+' !important;'); }
+	    	);
+	    </script>
+</div>
+<div class="billboard row" id="billboard-57f72dc01ee6a" style="background: #ffffff; padding-top: 20px; padding-bottom: px; ">
+<div class="small-12 medium-6 large-3 columns">
+<img alt="Buy Roses Online" data-interchange="[https://www.arenaflowers.co.in/skin/frontend/intenso/default/images/clear.png, (default)], [https://www.arenaflowers.co.in/media/billboard/image/b/u/buy-roses1_3.jpg, (small)], [https://www.arenaflowers.co.in/media/billboard/image/b/u/buy-roses1_3.jpg, (medium)], [https://www.arenaflowers.co.in/media/billboard/image/b/u/buy-roses1_2.jpg, (large)], [https://www.arenaflowers.co.in/media/billboard/image/b/u/buy-roses1_2.jpg, (retina)]" src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/images/clear.png"/>
+<noscript><img alt="Buy Roses Online" src="https://www.arenaflowers.co.in/media/billboard/image/b/u/buy-roses1_2.jpg"/></noscript>
+<a class="mask" href="https://www.arenaflowers.co.in/s/f/roses.html"></a>
+</div>
+<div class="small-12 medium-6 large-3 columns">
+<img alt="Buy Cake &amp; Flowers Online" data-interchange="[https://www.arenaflowers.co.in/skin/frontend/intenso/default/images/clear.png, (default)], [https://www.arenaflowers.co.in/media/billboard/image/f/l/flowers-with-cake1_3.jpg, (small)], [https://www.arenaflowers.co.in/media/billboard/image/f/l/flowers-with-cake1_3.jpg, (medium)], [https://www.arenaflowers.co.in/media/billboard/image/f/l/flowers-with-cake1_2.jpg, (large)], [https://www.arenaflowers.co.in/media/billboard/image/f/l/flowers-with-cake1_2.jpg, (retina)]" src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/images/clear.png"/>
+<noscript><img alt="Buy Cake &amp; Flowers Online" src="https://www.arenaflowers.co.in/media/billboard/image/f/l/flowers-with-cake1_2.jpg"/></noscript>
+<a class="mask" href="https://www.arenaflowers.co.in/gifts-collection/gifts-flowers/flower-cakes-combos.html"></a>
+</div>
+<div class="small-12 medium-6 large-3 hide-for-medium-only columns">
+<img alt="Buy Teddy Gifts Combinations" data-interchange="[https://www.arenaflowers.co.in/skin/frontend/intenso/default/images/clear.png, (default)], [https://www.arenaflowers.co.in/media/billboard/image/t/e/tedd-gifts-combo1_5.jpg, (small)], [https://www.arenaflowers.co.in/media/billboard/image/t/e/tedd-gifts-combo1_5.jpg, (medium)], [https://www.arenaflowers.co.in/media/billboard/image/t/e/tedd-gifts-combo1_4.jpg, (large)], [https://www.arenaflowers.co.in/media/billboard/image/t/e/tedd-gifts-combo1_4.jpg, (retina)]" src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/images/clear.png"/>
+<noscript><img alt="Buy Teddy Gifts Combinations" src="https://www.arenaflowers.co.in/media/billboard/image/t/e/tedd-gifts-combo1_4.jpg"/></noscript>
+<a class="mask" href="https://www.arenaflowers.co.in/gifts-collection/gifts-flowers/soft-toys-teddy-bears.html"></a>
+</div>
+<div class="small-12 medium-6 large-3 end hide-for-medium-only columns">
+<img alt="Order Mix Flowers, Lilies " data-interchange="[https://www.arenaflowers.co.in/skin/frontend/intenso/default/images/clear.png, (default)], [https://www.arenaflowers.co.in/media/billboard/image/b/u/buy-mix-flowers_7.jpg, (small)], [https://www.arenaflowers.co.in/media/billboard/image/b/u/buy-mix-flowers_7.jpg, (medium)], [https://www.arenaflowers.co.in/media/billboard/image/b/u/buy-mix-flowers_6.jpg, (large)], [https://www.arenaflowers.co.in/media/billboard/image/b/u/buy-mix-flowers_6.jpg, (retina)]" src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/images/clear.png"/>
+<noscript><img alt="Order Mix Flowers, Lilies " src="https://www.arenaflowers.co.in/media/billboard/image/b/u/buy-mix-flowers_6.jpg"/></noscript>
+<a class="mask" href="https://www.arenaflowers.co.in/s/f/best-sellers.html"></a>
+</div>
+</div>
+<br/><br/>
+<div class="mobile-more">
+<h2 class="footer-offer-banners__title">Why not browse our selection of flowers and gifts?</h2>
+<div class="row_b">
+<div class="col-md-4 footer-offer-banner">
+<div class="col-sm-6 footer-offer-banner__text">
+<h4 class="footer-offer-banner__callout"><a href="https://www.arenaflowers.co.in/occasions/all-events/love.html">Love &amp; Romance</a></h4>
+<p class="footer-offer-banner__description">For the ideal flower arrangements, look no additional than ArenaFlowers in New Delhi.</p>
+</div>
+<div class="col-sm-6 footer-offer-banner__image"><a href="https://www.arenaflowers.co.in/occasions/all-events/love.html"><img alt="love &amp; romance" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/love-n-romance-small.jpg"/></a></div>
+</div>
+<div class="col-md-4 footer-offer-banner">
+<div class="col-sm-6 footer-offer-banner__text">
+<h4 class="footer-offer-banner__callout"><a href="https://www.arenaflowers.co.in/gifts-collection.html">Personalised Gift Hampers</a></h4>
+<p class="footer-offer-banner__description">You can also opt for customize gift recommendation with your choice.</p>
+</div>
+<div class="col-sm-6 footer-offer-banner__image"><a href="https://www.arenaflowers.co.in/gifts-collection.html"><img alt="personalized gifts" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/gift-hampers_1.jpg"/></a></div>
+</div>
+<div class="col-md-4 footer-offer-banner">
+<div class="col-sm-6 footer-offer-banner__text">
+<h4 class="footer-offer-banner__callout"><a href="https://www.arenaflowers.co.in/price-range/500-range.html">Flowers under 600 RS</a></h4>
+<p class="footer-offer-banner__description">ArenaFlowers is acclaimed all over for providing the blooms at lowest possible rates!.</p>
+</div>
+<div class="col-sm-6 footer-offer-banner__image"><a href="https://www.arenaflowers.co.in/price-range/500-range.html"><img alt="flowers under 600 rs" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/flowers-under-600.jpg"/></a></div>
+</div>
+</div>
+<div class="row_b">
+<div class="col-md-4 footer-offer-banner">
+<div class="col-sm-6 footer-offer-banner__text">
+<h4 class="footer-offer-banner__callout"><a href="https://www.arenaflowers.co.in/occasions/all-events/birthday-surprises.html">Birthday Flowers</a></h4>
+<p class="footer-offer-banner__description">More excitingly we also let you have the opulent floral adornment within your price range.</p>
+</div>
+<div class="col-sm-6 footer-offer-banner__image"><a href="https://www.arenaflowers.co.in/occasions/all-events/birthday-surprises.html"><img alt="birthday flowers" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/happy-birthday.jpg"/></a></div>
+</div>
+<div class="col-md-4 footer-offer-banner">
+<div class="col-sm-6 footer-offer-banner__text">
+<h4 class="footer-offer-banner__callout"><a href="https://www.arenaflowers.co.in/s/f/roses.html">Roses</a></h4>
+<p class="footer-offer-banner__description">From roses to bonsai and from potted buds to tall standing arrangements and gift baskets.</p>
+</div>
+<div class="col-sm-6 footer-offer-banner__image"><a href="https://www.arenaflowers.co.in/s/f/roses.html"><img alt="buy roses online" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/roses-home.jpg"/></a></div>
+</div>
+<div class="col-md-4 footer-offer-banner">
+<div class="col-sm-6 footer-offer-banner__text">
+<h4 class="footer-offer-banner__callout"><a href="https://www.arenaflowers.co.in/price-range/4000-range.html">Luxury Flowers</a></h4>
+<p class="footer-offer-banner__description">A gift always depicts the expression, the untold words of the sender that he wants to convey to the recipient.</p>
+</div>
+<div class="col-sm-6 footer-offer-banner__image"><a href="https://www.arenaflowers.co.in/price-range/4000-range.html"><img alt="luxury flowers" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/luxury-flowers-home.jpg"/></a></div>
+</div>
+</div>
+<br/><br/>
+<h2 class="footer-offer-banners__title">6 More Reasons to Choose Arena Flowers?</h2>
+<div class="row_b">
+<div class="col-md-4 footer-offer-banner">
+<div class="col-sm-6 footer-offer-banner__text">
+<h4 class="footer-offer-banner__callout">FREE Standard Delivery</h4>
+<p class="footer-offer-banner__description">Don't let your short memory come between you and the celebrations of life.</p>
+</div>
+<div class="col-sm-6 footer-offer-banner__image"><img alt="Free Standard Delivery" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/free-delivery.jpg"/></div>
+</div>
+<div class="col-md-4 footer-offer-banner">
+<div class="col-sm-6 footer-offer-banner__text">
+<h4 class="footer-offer-banner__callout"><a href="https://www.arenaflowers.co.in/blog/same-day-gift-delivery/">Same Day Flower Delivery</a></h4>
+<p class="footer-offer-banner__description">Same Day Flower Delivery of ArenaFlowers is always at your service.</p>
+</div>
+<div class="col-sm-6 footer-offer-banner__image"><a href="https://www.arenaflowers.co.in/blog/same-day-gift-delivery/"><img alt="same day flower delivery" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/same-day-delivery.jpg"/></a></div>
+</div>
+<div class="col-md-4 footer-offer-banner">
+<div class="col-sm-6 footer-offer-banner__text">
+<h4 class="footer-offer-banner__callout">Midnight Service</h4>
+<p class="footer-offer-banner__description">Surprise them at Midnight &amp; increase your celebration.</p>
+</div>
+<div class="col-sm-6 footer-offer-banner__image"><img alt="midnight delivery" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/midnight-delivery.jpg"/></div>
+</div>
+</div>
+<div class="row_b">
+<div class="col-md-4 footer-offer-banner">
+<div class="col-sm-6 footer-offer-banner__text">
+<h4 class="footer-offer-banner__callout"><a href="https://www.arenaflowers.co.in/blog/">Flowers ... Uncut!</a></h4>
+<p class="footer-offer-banner__description">Get latest flowers news &amp; Our glossary of flowers can help you find the perfect one.</p>
+</div>
+<div class="col-sm-6 footer-offer-banner__image"><a href="https://www.arenaflowers.co.in/blog/"><img alt="flower blog" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/flowers-uncut.jpg"/></a></div>
+</div>
+<div class="col-md-4 footer-offer-banner">
+<div class="col-sm-6 footer-offer-banner__text">
+<h4 class="footer-offer-banner__callout">Ethical Florist</h4>
+<p class="footer-offer-banner__description">Certified by ShopSafe and deemed excellent by Asia’s Flowers Authority.</p>
+</div>
+<div class="col-sm-6 footer-offer-banner__image"><img alt="certified florist online" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/certified-florist.jpg"/></div>
+</div>
+<div class="col-md-4 footer-offer-banner">
+<div class="col-sm-6 footer-offer-banner__text">
+<h4 class="footer-offer-banner__callout">Share Feedback Online</h4>
+<p class="footer-offer-banner__description">We share your feedback on our website to let other people listen about your experience.</p>
+</div>
+<div class="col-sm-6 footer-offer-banner__image"><img alt="share feedback" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/reviews-home.jpg"/></div>
+</div>
+</div>
+</div>
+<h2 class="footer-offer-banners__title">Now blooming the entire India! Same Day Delivery in 150 cities.</h2>
+<p align="middle"><img alt="Same day delivery in India" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/india-delivery_1.jpg" style="vertical-align: middle; margin: 10px;" title="Same Day"/></p>
+<div style="margin-left: 10px; margin-right: 10px;">
+<h2>Order Flowers Online at ArenaFlowers</h2>
+<p>ArenaFlowers bring flowers for every occasion, need and budget under one roof. Whether you are looking for wedding bouquets, standalone flowering plants or gift baskets, look no further! <a href="https://www.arenaflowers.co.in/s/customized/customized-roses.html">Handpicked and carefully selected</a> by the expert florists, the flowers delivered by <a href="https://www.arenaflowers.co.in">ArenaFlower</a>s are always fresh and in pristine condition.</p>
+<p><strong>The On-Time Delivery Schedule:</strong></p>
+<p>ArenaFlowers understands that you need flowers to convey your heartfelt emotions and sincere wishes to the loved ones. And for this, you should not depend on the logistics or distance. India’s premier online flower marketplace has collaborated with top-notch logistics partner to ensure on-time flower delivery. All you need is to book flowers online with personalised message and the flowers are delivered at the preferred address as and when you want across the country.</p>
+<p>Should you have any questions, the ArenaFlowers’ customer care 91-822-208-8366 is just a call away!</p>
+<p>Browse through the website and categorize your search as per occasion, budget and floral arrangements.</p>
+<h2>Same Day Flower Delivery:<img alt="" src="https://www.arenaflowers.co.in/media/wysiwyg/mages/flowers-delivery_1.jpg" style="float: right; margin: 10px;"/></h2>
+<p>You missed booking flowers on wedding anniversary or forgot to get gift for your wife? Don’t worry! Call at 91-822-208-8366 or while placing your order, mark the dispatch as Same Day Delivery. All you have to do is to request the order before 3pm or give two hours gap between the time slots. And the expert florists and logistics partner won't leave any stone unturned to make sure that the flowers and gifts are delivered at the preferred address when requested. Be it classic red roses or a bouquet of exotic orchids, a <a href="https://www.arenaflowers.co.in/gifts-collection.html" title="gift basket">gift basket</a> with soft toy and cake or standing floral arrangement, nothing is impossible for Team ArenaFlowers!</p>
+<h3>Book Flowers and Gifts Online for Every Occasion:</h3>
+<p>Be it Valentine’s Day or Get Well Soon floral arrangement, ArenaFlowers brings you flowers for every occasion. While ‘Just Because’ range caters to the time when you don’t need an excuse to gift flowers, ‘<a href="https://www.arenaflowers.co.in/occasions/special-occasions/mothers-day-celebrations.html">Mother’s Day</a>’ is a dedicated segment to the special day when you want to honor and show gratitude towards the special lady in your life. Regardless of the occasion, you get freshly-cut, carefully selected and handpicked seasonal as well as exoticflowers arranged by the expert florists. You can also select a wide assortment of perfectly arranged gift baskets and fruit baskets as well. In fact, if you are the latecomer in gifting department, you are the right place for last-minute gifts too! If you are looking to decorate a room full of roses or want a mandap adorned with flowers, let the expert florists at ArenaFlowers take over your worries and tasks!</p>
+<p><strong>Trusted Name in Online Flower Delivery:</strong></p>
+<p>ArenaFlowers bring you flowers and gift solution for every occasion and caters to every need. The online transactions are completely secure and the deliveries are prompt, always on time. Try ArenaFlowers for online gift shopping and flowers booking within your budget and free shipping option across India. </p>
+<p></p><div class="homeTestimonials" style="margin-left:10px;">
+<h3>What Our Recent Customers Are Saying</h3>
+<div class="homegrid_4 homealpha">
+<div class="backgroundTestimonial">
+<p>Arenaflowers did an floral arrangement for us in our party, I was very impressed with their creative concepts and designs . I had booked 8 arrangements for same king for decoration on tables. Their guys reached on location on time and arrange everything properly on their positions, only because of them we were able to build the theme around those ideas. I am very grateful to Arenaflowers for this superb work.</p>
+</div> 
+<span>Review of: Arena's Gorgeous Romance <div class="ratings">
+<div class="rating-box">
+<div class="rating" style="width: 95%"></div>
+</div>
+</div></span>
+</div>
+<div class="homegrid_4 homealpha">
+<div class="backgroundTestimonial">
+<p>As we all know Roses are the best flower to gift someone &amp; every time I have gone to Arena Flowers to buy flowers the person who received them said they were gorgeous. The ordering process is very easy. The flexibility to order today for flowers to be delivered tomorrow is great. Everything was amazing, Good Luck arena Flowers!!!!</p>
+</div> 
+<span>Review of: Love Garden by Arena<div class="ratings">
+<div class="rating-box">
+<div class="rating" style="width: 95%"></div>
+</div>
+</div></span>
+</div>
+<div class="homegrid_4 homealpha">
+<div class="backgroundTestimonial">
+<p>Arena flowers was doing an amazing job ,their website is recommended to me by my close friend , he is also an permanent customer of Arena flowers. When First time I opened their website ,at that time I called to their helpline line number for enquire regarding the delivery at my home address. I got really happy at that moment when their executive tell me that for my location there is not any delivery charges and they can deliver the same with couple of hours and the quality of flowers they delivered is superb, mind blowing not even a single flowers I found in that we can say its not up to mark. Very outstanding service , just try once you will feel the same.</p>
+</div> 
+<span>Review of: Perfect Day with Cake<div class="ratings">
+<div class="rating-box">
+<div class="rating" style="width: 95%"></div>
+</div>
+</div></span>
+</div>
+<div class="homegrid_4 homealpha">
+<div class="backgroundTestimonial">
+<p>I am not having the words to explain my great experience with Arena flowers, First time when I booked from their I had the by mistakenly chosen the wrong date while placing the order. When I realised I called the Arena flowers customer support , the guy who picked my call is very gentle and polite they made the changes om my behalf and when they delivered flowers are very pretty and gorgeous. Definitely I will ordered some thing again.</p>
+</div> 
+<span>Review of: Smiles and Sunshine<div class="ratings">
+<div class="rating-box">
+<div class="rating" style="width: 95%"></div>
+</div>
+</div></span>
+</div>
+ 
+</div> 
+<div style="clear: both;"> </div>
+<p></p>
+<div style="clear: both;"> </div>
+</div></div>
+<script type="text/javascript">  
+//<![CDATA[
+var mb_popups;
+var popupScriptListener = setInterval(function(){
+  //must wait for body and jquery to be loaded!
+  if(typeof jQuery !== 'undefined' && typeof mb_popup !== 'undefined'){                                           
+    clearInterval(popupScriptListener)    
+    var mb_popup_style = jQuery('<style type="text/css">'+".mbdialog.popupid1 .dialogBody{border:1px solid #C7C7C7;;padding:20px;}.mbdialog.popupid1{width:95%; max-width:600px;}.mbdialog.popupid1 .dialogBody{border-radius: 2px; -webkit-border-radius:2px; -moz-border-radius: 2px; -o-border-radius: 2px;}.mbdialog.popupid1 .dialogBody{background-color: #FFFFFF;}.mbdialog.popupid1 table{border-spacing:none !important;}.popupid1 .dialogClose.style4,.popupid1 .dialogClose.style3{top:1px;right:1px;}.mbdialog.popupid1{left: 0;right: 0;margin:0 auto;top:200px;}.mbdialog.popupid1 .dialogBody h1{\r\nmargin: -20px -20px 10px -20px;\r\npadding:4px 20px;\r\n}\n.mbdialog.popupid1 .Row-pop{\r\n    display: table;\r\n    width: 100%; \/*Optional*\/\r\n    table-layout: fixed; \/*Optional*\/\r\n    border-spacing: 10px; \/*Optional*\/\r\n}\n.mbdialog.popupid1 .Column-pop{\r\n    display: table-cell;\r\n    vertical-align: middle;\r\n}\n.mbdialog.popupid1 .Column-pop:hover img{\r\ntransform: scale(.9);\r\ntransition: transform .25s ease;\r\n}\n.mbdialog.popupid2 .dialogBody{border:1px solid #C7C7C7;;padding:20px;}.mbdialog.popupid2{width:95%; max-width:600px;}.mbdialog.popupid2 .dialogBody{border-radius: 2px; -webkit-border-radius:2px; -moz-border-radius: 2px; -o-border-radius: 2px;}.mbdialog.popupid2 .dialogBody{background-color: #FFFFFF;}.mbdialog.popupid2 table{border-spacing:none !important;}.popupid2 .dialogClose.style4,.popupid2 .dialogClose.style3{top:1px;right:1px;}.mbdialog.popupid2{left: 0;right: 0;margin:0 auto;top:200px;}.mbdialog.popupid2 .dialogBody h1{\r\nmargin: -20px -20px 10px -20px;\r\npadding:4px 20px;\r\n}\n.mbdialog.popupid2 .Row-pop{\r\n    display: table;\r\n    width: 100%; \/*Optional*\/\r\n    table-layout: fixed; \/*Optional*\/\r\n    border-spacing: 10px; \/*Optional*\/\r\n}\n.mbdialog.popupid2 .Column-pop{\r\n    display: table-cell;\r\n    vertical-align: middle;\r\n}\n.mbdialog.popupid2 .Column-pop:hover img{\r\ntransform: scale(.9);\r\ntransition: transform .25s ease;\r\n}\n"+'</style>');
+    jQuery('html > head').append(mb_popup_style);
+    mb_popups =  {"1":{"popupId":"1","overlay":"4","appearType":"1","closeEffect":"1","startTime":"","showWhen":"4","scrollPx":"50","selector":"#samedaypopup","secondsDelay":"2","closeTimeout":"0","closeOnOverlay":"1","title":"Same Day Delivery Popup","content":"<h3 style=\"background-color: #f5f5f5; color: white;\"><span style=\"font-size: xx-large; font-weight: bold;\"><span style=\"color: #464646; font-size: x-large;\">Same Day Deliveries<\/span><br \/><\/span><\/h3>\r\n<p>All products are available for same day delivery.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"Row-pop\">\r\n<div class=\"Column-pop\" align=\"middle\"><a title=\"flowers\" href=\"https:\/\/www.arenaflowers.co.in\/s\/f\/best-sellers.html\"><img src=\"https:\/\/www.arenaflowers.co.in\/media\/wysiwyg\/mages\/flowers-illusion.png\" alt=\"buy flowers\" \/><\/a><\/div>\r\n<div class=\"Column-pop\" align=\"middle\"><a title=\"flowers &amp; cakes\" href=\"https:\/\/www.arenaflowers.co.in\/gifts-collection\/gifts-flowers\/flower-cakes-combos.html\"><img src=\"https:\/\/www.arenaflowers.co.in\/media\/wysiwyg\/mages\/flowersncakes.png\" alt=\"flowers &amp; Cakes\" \/><\/a><\/div>\r\n<div class=\"Column-pop\" align=\"middle\"><a title=\"gift combos\" href=\"https:\/\/www.arenaflowers.co.in\/gifts-collection.html\"><img src=\"https:\/\/www.arenaflowers.co.in\/media\/wysiwyg\/mages\/flowers-gift-combos.png\" alt=\"flowers-gift-combos\" \/><\/a><\/div>\r\n<\/div>\r\n<p>All type of Flowers bouquets, cakes and gift combinations on the website can be delivered within same day.<\/p>\r\n<p>&nbsp;<\/p>\r\n<hr style=\"border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3); margin-bottom: 10px;\" \/>\r\n<p style=\"margin-bottom: -10px; text-align: right;\"><span class=\"dialogCloseCustom\"><script type=\"text\/javascript\">     \r\n  if (typeof popupButton === \"undefined\"){   \r\n    jQuery('head').append('<link rel=\"stylesheet\" href=\"https:\/\/www.arenaflowers.co.in\/skin\/frontend\/base\/default\/css\/magebird_popup\/widget\/buttons.css\" type=\"text\/css\" \/>');\r\n    var popupButton = {};\r\n    popupButton.ajaxUrl = 'https:\/\/www.arenaflowers.co.in\/magebird_popup\/coupon\/new\/?rand='+Math.floor((Math.random() * 100000000) + 1)\r\n    popupButton.workingText = 'Working...';    \r\n    var buttonScriptUrl = correctHttps(\"https:\/\/www.arenaflowers.co.in\/skin\/frontend\/base\/default\/js\/magebird_popup\/button.js?v=1.4.6b\");                                                            \r\n    jQuery.getScript(buttonScriptUrl); \r\n  }\r\n<\/script>               <style>\r\n#_eer3.popupButton{\r\n  border: 0 none;\r\n  border-radius: 3px 3px 3px 3px;\r\n  background: none repeat scroll 0 0 #649300;\r\n  color:#FFFFFF }  \r\n<\/style>\r\n\r\n  <a href=\"#\" id=\"_eer3\" class=\"popupButton size3\">Got it - Thanks<\/a>   \r\n  <script type=\"text\/javascript\">var buttonScrListener_eer3=setInterval(function(){\nif(typeof popupButton !== \"undefined\"){\nclearInterval(buttonScrListener_eer3)\npopupButton['_eer3'] = {};\npopupButton['_eer3'].successMsg = decodeURIComponent((''+'').replace(\/\\+\/g, '%20'))\n;popupButton['_eer3'].successAction = ''\npopupButton['_eer3'].couponType = ''\n}\n},10)\n<\/script>\n<\/span><\/p>","horizontalPosition":"1","horizontalPositionPx":"100","verticalPosition":"1","verticalPositionPx":"200","elementIdPosition":"","closeStyle":"3","makeStats":true,"cookieTime":"1","cookieId":"8936db","showingFrequency":"3","onlyOnce":false},"2":{"popupId":"2","overlay":"4","appearType":"1","closeEffect":"1","startTime":"","showWhen":"4","scrollPx":"50","selector":"#midnightpopup","secondsDelay":"2","closeTimeout":"10","closeOnOverlay":"1","title":"midnight popup","content":"<h3 style=\"background-color: #f5f5f5; color: white;\"><span style=\"font-size: xx-large; font-weight: bold;\"><span style=\"color: #464646; font-size: x-large;\">Midnight Deliveries<\/span><br \/><\/span><\/h3>\r\n<p>All products are available for midnight delivery.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"Row-pop\">\r\n<div class=\"Column-pop\" align=\"middle\"><a title=\"flowers\" href=\"https:\/\/www.arenaflowers.co.in\/s\/f\/best-sellers.html\"><img src=\"https:\/\/www.arenaflowers.co.in\/media\/wysiwyg\/mages\/flowers-illusion.png\" alt=\"buy flowers\" \/><\/a><\/div>\r\n<div class=\"Column-pop\" align=\"middle\"><a title=\"flowers &amp; cakes\" href=\"https:\/\/www.arenaflowers.co.in\/gifts-collection\/gifts-flowers\/flower-cakes-combos.html\"><img src=\"https:\/\/www.arenaflowers.co.in\/media\/wysiwyg\/mages\/flowersncakes.png\" alt=\"flowers &amp; Cakes\" \/><\/a><\/div>\r\n<div class=\"Column-pop\" align=\"middle\"><a title=\"gift combos\" href=\"https:\/\/www.arenaflowers.co.in\/gifts-collection.html\"><img src=\"https:\/\/www.arenaflowers.co.in\/media\/wysiwyg\/mages\/flowers-gift-combos.png\" alt=\"flowers-gift-combos\" \/><\/a><\/div>\r\n<\/div>\r\n<p>&nbsp;<\/p>\r\n<hr style=\"border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3); margin-bottom: 10px;\" \/>\r\n<p style=\"margin-bottom: -10px; text-align: right;\"><span class=\"dialogCloseCustom\"><script type=\"text\/javascript\">     \r\n  if (typeof popupButton === \"undefined\"){   \r\n    jQuery('head').append('<link rel=\"stylesheet\" href=\"https:\/\/www.arenaflowers.co.in\/skin\/frontend\/base\/default\/css\/magebird_popup\/widget\/buttons.css\" type=\"text\/css\" \/>');\r\n    var popupButton = {};\r\n    popupButton.ajaxUrl = 'https:\/\/www.arenaflowers.co.in\/magebird_popup\/coupon\/new\/?rand='+Math.floor((Math.random() * 100000000) + 1)\r\n    popupButton.workingText = 'Working...';    \r\n    var buttonScriptUrl = correctHttps(\"https:\/\/www.arenaflowers.co.in\/skin\/frontend\/base\/default\/js\/magebird_popup\/button.js?v=1.4.6b\");                                                            \r\n    jQuery.getScript(buttonScriptUrl); \r\n  }\r\n<\/script>               <style>\r\n#_eer3.popupButton{\r\n  border: 0 none;\r\n  border-radius: 3px 3px 3px 3px;\r\n  background: none repeat scroll 0 0 #649300;\r\n  color:#FFFFFF }  \r\n<\/style>\r\n\r\n  <a href=\"#\" id=\"_eer3\" class=\"popupButton size3\">Got it - Thanks<\/a>   \r\n  <script type=\"text\/javascript\">var buttonScrListener_eer3=setInterval(function(){\nif(typeof popupButton !== \"undefined\"){\nclearInterval(buttonScrListener_eer3)\npopupButton['_eer3'] = {};\npopupButton['_eer3'].successMsg = decodeURIComponent((''+'').replace(\/\\+\/g, '%20'))\n;popupButton['_eer3'].successAction = ''\npopupButton['_eer3'].couponType = ''\n}\n},10)\n<\/script>\n<\/span><\/p>","horizontalPosition":"1","horizontalPositionPx":"100","verticalPosition":"1","verticalPositionPx":"200","elementIdPosition":"","closeStyle":"3","makeStats":true,"cookieTime":"1","cookieId":"3d82ea","showingFrequency":"3","onlyOnce":false}};
+    mb_popup.statsUrl = 'https://www.arenaflowers.co.in/magebirdpopup.php';
+    mb_popup.jsUrl = 'https://www.arenaflowers.co.in/skin/frontend/base/default/js/magebird_popup/';                 
+        mb_popup.doMousetracking = false;
+    mb_popup.serverLocalTime = 1475839739;
+    mb_popup.serverTime = 1475819939;    
+    mb_popup.clientTime = new Date().getTime();
+    for (var key in mb_popups) {
+        if (!mb_popups.hasOwnProperty(key)) continue;
+        mb_popups[key].dialogActive = false;
+        mb_popup.prepareDialog(mb_popups[key]);              
+        if(mb_popups[key].makeStats!=false){
+          mb_popup.showStatsGlobal = true;
+        } 
+    }
+                               
+    if(mb_popup.showStatsGlobal){
+      mb_popup.onbeforeunloadHandler();
+    }
+      }
+},10)
+//]]>
+</script> <footer class="main-footer">
+<div class="row newsletter-ribbon hide-for-small-only">
+<div class="small-6 columns">
+<a class="icon-email newsletter-subscribe" href="#">Subscribe to our Newsletter</a>
+<form action="https://www.arenaflowers.co.in/newsletter/subscriber/new/" class="newsletter-subscribe-form no-margin" id="newsletter-validate-detail" method="post">
+<div class="field">
+<div class="input-box fade-label">
+<input class="input-text required-entry validate-email" id="newsletter" name="email" placeholder="Enter your email" title="Subscribe to our Newsletter" type="text"/>
+</div>
+</div>
+<button class="button" title="Subscribe" type="submit">Subscribe</button>
+</form>
+<script>
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+</script> </div>
+<div class="small-6 columns social">
+<a class="icon-googleplus" href="https://plus.google.com/+ArenaflowersIn" rel="nofollow" title="Connect with Us on Google+">Connect with Us on Google+</a>
+<a class="icon-instagram" href="https://www.instagram.com/arena_flowers_india/" rel="nofollow" title="Connect with Us on Instagram">Connect with Us on Instagram</a>
+<a class="icon-facebook" href="https://www.facebook.com/arenaflowers.co.in" rel="nofollow" title="Connect with Us on Facebook">Connect with Us on Facebook</a>
+</div>
+</div>
+<div class="row footer-links hide-for-small-only">
+<div class="medium-3 columns">
+<ul>
+<li class="title">Delivery Locations</li>
+<li><a href="https://www.arenaflowers.co.in/sending-flowers-panchkula-florist/">Panchkula</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-flower-delivery-surat/">Surat flower delivery</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-bhopal-florist-delivery/">Bhopal</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-flowers-bhatinda-delivery/">Bhatinda</a></li>
+<li><a href="https://www.arenaflowers.co.in/send-flowers-to-chennai-delivery/">Chennai</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-flowers-lucknow-delivery/">Lucknow</a></li>
+<li><a href="https://www.arenaflowers.co.in/send-flowers-to-dehradun-delivery/">Dehradun</a></li>
+<li><a href="https://www.arenaflowers.co.in/gurgaon-send-flowers-delivery/">Gurgaon</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-flowers-goa-delivery/">Goa</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-flowers-udaipur-delivery/">Udaipur</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-flower-delivery-nagpur/">Nagpur</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-flower-delivery-ranchi/">Ranchi</a></li>
+<li><a href="https://www.arenaflowers.co.in/delivery-locations/">More Locations</a></li>
+</ul>
+</div>
+<div class="medium-3 columns">
+<ul>
+<li class="title">Delivery Locations</li>
+<li><a href="https://www.arenaflowers.co.in/send-flowers-to-delhi/">Delhi</a></li>
+<li><a href="https://www.arenaflowers.co.in/send-flowers-to-pune-delivery/">Pune</a></li>
+<li><a href="https://www.arenaflowers.co.in/kolkata-send-flowers-delivery/">Kolkata</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-flowers-delivery-mumbai/">Mumbai</a></li>
+<li><a href="https://www.arenaflowers.co.in/send-flowers-bangalore-delivery/">Bangalore</a></li>
+<li><a href="https://www.arenaflowers.co.in/send-flowers-chandigarh-delivery/">Chandigarh</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-indore-florist-delivery/">Indore</a></li>
+<li><a href="https://www.arenaflowers.co.in/send-flowers-jaipur-delivery/">Jaipur</a></li>
+<li><a href="https://www.arenaflowers.co.in/send-flowers-to-ahmedabad/">Ahmedabad</a></li>
+<li><a href="https://www.arenaflowers.co.in/hyderabad-send-flowers-delivery/">Hyderabad</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-yamunanagar-florist-delivery/">Yamunanagar</a></li>
+<li><a href="https://www.arenaflowers.co.in/send-flowers-to-madurai-delivery/">Madurai</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-flower-delivery-bhubaneswar/">Bhubaneswar</a></li>
+</ul>
+</div>
+<div class="medium-3 columns">
+<ul>
+<li class="title">Delivery Locations</li>
+<li><a href="https://www.arenaflowers.co.in/mohali-send-flowers-delivery">Mohali</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-ghaziabad-flower-delivery/">Ghaziabad</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-faridabad-flower-delivery/">Faridabad</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-flowers-kanpur-delivery/">Kanpur</a></li>
+<li><a href="https://www.arenaflowers.co.in/send-flowers-ujjain-delivery/">Ujjain</a></li>
+<li><a href="https://www.arenaflowers.co.in/send-flowers-amritsar-delivery/">send flowers Amritsar</a></li>
+<li><a href="https://www.arenaflowers.co.in/sending-jalandhar-flowers-delivery/">Jalandhar</a></li>
+<li><a href="https://www.arenaflowers.co.in/patiala-sending-flowers-delivery/">Patiala</a></li>
+<li><a href="https://www.arenaflowers.co.in/send-flowers-noida-delivery/">Noida</a></li>
+<li><a href="https://www.arenaflowers.co.in/send-navi-mumbai-flowers/">Navi Mumbai</a></li>
+<li><a href="https://www.arenaflowers.co.in/udupi-send-flowers-delivery/">Udupi</a></li>
+<li><a href="https://www.arenaflowers.co.in/coimbatore-send-flowers-delivery/">Coimbatore</a></li>
+</ul>
+</div>
+<div class="medium-3 columns">
+<ul>
+<li class="title">Gift Giving Guide</li>
+<li><a href="https://www.arenaflowers.co.in/rose-day-7th-feb/">7th Feb Rose Day</a></li>
+<li><a href="https://www.arenaflowers.co.in/choosing-wedding-flowers/">Choosing Wedding Flowers</a></li>
+<li><a href="https://www.arenaflowers.co.in/teddy-gift-guide/">Teddy Gift Guide</a></li>
+<li><a href="https://www.arenaflowers.co.in/chocolate-gift-guide/">Chocolate Gifts Guide</a></li>
+<li><a href="https://www.arenaflowers.co.in/choco-love-flowers/">Choco Love Flowers</a></li>
+<li><a href="https://www.arenaflowers.co.in/hug-day-celebrations/">Hug Day - 11 Feb</a></li>
+<li><a href="https://www.arenaflowers.co.in/11-feb-promise-day-india/">Promise Day Guide</a></li>
+<li><a href="https://www.arenaflowers.co.in/blog/how-to-order-flowers-online-at-arenaflowers/">How to Order Flowers Online</a></li>
+<li><a href="https://www.arenaflowers.co.in/blog/same-day-gift-delivery/">Same Day Flower Delivery Guide</a></li>
+</ul>
+<ul>
+<li class="title">Contact Us</li>
+<li class="icon-mapmarker">ALL India Customer Support</li>
+<li class="icon-phone">+91 8222 088 366</li>
+</ul>
+<p><button class="button btn-checkout" onclick="location.href='https://www.arenaflowers.co.in/contacts/'" title="Write A Review" type="button"><span><span>Write A Review</span></span></button></p>
+</div>
+<div class="medium-12 h-links-list columns">
+<ul>
+<li><a href="https://www.arenaflowers.co.in/about-us/">About Us</a></li>
+<li><a href="https://www.arenaflowers.co.in/contacts/">Contact Us</a></li>
+<li><a href="https://www.arenaflowers.co.in/corporate-gifting/">Corporate Gifting</a></li>
+<li><a href="https://www.arenaflowers.co.in/privacy-policy/">Privacy Policy</a></li>
+<li><a href="https://www.arenaflowers.co.in/florist-choice/">Florist Choice</a></li>
+<li><a href="https://www.arenaflowers.co.in/terms-conditions/">Terms &amp; Conditions</a></li>
+<li><a href="http://bit.ly/2aHGC9Q">Order Status Online</a></li>
+</ul>
+</div>
+</div>
+<div class="back-to-top-container show-for-small-only">
+<a class="back-to-top" href="#">Back to Top</a>
+</div>
+<ul class="mobile-footer-links show-for-small-only">
+<li><a href="https://www.arenaflowers.co.in/checkout/cart/">Cart (<span class="highlighted">0</span>)</a></li>
+<li><a href="https://www.arenaflowers.co.in/customer/account/">Your Account</a></li>
+<li><a href="https://www.arenaflowers.co.in/wishlist/">Your Wish List</a></li>
+<li><a href="#">Company</a></li>
+<li><a href="#">Customer Service</a></li>
+<li><a href="https://www.arenaflowers.co.in/privacy-policy-cookie-restriction-mode/">Privacy &amp; Terms</a></li>
+</ul>
+<div class="mobile-footer-switch show-for-small-only row">
+<div class="small-12 columns">
+<select id="select-currency-mobile" name="currency" onchange="window.location.href=this.value" title="Select Your Currency">
+<option selected="selected" value="https://www.arenaflowers.co.in/directory/currency/switch/currency/INR/uenc/aHR0cHM6Ly93d3cuYXJlbmFmbG93ZXJzLmNvLmluLw,,/">
+Indian Rupee </option>
+<option value="https://www.arenaflowers.co.in/directory/currency/switch/currency/USD/uenc/aHR0cHM6Ly93d3cuYXJlbmFmbG93ZXJzLmNvLmluLw,,/">
+US Dollar </option>
+</select>
+</div>
+</div>
+<div class="row footer-bottom">
+<div class="medium-5 columns">
+<p class="sosumi no-margin">© 2016 ArenaFlowers.co.in, India. All Rights Reserved.</p>
+</div>
+<div class="medium-2 center hide-for-small-only columns">
+<a class="back-to-top" href="#">Back to Top</a>
+</div>
+<div class="medium-5 hide-for-small-only columns">
+<ul class="payment-logos">
+<li><img alt="PayPal" src="https://www.arenaflowers.co.in/media/theme/logo-paypal.svg" title="PayPal"/></li>
+<li><img alt="Visa" src="https://www.arenaflowers.co.in/media/theme/logo-visa.svg" title="Visa"/></li>
+<li><img alt="Discover" src="https://www.arenaflowers.co.in/media/theme/logo-discover.svg" title="Discover"/></li>
+<li><img alt="American Express" src="https://www.arenaflowers.co.in/media/theme/logo-amex.svg" title="American Express"/></li>
+<li><img alt="Mastercard" src="https://www.arenaflowers.co.in/media/theme/logo-mastercard.svg" title="Mastercard"/></li>
+<li><img alt="Maestro" src="https://www.arenaflowers.co.in/media/theme/logo-maestro.svg" title="Maestro"/></li>
+</ul>
+</div>
+</div>
+</footer>
+<a class="exit-off-canvas"></a>
+</div> 
+</div> 
+<script src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/js/foundation.min.js"></script>
+<script src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/js/lib/chosen.jquery.min.js"></script>
+<script src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/js/intenso.js"></script>
+<script src="https://www.arenaflowers.co.in/skin/frontend/intsthem/default/js/lib/extendedreviews.js"></script>
+<script>
+	// Init Foundation framework
+	$j(document).foundation({
+		topbar: {
+			custom_back_text: true,
+			back_text: 'Back' 
+		}
+	});
+	// Init Intenso Theme framework
+	$j(document).intenso({
+		productsGrid: {
+						min_item_width: 250					}
+	});
+	</script><div class="loading-bar"></div>
+
+
+</body></html>

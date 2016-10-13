@@ -1,0 +1,2397 @@
+<!--conditional block start--><!--Conditional Block end--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+     <title>Online Flower Delivery | Send Flowers to India | Buy Flowers</title>
+  
+   
+ <!--<meta name="title" content="Online Flower Delivery | Send Flowers to India | Buy Flowers"/>-->
+  <meta content="flower delivery, flowers online, online flowers, order flowers online, online delivery of flowers, sending flowers online, book flowers online, flowers home delivery, buy flowers online, gift flowers online, send online flowers, online flowers delivery in India" name="keywords"/>
+  <meta content="Send Flowers Online: Explore Bookmyflowers.com for fresh flowers which facilitates you to send flowers to your loved ones. Free Shipping to all over India." name="description"/>
+  <meta content="" name="abstract"/>
+</head><body class="homebg" itemscope="" itemtype="http://schema.org/Product"><input id="catalogueValue" type="hidden" value="bmf"/>
+
+
+ <!--<meta name="OG-Tags" starts here/>--> 
+<meta content="Buy Flowers Online,Send Flowers Online, Flower delivery in India" name="og_title" property="og:title"/>
+<meta content="bookmyflowers.com" name="og_site_name" property="og:site_name"/>
+<meta content="http://www.bookmyflowers.com/" name="og_url" property="og:url"/> 
+   <!--<meta name="OG-Tags" ends here/>--> 
+  
+  
+   		
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<!--<meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1"/>-->
+<meta content="True" name="HandheldFriendly"/>
+<meta content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" name="viewport"/>
+<meta content="width=device-width" name="viewport"/>
+<link href="http://d3nfvz6r6hh60l.cloudfront.net/img/faviconbmf.png" rel="shortcut icon" type="image/ico"/>
+
+<style>
+  .footer-row1 p{
+    display:block !important; 
+  }
+  </style>
+
+
+<!--css-->
+<link href="http://d3nfvz6r6hh60l.cloudfront.net/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="http://d3nfvz6r6hh60l.cloudfront.net/css/sliding.css" rel="stylesheet" type="text/css"/>
+<link href="http://d3nfvz6r6hh60l.cloudfront.net/css/calender.css" rel="stylesheet"/>
+<link href="http://d3nfvz6r6hh60l.cloudfront.net/css/global.css" rel="stylesheet"/>
+<link href="http://d3nfvz6r6hh60l.cloudfront.net/css/global-product.css" rel="stylesheet"/>
+<link href="http://d3nfvz6r6hh60l.cloudfront.net/css/selectbox.css" rel="stylesheet" type="text/css"/>
+<!--script-->
+<script src="http://d3lh7gqxe58493.cloudfront.net/js/jquery.min_slider.js" type="text/javascript"></script>
+<script defer="defer" src="http://d3lh7gqxe58493.cloudfront.net/js/jquery.flexslider.js" type="text/javascript"></script>
+<script src="http://d3lh7gqxe58493.cloudfront.net/js/respond.src.js" type="text/javascript"></script>
+
+<script language="JavaScript" type="text/javascript">
+/*<![CDATA[*/
+var Lst;
+
+function CngClass(obj){
+if (Lst) Lst.className='';
+obj.className='selected';
+Lst=obj;
+}
+/*]]>*/
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-20227468-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<script src="http://d3lh7gqxe58493.cloudfront.net/js/jquery-1.8.2.min.js" type="text/javascript"></script>
+<script src="http://d3lh7gqxe58493.cloudfront.net/js/jquery-ui1.js" type="text/javascript"></script>
+<script src="http://d3lh7gqxe58493.cloudfront.net/js/jquery.maxlength.js" type="text/javascript"></script>
+<script src="http://d3lh7gqxe58493.cloudfront.net/js/custom.js" type="text/javascript"></script>
+
+
+<script src="/js/popupandLogin.js" type="text/javascript"></script>
+
+
+<script src="http://d3lh7gqxe58493.cloudfront.net/js/home.js" type="text/javascript"></script>  
+<script src="http://d3lh7gqxe58493.cloudfront.net/js/addtocart.js" type="text/javascript"></script>
+<script src="http://d3lh7gqxe58493.cloudfront.net/js/slides.min.jquery.js" type="text/javascript"></script>
+<script src="http://d3lh7gqxe58493.cloudfront.net/js/jquery.selectbox-0.5.js" type="text/javascript"></script>
+<script src="http://d3lh7gqxe58493.cloudfront.net/js/jquery_003.js" type="text/javascript"></script>
+<script src="http://d3nfvz6r6hh60l.cloudfront.net/js/portamento.js" type="text/javascript"></script>
+<script src="/js/dvs-common.js" type="text/javascript"></script>
+<script src="http://d3lh7gqxe58493.cloudfront.net/js/jquery.reveal.js" type="text/javascript"></script>
+<script src="http://d3lh7gqxe58493.cloudfront.net/js/jquery.cookie.js" type="text/javascript"></script>
+
+
+
+
+<!--Valentine Changes Below -->
+<input id="startOccasionDate" type="hidden" value="13/02/2105"/>
+<input id="endOccasionDate" type="hidden" value="15/02/2015"/>
+  <input id="checkShippingChange" type="hidden" value=""/>
+
+<input id="occasionFlag" type="hidden" value="true"/>
+
+
+  <script type="text/javascript">
+    
+function occasionSpecialLinkfunction()
+{
+  var flagValue=$("#occasionFlag").val();
+  if(flagValue=='true')
+{
+  var pickerDate=$('.dateValue').val();
+  pickerDate=pickerDate.split("/");
+  var pickerDay=pickerDate[0];
+  var pickerMonth=pickerDate[1];
+  pickerDay=parseInt(pickerDay);
+  pickerMonth=parseInt(pickerMonth);
+  if(pickerDay==7&&pickerMonth==2)
+{
+  $('.specialOccasionsLink').removeAttr('href');
+  $('.specialOccasionsLink').attr('href','/valentine/rose-day-gifts-1-3928-t.html');
+  $('#occasionMsg').hide();
+  $('.specialOccasionsLink1').hide();
+  $('.occasionBtn').show();
+  electionDelhi();
+}
+else
+{
+  $('.specialOccasionsLink').removeAttr('href');
+  $('.specialOccasionsLink').attr('href','/valentine');
+  $('.specialOccasionsLink1').show();
+  $('.occasionBtn').show();
+  $('.specialOccasionsLink').hide();
+  $('#occasionMsg1').hide();
+  occasionSpecial();
+}
+}
+}
+  </script>
+<!-- Valentine change End-->
+<!-- Valentine change Start-->
+<script type="text/javascript">
+  function showAddtocart()
+{
+  $('#occasionMsg').hide();
+  $('.occasionBtn').show();
+  $('#occasionMsg1').hide();
+}
+</script>
+<style>
+  .specialOccasionsLink:visited{
+    color:#00f;
+  }
+  .specialOccasionsLink1:visited{
+    color:#00f;
+  }
+</style>
+
+<script>
+  function shippingChangefunction(){
+    var checkShippingChange=$("#checkShippingChange").val();
+    var shippingModeValue=$("#ddShipingModep1").val();
+    if(checkShippingChange!=''||checkShippingChange!=shippingModeValue)
+{
+  $("#checkShippingChange").val(shippingModeValue);
+  showAddtocart();
+  
+  fordeliveryoption();
+}
+  }
+</script>
+<script type="text/javascript">
+  function electionDelhi()
+{
+  var abc=$(".election").val();
+  if(abc=="Delhi"||abc=="delhi"||abc=="New Delhi")
+{
+  $('#occasionMsg1').show();}
+else
+{
+  $('#occasionMsg1').hide();
+}
+}
+</script>
+<script type="text/javascript">
+function occasionSpecial()
+{
+  var flagValue=$("#occasionFlag").val();
+  if(flagValue=='true')
+{
+  var startDate=$('#startOccasionDate').val();
+  startDate=startDate.split("/");
+  var startDay=startDate[0];
+  var startMonth=startDate[1];
+  startDay=parseInt(startDay);
+  startMonth=parseInt(startMonth);
+  var endDate=$('#endOccasionDate').val();
+  endDate=endDate.split("/");
+  var endDay=endDate[0];
+  var endMonth=endDate[1];
+  endDay=parseInt(endDay);
+  endMonth=parseInt(endMonth);
+  var pickerDate=$('.dateValue').val();
+  pickerDate=pickerDate.split("/");
+  var pickerDay=pickerDate[0];
+  var pickerMonth=pickerDate[1];
+  pickerDay=parseInt(pickerDay);
+  pickerMonth=parseInt(pickerMonth);
+  if(startDay<=pickerDay&&pickerDay<=endDay&&startMonth<=pickerMonth&&pickerMonth<=endMonth)
+{
+  $("#occasionMsg").show();
+  $(".occasionBtn").hide();
+}
+else
+{
+  $("#occasionMsg").hide();
+  $(".occasionBtn").show();
+}
+}
+}
+</script>
+<!--Valentine msg styles changes -->
+<style>
+  #occasionMsg{
+    background:none repeat scroll 0 0 #f97d00;
+    color:#fff;
+    font-weight:600;
+    margin-top:10px;
+    padding-bottom:1%;
+    padding-left:1%;
+    padding-top:1%;
+    width:48%;
+  }
+  .specialOccasionsLink1{
+    color:#fff!important;
+  }
+  a.specialOccasionsLink1{
+    color:#fff!important;
+  }
+  a.specialOccasionsLink{
+    color:#fff!important;
+  }
+  .specialOccasionsLink{
+    color:#fff!important;
+  }
+</style>
+<!-- Valentine change End-->
+
+
+    
+ 
+<script defer="" src="https://apis.google.com/js/client.js" type="text/javascript"></script>
+
+
+ 
+ 
+  <style type="text/css">
+    
+.homeouter{ background: none repeat scroll 0 0 #FFFFFF;
+    border-left: 5px solid #FFFFFF;
+    border-right: 5px solid #FFFFFF;
+    overflow: hidden;}
+    </style>
+  
+  
+  <script type="text/javascript">
+    $(function(){
+ var cat=$("#catalogueValue").val();
+  if(cat != 'fnp') {
+     var catImage=cat.trim() + '.jpg';
+     $(".homebg").css({'background-image': 'url(../images/'+catImage+')'});
+    $(".homebg").css({'background-position': '0px 120px'});
+  }
+});
+  </script>
+  <!--
+ <style type="text/css">
+#defaultCountdown { height:40px;float:left;margin-top:2px;}
+.countdown-section{ border:0px solid #999; padding:6px 2px; margin-right:10px;color:#999;font-size:9px;}
+.countdown-amount{ font-size:20px;color:#ae0e0e;font-weight:bold;}
+.count{ background:#efefef; padding:5px 5px 5px 230px;  font-family:arial; font-size:20px !important; font-weight:normal;}
+.count label{ font-size:18px !important;float:left; margin:3px 6px 6px 6px;font-family: Arial, Helvetica, sans-serif;}
+</style>
+  <script src="http://d3lh7gqxe58493.cloudfront.net/js/Jquery.plugin.js"></script>
+  <script src="http://d3lh7gqxe58493.cloudfront.net/js/Jquery.countdown.js"></script> 
+   --> 
+  
+ 
+    
+
+
+ 
+  <!-- 
+  <script type="text/javascript">
+$(function () {
+  var austDay = new Date();
+  austDay = new Date(austDay.getFullYear(), 8-1,10,+16); 
+  $('#defaultCountdown').countdown({until: austDay});
+  $('#year').text(austDay.getFullYear());
+});
+</script>
+ 
+ 
+  <div class="count">
+ <label>Only </label><div id="defaultCountdown"></div> <label> left for Raksha Bandhan Guaranteed Delivery.</label>
+    <a href="http://www.bookmyflowers.com/rakhi/"><img src="http://d3lh7gqxe58493.cloudfront.net/images/order-now.jpg"/></a></div>
+-->
+     
+<!-- Crazy egg code start here-->
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0019/3115.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<div class="homeouter outer">
+<!-- Crazy egg code end here-->
+<!--header start-->
+  
+   		
+
+<script src="/js/tracker.min.js" type="text/javascript"></script> 
+
+<!-- add for quick view -->
+<div id="addonQuickViewOuter"></div>
+
+<div class="z2000" id="loading" style="display:none">
+<img alt="Loading..." id="loading-image" src="http://d3nfvz6r6hh60l.cloudfront.net/img/loading.gif" width="60"/>
+</div>
+
+<input id="hostValue" type="hidden" value="http://www.bookmyflowers.com"/>
+<!--signin start-->
+<div class="reveal-modal medium" id="divsingin">
+<div class="popup_create-acc_main">
+<div class="popup_create-acc_heading">New User? Sign up</div>
+<div class="popup_create-acc_main_row">
+<label>First Name<span>*</span></label><input class="inp-creat-acc" id="txtUserNameRG" maxlength="25" name="" onblur="WatermarkOnblur('Enter First name','txtUserNameRG')" onfocus="WatermarkOnfocus('Enter First name','txtUserNameRG')" onkeypress="return submitSignEnter(event)" type="text" value="Enter First name"/>
+</div>
+<div class="popup_create-acc_main_row">
+<label>Last Name<span>*</span></label><input class="inp-creat-acc" id="txtUserLastNameRG" maxlength="25" name="" onblur="WatermarkOnblur('Enter Last name','txtUserLastNameRG')" onfocus="WatermarkOnfocus('Enter Last name','txtUserLastNameRG')" onkeypress="return submitSignEnter(event)" type="text" value="Enter Last name"/>
+</div>
+<div class="popup_create-acc_main_row">
+<label>Phone No<span>*</span></label><input class="inp-creat-acc" id="txtPhoneNoRG" maxlength="25" name="" onblur="WatermarkOnblur('Enter Phone no','txtPhoneNoRG')" onfocus="WatermarkOnfocus('Enter Phone no','txtPhoneNoRG')" onkeypress="return submitSignEnter(event)" type="text" value="Enter Phone no"/>
+</div>
+<div class="popup_create-acc_main_row">
+<label>Email ID<span>*</span></label><input class="inp-creat-acc" id="txtEmailIDRG" maxlength="100" name="" onblur="WatermarkOnblur('Enter Email id','txtEmailIDRG')" onfocus="WatermarkOnfocus('Enter Email id','txtEmailIDRG')" type="text" value="Enter Email id"/><input class="inp-creat-acc" id="txtEmailIDRG2" maxlength="100" onkeypress="return submitSignEnter(event)" type="hidden" value=""/>
+</div>
+<div class="popup_create-acc_main_row">
+<label>City<span>*</span></label><input class="inp-creat-acc" id="txtEnterCityRGId" name="" onblur="WatermarkOnblur('Enter City','txtEnterCityRGId')" onfocus="WatermarkOnfocus('Enter City','txtEnterCityRGId')" onkeypress="return submitSignEnter(event)" type="text" value="Enter City"/>
+<div class="hide"><input id="txtEnterCityRG" type="hidden" value=""/></div>
+</div>
+<div class="popup_create-acc_main_row">
+<label>Password<span>*</span></label><input class="inp-creat-acc" id="txtPasswordRG" maxlength="25" name="" onblur="if (this.value == '' &amp;&amp; this.value=='null') { this.value = 'Enter Password', this.setAttribute('type','text'); }" onfocus="if (this.value == 'Enter Password') { this.value = '', this.setAttribute('type','password'); }" onkeypress="return submitSignEnter(event)" type="text" value="Enter Password"/>
+</div>
+
+<div class="popup_create-acc_main_row">   
+<input class="button_creat-acc" name="" onclick="signupUser()" type="button" value="SUBMIT"/>
+</div>
+
+<div class="popup_create-acc_main_row">
+<label></label><b><span class="error_message hide" id="errorMsgSignupThis">This user already exist <a class="close-reveal-modal hsign" data-animation="fade" data-reveal-id="myModal">Click here to sign in</a></span>
+<span class="error_message" id="errorMsgSignup"></span></b>
+</div>
+
+
+</div>
+<a class="close-reveal-modal"><img alt="closed" src="http://d3nfvz6r6hh60l.cloudfront.net/images/close.png"/></a>
+</div>
+<!--signin end-->
+
+<!--forgot start-->
+<div class="reveal-modal medium" id="divForgetPassword">
+  <div class="forget_passwod">
+    <div class="forget_passwod_heading">FORGOT PASSWORD</div>
+    <div class="forget_passwod_reset">
+      <h3>Forgot Password</h3>
+      <p>Create an account or <a class="close-reveal-modal hsign" data-animation="fade" data-reveal-id="myModal">sign in</a> to continue</p>
+      <p><label>Email ID</label>
+        <input class="inp-forget_password" id="txtEmailIDFP" name="" onblur="WatermarkOnblur('Enter your email id','txtEmailIDFP')" onfocus="WatermarkOnfocus('Enter your email id','txtEmailIDFP')" onkeypress="return enterforgotPWD(event)" type="text" value="Enter your email id"/>
+      </p>
+      <input class="button_forget_passwod" id="forgotPasswordDiv" name="" onclick="updateNewPasinsidecontentsword()" type="button" value="SEND EMAIL"/>
+      <div class="error_message hide" id="errorMsg"></div>
+      
+    </div>    
+    
+  </div>
+  <a class="close-reveal-modal"><img alt="closed" src="http://d3nfvz6r6hh60l.cloudfront.net/images/close.png"/></a>
+</div>
+<!--forgot end-->
+
+<!--quick start-->
+<div class="reveal-modal xlarge" id="divQuickInfo">
+<div class="popup_quick_view_main">
+<div class="popup_quick_view" id="innerDivQuickInfo">
+
+</div>
+</div>
+<a class="close-reveal-modal"><img alt="closed" src="http://d3nfvz6r6hh60l.cloudfront.net/images/close.png"/></a>
+</div>
+<!--quick end-->
+
+<!--reminders start-->
+<div class="reveal-modal medium" id="divEditReminders">
+<div class="reminder_popup">
+<div id="innerEditReminder"></div>
+</div>
+<a class="close-reveal-modal"><img alt="closed" src="http://d3nfvz6r6hh60l.cloudfront.net/images/close.png"/></a>
+</div>
+<!--reminders end-->
+<script async="" src="//config1.veinteractive.com/tags/928148EE/F141/454A/BC58/FB8F5101B64D/tag.js" type="text/javascript"></script>
+
+   
+   		    <!--alert message start-->
+<div class="reveal-modal" id="check_alert">
+<a class="close-reveal-modal">×</a>
+<p id="writeReview_message"></p>
+</div>
+<!--alert message end-->
+ 
+
+
+<input id="mailerIdtxt" type="hidden" value=""/>
+
+<div id="ribbonWrapper">
+<div class="outer">
+<div class="ribbon">
+
+
+
+
+  <input id="currencyShowvalue" type="hidden" value="$currency"/>
+<div class="currenty_selection">
+<select id="changeCurr" name="Items" onchange="currencyConvert()">
+<option value="INR">INR</option>
+<option value="USA">USD</option>
+</select>
+</div>
+<div class="customer_support"> <a href="/product/contactus.dot">CUSTOMER SUPPORT</a> </div>
+
+
+
+<div class="track_order">
+ <a href="javascript:void(0)" onclick="showHide('hideDiv','dirImg')">TRACK YOUR ORDER</a>
+<input id="loggedInUserName" type="hidden" value=""/>
+
+  <div class="ab hide" id="hideDiv">
+  <div class="showBoxs" id="showBox">
+<form action="/product/trackOrderDetails.dot" id="trackOrderSubmit" method="post" name="trackOrderSubmit" onsubmit="return trackOrderSubmitFor();">
+
+  Order No. (eg:OR-123456)
+    <input class="order-number" id="trackOrderNo" name="trackOrderNoName" type="text"/>
+<br/><br/><hr/><br/>
+Email
+<input class="order-number" id="trackEmail" type="text"/>
+<div class="div">OR</div>
+Phone No.
+<input class="order-number" id="trackMobileNo" type="text"/>
+<div id="divTrackButton">
+<a class="tclose" href="#" onclick="showHide('hideDiv','hide')">X</a>
+<input class="tbtn" onclick="trackOrderSubmitFor()" type="submit" value="TRACK"/></div>
+</form>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<div id="main_header">
+<div class="outer">
+<div class="header">
+  <div class="logo">
+   
+  
+    <a href="http://www.bookmyflowers.com">
+ 
+      <img alt="Book My Flowers (BMF)" border="0" src="data:image/png;base64,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" title="Book My Flowers (BMF)"/>
+     
+      <!--
+      <img border="0" src="http://d3nfvz6r6hh60l.cloudfront.net/images/bmf-p-fnp.png" alt="Book My Flowers (BMF)" title="Book My Flowers (BMF)" />
+      <img border="0" alt="logo" src="data:image/png;base64,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" alt="Book My Flowers (BMF)" title="Book My Flowers (BMF)" />
+      *#
+      <img border="0" alt="logo" src="data:image/png;base64,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" 
+      alt="Book My Flowers (BMF)" title="Book My Flowers (BMF)" />
+      -->
+    </a></div>
+
+  <div class="support" style="display:none">
+    <p><img alt="" class="flot-left" src="http://d3nfvz6r6hh60l.cloudfront.net/images/customer-support.png"/> EMAIL US <a href="mailto:support@bookmyflowers.com">support@bookmyflowers.com</a></p>
+    <!--
+    <div id="imp-links">
+      <ul>
+        <li><a href="/corporate-gifting-1-75-t.html">Corporate Gifting</a></li>
+        <li>&nbsp;&nbsp;&nbsp;</li>
+      <li><a href="/static/franchise.dot">Franchise</a></li>
+      </ul>
+    </div>-->
+  </div>
+  
+
+<div class="call_us">
+  <p><a class="nubmer"><img alt="" class="flot-left" src="http://d3nfvz6r6hh60l.cloudfront.net/images/phone.png"/>NEED HELP, CALL US<br/>
+<span><strong>+91 9212255500</strong></span></a></p>
+
+</div>
+</div>
+</div>
+</div>
+
+<input id="usCurrencyValue" type="hidden" value="0.0162"/>
+
+
+
+   
+   		<!--baner & navigation start -->
+<div class="main_container">
+<div class="outer">
+<div class="banner">
+<!--home page top dropdown menu start-->
+<div class="navigation">
+<h2 class="nav_display1" id="allgroups">Top Categories</h2>
+   		
+   		<!--drop-->
+<div class="box" id="dropdownmenu">
+<div class="box-category nav_display1">
+    		<ul>
+  <li><a class="arrownone" href="/same-day-flowers-home-delivery-1-40-t.html">Same Day Delivery</a></li>
+ 
+<!--category start-->
+<li><a href="#">Birthday</a>
+  <ul class="u-wit mcoulum1">
+    <li>
+      <ul>
+      <li><a href="/birthday-1-23-t.html">Birthday Gifts</a></li>  
+        <li><a href="/send-birthday-flowers-online-1-24-t.html">Birthday Flowers</a></li>
+        <li><a href="/birthday-cakes-online-delivery-1-25-t.html">Birthday Cakes</a></li>
+        <li><a href="/birthday-personalized-gifts-online-delivery-1-427-t.html">Personalized Gifts</a></li>
+        <li><a href="/chocolates-1-17-t.html">Chocolates</a></li>
+        <li><a href="/soft-toys-1-18-t.html">Soft Toys</a></li>
+        <li><a href="/combo-1-15-t.html">Flower Combo</a></li>
+        <li><a href="/birthday-gifts-for-husband-1-450-t.html">Gifts for Him</a></li>
+        <li><a href="/birthday-gifts-for-wife-1-395-t.html">Gifts for Her</a></li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<!-- category end-->
+<!--parent child start-->
+<li><a href="#">Anniversary </a>
+  <ul class="u-wit mcoulum2">
+    <li>
+      <ul>
+      <li><a href="/send-anniversary-gifts-online-1-28-t.html">Anniversary Gifts</a></li>
+        <li><a href="/anniversary-flowers-online-1-29-t.html">Anniversary Flowers</a></li>
+        <li><a href="/order-anniversary-cakes-online-1-30-t.html">Anniversary Cakes</a></li>
+        <li><a href="/anniversary-personalized-gifts-1-428-t.html">Personalized Gifts</a></li>
+        <li><a href="/anniversary-chocolates-1-78-t.html">Chocolates</a></li>
+        <li><a href="/combo-1-15-t.html">Flower Combo</a></li>
+        <li><a href="/anniversary-gifts-for-husband-1-451-t.html">Gifts for Him</a></li>
+        <li><a href="/anniversary-gifts-for-wife-1-452-t.html">Gifts for Her</a></li>
+        <li><a href="/anniversary-gifts-for-parents-1-396-t.html">Gifts for Parents</a></li>
+      </ul>
+    </li>
+  <li>
+    <ul>
+      <li><a href="/wedding-anniversary-gifts-online-1-598-t.html">Wedding Anniversary</a></li>
+      <li><a href="/wedding-anniversary-gifts-for-parents-1-599-t.html">Wedding Anniversary Gifts for Parents</a></li>
+      <li><a href="/wedding-anniversary-gifts-for-wife-1-600-t.html">Wedding Anniversary Gifts For Wife</a></li>
+      <li><a href="/wedding-anniversary-gift-for-husband-1-601-t.html">Wedding Anniversary Gift For Husband</a></li>
+    </ul>
+  </li>
+  </ul>
+</li>
+<!--parent child end-->
+<!--parent child start-->
+<li><a href="#">Flowers </a>
+  <ul class="u-wit mcoulum2">
+    <li>
+      <ul>
+      
+        <li><a href="/flower-bouquet-delivery-online-1-14-t.html">Flower Bunches</a></li>
+        <li><a href="/gift-flowers-combo-online-1-15-t.html">Flower Combo</a></li>
+        <li><a href="/flower-and-cake-1-577-t.html">Flower and Cake</a></li>
+        <li><a href="/flowers-and-chocolates-1-602-t.html">Flowers and Chocolates</a></li>
+        <li><a href="/basket-arrangement-1-32-t.html">Basket Arrangement</a></li>
+        <li><a href="/glass-vase-arrangement-1-33-t.html">Glass Vase Arrangement</a></li>
+        <li><a href="/exclusive-arrangement-1-34-t.html">Exclusive Arrangement</a></li>
+    <li><a href="/order-flowers-online-1-20-t.html">Florist Choice</a></li>
+    
+      </ul>
+    </li>
+    <li>
+      <ul>
+         <li><a href="/artificial-flowers-1-779-t.html">Artificial Flowers</a></li>
+        <li><a href="/roses-1-417-t.html">Roses</a></li>
+        <li><a href="/lilies-1-418-t.html">Lilies</a></li>
+        <li><a href="/carnations-1-419-t.html">Carnations</a></li>
+        <li><a href="/orchids-1-420-t.html">Orchids</a></li>
+        <li><a href="/gerberas-1-421-t.html">Gerberas</a></li>
+          <li><a href="/mixed-bouquet-1-422-t.html">Mixed Bouquet</a></li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<!--parent child end-->
+<!--parent child start-->
+<li><a href="#">Cakes</a>
+  <ul class="u-wit mcoulum4">
+    <li>
+      <ul>
+    <li><a href="#" style="font-size:16px; font-weight:bold;">By Category</a></li>
+         <li><a href="/regular-cakes-1-35-t.html">Regular Cakes</a></li>
+        <li><a href="/special-shape-cakes-1-85-t.html">Premium Cakes</a></li>
+        <li><a href="/designer-cakes-1-613-t.html">Designer Cakes</a></li>
+        <li><a href="/photo-cakes-1-614-t.html">Photo Cakes</a></li>
+        <li><a href="/order-eggless-cake-online-1-36-t.html">Eggless Cakes</a></li>
+    <li><a href="/order-cakes-online-1-16-t.html">Classic Cakes</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="#" style="font-size:16px; font-weight:bold;">By Occasion</a></li>
+        <li><a href="/birthday-cakes-1-25-t.html">Birthday Cakes</a></li>
+    <li><a href="/wedding-cakes-1-615-t.html">Wedding Cakes</a></li>
+        <li><a href="/romantic-cakes-1-616-t.html">Romantic Cakes</a></li>
+    <li><a href="/celeberation-cakes-1-617-t.html">Celeberation Cakes</a></li>
+        <li></li>
+
+<li><a href="#" style="font-size:16px; font-weight:bold;">By Weight</a></li>
+        <li><a href="/half-kg-cakes-1-38-t.html">Half Kg Cakes</a></li>
+    <li><a href="/1-kg-cakes-1-612-t.html">1 Kg Cakes</a></li>        
+      </ul>
+    </li>
+    <li>
+      <ul>
+    
+    
+ 
+ 
+
+<li><a href="#" style="font-size:16px; font-weight:bold;">By City</a></li>
+        <li><a href="/delhi-ncr-special-cake-1-624-t.html">Delhi NCR Special Cakes</a></li>
+    <li><a href="/bangalore-special-cake-1-625-t.html">Bangalore Special Cakes </a></li>  
+           <li><a href="/mumbai-special-cakes-1-626-t.html">Mumbai Special Cakes </a></li>
+        
+        <li><a href="/hyderabad-special-cakes-1-627-t.html">Hyderabad Special Cakes </a></li>
+        
+        <li><a href="/chennai-special-cakes-1-628-t.html">Chennai Special Cakes </a>
+          </li>
+        <li><a href="/gurgaon-special-cakes-1-646-t.html "> Gurgaon Special Cakes</a></li>
+        <li><a href="/pune-special-cakes-1-647-t.html">Pune Special Cakes</a></li>
+        <li><a href="/chandigarh-special-cakes-1-648-t.html">Chandigarh Special Cakes</a></li>
+              
+        <li><a href="/kolkata-special-cakes-1-649-t.html ">Kolkata Special Cakes</a></li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<!--parent child end-->
+ <li><a class="arrownone" href="/plants-1-50-t.html">Plants</a></li>
+  
+<!--parent child start-->
+<li><a href="#">Gifts</a>
+  <ul class="u-wit mcoulum1">
+    <li>
+      <ul>
+            
+        <li><a href="/send-gift-baskets-online-1-49-t.html">Gift Basket</a></li>
+        <li><a href="/online-gifts-delivery-1-393-t.html">Gift Delivery</a></li>
+        <li><a href="/chocolates-1-17-t.html">Chocolates</a></li>
+        <li><a href="/soft-toys-1-18-t.html">Soft Toys</a></li>
+       <li><a href="/personalized-gifts-1-26-t.html">Personalized Gifts</a></li>
+     <li><a href="/order-gifts-online-1-19-t.html">Gift Ideas</a>
+             
+      </li></ul>
+    </li>
+   <li>
+     <ul>
+       
+      </ul>
+    </li>
+  </ul>
+</li>
+<!--parent child end-->
+          <!--category start-->
+<!--<li><a href="/plants-1-50-t.html" class="arrownone">Plants</a></li>  -->
+<!-- category end-->  
+<!--parent child start-->
+<li>
+<a href="#">Occasion</a>
+<ul class="u-wit menu_position">
+  <li>
+    <ul>
+      <li><a href="#" style="font-size:16px; font-weight:bold;">Regular</a></li>
+       
+      <li><a href="/send-birthday-gifts-online-1-23-t.html">Birthday</a></li>
+      <li><a href="/anniversary-1-28-t.html">Anniversary</a></li>
+      <li><a href="/wedding-1-86-t.html ">Wedding</a></li>
+      <li><a href="/congratulations-1-83-t.html">Congratulations</a></li>
+      <li><a href="/romantic-1-399-t.html ">Romantic</a></li>
+      <li><a href="/get-well-soon-1-84-t.html">Get Well</a></li>
+      <li><a href="/thank-you-1-88-t.html">Thank You</a></li>
+      <li><a href="/sympathy-1-400-t.html ">Sympathy</a></li>
+  <li><a href="/new-baby-1-401-t.html ">New Baby</a></li>
+    </ul>
+  </li>
+  <li>
+  <ul>  
+    <li><a href="/i-m-sorry-1-402-t.html ">I m Sorry</a></li>
+    <li><a href="/just-because-1-403-t.html">Just Because</a></li>
+    <li><a href="/housewarming-1-404-t.html ">Housewarming</a></li>
+  <li><a href="#" style="font-size:16px; font-weight:bold;">Seasonal</a></li>
+    
+   <li><a href="/mothers-day/">Mother's Day  - 8<sup>th</sup> May</a></li>    
+    
+    <li><a href="/send-karwa-chauth-gifts-1-603-t.html">Karwachauth</a></li>
+  <li><a href="/diwali">Diwali</a></li>
+    <li><a href="/bhai-dooj-1-406-t.html">Bhai Dooj</a></li>
+    <li><a href="/christmas-1-387-t.html">Christmas</a></li>
+ </ul>
+  </li>
+  <li>
+  <ul>
+    
+        <li><a href="/new-year-1-388-t.html">New Year</a></li>
+    <li><a href="/valentine/">Valentine's Day</a></li>
+     <li><a href="/holi-1-91-t.html">Holi</a></li>
+    <li><a href="/womens-day-1-679-t.html">Women's Day</a></li>    
+   <li><a href="/navratri-1-381-t.html">Navratra</a></li>
+   <li><a href="/fathers-day/">Father's Day</a></li>
+     <li><a href="/eid-ul-fitr-gifts-1-694-t.html">Eid UL Fitr</a></li>
+      <li><a href="/friendship-day-1-385-t.html">Friendship Day</a></li>
+        <li><a href="/rakhi/">Rakhi Special</a></li>
+    <li><a href="/teachers-day-1-386-t.html">Teacher's Day</a></li>
+    <li><a href="/baisakhi-1-382-t.html">Baisakhi</a></li>
+     
+  </ul>
+  </li>
+  <li>
+  <ul>
+  </ul>
+  </li>
+  </ul>
+  <!--parent child end-->
+ 
+<!-- <li><a href="">By Recipient </a>
+  <ul class="u-wit mcoulum2">
+    <li>
+      <ul>
+        <li><a href="/for-him-1-407-t.html">For Him</a></li>
+        <li><a href="/for-her-1-408-t.html">For Her</a></li>
+        <li><a href="/for-wife-1-409-t.html">For Wife</a></li>
+        <li><a href="/for-husband-1-410-t.html">For Husband</a></li>
+        <li><a href="/for-mom-1-411-t.html">For Mom</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="/for-dad-1-412-t.html">For Dad</a></li>
+        <li><a href="/for-girlfriend-1-413-t.html">For Girlfriend</a></li>
+        <li><a href="/for-boyfriend-1-414-t.html">For Boyfriend</a></li>
+        <li><a href="/for-sister-1-415-t.html">For Sister</a></li>
+        <li><a href="/for-brother-1-416-t.html">For Brother</a></li>
+      </ul>
+    </li>
+  </ul>
+</li> -->
+<!--parent child end-->
+<!--parent child start-->
+</li><li><a href="#">Delivery Type </a>
+  <ul class="u-wit mcoulum1">
+    <li>
+      <ul>
+        <li><a href="/same-day-flowers-home-delivery-1-40-t.html">Same Day Delivery</a></li>
+        <li><a href="/fixed-time-online-flowers-delivery-1-41-t.html">Fixed Time Delivery</a></li>
+        <li><a href="/mid-night-delivery-1-42-t.html">Mid Night Delivery</a></li>
+        <li><a href="/remote-delivery-1-43-t.html">Remote Delivery</a></li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<!--parent child end-->
+<!--parent child start-->
+<li><a href="#">Delivery Cities</a>
+  <ul class="u-wit menu_position">
+    <li>
+      <ul>
+        <li><a href="/delhi">Delhi</a></li>
+        <li><a href="/mumbai">Mumbai</a></li>
+        <li><a href="/bangalore">Bangalore</a></li>
+        <li><a href="/pune">Pune</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="/chennai">Chennai</a></li>
+        <li><a href="/hyderabad">Hyderabad</a></li>
+        <li><a href="/kolkata">Kolkata</a></li>
+        <li><a href="/lucknow">Lucknow</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="/ahmedabad">Ahmedabad</a></li>
+        <li><a href="/gurgaon">Gurgaon</a></li>
+        <li><a href="/noida">Noida</a></li>
+        <li><a href="/ghaziabad">Ghaziabad</a></li>
+    <li><a href="/serviceablecities">View All Cities</a></li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<!--parent child end-->
+<!--category start-->
+<li><a href="#">International Delivery</a>
+  <ul class="u-wit menu_position">
+    <li>
+      <ul>
+        <li><a href="/usa-next-day-1-74-t.html">USA</a></li>
+        <li><a href="/uk-1-52-t.html">UK</a></li>
+        <li><a href="/canada-1-53-t.html">Canada</a></li>
+        <li><a href="/uae-1-54-t.html">UAE</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="/china-1-55-t.html">China</a></li>
+        <li><a href="/philipines-1-56-t.html">Philippines</a></li>
+        <li><a href="/singapore-1-57-t.html">Singapore</a></li>
+        <li><a href="/australia-1-58-t.html">Australia</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="/germany-1-59-t.html">Germany</a></li>
+        <li><a href="/send-gifts-to-indonesia-1-60-t.html">Indonesia</a></li>
+        <li><a href="/malaysia-1-61-t.html">Malaysia</a></li>
+        <li><a href="/international-courier-1-79-t.html">International Courier</a></li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+</ul>
+
+
+
+
+
+
+
+      
+</div>
+
+</div>
+
+<!--mobile-->
+<div class="navigation1 menu_none">
+<h2><a class="drop" href="#">Shop by Category</a></h2>
+<div class="box-cat">
+<div class="cate_box-category">
+
+    		<ul>
+  <li><a class="arrownone" href="/same-day-flowers-home-delivery-1-40-t.html">Same Day Delivery</a></li>
+ 
+<!--category start-->
+<li><a href="#">Birthday</a>
+  <ul class="u-wit mcoulum1">
+    <li>
+      <ul>
+      <li><a href="/birthday-1-23-t.html">Birthday Gifts</a></li>  
+        <li><a href="/send-birthday-flowers-online-1-24-t.html">Birthday Flowers</a></li>
+        <li><a href="/birthday-cakes-online-delivery-1-25-t.html">Birthday Cakes</a></li>
+        <li><a href="/birthday-personalized-gifts-online-delivery-1-427-t.html">Personalized Gifts</a></li>
+        <li><a href="/chocolates-1-17-t.html">Chocolates</a></li>
+        <li><a href="/soft-toys-1-18-t.html">Soft Toys</a></li>
+        <li><a href="/combo-1-15-t.html">Flower Combo</a></li>
+        <li><a href="/birthday-gifts-for-husband-1-450-t.html">Gifts for Him</a></li>
+        <li><a href="/birthday-gifts-for-wife-1-395-t.html">Gifts for Her</a></li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<!-- category end-->
+<!--parent child start-->
+<li><a href="#">Anniversary </a>
+  <ul class="u-wit mcoulum2">
+    <li>
+      <ul>
+      <li><a href="/send-anniversary-gifts-online-1-28-t.html">Anniversary Gifts</a></li>
+        <li><a href="/anniversary-flowers-online-1-29-t.html">Anniversary Flowers</a></li>
+        <li><a href="/order-anniversary-cakes-online-1-30-t.html">Anniversary Cakes</a></li>
+        <li><a href="/anniversary-personalized-gifts-1-428-t.html">Personalized Gifts</a></li>
+        <li><a href="/anniversary-chocolates-1-78-t.html">Chocolates</a></li>
+        <li><a href="/combo-1-15-t.html">Flower Combo</a></li>
+        <li><a href="/anniversary-gifts-for-husband-1-451-t.html">Gifts for Him</a></li>
+        <li><a href="/anniversary-gifts-for-wife-1-452-t.html">Gifts for Her</a></li>
+        <li><a href="/anniversary-gifts-for-parents-1-396-t.html">Gifts for Parents</a></li>
+      </ul>
+    </li>
+  <li>
+    <ul>
+      <li><a href="/wedding-anniversary-gifts-online-1-598-t.html">Wedding Anniversary</a></li>
+      <li><a href="/wedding-anniversary-gifts-for-parents-1-599-t.html">Wedding Anniversary Gifts for Parents</a></li>
+      <li><a href="/wedding-anniversary-gifts-for-wife-1-600-t.html">Wedding Anniversary Gifts For Wife</a></li>
+      <li><a href="/wedding-anniversary-gift-for-husband-1-601-t.html">Wedding Anniversary Gift For Husband</a></li>
+    </ul>
+  </li>
+  </ul>
+</li>
+<!--parent child end-->
+<!--parent child start-->
+<li><a href="#">Flowers </a>
+  <ul class="u-wit mcoulum2">
+    <li>
+      <ul>
+      
+        <li><a href="/flower-bouquet-delivery-online-1-14-t.html">Flower Bunches</a></li>
+        <li><a href="/gift-flowers-combo-online-1-15-t.html">Flower Combo</a></li>
+        <li><a href="/flower-and-cake-1-577-t.html">Flower and Cake</a></li>
+        <li><a href="/flowers-and-chocolates-1-602-t.html">Flowers and Chocolates</a></li>
+        <li><a href="/basket-arrangement-1-32-t.html">Basket Arrangement</a></li>
+        <li><a href="/glass-vase-arrangement-1-33-t.html">Glass Vase Arrangement</a></li>
+        <li><a href="/exclusive-arrangement-1-34-t.html">Exclusive Arrangement</a></li>
+    <li><a href="/order-flowers-online-1-20-t.html">Florist Choice</a></li>
+    
+      </ul>
+    </li>
+    <li>
+      <ul>
+         <li><a href="/artificial-flowers-1-779-t.html">Artificial Flowers</a></li>
+        <li><a href="/roses-1-417-t.html">Roses</a></li>
+        <li><a href="/lilies-1-418-t.html">Lilies</a></li>
+        <li><a href="/carnations-1-419-t.html">Carnations</a></li>
+        <li><a href="/orchids-1-420-t.html">Orchids</a></li>
+        <li><a href="/gerberas-1-421-t.html">Gerberas</a></li>
+          <li><a href="/mixed-bouquet-1-422-t.html">Mixed Bouquet</a></li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<!--parent child end-->
+<!--parent child start-->
+<li><a href="#">Cakes</a>
+  <ul class="u-wit mcoulum4">
+    <li>
+      <ul>
+    <li><a href="#" style="font-size:16px; font-weight:bold;">By Category</a></li>
+         <li><a href="/regular-cakes-1-35-t.html">Regular Cakes</a></li>
+        <li><a href="/special-shape-cakes-1-85-t.html">Premium Cakes</a></li>
+        <li><a href="/designer-cakes-1-613-t.html">Designer Cakes</a></li>
+        <li><a href="/photo-cakes-1-614-t.html">Photo Cakes</a></li>
+        <li><a href="/order-eggless-cake-online-1-36-t.html">Eggless Cakes</a></li>
+    <li><a href="/order-cakes-online-1-16-t.html">Classic Cakes</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="#" style="font-size:16px; font-weight:bold;">By Occasion</a></li>
+        <li><a href="/birthday-cakes-1-25-t.html">Birthday Cakes</a></li>
+    <li><a href="/wedding-cakes-1-615-t.html">Wedding Cakes</a></li>
+        <li><a href="/romantic-cakes-1-616-t.html">Romantic Cakes</a></li>
+    <li><a href="/celeberation-cakes-1-617-t.html">Celeberation Cakes</a></li>
+        <li></li>
+
+<li><a href="#" style="font-size:16px; font-weight:bold;">By Weight</a></li>
+        <li><a href="/half-kg-cakes-1-38-t.html">Half Kg Cakes</a></li>
+    <li><a href="/1-kg-cakes-1-612-t.html">1 Kg Cakes</a></li>        
+      </ul>
+    </li>
+    <li>
+      <ul>
+    
+    
+ 
+ 
+
+<li><a href="#" style="font-size:16px; font-weight:bold;">By City</a></li>
+        <li><a href="/delhi-ncr-special-cake-1-624-t.html">Delhi NCR Special Cakes</a></li>
+    <li><a href="/bangalore-special-cake-1-625-t.html">Bangalore Special Cakes </a></li>  
+           <li><a href="/mumbai-special-cakes-1-626-t.html">Mumbai Special Cakes </a></li>
+        
+        <li><a href="/hyderabad-special-cakes-1-627-t.html">Hyderabad Special Cakes </a></li>
+        
+        <li><a href="/chennai-special-cakes-1-628-t.html">Chennai Special Cakes </a>
+          </li>
+        <li><a href="/gurgaon-special-cakes-1-646-t.html "> Gurgaon Special Cakes</a></li>
+        <li><a href="/pune-special-cakes-1-647-t.html">Pune Special Cakes</a></li>
+        <li><a href="/chandigarh-special-cakes-1-648-t.html">Chandigarh Special Cakes</a></li>
+              
+        <li><a href="/kolkata-special-cakes-1-649-t.html ">Kolkata Special Cakes</a></li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<!--parent child end-->
+ <li><a class="arrownone" href="/plants-1-50-t.html">Plants</a></li>
+  
+<!--parent child start-->
+<li><a href="#">Gifts</a>
+  <ul class="u-wit mcoulum1">
+    <li>
+      <ul>
+            
+        <li><a href="/send-gift-baskets-online-1-49-t.html">Gift Basket</a></li>
+        <li><a href="/online-gifts-delivery-1-393-t.html">Gift Delivery</a></li>
+        <li><a href="/chocolates-1-17-t.html">Chocolates</a></li>
+        <li><a href="/soft-toys-1-18-t.html">Soft Toys</a></li>
+       <li><a href="/personalized-gifts-1-26-t.html">Personalized Gifts</a></li>
+     <li><a href="/order-gifts-online-1-19-t.html">Gift Ideas</a>
+             
+      </li></ul>
+    </li>
+   <li>
+     <ul>
+       
+      </ul>
+    </li>
+  </ul>
+</li>
+<!--parent child end-->
+          <!--category start-->
+<!--<li><a href="/plants-1-50-t.html" class="arrownone">Plants</a></li>  -->
+<!-- category end-->  
+<!--parent child start-->
+<li>
+<a href="#">Occasion</a>
+<ul class="u-wit menu_position">
+  <li>
+    <ul>
+      <li><a href="#" style="font-size:16px; font-weight:bold;">Regular</a></li>
+       
+      <li><a href="/send-birthday-gifts-online-1-23-t.html">Birthday</a></li>
+      <li><a href="/anniversary-1-28-t.html">Anniversary</a></li>
+      <li><a href="/wedding-1-86-t.html ">Wedding</a></li>
+      <li><a href="/congratulations-1-83-t.html">Congratulations</a></li>
+      <li><a href="/romantic-1-399-t.html ">Romantic</a></li>
+      <li><a href="/get-well-soon-1-84-t.html">Get Well</a></li>
+      <li><a href="/thank-you-1-88-t.html">Thank You</a></li>
+      <li><a href="/sympathy-1-400-t.html ">Sympathy</a></li>
+  <li><a href="/new-baby-1-401-t.html ">New Baby</a></li>
+    </ul>
+  </li>
+  <li>
+  <ul>  
+    <li><a href="/i-m-sorry-1-402-t.html ">I m Sorry</a></li>
+    <li><a href="/just-because-1-403-t.html">Just Because</a></li>
+    <li><a href="/housewarming-1-404-t.html ">Housewarming</a></li>
+  <li><a href="#" style="font-size:16px; font-weight:bold;">Seasonal</a></li>
+    
+   <li><a href="/mothers-day/">Mother's Day  - 8<sup>th</sup> May</a></li>    
+    
+    <li><a href="/send-karwa-chauth-gifts-1-603-t.html">Karwachauth</a></li>
+  <li><a href="/diwali">Diwali</a></li>
+    <li><a href="/bhai-dooj-1-406-t.html">Bhai Dooj</a></li>
+    <li><a href="/christmas-1-387-t.html">Christmas</a></li>
+ </ul>
+  </li>
+  <li>
+  <ul>
+    
+        <li><a href="/new-year-1-388-t.html">New Year</a></li>
+    <li><a href="/valentine/">Valentine's Day</a></li>
+     <li><a href="/holi-1-91-t.html">Holi</a></li>
+    <li><a href="/womens-day-1-679-t.html">Women's Day</a></li>    
+   <li><a href="/navratri-1-381-t.html">Navratra</a></li>
+   <li><a href="/fathers-day/">Father's Day</a></li>
+     <li><a href="/eid-ul-fitr-gifts-1-694-t.html">Eid UL Fitr</a></li>
+      <li><a href="/friendship-day-1-385-t.html">Friendship Day</a></li>
+        <li><a href="/rakhi/">Rakhi Special</a></li>
+    <li><a href="/teachers-day-1-386-t.html">Teacher's Day</a></li>
+    <li><a href="/baisakhi-1-382-t.html">Baisakhi</a></li>
+     
+  </ul>
+  </li>
+  <li>
+  <ul>
+  </ul>
+  </li>
+  </ul>
+  <!--parent child end-->
+ 
+<!-- <li><a href="">By Recipient </a>
+  <ul class="u-wit mcoulum2">
+    <li>
+      <ul>
+        <li><a href="/for-him-1-407-t.html">For Him</a></li>
+        <li><a href="/for-her-1-408-t.html">For Her</a></li>
+        <li><a href="/for-wife-1-409-t.html">For Wife</a></li>
+        <li><a href="/for-husband-1-410-t.html">For Husband</a></li>
+        <li><a href="/for-mom-1-411-t.html">For Mom</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="/for-dad-1-412-t.html">For Dad</a></li>
+        <li><a href="/for-girlfriend-1-413-t.html">For Girlfriend</a></li>
+        <li><a href="/for-boyfriend-1-414-t.html">For Boyfriend</a></li>
+        <li><a href="/for-sister-1-415-t.html">For Sister</a></li>
+        <li><a href="/for-brother-1-416-t.html">For Brother</a></li>
+      </ul>
+    </li>
+  </ul>
+</li> -->
+<!--parent child end-->
+<!--parent child start-->
+</li><li><a href="#">Delivery Type </a>
+  <ul class="u-wit mcoulum1">
+    <li>
+      <ul>
+        <li><a href="/same-day-flowers-home-delivery-1-40-t.html">Same Day Delivery</a></li>
+        <li><a href="/fixed-time-online-flowers-delivery-1-41-t.html">Fixed Time Delivery</a></li>
+        <li><a href="/mid-night-delivery-1-42-t.html">Mid Night Delivery</a></li>
+        <li><a href="/remote-delivery-1-43-t.html">Remote Delivery</a></li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<!--parent child end-->
+<!--parent child start-->
+<li><a href="#">Delivery Cities</a>
+  <ul class="u-wit menu_position">
+    <li>
+      <ul>
+        <li><a href="/delhi">Delhi</a></li>
+        <li><a href="/mumbai">Mumbai</a></li>
+        <li><a href="/bangalore">Bangalore</a></li>
+        <li><a href="/pune">Pune</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="/chennai">Chennai</a></li>
+        <li><a href="/hyderabad">Hyderabad</a></li>
+        <li><a href="/kolkata">Kolkata</a></li>
+        <li><a href="/lucknow">Lucknow</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="/ahmedabad">Ahmedabad</a></li>
+        <li><a href="/gurgaon">Gurgaon</a></li>
+        <li><a href="/noida">Noida</a></li>
+        <li><a href="/ghaziabad">Ghaziabad</a></li>
+    <li><a href="/serviceablecities">View All Cities</a></li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<!--parent child end-->
+<!--category start-->
+<li><a href="#">International Delivery</a>
+  <ul class="u-wit menu_position">
+    <li>
+      <ul>
+        <li><a href="/usa-next-day-1-74-t.html">USA</a></li>
+        <li><a href="/uk-1-52-t.html">UK</a></li>
+        <li><a href="/canada-1-53-t.html">Canada</a></li>
+        <li><a href="/uae-1-54-t.html">UAE</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="/china-1-55-t.html">China</a></li>
+        <li><a href="/philipines-1-56-t.html">Philippines</a></li>
+        <li><a href="/singapore-1-57-t.html">Singapore</a></li>
+        <li><a href="/australia-1-58-t.html">Australia</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="/germany-1-59-t.html">Germany</a></li>
+        <li><a href="/send-gifts-to-indonesia-1-60-t.html">Indonesia</a></li>
+        <li><a href="/malaysia-1-61-t.html">Malaysia</a></li>
+        <li><a href="/international-courier-1-79-t.html">International Courier</a></li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+</ul>
+
+
+
+
+
+
+
+     
+  
+</div>
+
+</div>
+
+</div>
+
+
+
+   
+
+   </div>
+<!--home page top dropdown menu end-->
+<!--search start-->
+<div class="search_banner" id="searchvalid">
+<form action="/product/searchresult.dot" method="post" onsubmit="return validateForm()">
+<input class="inp_banner" id="txtSearchbox" name="searchText" onblur="WatermarkOnblur('Search for flowers, chocolates, gifts and more','txtSearchbox')" onfocus="WatermarkOnfocus('Search for flowers, chocolates, gifts and more','txtSearchbox');;getSuggestedKeyWordOn();" type="text" value="Search for flowers, chocolates, gifts and more"/>
+<input class="sub_lense" type="submit" value=""/>
+</form>
+</div>
+<!--search end-->
+
+
+  
+  
+<!--signin start-->
+<div class="delv-sign-cart">
+<div class="delivery_today"><a href="/flowers-1-20-t.html"><img alt="Delivery Time" src="http://d3nfvz6r6hh60l.cloudfront.net/images/delivery-time.png" title="Delivery Time"/>
+<span class="d_today-inn">Need Delivery  Today!  
+ </span>
+</a> </div>
+
+
+<div class="signin">
+<!--responsive login start-->
+ <a data-reveal-id="myModal" href="#" onclick="clearMsg()"><img alt="Sign In" class="delv-disblock" src="http://d3nfvz6r6hh60l.cloudfront.net/images/sign-in.png" title="Sign In"/></a>
+<input id="loggedInUserName" type="hidden" value=""/>
+
+
+<!--responsive login end-->
+<span class="signin_inn">
+Hi,  <a data-reveal-id="myModal" href="#" onclick="clearMsg()"> Sign In</a>
+<input id="loggedInUserName" type="hidden" value=""/>
+<br/>
+</span>
+<span class="signin_inn">
+  <b><a data-reveal-id="divsingin" href="#" onclick="clearMsg()">Registration</a></b>
+
+</span>  
+</div>
+
+<div class="mycart">
+<a class="big-link" data-animation="fade" data-reveal-id="divCartPnl" href="#">
+<img alt="My cart" class="flot-left" src="http://d3nfvz6r6hh60l.cloudfront.net/images/mycart.png" title="My cart"/>
+<span class="delv-disblock">(0)</span>
+<span class="mycart_inn">My Cart (<span id="itemCartSize">0</span>)</span>
+</a>
+</div>
+</div>
+<!--signin end-->
+   		<!--Script-->
+
+
+
+                                       
+
+                        
+     
+         
+
+     
+                        
+         
+
+     
+     
+                   
+         
+
+                        
+     
+         
+
+     
+                        
+         
+
+     
+     
+                   
+      
+<input id="mobImagesPath" type="hidden" value="DOM-175403/a_mob.jpg--DOM-243807/b_mob.jpg"/>
+<input id="ipadImagesPath" type="hidden" value="DOM-175403/a_ipad.jpg--DOM-243807/b_ipad.jpg"/>
+<input id="deskImagesPath" type="hidden" value="DOM-175403/a_desk.jpg--DOM-243807/b_desk.jpg"/>
+<input id="resourceURL" type="hidden" value="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file"/>
+<!--home page top slider start-->
+<div class="slider_banner">
+  <div id="main">
+   <div class="slider">
+   
+<div class="flexslider mban-1">
+  <ul class="slides" id="ulDesk">
+                                                                                        <li> <a href="/marriage-wedding-anniversary-gifts-online-1-598-t.html">
+     <img alt=" Wedding Anniversary flowers , Anniverasary flower bouquet" id="desk_0" src=""/>
+     </a> </li>
+                                                         <li> <a href="send-regular-cakes-online-1-35-t.html">
+     <img alt=" Online cakes,Birthday cakes, Anniversary cakes" id="desk_1" src=""/>
+     </a> </li>
+                                               
+  </ul>
+</div>
+   
+
+<div class="flexslider mban-2">
+  <ul class="slides" id="ulIpad">
+                                                                                                  <li> <a href="/marriage-wedding-anniversary-gifts-online-1-598-t.html">
+     <img alt=" Wedding Anniversary flowers , Anniverasary flower bouquet" id="ipad0" src=""/>
+     </a> </li>
+                                                             <li> <a href="send-regular-cakes-online-1-35-t.html">
+     <img alt=" Online cakes,Birthday cakes, Anniversary cakes" id="ipad1" src=""/>
+     </a> </li>
+                                      
+  </ul>
+</div>
+     
+     
+<div class="flexslider mban-3">
+  <ul class="slides" id="ulMob">
+                                                                                                                <li> <a href="/marriage-wedding-anniversary-gifts-online-1-598-t.html">
+     <img alt=" Wedding Anniversary flowers , Anniverasary flower bouquet" id="mob0" src=""/>
+     </a> </li>
+                                                           <li> <a href="send-regular-cakes-online-1-35-t.html">
+     <img alt=" Online cakes,Birthday cakes, Anniversary cakes" id="mob1" src=""/>
+     </a> </li>
+                       
+  </ul>
+</div>
+   
+   </div>
+</div>
+</div>
+
+<!--home page top slider end-->
+<!--home page top sub banner start-->
+<div class="banner-right-top-s">
+                                            
+  <a href="/hot-seller-1-13-t.html">
+    <img alt="Best selling Flowers, best cakes online , Online gifts" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/DOM-243206/bestseller.jpg"/>
+  </a>
+        
+  <a href="/personalized-gifts-1-26-t.html">
+    <img alt="Personalized gifts, Best personalized gifts, Online personalized gifts" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/DOM-562759/p.jpg"/>
+  </a>
+        
+  <a href="/send-regular-cakes-online-1-35-t.html">
+    <img alt="Order cakes, Buy cakes online, Cake delivery online" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/DOM-477372/cakes.jpg"/>
+  </a>
+                            </div>
+
+   </div>
+</div>
+</div>
+<!--banner & navigation end -->
+<!--reveal start-->
+<!--cart start-->
+<div class="reveal-modal large" id="divCartPnl">
+<div class="popup_my_cart_main">
+<div class="popup_my_cart_all">
+
+<div class="hcartn">No items in your shopping cart. <br/><br/><a class="continue_proceed" onclick="continueShoping()">CONTINUE SHOPPING</a></div>
+<!--bind end-->
+</div>
+<a class="close-reveal-modal" onclick="closeReveal()"><img alt="closed" src="http://d3nfvz6r6hh60l.cloudfront.net/images/close.png"/></a>
+</div>
+</div>
+<!--cart end-->
+
+<!--activate start-->
+<div class="reveal-modal medium" id="userActivateAccount">
+<div class="forget_passwod">
+<div class="forget_passwod_heading">ACCOUNT ACTIVATE</div>
+<div class="forget_passwod_reset">
+<h3>Account Activation</h3>
+<p>Please click here to resend email to your email Box for account activation!!!</p>
+
+<input class="button_forget_passwod" name="" onclick="getActivationLink()" type="button" value="SEND EMAIL"/>
+  <br/>
+      <span class="fgreen hide" id="msggetActivationLink"> </span>
+
+</div>    
+</div>
+<a class="close-reveal-modal"><img alt="closed" src="http://d3nfvz6r6hh60l.cloudfront.net/images/close.png"/></a>
+</div>
+<!--activate end-->
+
+<!--guest start-->
+<div class="reveal-modal medium" id="guestuserCheckoutAccount">
+<div class="forget_passwod">
+<div class="forget_passwod_heading">Account Activation Required</div>
+<div class="forget_passwod_reset">
+
+<p>Your account is not activated yet. Please check your email for activation link.</p>
+
+</div>    
+</div>
+<a class="close-reveal-modal"><img alt="closed" src="http://d3nfvz6r6hh60l.cloudfront.net/images/close.png"/></a>
+</div>
+<!--guest end-->
+
+<!--signup start-->
+<div class="reveal-modal large" id="myModal">
+<div class="popup_login_main">
+<div class="popup_login">
+<div class="fac_google_login">
+  <a href="javascript:void(0)" onclick="authUser()"><img alt="google" src="http://d3nfvz6r6hh60l.cloudfront.net/images/facebook-signin.jpg"/></a>
+  <a href="javascript:void(0)" onclick="handleClientLoad()"><img alt="google" src="http://d3nfvz6r6hh60l.cloudfront.net/images/google-signin.jpg"/></a>
+</div>
+<div class="popup_or"><img alt="or" src="http://d3nfvz6r6hh60l.cloudfront.net/images/or_popup.jpg"/></div>
+<div class="popup_login_form">
+<h3>Already a member?</h3>
+<h4>You can use bookmyflowers login id and password</h4>
+<div class="popup_login_form_row">
+<label>Email / Login*</label>
+<input class="pop_login_inp bsign" id="txtUserName" onblur="WatermarkOnblur('Enter user id','txtUserName')" onfocus="WatermarkOnfocus('Enter user id','txtUserName')" onkeypress="return submitenter(event)" type="text" value="Enter user id"/>
+<label>Password</label>
+<input class="pop_login_inp bsign" id="txtPassword" onblur="if (this.value == '') { this.value = 'Enter password', this.setAttribute('type','text'); }" onfocus="if (this.value == 'Enter password') { this.value = '', this.setAttribute('type','password'); }" onkeypress="return submitenter(event)" type="text" value="Enter password"/>
+</div>
+<div class="popup_login_form_row">
+<p>Forgot password
+<a class="close-reveal-modal fclick" data-animation="fade" data-reveal-id="divForgetPassword">
+Click here
+</a></p>
+
+</div>
+<div class="popup_login_form_row">
+<input class="button_signin_popup" name="" onclick="submitForm()" type="button" value="LOGIN"/>
+<div class="error_message" id="errorMsgMsg"></div>
+</div>
+<div class="popup_login_form_row">
+<p>Don't have an account? <a class="close-reveal-modal fcreate" data-animation="fade" data-reveal-id="divsingin">
+Create One
+</a></p>
+</div>
+</div>
+</div>
+</div>
+<a class="close-reveal-modal"><img alt="closed" src="http://d3nfvz6r6hh60l.cloudfront.net/images/close.png"/></a>
+</div>
+<!--signup end-->
+
+<input id="googlePlusEmail" type="hidden" value=""/>
+
+
+   <!--header end-->
+
+<!--middle start-->
+<div class="main_container">
+<div class="outer">
+<!--Quick-search $ date start -->
+   		<script type="text/javascript">
+$(function(){
+  $( "input[id$='_input']" ).click(function(){    
+     $('.selectbox-wrapper').show();       
+                                
+          });
+  
+  $( "input[id$='_container']" ).click(function(){    
+     $('.selectbox-wrapper').hide();       
+                                
+          });
+  
+    $('#occ').mouseleave(function(){
+       $('.selectbox-wrapper').hide();  
+      
+   
+      
+    });
+  });
+
+  </script>
+
+<div class="quick_search">
+<div class="quick_search_left "><strong>QUICK SEARCH</strong></div>
+<form method="post" name="occasionForm" onsubmit="return getURL();">
+  <div id="occ">  
+      
+  
+
+<div class="Occasion Occasion_bmf"><label>Occasion</label>
+
+<select id="ocassion" name="searchText">
+<option value="Select Occasion">Select Occasion</option>
+     <option value="/occasion/birthday-gifts-online-5-23-t.html">Birthday Gifts Online</option>
+     <option value="/occasion/gudi-padwa-5-380-t.html">Gudi Padwa</option>
+       <option value="/occasion/send-anniversary-gifts-online-5-28-t.html">Send Anniversary Gifts Online</option>
+     <option value="/occasion/rose-day-5-6-t.html">Rose Day</option>
+     <option value="/occasion/chocolate-day-5-8-t.html">Chocolate Day</option>
+     <option value="/occasion/propose-day-5-7-t.html">Propose Day</option>
+     <option value="/occasion/hug-day-5-11-t.html">Hug Day</option>
+     <option value="/occasion/kiss-day-5-12-t.html">Kiss Day</option>
+     <option value="/occasion/promise-day-5-10-t.html">Promise Day</option>
+     <option value="/occasion/teddy-day-5-9-t.html">Teddy Day</option>
+     <option value="/occasion/mother's-day-5-827-t.html">Mother's Day</option>
+ </select>
+</div>  
+  </div>
+  
+<div class="city"><label>City</label>
+<input class="inp_city" id="tagsf1" name="searchCity" onblur="WatermarkOnblur('Enter City','tagsf1');getCityForHomeCity(0);getCalendar();" onfocus="WatermarkOnfocus('Enter City','tagsf1');getAllQScity();" type="text" value="Enter City"/>
+</div>
+    <input id="QScityId" name="QScityIdname" type="hidden" value=""/>
+
+<div class="deliery_date"><label>Date</label>
+<input class="inp_city" id="datepickerf8" name="searchDate" onblur="WatermarkOnblur('Delivery Date','datepickerf8')" onfocus="WatermarkOnfocus('Delivery Date','datepickerf8')" type="text" value="Delivery Date"/>
+</div>
+
+<div><input class="go-sub" type="submit" value=""/></div>
+</form>
+</div>
+ <input id="modeCheck" type="hidden" value=""/>
+ <input id="expressDate" type="hidden" value=""/>
+
+
+<div id="inputHiddenField">
+
+</div>
+
+
+   <!--Quick-search $ date end -->
+<!--product_information-start-->
+   		
+<style>
+  .hpag_product_row h2 a.category-title{
+    /* border-bottom: 1px solid #e0e0e0;*/
+    color: #315696;
+    font: 600 16px "Raleway",sans-serif;
+    margin: 10px 0 5px;
+    padding: 0 0 10px;
+    text-align: left;
+    background:none;
+    display:inline;
+}
+  </style>
+
+
+
+
+
+
+<div class="hpag_product_row"> 
+ 
+<h2>
+  <a class="category-title" href="/flower-and-cake-1-577-t.html">
+  Birthday
+  </a>
+    <a class="flot-right" href="/flower-and-cake-1-577-t.html">VIEW ENTIRE COLLECTION</a></h2>
+
+  
+
+
+
+
+<div class="hpag_product_colum"> <a href="/rosy-delight-genpr-25755-e.html" onclick="sourceForOrder('WebHome','Birthday')"> <img alt="Rosy Delight" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-25755/BMFEX131_S_LV.jpg" title="Rosy Delight"/> <img alt="Rosy Delight" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Rosy Delight"/> <span class="product_name">Rosy Delight</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>399</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>6.46 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+Rs.
+</span>
+549
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+$
+</span>
+8.89
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Rosy Delight - Quick View" class="quickview" onclick="getPopUp('GENPR-25755','Express','Webhome','Birthday')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Rosy Delight - Quick View"/></a> </h5>
+</div>
+</div>
+
+
+<div class="hpag_product_colum"> <a href="/i-won-swinging-glasses-(set-of-two)-genpr-17752-c.html" onclick="sourceForOrder('WebHome','Birthday')"> <img alt="I won-Swinging Glasses (set of two)" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-17752/FNPCircuit6_s_LV.jpg" title="I won-Swinging Glasses (set of two)"/> <img alt="I won-Swinging Glasses (set of two)" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="I won-Swinging Glasses (set of two)"/> <span class="product_name">I won-Swinging Glasses (set of two)</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>499</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>8.08 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+</span>
+<br/>
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+</span>
+<br/>
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="I won-Swinging Glasses (set of two) - Quick View" class="quickview" onclick="getPopUp('GENPR-17752','Courier','Webhome','Birthday')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="I won-Swinging Glasses (set of two) - Quick View"/></a> </h5>
+</div>
+</div>
+
+
+<div class="hpag_product_colum"> <a href="/rosey-posey-genpr-658-e.html" onclick="sourceForOrder('WebHome','Birthday')"> <img alt="Rosey Posey" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-658/listing.jpg" title="Rosey Posey"/> <img alt="Rosey Posey" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Rosey Posey"/> <span class="product_name">Rosey Posey</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>1099</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>17.8 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+</span>
+<br/>
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+</span>
+<br/>
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Rosey Posey - Quick View" class="quickview" onclick="getPopUp('GENPR-658','Express','Webhome','Birthday')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Rosey Posey - Quick View"/></a> </h5>
+</div>
+</div>
+
+
+<div class="hpag_product_colum"> <a href="/marvelous-yellows-genpr-86642-e.html" onclick="sourceForOrder('WebHome','Birthday')"> <img alt="Marvelous Yellows" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-86642/YRBMF_133_s_LV.jpg" title="Marvelous Yellows"/> <img alt="Marvelous Yellows" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Marvelous Yellows"/> <span class="product_name">Marvelous Yellows</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>1799</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>29.14 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+</span>
+<br/>
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+</span>
+<br/>
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Marvelous Yellows - Quick View" class="quickview" onclick="getPopUp('GENPR-86642','Express','Webhome','Birthday')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Marvelous Yellows - Quick View"/></a> </h5>
+</div>
+</div>
+ </div>
+
+<div class="hpag_product_row"> 
+ 
+<h2>
+  <a class="category-title" href="http://www.bookmyflowers.com/send-regular-cakes-online-1-35-t.html">
+  Best Selling Cakes
+  </a>
+    <a class="flot-right" href="http://www.bookmyflowers.com/send-regular-cakes-online-1-35-t.html">VIEW ENTIRE COLLECTION</a></h2>
+
+  
+
+
+
+
+<div class="hpag_product_colum"> <a href="/truffle-cake-half-kg-genpr-43492-e.html" onclick="sourceForOrder('WebHome','Best Selling Cakes')"> <img alt="Truffle Cake Half Kg" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-43492/bmfregularcake019_LV.jpg" title="Truffle Cake Half Kg"/> <img alt="Truffle Cake Half Kg" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Truffle Cake Half Kg"/> <span class="product_name">Truffle Cake Half Kg</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>749</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>12.13 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+</span>
+<br/>
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+</span>
+<br/>
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Truffle Cake Half Kg - Quick View" class="quickview" onclick="getPopUp('GENPR-43492','Express','Webhome','Best Selling Cakes')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Truffle Cake Half Kg - Quick View"/></a> </h5>
+</div>
+</div>
+
+
+<div class="hpag_product_colum"> <a href="/blackforest-cake-1kg-genpr-43470-e.html" onclick="sourceForOrder('WebHome','Best Selling Cakes')"> <img alt="Blackforest Cake 1kg" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-43470/bmfregularcake08_LV.jpg" title="Blackforest Cake 1kg"/> <img alt="Blackforest Cake 1kg" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Blackforest Cake 1kg"/> <span class="product_name">Blackforest Cake 1kg</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>1099</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>17.8 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+</span>
+<br/>
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+</span>
+<br/>
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Blackforest Cake 1kg - Quick View" class="quickview" onclick="getPopUp('GENPR-43470','Express','Webhome','Best Selling Cakes')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Blackforest Cake 1kg - Quick View"/></a> </h5>
+</div>
+</div>
+
+
+<div class="hpag_product_colum"> <a href="/butterscotch-cake-half-kg-genpr-43456-e.html" onclick="sourceForOrder('WebHome','Best Selling Cakes')"> <img alt="Butterscotch Cake Half Kg" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-43456/bmfregularcake01_LV.jpg" title="Butterscotch Cake Half Kg"/> <img alt="Butterscotch Cake Half Kg" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Butterscotch Cake Half Kg"/> <span class="product_name">Butterscotch Cake Half Kg</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>799</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>12.94 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+</span>
+<br/>
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+</span>
+<br/>
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Butterscotch Cake Half Kg - Quick View" class="quickview" onclick="getPopUp('GENPR-43456','Express','Webhome','Best Selling Cakes')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Butterscotch Cake Half Kg - Quick View"/></a> </h5>
+</div>
+</div>
+
+
+<div class="hpag_product_colum"> <a href="/pineapple-cake-half-kg-genpr-43504-e.html" onclick="sourceForOrder('WebHome','Best Selling Cakes')"> <img alt="Pineapple Cake Half Kg" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-43504/bmfregularcake025_LV_LV.jpg" title="Pineapple Cake Half Kg"/> <img alt="Pineapple Cake Half Kg" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Pineapple Cake Half Kg"/> <span class="product_name">Pineapple Cake Half Kg</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>799</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>12.94 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+</span>
+<br/>
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+</span>
+<br/>
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Pineapple Cake Half Kg - Quick View" class="quickview" onclick="getPopUp('GENPR-43504','Express','Webhome','Best Selling Cakes')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Pineapple Cake Half Kg - Quick View"/></a> </h5>
+</div>
+</div>
+ </div>
+
+<div class="hpag_product_row"> 
+ 
+<h2>
+  <a class="category-title" href="/anniversary-1-28-t.html">
+  Weddings &amp; Anniversaries
+  </a>
+    <a class="flot-right" href="/anniversary-1-28-t.html">VIEW ENTIRE COLLECTION</a></h2>
+
+  
+
+
+
+
+<div class="hpag_product_colum"> <a href="/a-rosy-affair-genpr-200-e.html" onclick="sourceForOrder('WebHome','Weddings &amp; Anniversaries')"> <img alt="A Rosy Affair" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-200/BMFEX0348_LV.jpg" title="A Rosy Affair"/> <img alt="A Rosy Affair" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="A Rosy Affair"/> <span class="product_name">A Rosy Affair</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>1699</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>27.52 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+Rs.
+</span>
+2249
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+$
+</span>
+36.43
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="A Rosy Affair - Quick View" class="quickview" onclick="getPopUp('GENPR-200','Express','Webhome','Weddings &amp; Anniversaries')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="A Rosy Affair - Quick View"/></a> </h5>
+</div>
+</div>
+
+
+<div class="hpag_product_colum"> <a href="/mix-up-for-smile-genpr-15446-e.html" onclick="sourceForOrder('WebHome','Weddings &amp; Anniversaries')"> <img alt="Mix Up For Smile" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-15446/BMFEXD247_LV.jpg" title="Mix Up For Smile"/> <img alt="Mix Up For Smile" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Mix Up For Smile"/> <span class="product_name">Mix Up For Smile</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>1149</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>18.61 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+Rs.
+</span>
+1499
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+$
+</span>
+24.28
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Mix Up For Smile - Quick View" class="quickview" onclick="getPopUp('GENPR-15446','Express','Webhome','Weddings &amp; Anniversaries')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Mix Up For Smile - Quick View"/></a> </h5>
+</div>
+</div>
+
+
+<div class="hpag_product_colum"> <a href="/marvelous-yellows-genpr-86642-e.html" onclick="sourceForOrder('WebHome','Weddings &amp; Anniversaries')"> <img alt="Marvelous Yellows" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-86642/YRBMF_133_s_LV.jpg" title="Marvelous Yellows"/> <img alt="Marvelous Yellows" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Marvelous Yellows"/> <span class="product_name">Marvelous Yellows</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>1799</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>29.14 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+</span>
+<br/>
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+</span>
+<br/>
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Marvelous Yellows - Quick View" class="quickview" onclick="getPopUp('GENPR-86642','Express','Webhome','Weddings &amp; Anniversaries')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Marvelous Yellows - Quick View"/></a> </h5>
+</div>
+</div>
+
+
+<div class="hpag_product_colum"> <a href="/magnificent-roses-genpr-86754-e.html" onclick="sourceForOrder('WebHome','Weddings &amp; Anniversaries')"> <img alt="Magnificent Roses" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-86754/PRBMF_189_s_LV.jpg" title="Magnificent Roses"/> <img alt="Magnificent Roses" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Magnificent Roses"/> <span class="product_name">Magnificent Roses</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>2349</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>38.05 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+</span>
+<br/>
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+</span>
+<br/>
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Magnificent Roses - Quick View" class="quickview" onclick="getPopUp('GENPR-86754','Express','Webhome','Weddings &amp; Anniversaries')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Magnificent Roses - Quick View"/></a> </h5>
+</div>
+</div>
+ </div>
+
+<div class="hpag_product_row"> 
+ 
+<h2>
+  <a class="category-title" href="/personalized-gifts-1-26-t.html">
+  Personalised Gifts
+  </a>
+    <a class="flot-right" href="/personalized-gifts-1-26-t.html">VIEW ENTIRE COLLECTION</a></h2>
+
+  
+
+
+
+
+<div class="hpag_product_colum"> <a href="/personalized-couple-mug-genpr-43270-c.html" onclick="sourceForOrder('WebHome','Personalised Gifts')"> <img alt="Personalized Couple Mug" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-43270/GIFTSBMF1953_LV.jpg" title="Personalized Couple Mug"/> <img alt="Personalized Couple Mug" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Personalized Couple Mug"/> <span class="product_name">Personalized Couple Mug</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>349</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>5.65 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+</span>
+<br/>
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+</span>
+<br/>
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Personalized Couple Mug - Quick View" class="quickview" onclick="getPopUp('GENPR-43270','Courier','Webhome','Personalised Gifts')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Personalized Couple Mug - Quick View"/></a> </h5>
+</div>
+</div>
+
+
+<div class="hpag_product_colum"> <a href="/personalized-your-face-lamp-genpr-32135-c.html" onclick="sourceForOrder('WebHome','Personalised Gifts')"> <img alt="Personalized Your Face Lamp" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-32135/BMFin2015fa_LV.jpg" title="Personalized Your Face Lamp"/> <img alt="Personalized Your Face Lamp" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Personalized Your Face Lamp"/> <span class="product_name">Personalized Your Face Lamp</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>749</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>12.13 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+</span>
+<br/>
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+</span>
+<br/>
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Personalized Your Face Lamp - Quick View" class="quickview" onclick="getPopUp('GENPR-32135','Courier','Webhome','Personalised Gifts')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Personalized Your Face Lamp - Quick View"/></a> </h5>
+</div>
+</div>
+
+
+<div class="hpag_product_colum"> <a href="/personalise-photo-cushion-genpr-32129-c.html" onclick="sourceForOrder('WebHome','Personalised Gifts')"> <img alt="Personalise Photo Cushion" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-32129/GIFTSBMF62_LV.jpg" title="Personalise Photo Cushion"/> <img alt="Personalise Photo Cushion" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Personalise Photo Cushion"/> <span class="product_name">Personalise Photo Cushion</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>399</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>6.46 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+</span>
+<br/>
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+</span>
+<br/>
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Personalise Photo Cushion - Quick View" class="quickview" onclick="getPopUp('GENPR-32129','Courier','Webhome','Personalised Gifts')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Personalise Photo Cushion - Quick View"/></a> </h5>
+</div>
+</div>
+
+
+<div class="hpag_product_colum"> <a href="/tum-phir-tapak-pade-door-mat-genpr-17740-c.html" onclick="sourceForOrder('WebHome','Personalised Gifts')"> <img alt="Tum Phir Tapak Pade-Door Mat" class="ab" src="http://d4lm5txpfpcfz.cloudfront.net/fileupload/file/GENPR-17740/FNPCircuit23_s_LV.jpg" title="Tum Phir Tapak Pade-Door Mat"/> <img alt="Tum Phir Tapak Pade-Door Mat" class="re" src="http://d3nfvz6r6hh60l.cloudfront.net/images/spacer.png" title="Tum Phir Tapak Pade-Door Mat"/> <span class="product_name">Tum Phir Tapak Pade-Door Mat</span>
+
+<span class="product_rate">
+<!--normal price start-->
+<div class="price-INR currency1 show"><span class="currency">Rs.</span>799</div>
+<div class="price-USD currency1 hide"><span class="currency">$</span>12.94 </div>
+<!--normal price end-->
+<!--strike price start-->
+<div class="price-INR currency1 show strike"><span class="currency">
+</span>
+<br/>
+</div>
+<div class="price-USD currency1 hide strike">
+<span class="currency">
+</span>
+<br/>
+</div>
+<!--strike price end-->
+</span>
+
+</a>
+<div class="quick_view">
+<h5> <a data-reveal-id="divQuickInfo">
+  <img alt="Tum Phir Tapak Pade-Door Mat - Quick View" class="quickview" onclick="getPopUp('GENPR-17740','Courier','Webhome','Personalised Gifts')" src="http://d3nfvz6r6hh60l.cloudfront.net/images/quick-view.png" title="Tum Phir Tapak Pade-Door Mat - Quick View"/></a> </h5>
+</div>
+</div>
+ </div>
+
+<div class="clear"></div>
+<br/><br/>
+<div id="footer_main2">
+<div class="outer">
+<div class="footer">
+<div class="footer-row1">
+
+  
+    
+     
+     
+
+  
+
+  
+  
+  
+  
+    
+    
+   
+    
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+   <!--product_information-end-->      
+</div>
+</div>
+<!--middle end-->
+
+<!--footer start-->
+   		<style>
+
+  #footer_main2 { margin-bottom:0px !important; }
+</style>
+<div id="footer_main2">
+<div class="outer">
+<div class="footer">
+<div class="footer-row1">
+ <h2>Online KarwaChauth Gifts Delivered with Ease</h2>
+<p>The festival of KarwaChauth commemorates the love between husband and wife. As a traditional custom, each and every married women undertakes a rigid fast. The fast is considered to be symbolic of the love, well-being and the longevity of their husband. To celebrate this festival of love, online portals like Ferns N Petals brings to you KarwaChauth gifts online that will take the celebration to the next level.</p>
+<p>With the growing popularity of the festival many married men are also observing fast on the occasion of KarwaChauth. You can send <a href="http://www.bookmyflowers.com/send-karwa-chauth-gifts-1-603-t.html">KarwaChauth gifts</a> to your spouse to make them feel simply out of the world. The online portal brings to you a wide array of sweets, gifts hampers and decorated puja thali too. In addition to this, our online portal has also got exclusive piece of jewellery too which can be the best Karwachauth gifts for wife. For mother-in-law who are finding it hard to look for a gift on the occasion can shop for exciting gift options too. They can either shop for beautiful decorative thalis which are the hottest selling products of the season and turns out to be great KarwaChauth Gifts for Bahu.</p>
+<h2>Shop for a Variety of Bhaidooj Gifts Online</h2>
+<p>Brother and Sister, the perfect duo have had a lot of fun together. They were there with each other during the happy and the sad times. The festival of Bhaidooj is a celebration of the unbreakable bond shared between them. As is customary, sisters offer their prayers early in the morning for the well-being and the longevity of their husband. In order to celebrate this festival, shop for a Bhaidooj gift online to let them know that you toolove them and truly cherish their companionship too. </p>
+<p>Exchanging gifts between siblings is customary. If you are looking for a Bhaidooj gift for your sister, you can shop for some jewellery and accessory that she would appreciate or can even shop for a fresh bunch of flowers too. Our inventory is loaded with many excitingBhai Dooj gifts. You can chop for delectable sweet boxes, gift combos and hampers which will be the appropriate pick for the occasion. Surprise your brother with our assortment of international branded chocolates such as Ferrero Rocher, Toblerone, Snickers and other exciting chocolates too, send them as <a href="http://www.bookmyflowers.com/bhai-dooj-1-406-t.html">Bhaidooj gifts for brother</a> to make him feel special.
+Our online portal gives you the opportunity to shop and send for Bhai Dooj Gifts to both national and international destinations with a click of the mouse</p>
+<h2>Shop for Ethnic Diwali Gifts Online</h2>
+<p>Diwali is one of the auspicious festival of India which is celebrated with a lot of fun and gaiety. People usually light up their homes with earthen diyas, lamps and lanterns to beautify their homes. Family get together and exchanging gifts with friends and family is an age old custom. To keep up with the ongoing custom and tradition, online portal like Ferns N Petals brings to you <a href="http://www.bookmyflowers.com/diwali">Diwali gifts online</a> thereby meeting the heavy time crunch.</p><p>The portal has come up with gift options suiting the taste and preference of most Indians. You will find that the portal is loaded with Diwali sweets, gift hampers and baskets to make your loved one feel special. All the gifts are delivered in the most gorgeous packaging. People can send Diwali gifts to friends, families and relatives with the help of our express delivery options.</p>
+<p>If you are looking for something special for your family, you can easily shop for gift hampers and baskets. You can order Diwali gift hampers which has an assortment of gift items ranging from sweets, chocolates and other personalized gift items. The portal allows you to send online Diwali gifts to more than 350 destinations across the country.</p>
+<h2>Online KarwaChauth Gifts Delivered with Ease</h2>
+<p>The festival of KarwaChauth commemorates the love between husband and wife. As a traditional custom, each and every married women undertakes a rigid fast. The fast is considered to be symbolic of the love, well-being and the longevity of their husband. To celebrate this festival of love, online portals like Ferns N Petals brings to you KarwaChauth gifts online that will take the celebration to the next level.</p>
+<p>With the growing popularity of the festival many married men are also observing fast on the occasion of KarwaChauth. You can send <a href="http://www.bookmyflowers.com/send-karwa-chauth-gifts-1-603-t.html">KarwaChauth gifts</a> to your spouse to make them feel simply out of the world. The online portal brings to you a wide array of sweets, gifts hampers and decorated puja thali too. In addition to this, our online portal has also got exclusive piece of jewellery too which can be the best Karwachauth gifts for wife. For mother-in-law who are finding it hard to look for a gift on the occasion can shop for exciting gift options too. They can either shop for beautiful decorative thalis which are the hottest selling products of the season and turns out to be great KarwaChauth Gifts for Bahu.</p>
+<h2>Shop for a Variety of Bhaidooj Gifts Online</h2>
+<p>Brother and Sister, the perfect duo have had a lot of fun together. They were there with each other during the happy and the sad times. The festival of Bhaidooj is a celebration of the unbreakable bond shared between them. As is customary, sisters offer their prayers early in the morning for the well-being and the longevity of their husband. In order to celebrate this festival, shop for a Bhaidooj gift online to let them know that you toolove them and truly cherish their companionship too. </p>
+<p>Exchanging gifts between siblings is customary. If you are looking for a Bhaidooj gift for your sister, you can shop for some jewellery and accessory that she would appreciate or can even shop for a fresh bunch of flowers too. Our inventory is loaded with many excitingBhai Dooj gifts. You can chop for delectable sweet boxes, gift combos and hampers which will be the appropriate pick for the occasion. Surprise your brother with our assortment of international branded chocolates such as Ferrero Rocher, Toblerone, Snickers and other exciting chocolates too, send them as <a href="http://www.bookmyflowers.com/bhai-dooj-1-406-t.html">Bhaidooj gifts for brother</a> to make him feel special.
+Our online portal gives you the opportunity to shop and send for Bhai Dooj Gifts to both national and international destinations with a click of the mouse</p>
+<h2>Shop for Ethnic Diwali Gifts Online</h2>
+<p>Diwali is one of the auspicious festival of India which is celebrated with a lot of fun and gaiety. People usually light up their homes with earthen diyas, lamps and lanterns to beautify their homes. Family get together and exchanging gifts with friends and family is an age old custom. To keep up with the ongoing custom and tradition, online portal like Ferns N Petals brings to you <a href="http://www.bookmyflowers.com/diwali">Diwali gifts online</a> thereby meeting the heavy time crunch.</p><p>The portal has come up with gift options suiting the taste and preference of most Indians. You will find that the portal is loaded with Diwali sweets, gift hampers and baskets to make your loved one feel special. All the gifts are delivered in the most gorgeous packaging. People can send Diwali gifts to friends, families and relatives with the help of our express delivery options.</p>
+<p>If you are looking for something special for your family, you can easily shop for gift hampers and baskets. You can order Diwali gift hampers which has an assortment of gift items ranging from sweets, chocolates and other personalized gift items. The portal allows you to send online Diwali gifts to more than 350 destinations across the country.</p>
+
+ 
+</div>
+</div>
+</div>
+</div>
+   
+   		<!--subscribe-newleeter & fb-join and bmf news start -->
+<div class="main_container">
+<div class="outer">
+<div class="newsletter_fbjoin_fnp_news">
+<div class="sub_newsletter">
+<h2>Subscribe Newsletter </h2>
+<p>Be the first to be notified for our special </p>
+<p>offers and promotions</p>
+<p>
+
+<input class="inp_newsletter" id="txtNewsletterSubscriber" onblur="WatermarkOnblur('Enter your email id','txtNewsletterSubscriber')" onfocus="WatermarkOnfocus('Enter your email id','txtNewsletterSubscriber');hideMessage();" onkeypress="return entersubscribeFun(event)" type="text" value="Enter your email id"/>
+<input class="submit_newsletter" onclick="subscribeFun()" type="button" value="Sign up"/>
+</p><div class="clear"></div>
+<div class="hide" id="newMsg"><span class="fred">Please enter valid email id</span> </div>
+<p></p>
+</div>
+<div class="join-fb">
+
+
+
+  <p></p><div class="fb-like" data-href="http://facebook.com/bookmyflowers" data-send="true" data-show-faces="true" data-width="200"></div> <p></p>
+  
+
+  
+  
+</div>
+
+<!--<div class="bmf_news">
+<h2>BMF News</h2>
+<p>See what's blooming at BMF. Explore </p>
+<p>our world of flowers in the media</p>
+<p><a href="/static/news.dot">CLICK HERE</a></p>
+</div>-->
+</div>
+</div>
+</div>
+<!--subscribe-newleeter & fb-join and bmf news end -->  
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=1453712274841167";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. 
+See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 989949273;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/989949273/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+
+
+
+   
+
+
+ 
+        		         		<!--footerLinks-->
+<div id="footer_main">
+<div class="outer">
+<div class="footer">
+<div class="footer_row">
+    <script type="text/javascript">giveterTracker("false");</script>
+
+<div class="footer_colum">
+<span>Send Flowers to</span>
+<ul>
+<li><a href="/delhi/"><h3>Send Flowers to Delhi</h3></a></li>
+<li><a href="/mumbai/"><h3>Send Flowers to Mumbai</h3></a></li>
+<li><a href="/pune/"><h3>Send Flowers to Pune</h3></a></li>
+<li><a href="/hyderabad/"><h3>Send Flowers to Hyderabad</h3></a></li>
+<li><a href="/bangalore/"><h3>Send Flowers to Bangalore</h3></a></li>
+<li><a href="/chennai/"><h3>Send Flowers to Chennai</h3></a></li>
+<li><a href="/ahmedabad/"><h3>Send Flowers to Ahmedabad</h3></a></li>
+<li><a href="/kolkata/"><h3>Send Flowers to Kolkata</h3></a></li>
+<li><a href="/lucknow/"><h3>Send Flowers to Lucknow</h3></a></li>
+<li><a href="/gurgaon/"><h3>Send Flowers to Gurgaon</h3></a></li>
+<li><a href="/noida/"><h3>Send Flowers to Noida</h3></a></li>
+<li><a href="/ghaziabad/"><h3>Send Flowers to Ghaziabad</h3></a></li>
+<li><a href="/serviceablecities">View all Cities &gt;&gt;</a></li>
+</ul>
+</div>
+<div class="footer_colum footer_display1">
+<span>Shop by Product</span>
+<ul>
+
+<li><a href="/plants-1-50-t.html "><h3>Plants</h3></a></li>
+<li><a href="/gifts-1-19-t.html"><h3>Gift Shop</h3></a></li>
+<li><a href="/chocolates-1-17-t.html"><h3>Chocolates</h3></a></li>
+<li><a href="/gift-baskets-1-49-t.html"><h3>Gift Baskets</h3></a></li>
+<li><a href="/birthday-personalized-gifts-1-26-t.html"><h3>Personalized Gifts</h3></a></li>
+<li><a href="/soft-toys-1-18-t.html"><h3>Soft Toys</h3></a></li>
+  <li><a href="/product-list.html"><h3>All Product List</h3></a></li>
+
+</ul>
+</div>
+<div class="footer_colum footer_display2">
+<span>Occasion</span>
+<ul>
+<li><a href="/anniversary-flowers-1-29-t.html"><h3>Anniversary</h3></a></li>
+<li><a href="/birthday-1-23-t.html"><h3>Birthday</h3></a></li>
+<li><a href="/congratulations-1-83-t.html"><h3>Congratulations</h3></a></li>
+<li><a href="/get-well-soon-1-84-t.html"><h3>Get Well</h3></a></li>
+<li><a href="/i-m-sorry-1-402-t.html"><h3>I'm Sorry</h3></a></li>
+<li><a href="/just-because-1-403-t.html"><h3>Just Because</h3></a></li>
+<li><a href="/romantic-1-399-t.html"><h3>Care &amp; Romance</h3></a></li>
+<li><a href="/new-baby-1-401-t.html"><h3>New Baby</h3></a></li>
+<li><a href="/sympathy-1-400-t.html"><h3>Condolence</h3></a></li>
+<li><a href="/thank-you-1-88-t.html"><h3>Thank You</h3></a></li>
+<li><a href="/wedding-1-86-t.html"><h3>Wedding</h3></a></li>
+</ul>
+</div>
+<div class="footer_colum footer_display3">
+<span>Flowers</span>
+<ul>
+<li><a href="/roses-1-417-t.html"><h3>Roses</h3></a></li>
+<li><a href="/lilies-1-418-t.html"><h3>Lilies</h3></a></li>
+<li><a href="/carnations-1-419-t.html"><h3>Carnations</h3></a></li>
+<li><a href="/orchids-1-420-t.html"><h3>Orchids</h3></a></li>
+<li><a href="/gerberas-1-421-t.html"><h3>Gerberas</h3></a></li>
+<li><a href="/mixed-bouquet-1-422-t.html"><h3>Mixed Bouquets</h3></a></li>
+<li><a href="/bunches-1-14-t.html"><h3>Flower Bunches</h3></a></li>
+<li><a href="/combo-1-15-t.html"><h3>Flower Combo</h3></a></li>
+<li><a href="/basket-arrangement-1-32-t.html"><h3>Basket Arrangement</h3></a></li>
+<li><a href="/glass-vase-arrangement-1-33-t.html"><h3>Glass Vase Arrangement</h3></a></li>
+<li><a href="/exclusive-arrangement-1-34-t.html"><h3>Exclusive Arrangement</h3></a></li>
+
+
+
+
+</ul>
+</div>
+<div class="footer_colum footer_display4">
+<span>Recipient</span>
+<ul>
+<li><a href="/for-him-1-407-t.html"><h3>Gifts For Him</h3></a></li>
+<li><a href="/for-her-1-408-t.html"><h3>Gifts For Her</h3></a></li>
+<li><a href="/for-wife-1-409-t.html"><h3>Gifts For Wife</h3></a></li>
+<li><a href="/for-husband-1-410-t.html"><h3>Gifts For Husband</h3></a></li>
+<li><a href="/for-mom-1-411-t.html"><h3>Gifts For Mom</h3></a></li>
+<li><a href="/for-dad-1-412-t.html"><h3>Gifts For Dad</h3></a></li>
+<!--<li><a href="#">More Gifts >></h3></a></li>-->
+</ul>
+</div>
+<div class="footer_colum footer_display5">
+<span>International Flowers and Gift Delivery</span>
+<ul>
+<li><a href="/usa-next-day-1-74-t.html"><h3>United States</h3></a></li>
+<li><a href="/uk-1-52-t.html"><h3>United Kingdom</h3></a></li>
+<li><a href="/canada-1-53-t.html"><h3>Canada</h3></a></li>
+<li><a href="/australia-1-58-t.html"><h3>Australia</h3></a></li>
+<li><a href="/uae-1-54-t.html"><h3>UAE</h3></a></li>
+<li><a href="/germany-1-59-t.html"><h3>Germany</h3></a></li>
+<li><a href="/philipines-1-56-t.html"><h3>Phillpines</h3></a></li>
+<!--<li><a href="#">View More Countries >></h3></a></li>-->
+</ul>
+</div>
+<div class="footer_colum footer_display6">
+<span>Holiday &amp; Seasons</span>
+<ul>
+<li><a href="/navratri-1-381-t.html"><h3>Navratra</h3></a></li>
+<li><a href="/baisakhi-1-382-t.html"><h3>Baisakhi</h3></a></li>
+<li><a href="/mothers-day-1-383-t.html"><h3>Mother's Day</h3></a></li>
+  <li><a href="/fathers-day/"><h3>Father's Day</h3></a></li>
+<li><a href="/friendship-day-1-385-t.html"><h3>Friendship Day</h3></a></li>
+<li><a href="/rakhi-special-1-423-t.html"><h3>Rakhi Special</h3></a></li>
+<li><a href="/teachers-day-1-386-t.html"><h3>Teacher's Day</h3></a></li>
+<li><a href="/diwali-1-405-t.html"><h3>Diwali</h3></a></li>
+<li><a href="/bhai-dooj-1-406-t.html"><h3>Bhai Dooj</h3></a></li>
+<li><a href="/christmas-1-387-t.html"><h3>Christmas</h3></a></li>
+<li><a href="/new-year-1-388-t.html"><h3>New Year</h3></a></li>
+<li><a href="#"><h3>View All Occasions</h3></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+   
+
+
+   
+
+<!--  
+  
+-->
+
+ 
+   		<!--web engage code start here-->
+<script id="_webengage_script_tag" type="text/javascript">
+   var _weq = _weq || {};
+   _weq['webengage.licenseCode'] = '~15ba20b1d';
+   _weq['webengage.widgetVersion'] = "4.0";
+
+   (function(d){
+     var _we = d.createElement('script');
+     _we.type = 'text/javascript';
+     _we.async = true;
+     _we.src = (d.location.protocol == 'https:' ? 
+"https://ssl.widgets.webengage.com" : 
+"http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
+     var _sNode = d.getElementById('_webengage_script_tag');
+     _sNode.parentNode.insertBefore(_we, _sNode);
+   })(document);
+</script>
+<!--web engage code end here-->
+
+
+<!--refiral start here-->
+<script type="text/javascript">var showButton = true;</script>
+
+<script type="text/javascript">var apiKey = "b495ce63ede0f4efc9eec62cb947c162";</script>
+
+
+<script src="//cdn.refiral.com/libs/refiral-1.0.min.js" type="text/javascript"></script>
+<!--refiral end here-->
+<script charset="utf-8" src="//v2.zopim.com/?38kfWTasR6LoLcXZonPm6rdawsDTz9um" type="text/javascript"></script>
+
+
+<style type="text/css">
+  @media only screen and (min-width :320px) and (max-width :479px){
+  #refPopOut{  
+    -webkit-transform:translate(49%,0px);-moz-transform:translate(96%,0px);-ms-transform:translate(96%,0px); transform:translate(96%,0px);
+  }
+  }
+  /*
+@media only screen and (min-width :360px) and (max-width :639px){#refPopOut{  
+    -webkit-transform:translate(49%,0px);-moz-transform:translate(49%,0px);-ms-transform:translate(49%,0px); transform:translate(49%,0px);
+  }
+  }
+  */
+  
+  
+  </style>
+
+<script type="text/javascript">giveterTracker("false");</script>
+<div class="main_container">
+<div class="outer">
+<div class="footer_row3">
+<h2>other links</h2>
+  <a href="/shippingDisclaimer.html" title="Shipping Disclaimer">Shipping Disclaimer</a>   |<a href="/static/tnc.dot" title="Terms &amp; Conditons">Terms &amp; Conditons</a>     |    <a href="/legalDisclaimer.html" title="Legal Disclaimer">Legal Disclaimer</a>   | <a href="/static/privacy-policy.dot" title="Privacy Policy">Privacy Policy</a>   |  <a href="/valentinedisclaimer.html" title="Valentine Disclaimer">Valentine Disclaimer</a>   |  <a href="/contactus.html" title="Contact Us BMF for Buy and send flowers online">Contact Us</a>   |  <a href="/customerTestimonials.html" title="Testimonials">Testimonials</a>  |  <a href="http://blog.bookmyflowers.com" title="Blog Page">Blog</a>   |   <a href="/static/sitemap.html" title="Sitemap">Sitemap</a>   |  <a href="/aboutus.html" title="About Us">About Us</a>   |   <!--<a href="/franchise.html" title="Franchise">Franchise</a> &nbsp;&nbsp;|&nbsp;&nbsp;--> <a href="/flowermeaning1.html" title="Flowers Meaning">Flowers Meaning</a>   |    <!--<a href="/static/news.dot" title="News Room">News Room</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; --><a href="/flowers-&amp;-best-sellers/designer-bouquets-45-49-t.html" title="Designer Flower Arrangements">Designer Flower Arrangements</a> 
+  <p class="right_reserved_display">Copyright © 2015 bookmyflowers.com. All rights reserved</p>
+  </div>
+
+
+
+  </div>
+ </div>
+
+
+<script src="http://d3nfvz6r6hh60l.cloudfront.net/js/mailer.js" type="text/javascript"></script>
+
+
+   
+
+  
+<!--footer end-->
+  
+</div>
+ 
+<script type="text/javascript">giveterTracker("false");</script>
+   
+
+
+
+
+
+
+</body></html>

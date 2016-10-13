@@ -1,0 +1,1379 @@
+<!DOCTYPE html>
+<html class="unknown unknownunknown journal-desktop is-guest skin-8 responsive-layout extended-layout header-center product-grid-second-image product-list-second-image home-page layout-1 route-common-home oc2 one-column no-js" data-j2v="2.6.9" dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "MyFlowerTree",
+  "url" : "http://www.myflowertree.com",
+  "sameAs" : [ "https://www.facebook.com/MyFlowerTree/",
+    "https://twitter.com/myflowertreemft",
+	"https://www.linkedin.com/company/myflowertree-com/",
+	"https://in.pinterest.com/myflowertreemft/",
+    "https://plus.google.com/+Myflowertree/"] 
+}
+</script>
+<meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+<meta content="telephone=no" name="format-detection"/>
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/><![endif]-->
+<!--[if lt IE 9]><script src="//ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script><![endif]-->
+<title>Send Flowers Online, Cakes and Gifts Delivery in India- MFT</title>
+<base href="http://www.myflowertree.com/"/>
+<meta content="Send Flowers Online– Deliver online flowers, cakes and gifts to India from MyFlowerTree. We offers same day delivery of flowers, chocolates, valentine gifts, b'day cakes." name="description"/>
+<meta content="send flowers to india, send cake online, send gift online, send gifts to india, online flower delivery in india, online cake delivery, online gifts delivery, order cake online, buy flower online, buy cake online, buy gifts online" name="keywords"/>
+<link href="http://www.myflowertree.com/" rel="canonical"/>
+<link href="https://plus.google.com/+Myflowertree/about" rel="publisher"/>
+<meta content="index, follow" name="googlebot"/>
+<meta content="index, follow" name="yahoobot"/>
+<meta content="index, follow" name="bingbot"/>
+<meta content="index, follow, all" name="robots"/>
+<meta content="7 days" name="revisit-after"/>
+<meta content="Global" name="distribution"/>
+<meta content="all" name="audience"/>
+<meta content="myflowertree.com" name="author"/>
+<meta content="en-us" name="language"/>
+<link href="http://www.myflowertree.com/" hreflang="en-us" rel="alternate"/>
+<meta content="nositelinkssearchbox" name="google"/>
+<meta content="translate" name="google"/>
+<meta content="website" property="og:type"/>
+<meta content="Send Flowers Online, Cakes and Gifts Delivery in India- MFT" property="og:title"/>
+<meta content="Send Flowers Online– Deliver online flowers, cakes and gifts to India from MyFlowerTree. We offer same day delivery of flowers, valentine gifts, birthday cake." property="og:description"/>
+<meta content="send flowers to india, send cake online, send gift online, send gifts to india, online flower delivery in india, online cake delivery, online gifts delivery, order cake online, buy flower online, buy cake online, buy gifts online" property="og:keywords"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="http://www.myflowertree.com/" property="og:url"/>
+<meta content="http://www.myflowertree.com/images/logo.png" property="og:image"/>
+<meta content="MyFlowerTree" property="og:site_name"/>
+<meta content="MyFlowerTree" property="fb:app_id"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="Send Flowers Online, Cakes and Gifts Delivery in India- MFT" name="twitter:title"/>
+<meta content="Send Flowers Online– Deliver online flowers, cakes and gifts to India from MyFlowerTree. We offers same day delivery of flowers, chocolates, valentine gifts, birthday cakes." name="twitter:description"/>
+<meta content="send flowers to india, send cake online, send gift online, send gifts to india, online flower delivery in india, online cake delivery, online gifts delivery, order cake online, buy flower online, buy cake online, buy gifts online" name="twitter:keywords"/>
+<meta content="myflowertreemft" name="twitter:site"/>
+<meta content="myflowertreemft" name="twitter:creator"/>
+<meta content="http://www.myflowertree.com/" name="twitter:url"/>
+<meta content="http://www.myflowertree.com/images/logo.png" name="twitter:image:src"/><link href="http://www.myflowertree.com/image/Banners/favicon.png" rel="icon"/>
+<link href="//fonts.googleapis.com/css?family=Roboto+Condensed:700,regular%7CUbuntu:500,regular,700&amp;subset=latin" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/j-strap.css" rel="stylesheet"/>
+<link href="http://www.myflowertree.com/catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/jquery-ui-slider.min.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/owl.carousel.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/owl.transitions.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/magnific-popup.css" rel="stylesheet"/>
+<link href="http://www.myflowertree.com/catalog/view/theme/journal2/lib/rs-plugin/css/settings.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/hint.min.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/journal.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/features.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/header.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/module.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/pages.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/account.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/blog-manager.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/side-column.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/product1.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/category.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/footer.css" rel="stylesheet"/>
+<link href="http://www.myflowertree.com/catalog/view/theme/journal2/css/icons.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/custom.css" rel="stylesheet"/>
+<link href="http://mftcdn.myflowertree.com/live-site-2016/css/responsive.css" rel="stylesheet"/>
+<link href="index.php?route=journal2/assets/css&amp;j2v=2.6.9" rel="stylesheet"/>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jjquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery-ui-slider.min.js" type="text/javascript"></script>
+<script src="http://www.myflowertree.com/catalog/view/js/common.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.total-storage.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/tabs.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/owl.carousel.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.magnific-popup.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.actual.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.countdown.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.imagezoom.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.lazy.1.6.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.quovolver.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.isotope.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.isotope.sloppy-masonry.min.js" type="text/javascript"></script>
+<script src="http://www.myflowertree.com/catalog/view/js/journal.js" type="text/javascript"></script>
+<!--[if (gte IE 6)&(lte IE 8)]><script src="catalog/view/theme/journal2/lib/selectivizr/selectivizr.min.js"></script><![endif]-->
+<script>
+        Journal.COUNTDOWN = {
+        DAYS    : "Days",
+        HOURS   : "Hours",
+        MINUTES : "Min",
+        SECONDS : "Sec"
+    };
+        Journal.NOTIFICATION_BUTTONS = '<div class="notification-buttons"><a class="button notification-cart" href="http://www.myflowertree.com/index.php?route=checkout/cart">View Cart</a><a class="button notification-checkout" href="http://www.myflowertree.com/index.php?route=checkout/checkout">Checkout</a></div>';
+</script>
+
+<!-- Google Tag Manager -->
+<noscript></noscript></head><body><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-TMJG2P" style="display:none;visibility:hidden" width="0"></iframe>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TMJG2P');</script>
+<!-- End Google Tag Manager -->
+
+
+<!--[if lt IE 9]>
+<div class="old-browser">You are using an old browser. Please <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">upgrade to a newer version</a> or <a href="http://browsehappy.com/">try a different browser</a>.</div>
+<![endif]-->
+<script>
+$("document").ready(function($){
+    var nav = $('#sticky');
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 90) {
+            nav.addClass("stick");
+        } else {
+            nav.removeClass("stick");
+        }
+    });
+});
+</script>
+<div class="hide-on-phone" id="sticky-anchor" style="height: 0px;"></div>
+<header class="journal-header-center journal-header-mega nolang" id="sticky">
+
+    <div class="journal-top-header j-min z-1"></div>
+    <div class="journal-menu-bg j-min z-0"> </div>
+    <div class="journal-center-bg j-100 z-0"> </div>
+
+    <div class="journal-header row z-2" id="header">
+
+        <div class="journal-links j-min xs-100 sm-100 md-45 lg-45 xl-45">
+            <div class="links j-min">
+                <a class="hide-on-phone hide-on-tablet wishlist-total icon-only" href="http://www.myflowertree.com/index.php?route=account/wishlist"><i data-icon="" style="margin-right: 5px; color: rgb(0, 0, 0); font-size: 14px"></i><span class="top-menu-link">Wish List (<span class="product-count">0</span>)</span></a>
+<a class="hide-on-phone hide-on-tablet icon-only" href="http://www.myflowertree.com/special-offers"><i data-icon="" style="margin-right: 5px; color: rgb(0, 0, 0); font-size: 16px"></i><span class="top-menu-link">Special Offers</span></a>            </div>
+        </div>
+
+        <div class="journal-currency j-min xs-5 sm-5 md-10 lg-10 xl-10">
+            <form action="http://www.myflowertree.com/index.php?route=common/currency/currency" enctype="multipart/form-data" method="post">
+    <div id="currency">
+        <div class="btn-group">
+            <button class="dropdown-toggle" data-hover="dropdown" type="button">
+                <span class="currency-symbol">Rs.</span> <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                                                                                    <li><a onclick="$(this).closest('form').find('input[name=\'code\']').val('INR'); $(this).closest('form').submit();">Rs.</a></li>
+                                                                                                                                                                                                        <li><a onclick="$(this).closest('form').find('input[name=\'code\']').val('USD'); $(this).closest('form').submit();">$</a></li>
+                                                                                                                                                </ul>
+        </div>
+        <input name="code" type="hidden" value=""/>
+        <input name="redirect" type="hidden" value="http://www.myflowertree.com/index.php?route=common/home"/>
+    </div>
+</form>
+        </div>
+
+        <div class="journal-secondary j-min xs-100 sm-100 md-45 lg-45 xl-45">
+            <div class="links j-min">
+                <a class="icon-only" href="tel:011 - 45951000"><i data-icon="" style="margin-right: 5px; font-size: 14px"></i><span class="top-menu-link">011 - 45951000</span></a>
+<a class="hide-on-phone" href="#"><span class="top-menu-link">Welcome</span></a>
+<a href="http://www.myflowertree.com/index.php?route=account/login"><i data-icon="" style="margin-right: 5px; color: rgb(0, 0, 0); font-size: 16px"></i><span class="top-menu-link">Login</span></a>
+<a href="http://www.myflowertree.com/index.php?route=account/register"><i data-icon="" style="margin-right: 5px; color: rgb(0, 0, 0); font-size: 16px"></i><span class="top-menu-link">Register</span></a>            </div>
+        </div>
+
+                <div class="journal-logo xs-100 sm-100 md-30 lg-30 xl-30">
+                        <div id="logo">
+                <a href="http://www.myflowertree.com/">
+                    <img alt="MyFlowerTree" height="114" src="image/cache/data/logolive-272x114.png" title="MyFlowerTree" width="272"/>                </a>
+            </div>
+                    </div>
+        <div class="journal-search j-min xs-100 sm-50 md-45 lg-45 xl-45">
+                        <div class="input-group j-min" id="search">
+  <input autocomplete="off" class="form-control input-lg" name="search" placeholder="Search entire store..." type="text" value=""/>
+  <div class="button-search"><button type="button"><i></i></button></div>
+</div>                    </div>
+
+        
+        
+        <div class="journal-cart row j-min xs-100 sm-50 md-25 lg-25 xl-25">
+            <div class="btn-group btn-block" id="cart">
+  <button class="btn btn-inverse btn-block btn-lg dropdown-toggle heading" data-toggle="dropdown" type="button"><a><span data-loading-text="Loading...  " id="cart-total">0 item(s) - Rs.0</span> <i></i></a></button>
+  <div class="content">
+    <ul class="cart-wrapper">
+        <li>
+      <p class="text-center empty">Your shopping cart is empty!</p>
+    </li>
+        </ul>
+  </div>
+</div>
+        </div>
+
+        <div class="journal-menu j-min xs-100 sm-100 md-100 lg-100 xl-100">
+            <div class="mobile-trigger">MENU</div>
+<ul class="super-menu mobile-menu menu-table" style="table-layout: auto">
+        <li class="mega-menu-categories " style="text-transform:uppercase;">
+                <a href="http://www.myflowertree.com/karwa-chauth"><span class="main-menu-text">Karva Chauth</span></a>
+                                                
+        
+        <span class="mobile-plus">+</span>
+    </li>
+        <li class="drop-down " style="text-transform:uppercase;">
+                <a href="http://www.myflowertree.com/diwali"><span class="main-menu-text">Diwali</span></a>
+                                                <ul><li><a href="http://www.myflowertree.com/diwali/all-diwali-gifts">All Diwali Gifts</a></li><li><a href="http://www.myflowertree.com/diwali/candles-n-diyas">Candles &amp; Diyas</a></li><li><a href="http://www.myflowertree.com/diwali/diwali-chocolates">Diwali Chocolates</a></li><li><a href="http://www.myflowertree.com/diwali/diwali-hampers">Diwali Hampers</a></li><li><a href="http://www.myflowertree.com/diwali/dryfruits-platter">Dryfruits Platter</a></li><li><a href="http://www.myflowertree.com/diwali/laxmi-ganesha">Laxmi Ganesha</a></li><li><a href="http://www.myflowertree.com/diwali/same-day-delivery">Same Day Delivery</a></li><li><a href="http://www.myflowertree.com/diwali/sweets-combo">Sweets Combo</a></li></ul>                
+        
+        <span class="mobile-plus">+</span>
+    </li>
+        <li class="mega-menu-categories " style="text-transform:uppercase;">
+                <a href="http://www.myflowertree.com/occasion"><span class="main-menu-text">Occasion</span></a>
+                        <div class="mega-menu">
+            <div>
+                        <div class="mega-menu-item xs-100 sm-50 md-25 lg-25 xl-25 menu-image-left menu-no-image">
+                <div>
+                    <h3><a href="http://www.myflowertree.com/occasion/anniversary">Anniversary</a></h3>
+                                                            <ul>
+                                                <li data-image="image/cache/data/Caticon/Cushion 4-250x250-250x250.jpg"><a href="http://www.myflowertree.com/occasion/anniversary/buy-anniversary-gifts-online">All Gifts</a></li>
+                                                <li data-image="image/cache/data/Caticon/Image-2-250x250-250x250.jpg"><a href="http://www.myflowertree.com/occasion/anniversary/deliver-anniversary-cakes-online">Cakes</a></li>
+                                                <li data-image="image/cache/data/Caticon/rr225-250x250-250x250.jpg"><a href="http://www.myflowertree.com/occasion/anniversary/send-anniversary-chocolates-online">Chocolates</a></li>
+                                                <li data-image="image/cache/data/1111111-250x250.jpg"><a href="http://www.myflowertree.com/occasion/anniversary/send-anniversary-flowers-online">Flowers</a></li>
+                                                <li data-image="image/cache/data/Caticon/654853-user-men-2-512-250x250.jpg"><a href="http://www.myflowertree.com/occasion/anniversary/anniversary-gifts-for-husband">For Husband</a></li>
+                                                <li data-image="image/cache/data/Caticon/654854-user-women-512-250x250.jpg"><a href="http://www.myflowertree.com/occasion/anniversary/anniversary-gifts-for-wife">For Wife</a></li>
+                                                <li data-image="image/cache/data/Caticon/MD_5x8_01-250x250-250x250.JPG"><a href="http://www.myflowertree.com/occasion/anniversary/personalized-gifts-for-anniversary">Personalized Gifts</a></li>
+                                                                        <li class="view-more"><a href="http://www.myflowertree.com/occasion/anniversary">View More</a></li>
+                                            </ul>
+                                        <span class="clearfix"> </span>
+                </div>
+            </div>
+                        <div class="mega-menu-item xs-100 sm-50 md-25 lg-25 xl-25 menu-image-left menu-no-image">
+                <div>
+                    <h3><a href="http://www.myflowertree.com/occasion/birthday">Birthday</a></h3>
+                                                            <ul>
+                                                <li data-image="image/cache/data/Caticon/mi-250x250.jpg"><a href="http://www.myflowertree.com/occasion/birthday/buy-birthday-gifts-online">All Gifts</a></li>
+                                                <li data-image="image/cache/data/257-250x250.jpg"><a href="http://www.myflowertree.com/occasion/birthday/deliver-birthday-cakes-online">Cakes</a></li>
+                                                <li data-image="image/cache/data/Caticon/rr225-250x250-250x250.jpg"><a href="http://www.myflowertree.com/occasion/birthday/send-birthday-chocolates-online">Chocolates</a></li>
+                                                <li data-image="image/cache/USA Flowers/usa1-250x250.jpg"><a href="http://www.myflowertree.com/occasion/birthday/send-birthday-flowers-online">Flowers</a></li>
+                                                <li data-image="image/cache/data/Caticon/mug white-250x250-250x250.jpg"><a href="http://www.myflowertree.com/occasion/birthday/personalized-gifts-for-birthday">Personalized Gifts</a></li>
+                                                                    </ul>
+                                        <span class="clearfix"> </span>
+                </div>
+            </div>
+                        <div class="mega-menu-item xs-100 sm-50 md-25 lg-25 xl-25 menu-image-left menu-no-image">
+                <div>
+                    <h3><a href="http://www.myflowertree.com/occasion/everyday-occasions">Everyday Occasions</a></h3>
+                                                            <ul>
+                                                <li data-image="image/cache/data/Caticon/5-Creative-Tips-to-Celebrate-Your-One-Year-Dating-Anniversary1-250x250.jpg"><a href="http://www.myflowertree.com/occasion/everyday-occasions/occasion/anniversary">Anniversary</a></li>
+                                                <li data-image="image/cache/data/Caticon/pic-testimonials-250x250.jpg"><a href="http://www.myflowertree.com/occasion/everyday-occasions/gifts-for-appreciation">Appreciation</a></li>
+                                                <li data-image="image/cache/data/Caticon/Happy_birthday-13-250x250.jpg"><a href="http://www.myflowertree.com/occasion/everyday-occasions/occasion/birthday">Birthdays</a></li>
+                                                <li data-image="image/cache/data/Caticon/mug white-250x250-250x250.jpg"><a href="http://www.myflowertree.com/occasion/everyday-occasions/business-gifting">Business Gifting</a></li>
+                                                <li data-image="image/cache/data/Caticon/letter-250x250.jpg"><a href="http://www.myflowertree.com/occasion/everyday-occasions/congratulations">Congratulations</a></li>
+                                                <li data-image="image/cache/data/Caticon/90142bb7dffc2249c0064ae1426e64e5-250x250.jpg"><a href="http://www.myflowertree.com/occasion/everyday-occasions/get-well">Get Well Soon</a></li>
+                                                <li data-image="image/cache/data/Caticon/house-warming-party-art-work-250x250.jpg"><a href="http://www.myflowertree.com/occasion/everyday-occasions/house-warming">House Warming</a></li>
+                                                                        <li class="view-more"><a href="http://www.myflowertree.com/occasion/everyday-occasions">View More</a></li>
+                                            </ul>
+                                        <span class="clearfix"> </span>
+                </div>
+            </div>
+                        <div class="mega-menu-item xs-100 sm-50 md-25 lg-25 xl-25 menu-image-left menu-no-image">
+                <div>
+                    <h3><a href="http://www.myflowertree.com/occasion/special-occasions">Special Occasions	</a></h3>
+                                                            <ul>
+                                                <li data-image="image/cache/no_image-250x250.png"><a href="http://www.myflowertree.com/occasion/special-occasions/halloween">Halloween</a></li>
+                                                <li data-image="image/cache/data/Caticon/Celebrate-Karva-Chauth-Step-10-Version-2-250x250.jpg"><a href="http://www.myflowertree.com/occasion/special-occasions/karwa-chauth">Karwa Chauth</a></li>
+                                                <li data-image="image/cache/data/Caticon/255122-250x250.jpg"><a href="http://www.myflowertree.com/occasion/special-occasions/diwali">Diwali</a></li>
+                                                <li data-image="image/cache/data/Caticon/Happy-Friendship-Day-2015-greetings-Whatsapp-Messages-SMS-Quotes-Wishes-Sayings-for-Status-250x250.jpg"><a href="http://www.myflowertree.com/occasion/special-occasions/friendship-day">Friendship Day</a></li>
+                                                <li data-image="image/cache/data/Caticon/rakhi-34v-250x250.jpg"><a href="http://www.myflowertree.com/occasion/special-occasions/send-rakhi-online">Rakhi</a></li>
+                                                <li data-image="image/cache/data/Caticon/fathers-day-canada-250x250.jpg"><a href="http://www.myflowertree.com/occasion/special-occasions/fathers-day">Father's Day</a></li>
+                                                <li data-image="image/cache/data/Caticon/Womens-Day-Images-250x250.jpg"><a href="http://www.myflowertree.com/occasion/special-occasions/womens-day">Women's Day</a></li>
+                                                                        <li class="view-more"><a href="http://www.myflowertree.com/occasion/special-occasions">View More</a></li>
+                                            </ul>
+                                        <span class="clearfix"> </span>
+                </div>
+            </div>
+                        </div>
+            <span class="clearfix"> </span>
+        </div>
+        <span class="clearfix"> </span>
+
+                                        
+        
+        <span class="mobile-plus">+</span>
+    </li>
+        <li class="drop-down " style="text-transform:uppercase;">
+                <a href="http://www.myflowertree.com/flowers"><span class="main-menu-text">Flowers</span></a>
+                                                <ul><li><a href="http://www.myflowertree.com/flowers/all-flowers">All Flowers </a></li><li><a href="http://www.myflowertree.com/flowers/roses">Roses</a></li><li><a href="http://www.myflowertree.com/flowers/carnations">Carnations</a></li><li><a href="http://www.myflowertree.com/flowers/orchid">Orchid</a></li><li><a href="http://www.myflowertree.com/flowers/gerberas">Gerberas</a></li><li><a href="http://www.myflowertree.com/flowers/lilies">Lilies</a></li><li><a href="http://www.myflowertree.com/flowers/mixed-flowers">Mixed Flowers</a></li><li><a href="http://www.myflowertree.com/flowers/gold-n-silver-plated">Gold Roses</a></li><li><a href="http://www.myflowertree.com/flowers/flowers-by-design">By Design <i class="menu-plus"></i></a> <span class="mobile-plus">+</span><ul><li><a href="http://www.myflowertree.com/flowers/flowers-by-design/send-flower-bunches-online">Flower Bunches</a></li><li><a href="http://www.myflowertree.com/flowers/flowers-by-design/flowers-basket-arrangements">Basket Arrangements</a></li><li><a href="http://www.myflowertree.com/flowers/flowers-by-design/heart-shaped-flowers-bouquet">Heart Shaped</a></li><li><a href="http://www.myflowertree.com/flowers/flowers-by-design/flowers-in-glass-vase">In Glass Vase</a></li><li><a href="http://www.myflowertree.com/flowers/flowers-by-design/premium-designer-flowers-collection">Designer Collection</a></li></ul></li></ul>                
+        
+        <span class="mobile-plus">+</span>
+    </li>
+        <li class="drop-down " style="text-transform:uppercase;">
+                <a href="http://www.myflowertree.com/cakes"><span class="main-menu-text">Cakes</span></a>
+                                                <ul><li><a href="http://www.myflowertree.com/cakes/all-cakes">All Cakes</a></li><li><a href="http://www.myflowertree.com/cakes/regular-cakes">Regular Cakes</a></li><li><a href="http://www.myflowertree.com/cakes/egg-less-cakes">Eggless Cakes</a></li><li><a href="http://www.myflowertree.com/cakes/half-n-half-cakes">Half n Half Cakes</a></li><li><a href="http://www.myflowertree.com/cakes/sugarfree-cakes">Sugarfree Cakes</a></li><li><a href="http://www.myflowertree.com/cakes/deliver-photo-cakes-online">Photo Cakes</a></li><li><a href="http://www.myflowertree.com/cakes/theme-cakes">Theme Cakes</a></li><li><a href="http://www.myflowertree.com/cakes/heart-shape-cakes">Heart Shaped Cakes</a></li><li><a href="http://www.myflowertree.com/cakes/5-star-cakes">5 Star Cakes</a></li><li><a href="http://www.myflowertree.com/cakes/exotic-cakes">Exotic Cakes</a></li><li><a href="http://www.myflowertree.com/cakes/deliver-tier-cakes-online">Tier Cakes</a></li><li><a href="http://www.myflowertree.com/cakes/cake-in-a-jar">Cakes in a Jar</a></li><li><a href="http://www.myflowertree.com/cakes/cup-cakes">Cup Cakes</a></li></ul>                
+        
+        <span class="mobile-plus">+</span>
+    </li>
+        <li class="drop-down " style="text-transform:uppercase;">
+                <a href="http://www.myflowertree.com/combos"><span class="main-menu-text">Combos</span></a>
+                                                <ul><li><a href="http://www.myflowertree.com/combos/all-combos">All Combos </a></li><li><a href="http://www.myflowertree.com/combos/send-assorted-combos-online">Assorted Combos</a></li><li><a href="http://www.myflowertree.com/combos/flowers-plus-cake">Flowers with Cake</a></li><li><a href="http://www.myflowertree.com/combos/flowers-plus-chocolate">Flowers with Chocolates</a></li><li><a href="http://www.myflowertree.com/combos/send-flowers-with-gift-hampers">Flowers with Gift Hampers</a></li><li><a href="http://www.myflowertree.com/combos/flowers-plus-teddy">Flowers with Teddy</a></li><li><a href="http://www.myflowertree.com/combos/send-wine-combos">Wine Combos</a></li></ul>                
+        
+        <span class="mobile-plus">+</span>
+    </li>
+        <li class="drop-down " style="text-transform:uppercase;">
+                <a href="http://www.myflowertree.com/gifting"><span class="main-menu-text">Gifts</span></a>
+                                                <ul><li><a href="http://www.myflowertree.com/gifting/all-gifts">All Gifts</a></li><li><a href="http://www.myflowertree.com/gifting/personalized-gifts-main">Personalized</a></li><li><a href="http://www.myflowertree.com/gifting/mugs-and-cushions">Mugs and Cushions</a></li><li><a href="http://www.myflowertree.com/gifting/chocolates">Chocolates</a></li><li><a href="http://www.myflowertree.com/gifting/soft-toys">Soft Toys</a></li><li><a href="http://www.myflowertree.com/gifting/green-plants">Green Plants</a></li><li><a href="http://www.myflowertree.com/gifting/flowers/by-type/gold-n-silver-plated">Gold Roses</a></li><li><a href="http://www.myflowertree.com/gifting/home-decor">Home Decor</a></li><li><a href="http://www.myflowertree.com/gifting/buy-gifts-for-him">For Him <i class="menu-plus"></i></a> <span class="mobile-plus">+</span><ul><li><a href="http://www.myflowertree.com/gifting/buy-gifts-for-him/buy-accesories-for-him">Accesories</a></li><li><a href="http://www.myflowertree.com/gifting/buy-gifts-for-him/gifts-by-type/green-plants">Green Gifts</a></li><li><a href="http://www.myflowertree.com/gifting/buy-gifts-for-him/buy-perfumes-for-him">Perfumes</a></li><li><a href="http://www.myflowertree.com/gifting/buy-gifts-for-him/buy-watches-for-him">Watches</a></li></ul></li><li><a href="http://www.myflowertree.com/gifting/buy-gifts-for-her">For Her <i class="menu-plus"></i></a> <span class="mobile-plus">+</span><ul><li><a href="http://www.myflowertree.com/gifting/buy-gifts-for-her/buy-accesories-for-her">Accesories</a></li><li><a href="http://www.myflowertree.com/gifting/buy-gifts-for-her/gifting/gifts-by-type/green-plants">Green Gifts</a></li><li><a href="http://www.myflowertree.com/gifting/buy-gifts-for-her/buy-perfumes-for-her">Perfumes</a></li><li><a href="http://www.myflowertree.com/gifting/buy-gifts-for-her/buy-watches-for-her">Watches</a></li></ul></li></ul>                
+        
+        <span class="mobile-plus">+</span>
+    </li>
+        <li class="drop-down " style="text-transform:uppercase;">
+                <a href="http://www.myflowertree.com/sameday-delivery"><span class="main-menu-text">Sameday Delivery</span></a>
+                                                <ul><li><a href="http://www.myflowertree.com/sameday-delivery/sameday-flowers">Sameday Delivery Flowers</a></li><li><a href="http://www.myflowertree.com/sameday-delivery/sameday-cakes">Sameday Delivery Cakes</a></li><li><a href="http://www.myflowertree.com/sameday-delivery/sameday-combos">Sameday Delivery Combos</a></li><li><a href="http://www.myflowertree.com/sameday-delivery/sameday-chocolates">Sameday Delivery Chocolates</a></li></ul>                
+        
+        <span class="mobile-plus">+</span>
+    </li>
+        <li class="drop-down " style="text-transform:uppercase;">
+                <a href="http://www.myflowertree.com/international"><span class="main-menu-text">International</span></a>
+                                                <ul><li><a href="http://www.myflowertree.com/international/send-flowers-to-canada">CANADA</a></li><li><a href="http://www.myflowertree.com/international/send-flowers-to-france">FRANCE</a></li><li><a href="http://www.myflowertree.com/international/send-flowers-to-malaysia">MALAYSIA</a></li><li><a href="http://www.myflowertree.com/international/send-flowers-to-qatar">QATAR</a></li><li><a href="http://www.myflowertree.com/international/send-flowers-to-south-africa">SOUTH AFRICA</a></li><li><a href="http://www.myflowertree.com/international/send-flowers-to-sweden">SWEDEN</a></li><li><a href="http://www.myflowertree.com/international/send-flowers-to-uae">UAE</a></li><li><a href="http://www.myflowertree.com/international/send-flowers-to-uk">UK</a></li><li><a href="http://www.myflowertree.com/international/send-flowers-to-usa">USA</a></li></ul>                
+        
+        <span class="mobile-plus">+</span>
+    </li>
+    </ul>        </div>
+                <script>
+            if($(window).width() < 760){
+                $('.journal-header-center .journal-links').before($('.journal-header-center .journal-language'));
+                $('.journal-header-center .journal-logo').after($('.journal-header-center .journal-search'));
+            }
+        </script>
+            </div>
+</header><div id="top-modules">
+   <div class="journal2_slider " style="background-attachment: scroll; padding-top: 0px; padding-bottom: 0px"><div class="tp-banner-container box nav-on-hover journal-fullwidth-slider " style="max-width: 100%; height: 400px;">
+    <div class="tp-banner" id="journal-slider-90160643" style="max-height: 400px; display: none;">
+        <ul>
+                        <li data-easing="easeInOutQuart" data-fsmasterspeed="0" data-fsslotamount="0" data-fstransition="fade" data-link="http://www.myflowertree.com/karwa-chauth" data-masterspeed="800" data-thumb="image/cache/Banners/event-banners/karwa-banners-100x75.jpg" data-transition="fade">
+                        <img alt="Slide 1" data-lazyload="http://mftcdn.myflowertree.com/live-site-2016/image/cache/Banners/event-banners/karwa-banners-1440x400.jpg" src="image/cache/data/journal2/transparent-980x400.png"/>
+                                    </li>
+                        <li data-easing="easeInOutQuart" data-link="http://www.myflowertree.com/diwali" data-masterspeed="800" data-target="_blank" data-thumb="image/cache/Banners/event-banners/diwali-2016-100x75.jpg" data-transition="fade">
+                        <img alt="diwali" data-lazyload="http://mftcdn.myflowertree.com/live-site-2016/image/cache/Banners/event-banners/diwali-2016-1440x400.jpg" src="image/cache/data/journal2/transparent-980x400.png"/>
+                                    </li>
+                        <li data-easing="easeInOutQuart" data-link="http://www.myflowertree.com/gifting" data-masterspeed="800" data-thumb="image/cache/Banners/sep-2016/sep-gifts-100x75.jpg" data-transition="fade">
+                        <img alt="Slide 3" data-lazyload="http://mftcdn.myflowertree.com/live-site-2016/image/cache/Banners/sep-2016/sep-gifts-1440x400.jpg" src="image/cache/data/journal2/transparent-980x400.png"/>
+                                    </li>
+                     </ul>
+                <div class="tp-bannertimer tp-bottom"></div>
+            </div>
+</div>
+
+<script>
+    (function () {
+        $('<style></style>').appendTo($('head'));
+
+        $(function() {
+            var opts = $.parseJSON('{"delay":"4000","onHoverStop":"off","thumbWidth":100,"thumbHeight":75,"thumbAmount":3,"hideThumbs":1,"navigationType":"bullet","navigationArrows":"none","navigationStyle":"round","navigationHAlign":"center","navigationVAlign":"bottom","navigationHOffset":"","navigationVOffset":"30","startwidth":"1140","startheight":"400"}');
+            opts.hideThumbs = 0;
+            $('#journal-slider-90160643').show().revolution(opts);
+                    });
+    })();
+</script>
+</div></div>
+
+<div class="extended-container"><div class="container j-container" id="container">
+  <div class="row"><div class="col-sm-3 hidden-xs side-column " id="column-right">
+    <div class="box-heading text-rotator-heading ">Testimonials</div>
+<div class="journal-rotator box text-rotator bullets-center align-center bullets-on" id="journal-rotator-1807293518" style="background-repeat: repeat; background-position: center top; background-attachment: scroll; ">
+        <div class="quote" style="text-align: center; font-weight: normal; font-family: Georgia, serif; font-size: 15px; font-style: italic; text-transform: none; color: rgb(95, 104, 116)">
+                <img alt="" class="rotator-image image-center" height="150" src="image/cache/data/testimonial/2-150x150.jpg" style="border-radius: 50%; float: none; margin:0 auto; margin-bottom:10px" width="150"/>
+                <span class="rotator-text">“... This was my very first time of booking flowers online and I chose MyFlowerTree. The experience was fantastic to say the least. The flowers were just gorgeous.</span>
+                <div class="rotator-author" style="font-weight: bold; font-family: Helvetica, Arial, sans-serif; text-align: center; font-size: 15px; font-style: normal; text-transform: none; color: rgb(0, 0, 0)">- Swati - Chandigarh</div>
+                <div class="clearfix"> </div>
+    </div>
+        <div class="quote" style="text-align: center; font-weight: normal; font-family: Georgia, serif; font-size: 15px; font-style: italic; text-transform: none; color: rgb(95, 104, 116)">
+                <img alt="" class="rotator-image image-center" height="150" src="image/cache/data/testimonial/5-150x150.jpg" style="border-radius: 50%; float: none; margin:0 auto; margin-bottom:10px" width="150"/>
+                <span class="rotator-text">“... The cake was lip-smacking and delivered in less than 3 hours. The pricing was absolutely value-for-money and I love to recommend MyFlowerTree to my friends and family.</span>
+                <div class="rotator-author" style="font-weight: bold; font-family: Helvetica, Arial, sans-serif; text-align: center; font-size: 15px; font-style: normal; text-transform: none; color: rgb(0, 0, 0)">- Pankaj - Pune</div>
+                <div class="clearfix"> </div>
+    </div>
+        <div class="quote" style="text-align: center; font-weight: normal; font-family: Georgia, serif; font-size: 15px; font-style: italic; text-transform: none; color: rgb(95, 104, 116)">
+                <img alt="" class="rotator-image image-center" height="150" src="image/cache/data/testimonial/6-150x150.jpg" style="border-radius: 50%; float: none; margin:0 auto; margin-bottom:10px" width="150"/>
+                <span class="rotator-text">“... I really liked the overall experience, beautiful website, excellent customer service. The use of technology like mobile app, SMS reminders, everything just added to the experience.</span>
+                <div class="rotator-author" style="font-weight: bold; font-family: Helvetica, Arial, sans-serif; text-align: center; font-size: 15px; font-style: normal; text-transform: none; color: rgb(0, 0, 0)">- Surabhi - Bangalore</div>
+                <div class="clearfix"> </div>
+    </div>
+        <div class="quote" style="text-align: center; font-weight: normal; font-family: Georgia, serif; font-size: 15px; font-style: italic; text-transform: none; color: rgb(95, 104, 116)">
+                <img alt="" class="rotator-image image-center" height="150" src="image/cache/data/testimonial/7-150x150.jpg" style="border-radius: 50%; float: none; margin:0 auto; margin-bottom:10px" width="150"/>
+                <span class="rotator-text">“... This is a great website for sending flowers and cakes online. A good choice over other drooling websites. Keep up the good work MyFlowerTree</span>
+                <div class="rotator-author" style="font-weight: bold; font-family: Helvetica, Arial, sans-serif; text-align: center; font-size: 15px; font-style: normal; text-transform: none; color: rgb(0, 0, 0)">- .Akash - Gurgaon</div>
+                <div class="clearfix"> </div>
+    </div>
+    </div>
+<script>
+    (function () {
+
+        
+        var single_quote = parseInt('4', 10) <= 1;
+
+        $('#journal-rotator-1807293518').quovolver({
+            children        : '.quote',
+            equalHeight     : false,
+            navPosition     : single_quote ? '' : 'below',
+            navNum          : '1' ? true : false,
+            pauseOnHover    : parseInt('1', 10) ? true : false,
+            autoPlay        : !single_quote,
+            autoPlaySpeed   : '5000',
+            transitionSpeed : 300
+        });
+    })();
+</script>  </div>
+                <div class="col-sm-9" id="content"><div class="box custom-sections section-product " id="cs-463180683" style="">
+        <div class="box-heading box-sections box-block">
+        <ul>
+                                                <li><a data-option-value="section-0" href="javascript:;">Bestsellers</a></li>
+                                                            <li><a data-option-value="section-1" href="javascript:;">New Arrivals</a></li>
+                                </ul>
+    </div>
+        <div class="box-content">
+        <div class="product-grid">
+                        <div class="product-grid-item isotope-element section-0 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a class="has-second-image" href="http://www.myflowertree.com/red-love-2611" style=";background: url('image/cache/new-flowers/5I5B4058-250x250.jpg') no-repeat;">
+                            <img alt="Red Love" class="first-image" data-src="image/cache/new-flowers/5I5B4051-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Red Love" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/red-love-2611">Red Love</a></div>
+                        <div class="description">Let someone know how much you adore them with this sweet and simple 
+token of love. This Bunch of 1..</div>
+                                                <div class="price">
+                                                        Rs.399                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.399</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/red-love-2611"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2611');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2611');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-0 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/purple-admiration-1311">
+                            <img alt="Purple Admiration" class="first-image" data-src="image/cache/Flowers/flowers/IMG_9918-(2)-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Purple Admiration" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/purple-admiration-1311">Purple Admiration</a></div>
+                        <div class="description">Orchids are one of the most exotic flowers. If you want to admire someone, send them Purple Orchids ..</div>
+                                                <div class="price">
+                                                        Rs.645                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.645</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/purple-admiration-1311"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('1311');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('1311');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-0 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a class="has-second-image" href="http://www.myflowertree.com/the-perfect-couple-2594" style=";background: url('image/cache/new-flowers/5I5B3961-250x250.jpg') no-repeat;">
+                            <img alt="The Perfect Couple" class="first-image" data-src="image/cache/new-flowers/5I5B3959-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="The Perfect Couple" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/the-perfect-couple-2594">The Perfect Couple</a></div>
+                        <div class="description">Chocolates and Flowers make a good couple. That is why we have curated 
+this perfect bunch for you ..</div>
+                                                <div class="price">
+                                                        Rs.1,745                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.1,745</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/the-perfect-couple-2594"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2594');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2594');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-0 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/holy-beauties-1308">
+                            <img alt="Holy Beauties" class="first-image" data-src="image/cache/Flowers/flowers/IMG_9968-(2)-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Holy Beauties" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/holy-beauties-1308">Holy Beauties</a></div>
+                        <div class="description">Lilies are the fourth most popular flower in the world ranking following their beauty. They are the ..</div>
+                                                <div class="price">
+                                                        Rs.2,295                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.2,295</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/holy-beauties-1308"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('1308');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('1308');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-0 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/chocolate-cake-2516">
+                            <img alt="Chocolate Cake" class="first-image" data-src="image/cache/Cakes/chocolate-cake-(2)-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Chocolate Cake" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/chocolate-cake-2516">Chocolate Cake</a></div>
+                        <div class="description">Chocolate Cake is something that is hard to resist. It has a smooth texture that melts in the mouth...</div>
+                                                <div class="price">
+                                                        Rs.795                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.795</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/chocolate-cake-2516"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2516');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2516');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-0 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/butterscotch-cake-37">
+                            <img alt="Butterscotch Cake" class="first-image" data-src="image/cache/Cakes/butter-scotch-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Butterscotch Cake" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/butterscotch-cake-37">Butterscotch Cake</a></div>
+                        <div class="description">Butterscotch Cake not only has a buttery frosting but also the crunchy 
+pralines. When these sweet ..</div>
+                                                <div class="price">
+                                                        Rs.699                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.699</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/butterscotch-cake-37"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('37');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('37');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-0 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/vanilla-fruit-cake-2487">
+                            <img alt="Vanilla-Fruit Cake" class="first-image" data-src="image/cache/Cakes/double flavored cake (fruit and vanilla flavor)-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Vanilla-Fruit Cake" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/vanilla-fruit-cake-2487">Vanilla-Fruit Cake</a></div>
+                        <div class="description">'Mix and Match' is the true flavour of the season and this Cake is all 
+about that. This Half and H..</div>
+                                                <div class="price">
+                                                        Rs.1,645                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.1,645</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/vanilla-fruit-cake-2487"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2487');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2487');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-0 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/black-forest-sugarfree-cake-2506">
+                            <img alt="Black Forest Sugarfree Cake" class="first-image" data-src="image/cache/Cakes/black-forest-sugar-free-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Black Forest Sugarfree Cake" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/black-forest-sugarfree-cake-2506">Black Forest Sugarfree Cake</a></div>
+                        <div class="description">Everyone should get to enjoy a delicious Cake, even the ones controlling
+ their sugar. With the goo..</div>
+                                                <div class="price">
+                                                        Rs.799                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.799</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/black-forest-sugarfree-cake-2506"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2506');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2506');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-0 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/blue-teddy-birthday-cushion-2281">
+                            <img alt="Blue Teddy Birthday Cushion" class="first-image" data-src="image/cache/Friendshipdayproducts/IMGL5310-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Blue Teddy Birthday Cushion" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/blue-teddy-birthday-cushion-2281">Blue Teddy Birthday Cushion</a></div>
+                        <div class="description">Putting a big smile on someone's face on their Birthday is the best gift that you can give. With thi..</div>
+                                                <div class="price">
+                                                        Rs.395                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.395</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/blue-teddy-birthday-cushion-2281"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2281');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2281');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-0 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/simply-best-mug-1995">
+                            <img alt="Simply Best Mug" class="first-image" data-src="image/cache/Friendshipdayproducts/IMGL5203-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Simply Best Mug" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/simply-best-mug-1995">Simply Best Mug</a></div>
+                        <div class="description">How do you let someone know that they are the best? Simple, by gifting them this beautiful Ceramic M..</div>
+                                                <div class="price">
+                                                        Rs.395                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.395</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/simply-best-mug-1995"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('1995');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('1995');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-0 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/red-heart-fur-cushion-2690">
+                            <img alt="Red Heart Fur Cushion" class="first-image" data-src="image/cache/Personalized Gifts/cat_20151201162026-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Red Heart Fur Cushion" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/red-heart-fur-cushion-2690">Red Heart Fur Cushion</a></div>
+                        <div class="description">Express your love with this Heart-shaped Red Fur Cushion. This soft cushion has affection oozing fro..</div>
+                                                <div class="price">
+                                                        Rs.645                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.645</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/red-heart-fur-cushion-2690"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2690');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2690');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-0 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/pirate-minion-toy-2311">
+                            <img alt="Pirate Minion Toy" class="first-image" data-src="image/cache/1Rakhi/5I5B4293-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Pirate Minion Toy" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/pirate-minion-toy-2311">Pirate Minion Toy</a></div>
+                        <div class="description">Big or small, minions are loved by all. This soft Minion toy is very adorable. This is Pirate Minion..</div>
+                                                <div class="price">
+                                                        Rs.1,095                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.1,095</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/pirate-minion-toy-2311"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2311');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2311');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-1 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/amazing-surprise-2811">
+                            <img alt="Amazing Surprise" class="first-image" data-src="image/cache/2016-diwali/same-day-delivery/5I5B4326-800x800-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Amazing Surprise" width="250"/>
+                        </a>
+                                                                        <span class="label-latest"><b>New</b></span>
+                                                                                            </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/amazing-surprise-2811">Amazing Surprise</a></div>
+                        <div class="description">Something sweet and something nutty, this is what this Gift Hamper is all about. Make someone's day ..</div>
+                                                <div class="price">
+                                                        Rs.945                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.945</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/amazing-surprise-2811"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2811');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2811');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-1 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/nostalgic-thali-2810">
+                            <img alt="Nostalgic Thali" class="first-image" data-src="image/cache/1Rakhi/5I5B4429-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Nostalgic Thali" width="250"/>
+                        </a>
+                                                                        <span class="label-latest"><b>New</b></span>
+                                                                                            </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/nostalgic-thali-2810">Nostalgic Thali</a></div>
+                        <div class="description">Besan Ladoos are loved by all. They make us nostalgic and take us back to our granny's house. Gift s..</div>
+                                                <div class="price">
+                                                        Rs.1,595                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.1,595</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/nostalgic-thali-2810"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2810');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2810');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-1 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/sweet-and-nutty-thali-2809">
+                            <img alt="Sweet and Nutty Thali" class="first-image" data-src="image/cache/2016-diwali/same-day-delivery/5I5B4235-800x800-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Sweet and Nutty Thali" width="250"/>
+                        </a>
+                                                                        <span class="label-latest"><b>New</b></span>
+                                                                                            </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/sweet-and-nutty-thali-2809">Sweet and Nutty Thali</a></div>
+                        <div class="description">Gifting some sweets and dry fruits on Diwali is considered to be a sign of good luck. So, spread som..</div>
+                                                <div class="price">
+                                                        Rs.1,145                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.1,145</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/sweet-and-nutty-thali-2809"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2809');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2809');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-1 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/tale-of-two-2808">
+                            <img alt="Tale of Two" class="first-image" data-src="image/cache/Fathers Day/chocolates/5I5B2728copy-(2)-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Tale of Two" width="250"/>
+                        </a>
+                                                                        <span class="label-latest"><b>New</b></span>
+                                                                                            </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/tale-of-two-2808">Tale of Two</a></div>
+                        <div class="description">2 are always better than 1. Keeping in mind this thought, we have a set of 2 Rich Cocoa Bournville C..</div>
+                                                <div class="price">
+                                                        Rs.295                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.295</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/tale-of-two-2808"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2808');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2808');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-1 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/besan-ladoo-surprise-2807">
+                            <img alt="Besan Ladoo Surprise" class="first-image" data-src="image/cache/1Rakhi/5I5B4378-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Besan Ladoo Surprise" width="250"/>
+                        </a>
+                                                                        <span class="label-latest"><b>New</b></span>
+                                                                                            </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/besan-ladoo-surprise-2807">Besan Ladoo Surprise</a></div>
+                        <div class="description">Thinking about what to gift to someone on a happy occasion? Well, we have the perfect Hamper for tha..</div>
+                                                <div class="price">
+                                                        Rs.1,445                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.1,445</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/besan-ladoo-surprise-2807"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2807');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2807');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-1 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/wonderful-golden-thali-2806">
+                            <img alt="Wonderful Golden Thali" class="first-image" data-src="image/cache/1Rakhi/5I5B4438-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Wonderful Golden Thali" width="250"/>
+                        </a>
+                                                                        <span class="label-latest"><b>New</b></span>
+                                                                                            </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/wonderful-golden-thali-2806">Wonderful Golden Thali</a></div>
+                        <div class="description">A sumptuous surprise decorated in a beautiful Thali. This Golden Thali accounts for a great surprise..</div>
+                                                <div class="price">
+                                                        Rs.1,545                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.1,545</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/wonderful-golden-thali-2806"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2806');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2806');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-1 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/sweets-in-silver-thali-2805">
+                            <img alt="Sweets in Silver Thali" class="first-image" data-src="image/cache/1Rakhi/5I5B4435-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Sweets in Silver Thali" width="250"/>
+                        </a>
+                                                                        <span class="label-latest"><b>New</b></span>
+                                                                                            </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/sweets-in-silver-thali-2805">Sweets in Silver Thali</a></div>
+                        <div class="description">A beautiful Silver Thali with Besan Ladoos and Kaju Rolls as servings is hard to let go. Gift this m..</div>
+                                                <div class="price">
+                                                        Rs.1,745                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.1,745</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/sweets-in-silver-thali-2805"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2805');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2805');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-1 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/500gms-kaju-katli-2804">
+                            <img alt="500gms Kaju Katli" class="first-image" data-src="image/cache/2016-diwali/same-day-delivery/5I5B4390-800x800-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="500gms Kaju Katli" width="250"/>
+                        </a>
+                                                                        <span class="label-latest"><b>New</b></span>
+                                                                                            </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/500gms-kaju-katli-2804">500gms Kaju Katli</a></div>
+                        <div class="description">Kaju Katli is everyone's favourite. One can never be satisfied with just one piece of this delicacy...</div>
+                                                <div class="price">
+                                                        Rs.1,145                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.1,145</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/500gms-kaju-katli-2804"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2804');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2804');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-1 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/ladoo-thali-2803">
+                            <img alt="Ladoo Thali" class="first-image" data-src="image/cache/1Rakhi/5I5B4196-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Ladoo Thali" width="250"/>
+                        </a>
+                                                                        <span class="label-latest"><b>New</b></span>
+                                                                                            </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/ladoo-thali-2803">Ladoo Thali</a></div>
+                        <div class="description">Instead of gifting a box of sweets just like that, decorate them in a special way. This Golden Stud ..</div>
+                                                <div class="price">
+                                                        Rs.945                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.945</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/ladoo-thali-2803"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2803');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2803');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-1 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/haldirams-250-gms-kaju-rolls-2802">
+                            <img alt="Haldirams 250 gms Kaju Rolls" class="first-image" data-src="image/cache/1Rakhi/5I5B4362-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Haldirams 250 gms Kaju Rolls" width="250"/>
+                        </a>
+                                                                        <span class="label-latest"><b>New</b></span>
+                                                                                            </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/haldirams-250-gms-kaju-rolls-2802">Haldirams 250 gms Kaju Rolls</a></div>
+                        <div class="description">Haldiram's Kaju Rolls are rich in flavour and incredibly appealing to the eyes. They are sweet and j..</div>
+                                                <div class="price">
+                                                        Rs.645                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.645</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/haldirams-250-gms-kaju-rolls-2802"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2802');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2802');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-1 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/soan-papdi-2801">
+                            <img alt="Soan Papdi" class="first-image" data-src="image/cache/2016-diwali/same-day-delivery/5I5B4219-800x800-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Soan Papdi" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/soan-papdi-2801">Soan Papdi</a></div>
+                        <div class="description">Premium pack of Soan Papdi is light, flaky and made with pure Desi Ghee. It melts in the mouth and s..</div>
+                                                <div class="price">
+                                                        Rs.345                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.345</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/soan-papdi-2801"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2801');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2801');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                        <div class="product-grid-item isotope-element section-1 xs-50 sm-50 md-50 lg-25 xl-25 display-icon block-button ">
+                <div class="product-wrapper " style="">
+                                        <div class="image">
+                        <a href="http://www.myflowertree.com/nutty-thali-2800">
+                            <img alt="Nutty Thali" class="first-image" data-src="image/cache/1Rakhi/5I5B4223-250x250.jpg" height="250" src="image/cache/data/journal2/transparent-250x250.png" title="Nutty Thali" width="250"/>
+                        </a>
+                                                                    </div>
+                                        <div class="product-details">
+                        <div class="name"><a href="http://www.myflowertree.com/nutty-thali-2800">Nutty Thali</a></div>
+                        <div class="description">Surprise someone with this Beautiful Golden Stud Thali which has lots of Dry Fruits in it. With 100 ..</div>
+                                                <div class="price">
+                                                        Rs.1,595                                                                                    <hr/>
+                            <span class="price-tax">Ex Tax: Rs.1,595</span>
+                                                    </div>
+                                                                        <hr/>
+                                                <div class="cart ">
+                            <a class="button hint--top" data-hint="Buy Now" href="http://www.myflowertree.com/nutty-thali-2800"><i class="button-left-icon"></i><span class="button-cart-text">Buy Now</span><i class="button-right-icon"></i></a>
+                        </div>
+                                                <div class="wishlist"><a class="hint--top" data-hint="Add to Wish List" onclick="addToWishList('2800');"><i class="wishlist-icon"></i><span class="button-wishlist-text">Add to Wish List</span></a></div>
+                        <div class="compare"><a class="hint--top" data-hint="Compare this Product" onclick="addToCompare('2800');"><i class="compare-icon"></i><span class="button-compare-text">Compare this Product</span></a></div>
+                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+    <script>
+        (function(){
+            var $isotope = $('#cs-463180683 .product-grid');
+            var $filters = $('#cs-463180683 .box-heading a[data-option-value]');
+
+                        $isotope.each(function () {
+                Journal.equalHeight($(this).find('.product-grid-item'), '.name');
+                Journal.equalHeight($(this).find('.product-grid-item'), '.description');
+            });
+            
+            var $images = $('#cs-463180683 .image img');
+            $images.lazy();
+
+            $isotope.imagesLoaded(function () {
+                $isotope.isotope({
+                    itemSelector: '.isotope-element',
+                    layoutMode: 'sloppyMasonry'
+                });
+            });
+
+            $filters.click(function () {
+                var $this = $(this);
+                if ($this.hasClass('selected')) {
+                    return false;
+                }
+                $filters.removeClass('selected');
+                $this.addClass('selected');
+                $isotope.isotope({
+                    filter: '.' + $this.attr('data-option-value')
+                })
+            });
+
+            var default_section = '0';
+            if (default_section !== '') {
+                $('#cs-463180683 .box-heading a[data-option-value="section-' + default_section + '"]').click();
+            }
+
+                                }());
+    </script>
+</div>
+</div>
+    
+    </div>
+</div>
+
+<!-- Google Code for Remarketing Tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+var google_tag_params = {
+ecomm_prodid: "",
+ecomm_pagetype: 'home',
+ecomm_totalvalue: 
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 901135751;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/901135751/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+</div>
+<div id="bottom-modules">
+   <div class="journal2_advanced_grid " style="background-color: rgb(244, 244, 244); background-attachment: scroll; padding-top: 20px; padding-bottom: 20px"><div class="multi-modules-wrapper " id="multi-module-1734776592" style="max-width: 1140px; background-attachment: scroll">
+    <div class="box multi-modules" style="margin-right: -20px">
+                <div class="multi-modules-column xs-33 sm-33 md-33 lg-33 xl-33" style="height: 420px; padding-right: 20px">
+                                    <div class="multi-modules-row " data-ratio="50" style="height: 190px; margin-bottom: 20px">
+                <div class="box static-banners " id="static-banners-147163731" style="">
+    <div>
+        <div class="box-content ">
+                <div class="static-banner xs-100 sm-100 md-100 lg-100 xl-100">
+                        <a href="http://www.myflowertree.com/love-romance"> <span class="banner-overlay" style=";  background-color: rgba(0, 0, 0, 0.48) "><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 25px"></i></span><img alt="" height="234" src="image/cache/data/1-500x234.jpg" style="" width="500"/></a>
+                    </div>
+            </div>
+        </div>
+</div>            </div>
+                                                <div class="multi-modules-row " data-ratio="50" style="height: 190px">
+            <div class="box static-banners " id="static-banners-880152002" style="">
+    <div>
+        <div class="box-content ">
+                <div class="static-banner xs-100 sm-100 md-33 lg-100 xl-100">
+                        <a href="http://www.myflowertree.com/personalized-gifts-main"> <span class="banner-overlay" style=";  background-color: rgba(0, 0, 0, 0.71) "><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 25px"></i></span><img alt="Personalized" height="234" src="image/cache/data/cat-bottom/10-500x234.jpg" style="" width="500"/></a>
+                    </div>
+            </div>
+        </div>
+</div>            </div>
+                                </div>
+                <div class="multi-modules-column xs-33 sm-33 md-33 lg-33 xl-33" style="height: 420px; padding-right: 20px">
+                                    <div class="multi-modules-row " data-ratio="50" style="height: 190px; margin-bottom: 20px">
+                <div class="box static-banners " id="static-banners-170302564" style="">
+    <div>
+        <div class="box-content ">
+                <div class="static-banner xs-100 sm-100 md-100 lg-100 xl-100">
+                        <a href="http://www.myflowertree.com/mugs-and-cushions"> <span class="banner-overlay" style=";  background-color: rgba(0, 0, 0, 0.72) "><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 25px"></i></span><img alt="" height="234" src="image/cache/data/cat-bottom/8-500x234.jpg" style="" width="500"/></a>
+                    </div>
+            </div>
+        </div>
+</div>            </div>
+                                                <div class="multi-modules-row " data-ratio="50" style="height: 190px">
+            <div class="box static-banners " id="static-banners-1073145300" style="">
+    <div>
+        <div class="box-content ">
+                <div class="static-banner xs-100 sm-100 md-100 lg-100 xl-100">
+                        <a href="http://www.myflowertree.com/theme-cakes"> <span class="banner-overlay" style=";  background-color: rgba(0, 0, 0, 0.51) "><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 25px"></i></span><img alt="" height="234" src="image/cache/data/5-500x234.jpg" style="" width="500"/></a>
+                    </div>
+            </div>
+        </div>
+</div>            </div>
+                                </div>
+                <div class="multi-modules-column xs-33 sm-33 md-33 lg-33 xl-33" style="height: 420px; padding-right: 20px">
+                                    <div class="multi-modules-row " data-ratio="50" style="height: 190px; margin-bottom: 20px">
+                <div class="box static-banners " id="static-banners-1020910659" style="">
+    <div>
+        <div class="box-content ">
+                <div class="static-banner xs-100 sm-100 md-100 lg-100 xl-100">
+                        <a href="http://www.myflowertree.com/everything-under-499"> <span class="banner-overlay" style=";  background-color: rgba(0, 0, 0, 0.61) "><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 25px"></i></span><img alt="" height="234" src="image/cache/data/3-500x234.jpg" style="" width="500"/></a>
+                    </div>
+            </div>
+        </div>
+</div>            </div>
+                                                <div class="multi-modules-row " data-ratio="50" style="height: 190px">
+            <div class="box static-banners " id="static-banners-1286759769" style="">
+    <div>
+        <div class="box-content ">
+                <div class="static-banner xs-100 sm-100 md-100 lg-100 xl-100">
+                        <a href="http://www.myflowertree.com/99-gorgeous-bouquets"> <span class="banner-overlay" style=";  background-color: rgba(0, 0, 0, 0.71) "><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 25px"></i></span><img alt="" height="234" src="image/cache/data/6-500x234.jpg" style="" width="500"/></a>
+                    </div>
+            </div>
+        </div>
+</div>            </div>
+                                </div>
+                <div class="clearfix"> </div>
+    </div>
+
+    <script>
+        (function () {
+            var $wrapper = $('#multi-module-1734776592');
+            var $columns = $('#multi-module-1734776592 .multi-modules-column');
+                        var orig_width = parseInt('1140', 10);
+                        var orig_height = parseInt('420', 10);
+            var module_spacing = parseInt('20px', 10);
+
+            var ratio = orig_height * 1.0 / orig_width;
+
+            var wrapper_resize = function  () {
+                $wrapper.find('.container-dimensions').remove();
+                var height = Math.round(($wrapper.width()) * ratio);
+                $columns.each(function () {
+                    $(this).height(height);
+                });
+                $columns.each(function () {
+                    var $column = $(this);
+                    var $rows = $column.find('.multi-modules-row');
+                    $rows.each(function () {
+                      $(this).height(Math.round(($column.height() - module_spacing * $rows.length) * $(this).attr('data-ratio') / 100));
+                                            });
+                });
+            };
+            $(window).resize(wrapper_resize);
+            wrapper_resize();
+        })();
+    </script>
+</div>
+</div>
+<div class="journal2_cms_blocks " style="background-color: rgb(255, 255, 255); background-attachment: scroll; padding-top: 15px; padding-bottom: 15px"><div class="box cms-blocks " id="journal-cms-block-114303213" style="max-width: 1140px; background-attachment: scroll">
+        <div class="blocks">
+    <div class="cms-block xs-100 sm-100 md-100 lg-100 xl-100">
+                <span class="block-content" style="background-color: rgb(255, 255, 255)">
+                        <div class="editor-content" style="text-align: left"> <h1 style="text-align: justify;"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; color: rgb(102, 153, 153);">Send Flowers Online, Deliver Cake in India By MyFlowerTree</span></h1>
+
+<p style="text-align: justify;">Happiness is the best thing to gift and share with others. This is the very essence of the online delivery services of MyFlowerTree. Founded with an aim to create a premium online fresh flower delivery service, ‘MyFlowerTree’ today holds its position as a leading online floral store in India that caters its services to over 300 hundred cities in India though it started its journey with only 20. It has office in 7 cities across India and 2 International offices at Boston, USA and Basildon (UK).</p>
+
+<p style="text-align: justify;">MFT today is a brand recognized for its expert professional services, reliability and quality. It takes pride in the fact that it is the only brand that stands on the same pedestal as many international online flower delivery services. Through well experienced staff, dedicated support and consistent efforts MFT travels miles to bring happiness and smile to people from their loved ones.</p>
+
+<h2 style="text-align: justify;"><span style="color:#669999;"><span style="font-size:18px;">How MyFlowerTree is Different from other Online Florists in India?</span></span></h2>
+
+<p style="text-align: justify;">MyFlowerTree has many unique features that distinguish it from the competitors. It offers the best competitive prices without any compromise in the quality of its products. Also, it has a highly skilled and experienced work-force.</p>
+
+<h2 style="text-align: justify;"><span style="color:#669999;"><span style="font-size:18px;">Same Day Flowers Delivery in India</span></span></h2>
+
+<p style="text-align: justify;">With MFT you can avail same day flowers delivery in India, which means you don’t necessarily place an advance order. Simply place it on the same day and get it delivered within a few hours. The service comes handy if you have slipped out on remembering some loved ones birthday or anniversary. You can place the order as soon as you remember and the delivery will be made as a sweet surprise to that person.</p>
+
+<h2 style="text-align: justify;"><span style="color:#669999;"><span style="font-size:18px;">Midnight Flower Delivery in India</span></span></h2>
+
+<p style="text-align: justify;">We bring you another sweet delight with our midnight delivery in India. Now, you don’t have to think twice for planning a surprise. With this facility you can send flowers, cakes and gifts to your loved ones at midnight. This will surely be the happiest moment of the day for them that they will cherish forever. Plan such sweet surprises for your mom, friends, brother or any other loved one on their birthday or other special day.</p>
+
+<h2 style="text-align: justify;"><span style="color:#669999;"><span style="font-size:18px;">Customer Care Support</span></span></h2>
+
+<p style="text-align: justify;">With our dedicated customer care support we ensure you no hassle in enquiries. We have a friendly customer support that will answer your queries anytime. Whether you want to enquire about our products or want to track your order, we are there to help you. It helps avoid any hassles in the delivery as well as provide satisfaction to customers by resolving their queries very efficiently that too on the spot. So, Just Make Someone Happy Today</p>
+
+<h2 style="text-align: justify;"><span style="color:#669999;"><span style="font-size:18px;">Send Flowers to India from MyFlowerTree</span></span></h2>
+
+<p style="text-align: justify;">There is no greater a happiness than seeing your dear ones happy and smile. Such surprises are easier to plan now with Send Online Flowers and Cake Delivery services. You don't always need a justified reason or special occasion to send gifts someone you love, and the best presents are the ones that come unexpected. The best appreciated and most cherished gifts are the ones received when you expect it the least. When you have love and care for someone, don't wait for a special occasion to show them, a gorgeous <strong><a href="http://www.myflowertree.com/flowers">Send Online Flowers Bouquet</a></strong> or a box of chocolates can convey it with ease. Gifting is much more than just giving physical goods to someone, it is a way of celebration, a way to show appreciation, a way to sympathize, a way to love, and a way to pamper. And it is all done easy with 'MyFlowerTree' that presents you the largest online market for Send Online Flower Gift Delivery.</p>
+
+<p style="text-align: justify;">The services of 'MyFlowerTree' include online Flowers and Cake Delivery and many other gifts with a wide range of products. Now, make days special for your friends, family and loved ones without any constraints. Send flowers bouquets online with a midnight delivery to make your mom begin the day with a great smile and it's all done within minutes with the high speed and unrivalled online flowers delivery services from 'MyFlowerTree'. Send gifts to your friends and family members living away in other cities and plan a memorable surprise for them with a midnight delivery of cake and flowers.</p>
+
+<p style="text-align: justify;">Finding the right gift is no more a difficult task with so many options provided online. So, now send gifts to your entire loved one anytime and anywhere without much hunt and hassle and make the day special for all the special people in your life. There are plenty of ways and ideas to <strong><a href="http://www.myflowertree.com/cakes">Send Cake Online</a></strong> with 'MyFlowerTree' to make each occasion stand unique and memorable. Share laughter and joy by online gift delivery services and make the most of the moments for your near and dear ones. Choose beautiful Flower bouquets, delicious cakes and cup-cakes or great personalized gifts, with a special range for each occasion. 'MyFlowerTree' is more than happy to help.</p></div>
+        </span>
+    </div>
+</div>
+</div>
+<script>Journal.equalHeight($('#journal-cms-block-114303213 .cms-block'), '.block-content');</script></div></div>
+<footer class="fullwidth-footer">
+    <div id="footer">
+        <div class="row columns " style="background-color: rgb(63, 87, 101); background-repeat: repeat; background-position: center top; background-attachment: scroll; padding-bottom: 10px">
+        <div class="column newsletter xs-100 sm-100 md-100 lg-100 xl-100 no-title">
+                        <div class="box journal-newsletter text-left " id="journal-newsletter-784147641" style="">
+        <div class="box-content" style="background-repeat: repeat; background-position: center top; background-attachment: scroll; padding: 10px">
+                <span class="newsletter-text" style="font-weight: normal; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-style: italic; text-transform: none; color: rgb(255, 255, 255)">Stay up to date with news and promotions by signing up for our weekly newsletter.</span>
+                <span class="newsletter-input-wrap" style="height: 39px">
+            <input class="newsletter-email" placeholder="Email Address..." style="" type="text"/>
+            <a class="newsletter-button button" onclick="Journal.newsletter($('#journal-newsletter-784147641'));" style="margin-top: -2px; right: 3px">Sign Up</a>
+        </span>
+    </div>
+</div>            </div>
+    </div>
+<div class="row columns " style="background-attachment: scroll">
+        <div class="column menu xs-100 sm-50 md-50 lg-20 xl-20 ">
+                <h3>Send Flowers</h3>
+                        <div class="column-menu-wrap">
+        <ul>
+                                    <li><a href="http://www.myflowertree.com/delhi-flowers"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Send Flowers to Delhi</a></li>
+                                                <li><a href="http://www.myflowertree.com/bangalore-flowers"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Send Flowers to Bangalore</a></li>
+                                                <li><a href="http://www.myflowertree.com/kolkata-flowers"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Send Flowers to Kolkata</a></li>
+                                                <li><a href="http://www.myflowertree.com/mumbai-flowers"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Send Flowers to Mumbai</a></li>
+                                                <li><a href="http://www.myflowertree.com/pune-flowers"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Send Flowers to Pune</a></li>
+                                                <li><a href="http://www.myflowertree.com/chennai-flowers"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Send Flowers to Chennai</a></li>
+                                                <li><a href="http://www.myflowertree.com/hyderabad-flowers"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Send Flowers to Hyderabad</a></li>
+                                                <li><a href="http://www.myflowertree.com/noida-flowers"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Send Flowers to Noida</a></li>
+                                                <li><a href="http://www.myflowertree.com/gurgaon-flowers"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Send Flowers to Gurgaon</a></li>
+                                                <li><a href="http://www.myflowertree.com/delivery-cities"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>All Delivery Cities</a></li>
+                                </ul>
+        </div>
+            </div>
+        <div class="column menu xs-100 sm-50 md-50 lg-20 xl-20 ">
+                <h3>Send Cakes</h3>
+                        <div class="column-menu-wrap">
+        <ul>
+                                    <li><a href="http://www.myflowertree.com/delhi-cakes"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Deliver Cakes to Delhi</a></li>
+                                                <li><a href="http://www.myflowertree.com/bangalore-cakes"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Deliver Cakes to Bangalore</a></li>
+                                                <li><a href="http://www.myflowertree.com/kolkata-cakes"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Deliver Cakes to Kolkata</a></li>
+                                                <li><a href="http://www.myflowertree.com/mumbai-cakes"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Deliver Cakes to Mumbai</a></li>
+                                                <li><a href="http://www.myflowertree.com/pune-cakes"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Deliver Cakes to Pune</a></li>
+                                                <li><a href="http://www.myflowertree.com/chennai-cakes"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Deliver Cakes to Chennai</a></li>
+                                                <li><a href="http://www.myflowertree.com/hyderabad-cakes"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Deliver Cakes to Hyderabad</a></li>
+                                                <li><a href="http://www.myflowertree.com/noida-cakes"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Deliver Cakes to Noida</a></li>
+                                                <li><a href="http://www.myflowertree.com/gurgaon-cakes"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Deliver Cakes to Gurgaon</a></li>
+                                </ul>
+        </div>
+            </div>
+        <div class="column menu xs-100 sm-50 md-50 lg-20 xl-20 ">
+                <h3>Send By Category</h3>
+                        <div class="column-menu-wrap">
+        <ul>
+                                    <li><a href="http://www.myflowertree.com/cakes"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Cakes</a></li>
+                                                <li><a href="http://www.myflowertree.com/flowers"><i data-icon="" style="margin-right: 5px; font-size: 14px"></i>Flowers</a></li>
+                                                <li><a href="http://www.myflowertree.com/gifting"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Gifts</a></li>
+                                                <li><a href="http://www.myflowertree.com/combos"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Combos</a></li>
+                                                <li><a href="http://www.myflowertree.com/green-plants"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Green Plants</a></li>
+                                                <li><a href="http://www.myflowertree.com/chocolates"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Chocolates</a></li>
+                                                <li><a href="http://www.myflowertree.com/sameday-delivery"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Sameday Delivery</a></li>
+                                                <li><a href="http://www.myflowertree.com/midnight-delivery"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Midnight Delivery</a></li>
+                                                <li><a href="http://www.myflowertree.com/international"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>International</a></li>
+                                                <li><a href="http://www.myflowertree.com/remote-city-catalogue"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Remote City Catalogue</a></li>
+                                </ul>
+        </div>
+            </div>
+        <div class="column menu xs-100 sm-50 md-50 lg-20 xl-20 ">
+                <h3>Occasion</h3>
+                        <div class="column-menu-wrap">
+        <ul>
+                                    <li><a href="http://www.myflowertree.com/anniversary"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Anniversary</a></li>
+                                                <li><a href="http://www.myflowertree.com/birthday"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Birthday</a></li>
+                                                <li><a href="http://www.myflowertree.com/congratulations"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Congratulations</a></li>
+                                                <li><a href="http://www.myflowertree.com/get-well"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Get Well Soon</a></li>
+                                                <li><a href="http://www.myflowertree.com/i-am-sorry"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 16px"></i>Say Sorry</a></li>
+                                                <li><a href="http://www.myflowertree.com/just-because"><i data-icon="" style="margin-right: 5px; font-size: 14px"></i>Just Because</a></li>
+                                                <li><a href="http://www.myflowertree.com/love-romance"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Love and Romance</a></li>
+                                                <li><a href="http://www.myflowertree.com/new-baby"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>New Baby</a></li>
+                                                <li><a href="http://www.myflowertree.com/thank-you"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Thank You</a></li>
+                                                <li><a href="http://www.myflowertree.com/business-gifting"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px"></i>Business Gifting</a></li>
+                                </ul>
+        </div>
+            </div>
+        <div class="column menu xs-100 sm-50 md-50 lg-20 xl-20 ">
+                <h3>Information</h3>
+                        <div class="column-menu-wrap">
+        <ul>
+                                    <li><a href="http://www.myflowertree.com/index.php?route=account/login">Login</a></li>
+                                                <li><a href="http://www.myflowertree.com/about-us">About Us</a></li>
+                                                <li><a href="http://www.myflowertree.com/index.php?route=account/order">Order History</a></li>
+                                                <li><a class="wishlist-total" href="http://www.myflowertree.com/index.php?route=account/wishlist">Wish List (<span class="product-count">0</span>)</a></li>
+                                                <li><a href="http://www.myflowertree.com/index.php?route=account/newsletter">Newsletter</a></li>
+                                                <li><a href="http://www.myflowertree.com/index.php?route=information/sitemap">Site Map</a></li>
+                                                <li><a href="http://www.myflowertree.com/index.php?route=information/contact">Contact Us</a></li>
+                                                <li><a href="http://www.myflowertree.com/faq">FAQ</a></li>
+                                                <li><a href="http://www.myflowertree.com/special-offers">Special Offers</a></li>
+                                                <li><a href="http://www.myflowertree.com/terms-of-use">Terms &amp; Conditions</a></li>
+                                                <li><a href="http://www.myflowertree.com/floristlogin">Florist Login</a></li>
+                                                <li><a href="http://www.myflowertree.com/corporatelogin">Corporate Login</a></li>
+                                </ul>
+        </div>
+            </div>
+    </div>
+<div class="row contacts" style="background-attachment: scroll">
+        <div class="contacts-left">
+                                <span class="hint--top" data-hint="Facebook"><a href="https://www.facebook.com/MyFlowerTree/" target="_blank"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 18px"></i><span class="contacts-text"></span></a></span>
+                                        <span class="hint--top" data-hint="Twitter"><a href="https://twitter.com/myflowertreemft" target="_blank"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 18px; top: 1px"></i><span class="contacts-text"></span></a></span>
+                                        <span class="hint--top" data-hint="Google +"><a href="https://plus.google.com/b/105143905660126743709/105143905660126743709/posts" target="_blank"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 18px"></i><span class="contacts-text"></span></a></span>
+                                        <span class="hint--top" data-hint="YouTube"><a href="https://www.youtube.com/user/MyFlowerTree/about"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 18px"></i><span class="contacts-text"></span></a></span>
+                                        <span class="hint--top" data-hint="Pinterest"><a href="https://www.pinterest.com/myflowertreemft/"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 18px"></i><span class="contacts-text"></span></a></span>
+                                        <span class="hint--top" data-hint="LinkedIn"><a href="https://www.linkedin.com/company/myflowertree-com"><i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 18px"></i><span class="contacts-text"></span></a></span>
+                    </div>
+        </div>
+<div class="row columns " style="background-attachment: scroll; margin-bottom: 20px">
+    </div>    </div>
+    <div class="bottom-footer fullwidth-bar">
+        <div class="">
+                        <div class="copyright">Copyright © 2009-2016, MyFlowerTree.com, All Rights Reserved.</div>
+                                    <div class="payments">
+                                                <img alt="Visa" class="lazy" data-src="image/cache/data/journal2/cards/visa-51x32.png" height="32" src="image/cache/data/journal2/transparent-51x32.png" width="51"/>
+                                                                <img alt="MasterCard" class="lazy" data-src="image/cache/data/journal2/cards/mc-51x32.png" height="32" src="image/cache/data/journal2/transparent-51x32.png" width="51"/>
+                                                                <img alt="Maestro" class="lazy" data-src="image/cache/data/journal2/cards/maestro-51x32.png" height="32" src="image/cache/data/journal2/transparent-51x32.png" width="51"/>
+                                                                <img alt="Discover" class="lazy" data-src="image/cache/data/journal2/cards/disc-51x32.png" height="32" src="image/cache/data/journal2/transparent-51x32.png" width="51"/>
+                                                                <img alt="American Express" class="lazy" data-src="image/cache/data/journal2/cards/ax-51x32.png" height="32" src="image/cache/data/journal2/transparent-51x32.png" width="51"/>
+                                                                <img alt="PayPal" class="lazy" data-src="image/cache/data/journal2/cards/pp-51x32.png" height="32" src="image/cache/data/journal2/transparent-51x32.png" width="51"/>
+                                            </div>
+                    </div>
+    </div>
+</footer>
+<div class="scroll-top"></div>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.swipebox.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.hoverIntent.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.pnotify.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.autocomplete2.min.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/respond.js" type="text/javascript"></script>
+<script src="http://mftcdn.myflowertree.com/live-site-2016/js/jquery.sticky.js" type="text/javascript"></script>
+<script src="http://www.myflowertree.com/catalog/view/theme/journal2/js/init.js" type="text/javascript"></script>
+<script src="index.php?route=journal2/assets/js&amp;j2v=2.6.9" type="text/javascript"></script>
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?6Olqbrvakm6Phh7VYar838RJD19b8IZP";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+
+<script type="text/javascript">
+$(window).bind("load", function() {
+	var timeout = setTimeout(function() { 
+		//Google Analytics
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		  ga('create', 'UA-15925960-1', 'auto');
+		  ga('require', 'displayfeatures');
+		  ga('send', 'pageview');  
+	}, 7000);
+});
+</script>
+<!--Start of Connecto Script-->
+<script type="text/javascript">
+var _TConnecto = _TConnecto || {};
+_TConnecto.licenseKey = 'LIRKJOQUM6XYEW1W';
+
+(function() {
+var con = document.createElement('script'); con.type = 'text/javascript';
+var host = (document.location.protocol === 'http:') ? 'http://cdn' : 'https://server';
+con.src = host + '.connecto.io/javascripts/connect.prod.min.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(con, s);
+})();
+</script>
+<!--End of Connecto Script-->
+
+
+
+
+
+</body></html>

@@ -1,0 +1,551 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Send Flowers to Pune, Send Diwali Gifts to Pune, Cake Delivery in Pune</title>
+<meta content="send flowers to pune, online Diwali Gifts delivery in pune, send flowers online to pune, Diwali gifts to pune, online birthday gifts pune, online bouquet delivery in pune, online cake and flower delivery in pune, " name="keywords"/>
+<meta content="Send Gifts and Flowers to Pune - Order Flowers, cake, chocolate, Diwali Gifts in Pune. we also provides Dry-Fruits And Soft Toys With Same Day Delivery in Pune - Puneflowermall.com" name="description"/>
+<meta content="index, follow" name="robots"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css"/>
+<link href="style.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//cdn.zopim.com/?r2ozJhWU2GnsWqXFexaPdRZkGliGvrJj';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+</head>
+<body><div align="center"><table border="3" bordercolor="#ffcc66" width="100"><tbody><tr><td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100">
+      <tbody><tr>
+        <td align="center" class="background">Flowers Delivery in Pune | Diwali Gifts to Pune | Cake Delivery in Pune</td></tr>
+  <tr>
+    <td>
+    <table bgcolor="#C17D12" border="0" cellpadding="0" cellspacing="0" width="848">
+      
+      <tbody><tr class="header">
+        <td width="50"><a href="index.htm">Home</a></td>
+        <td width="71"><a href="about.htm">About Us</a></td>
+        <td width="113"><a href="offline.htm">Offline Payment</a></td>
+        <td width="135"><a href="midnight.htm">Midnight Delivery</a></td>
+        <td width="174"><a href="extracharge.htm">Extra Delivery Charge</a><a href="terms.htm"></a></td>
+        <td width="98"><a href="contact.htm">Contact Us</a></td>
+        <td width="117"><a href="fixtime_delivery.htm">Fixtime Delivery</a></td>
+        <td width="90"><a href="location.htm">Location</a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td><a href="diwali.htm">
+	<img alt="Flowers, Gifts and Cakes to Pune" border="0" height="200" src="images/banner_2.jpg" width="848"/></a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#CC0033"><ul class="MenuBarHorizontal" id="MenuBar1">
+      <li><a class="MenuBarItemSubmenu" href="flower.htm">Flowers</a>
+        <ul>
+          <li><a href="rose_red.htm">Red Roses</a></li>
+          <li><a href="rose_pink.htm">Pink Roses</a></li>
+          <li><a href="rose_yellow.htm">Yellow Roses</a></li>
+          <li><a href="rose_peach.htm">Peach Roses</a></li>
+          <li><a href="rose_white.htm">White Roses</a></li>
+          <li><a href="rose_mix.htm">Mix Roses</a></li>
+          <li><a href="orchid.htm">Orchids</a></li>
+          <li><a href="gerbera.htm">Gerbera</a></li>
+          <li><a href="lily.htm">Lily</a></li>
+          <li><a href="carnation.htm">Carnation</a></li>
+          <li><a href="glad.htm">Glads</a></li>
+          <li><a href="anthurium.htm">Anthurium/BOP</a></li>
+          <li><a href="bouquet.htm">Flower Bouquet</a></li>
+          <li><a href="basket.htm">Flower Basket</a></li>
+          <li><a href="vase.htm">Flower in Vase</a></li>
+        </ul>
+      </li>
+      <li><a class="MenuBarItemSubmenu" href="cake.htm">Cakes</a>
+        <ul>
+          <li><a href="cake_round.htm">Round Cake</a></li>
+          <li><a href="cake_square.htm">Square Cake</a></li>
+          <li><a href="cake_heart.htm">Heart Cake</a></li>
+          <li><a href="cake_eggless.htm">Eggless Cake</a></li>
+          <li><a href="cake_star.htm">Star Cake</a></li>
+          <li><a href="cake_tier.htm">Tier Cake</a></li>
+          <li><a href="cake_character.htm">Character Cake</a></li>
+          <li><a href="cake_shape.htm">Shape Cake</a></li>
+        </ul>
+      </li>
+      <li><a class="MenuBarItemSubmenu" href="chocolate.htm">Chocolates</a>
+        <ul>
+          <li><a href="chocolate_alltime.htm">All Time Favorite</a>            </li>
+          <li><a href="chocolate_indian.htm">Indian</a></li>
+          <li><a href="chocolate_imported.htm">Imported</a></li>
+          <li><a href="cookies.htm">Cookies</a></li>
+        </ul>
+      </li>
+      <li><a href="sweet.htm">Sweets</a></li>
+      <li><a href="dryfruit.htm">Dry Fruits</a></li>
+      <li><a class="MenuBarItemSubmenu" href="#">Occasion</a>
+        <ul>
+          <li><a href="anniversary.htm">Anniversary Gifts</a></li>
+          <li><a href="birthday.htm">Birthday Gifts</a></li>
+          <li><a href="bhaidooj.htm">Bhai Dooj Gifts</a></li>
+          <li><a href="christmas.htm">Christmas Gifts</a></li>
+          <li><a href="condolence.htm">Condolence</a></li>
+          <li><a href="diwali.htm">Diwali Gifts</a></li>
+          <li><a href="durga.htm">Durga Puja Gifts</a></li>
+          <li><a href="dussehra.htm">Dussehra Gifts</a></li>
+          <li><a href="father.htm">Fathers Day</a></li>
+          <li><a href="friend.htm">Friendship Day</a></li>
+          <li><a href="ganesh.htm">Ganesh Chaturthi</a></li>
+          <li><a href="getwellsoon.htm">Get Well Soon</a></li>
+          <li><a href="holi.htm">Holi Gifts</a></li>
+          <li><a href="housewarming.htm">House Warming</a></li>
+          <li><a href="karvachauth.htm">Karva Chauth</a></li>
+          <li><a href="mother.htm">Mothers Day</a></li>
+          <li><a href="newborn.htm">New Born Gifts</a></li>
+          <li><a href="new year.htm">New Year Gifts</a></li>
+          <li><a href="onam.htm">Onam Gifts</a></li>
+          <li><a href="rakhi.htm">Rakhi Gifts</a></li>
+          <li><a href="valentine.htm">Valentines Day Gifts</a></li>
+          <li><a href="wedding.htm">Wedding Gifts</a></li>
+        </ul>
+      </li>
+      <li><a class="MenuBarItemSubmenu" href="#">More</a>
+        <ul>
+<li><a href="softtoy.htm">Soft Toys</a></li>
+<li><a href="combination.htm">Combinations</a></li>
+<li><a href="apparels.htm">Apparels</a></li>
+<li><a href="kid.htm">Gifts For Kids</a></li>
+<li><a href="him.htm">Gifts For Him</a></li>
+<li><a href="her.htm">Gifts For Her</a></li>
+<li><a href="fruits.htm">Fresh Fruits</a></li>
+<li><a href="crystal.htm">Decoratives</a></li>
+<li><a href="kitchen.htm">Kitchen Ware</a></li>
+<li><a href="watch.htm">Watches</a></li>
+<li><a href="home_decor1.htm">Home Decor</a></li>
+<li><a href="corporate.htm">Corporate Gifts</a></li>
+<li><a href="personalized_gift.htm">Personalized Gifts</a></li>
+<li><a href="perfume.htm">Perfumes</a></li>
+
+        </ul>
+      </li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+<td>
+    <p align="center"><b><font face="Arial" size="2">Click Here to
+    <font color="#000080"> </font><a href="diwali.htm" style="text-decoration: none"><font color="#000080">Send Diwali Gifts to Pune</font></a></font></b></p></td></tr>
+  <tr>
+    <td class="background"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td align="left" colspan="9"><a href="flower.htm"><img alt="Flowers" border="0" height="30" src="images/flo.jpg" width="130"/></a></td>
+        </tr>
+      <tr align="center">
+        <td> </td>
+        <td><div align="center"><a href="flower.htm"><img alt="Flowers to Pune" height="200" src="images/flo1.jpg" width="200"/></a></div></td>
+        <td> </td>
+        <td><div align="center"><a href="flower.htm"><img alt="Send Flowers to Pune" height="200" src="images/flo2.jpg" width="200"/></a></div></td>
+        <td> </td>
+        <td><div align="center">
+			<a href="flower.htm">
+			<img alt="Flowers to Pune , Send Flowers to Pune" height="200" src="images/flo3.jpg" width="200"/></a></div></td>
+        <td> </td>
+        <td><div align="center">
+			<a href="flower.htm">
+			<img alt="Send Fresh Flowers to Pune" height="200" src="images/flo4.jpg" width="200"/></a></div></td>
+        <td> </td>
+      </tr>
+      <tr align="center">
+        <td> </td>
+        <td>Mix Flower Bouquet<br/>50 Flowers<br/>
+INR 2399</td>
+        <td> </td>
+        <td>Mix Flower Arrangement<br/>50 Flowers<br/>
+INR 2449</td>
+        <td> </td>
+        <td>Red Rose Bouquet<br/>30 Flowers<br/>
+INR 1049</td>
+        <td> </td>
+        <td>Yellow Flower Basket<br/>50 Flowers<br/>
+INR 1849</td>
+        <td> </td>
+      </tr>
+      <tr align="center">
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX001"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX002"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX003"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX004"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td colspan="9"><div align="right"><a href="flower.htm"><img alt="More Flowers" border="0" height="30" src="images/more.jpg" width="130"/></a></div></td>
+        </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td class="background"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td align="left" colspan="9"><a href="cake.htm"><img alt="Cakes" border="0" height="30" src="images/cake.jpg" width="130"/></a></td>
+        </tr>
+      <tr align="center">
+        <td> </td>
+        <td><div align="center">
+			<a href="cake.htm">
+			<img alt="Cakes to Pune" height="200" src="images/bcake.jpg" width="200"/></a></div></td>
+        <td> </td>
+        <td><div align="center">
+			<a href="cake.htm">
+			<img alt="Send Cakes to Pune" height="200" src="images/cake2.jpg" width="200"/></a></div></td>
+        <td> </td>
+        <td><div align="center">
+			<a href="cake.htm">
+			<img alt="Send Cake to Pune" height="200" src="images/cake3.jpg" width="200"/></a></div></td>
+        <td> </td>
+        <td><div align="center">
+			<a href="cake.htm">
+			<img alt="Heart Shape Cakes to Pune" height="200" src="images/cake4.jpg" width="200"/></a></div></td>
+        <td> </td>
+      </tr>
+      <tr align="center">
+        <td> </td>
+        <td>Vanila Cake 1kg<br/>
+INR 1245</td>
+        <td> </td>
+        <td>Pinapple Cake 1kg<br/>
+INR 1245</td>
+        <td> </td>
+        <td>Chocolate Cake 1kg<br/>
+INR 1245</td>
+        <td> </td>
+        <td>Heartshape Cake 1kg<br/>
+INR 1299</td>
+        <td> </td>
+      </tr>
+      <tr align="center">
+        <td> </td>
+        <td><div><a href="cart.php?pid=INDEX005"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></div></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX006"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX007"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX008"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td colspan="9"><div align="right"><a href="cake.htm"><img alt="More Cakes" border="0" height="30" src="images/more.jpg" width="130"/></a></div></td>
+        </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td class="background"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td align="left" colspan="9"><a href="chocolate.htm"><img alt="Chocolates" border="0" height="30" src="images/choco_butt.jpg" width="130"/></a></td>
+      </tr>
+      <tr align="center">
+        <td> </td>
+        <td><div align="center">
+			<img alt="Chocolates to Pune" height="200" longdesc="chocolate.htm" src="images/choc_1.jpg" width="200"/></div></td>
+        <td> </td>
+        <td><div align="center">
+			<img alt="Send Chocolates to Pune" height="200" longdesc="chocolate.htm" src="images/choc_2.jpg" width="200"/></div></td>
+        <td> </td>
+        <td><div align="center"><a href="chocolate.htm"><img alt="Send Chocolates to Pune" height="200" src="images/choc_3.jpg" width="200"/></a></div></td>
+        <td> </td>
+        <td><div align="center">
+			<a href="chocolate.htm">
+			<img alt="Chocolates to Pune" height="200" src="images/choc_4.jpg" width="200"/></a></div></td>
+        <td> </td>
+      </tr>
+      <tr align="center">
+        <td> </td>
+        <td>Ferrero Rocher<br/>16 Piece<br/>
+          INR 799</td>
+        <td> </td>
+        <td>Toblerone Chocolates<br/>600 Grams<br/>
+          INR 1649</td>
+        <td> </td>
+        <td>Cadbury Celebrations<br/>Rich Dry Fruit Collection<br/>
+          INR 725</td>
+        <td> </td>
+        <td>Cadbury Temptation<br/>3 Bars<br/>
+          INR 645</td>
+        <td> </td>
+      </tr>
+      <tr align="center">
+        <td> </td>
+        <td><div><a href="cart.php?pid=INDEX009"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></div></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX010"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX011"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX012"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td colspan="9"><div align="right"><a href="chocolate.htm"><img alt="More Chocolates" border="0" height="30" src="images/more.jpg" width="130"/></a></div></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td class="background"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td align="left" colspan="9"><a href="sweet.htm"><img alt="Sweets" border="0" height="30" src="images/swt.jpg" width="130"/></a></td>
+      </tr>
+      <tr align="center">
+        <td> </td>
+        <td><div align="center">
+			<a href="sweet.htm">
+			<img alt="Sweets to Pune" height="200" src="images/sweet_1.jpg" width="200"/></a></div></td>
+        <td> </td>
+        <td><div align="center">
+			<a href="sweet.htm">
+			<img alt="Send Sweets to Pune" height="200" src="images/sweet_2.jpg" width="200"/></a></div></td>
+        <td> </td>
+        <td><div align="center">
+			<a href="sweet.htm">
+			<img alt="Send online sweers to Pune" height="200" src="images/sweet_3.jpg" width="200"/></a></div></td>
+        <td> </td>
+        <td><div align="center">
+			<a href="sweet.htm">
+			<img alt="home delivery of Sweets to Pune" height="200" src="images/sweet_4.jpg" width="200"/></a></div></td>
+        <td> </td>
+      </tr>
+      <tr align="center">
+        <td> </td>
+        <td>Kaju Barfi and Pista Roll 1kg<br/>
+INR 915</td>
+        <td> </td>
+        <td>Kaju Apple 1kg (Major Cities Only)<br/>
+INR 1015</td>
+        <td> </td>
+        <td>Mix Mithai Combination 2kg<br/>
+INR 1725</td>
+        <td> </td>
+        <td>Gulab Jamun 2kg <br/>
+INR 1250</td>
+        <td> </td>
+      </tr>
+      <tr align="center">
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX013"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX014"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX015"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX016"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td colspan="9"><div align="right"><a href="sweet.htm"><img alt="More Sweets" border="0" height="30" src="images/more.jpg" width="130"/></a></div></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+  <tr>
+    <td class="background"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td align="left" colspan="9"><a href="combination.htm"><img alt="Combinations" border="0" height="30" src="images/comb.jpg" width="130"/></a></td>
+        </tr>
+      <tr align="center">
+        <td> </td>
+        <td><div align="center">
+			<a href="combination.htm">
+			<img alt="Send Gifts to Pune" height="200" src="images/comb1.jpg" width="200"/></a></div></td>
+        <td> </td>
+        <td><div align="center">
+			<a href="combination.htm">
+			<img alt="Gifts to Pune" height="200" src="images/comb2.jpg" width="200"/></a></div></td>
+        <td> </td>
+        <td><div align="center">
+			<a href="combination.htm">
+			<img alt="Send Gifts  to Pune Online" height="200" src="images/comb3.jpg" width="200"/></a></div></td>
+        <td> </td>
+        <td><div align="center">
+			<a href="combination.htm">
+			<img alt="Send mothers day Gifts to Pune" height="200" src="images/comb4.jpg" width="200"/></a></div></td>
+        <td> </td>
+      </tr>
+      <tr align="center">
+        <td> </td>
+        <td>12 Orchids with 1 kg Butter Scotch Cake<br/>
+and 6 inch Teddy Bear<br/>
+INR 2950</td>
+        <td> </td>
+        <td>12 Red Roses with 1 kg Chocolate Cake<br/>
+and 6 inch Teddy Bear<br/>
+INR 2100</td>
+        <td> </td>
+        <td>12 Red Roses with 1kg Chocolate Cake and 1kg Fresh Fruits
+<br/>
+INR 2375</td>
+        <td> </td>
+        <td>12 Red Roses Vase with 1kg Black Forest Cake<br/>
+INR 1875</td>
+        <td> </td>
+      </tr>
+      <tr align="center">
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX017"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX018"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX019"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+        <td><a href="cart.php?pid=INDEX020"><img alt="Add to Cart" border="0" height="30" src="images/add.gif" width="130"/></a></td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td colspan="9"><div align="right"><a href="combination.htm"><img alt="More Combinations" border="0" height="30" src="images/more.jpg" width="130"/></a></div></td>
+        </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td> </td>
+  </tr>
+        <tr>
+    <td align="center" class="background">Send Flowers to Pune, Diwali Gifts to Pune, Midnight Cake Delivery in Pune 
+    </td>
+        </tr>
+  <tr>
+    <td align="center" class="background">
+    <h1><b><font size="3">Flowers Delivery Pune | Online Cake Delivery in Pune</font></b></h1>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" class="background">
+    <a href="flowers-gifts-to-akurdi.htm" style="text-decoration: none">
+    <font color="#000000">Akurdi</font></a>,
+    <a href="flowers-gifts-to-anandnagar.htm" style="text-decoration: none">
+    <font color="#000000">Anandnagar</font></a>,
+    <a href="flowers-gifts-to-ashoknagar.htm" style="text-decoration: none">
+    <font color="#000000">Ashok Nagar</font></a>,<a href="flower-gifts-to-aundh.htm" style="text-decoration: none"><font color="#000000">Aundh</font></a>,
+    <a href="flowers-gifts-to-baner.htm" style="text-decoration: none">
+    <font color="#000000">Baner</font></a>,
+    <a href="flowers-gifts-to-bhosalenagar.htm" style="text-decoration: none">
+    <font color="#000000">Bhosale Nagar</font></a>,
+    <a href="flowers-gifts-to-camp.htm" style="text-decoration: none">
+    <font color="#000000">Camp</font></a>,
+    <a href="flower-gifts-to-chinchwad.htm" style="text-decoration: none">
+    <font color="#000000">Chinchwad</font></a>,
+    <a href="flowers-gifts-to-deccangymkhana.htm" style="text-decoration: none">
+    <font color="#000000">Deccan Gymkhana</font></a>,
+    <a href="flowers-gifts-to-fatimanagar.htm" style="text-decoration: none">
+    <font color="#000000">Fatima Nagar</font></a>,
+    <a href="flowers-gifts-to-ganeshnagar.htm" style="text-decoration: none">
+    <font color="#000000">Ganesh Nagar</font></a>,
+    <a href="flowers-gifts-to-hadapsar.htm" style="text-decoration: none">
+    <font color="#000000">Hadapsar</font></a>,
+    <a href="flowers-gifts-to-hinjewadi.htm" style="text-decoration: none">
+    <font color="#000000">Hinjewadi</font></a>,
+    <a href="flowers-gifts-to-jambulgaon.htm" style="text-decoration: none">
+    <font color="#000000">Jambulgaon</font></a>,
+    <a href="flowers-gifts-to-kalyaninagar.htm" style="text-decoration: none">
+    <font color="#000000">Kalyani Nagar</font></a>,
+    <a href="flowers-gifts-to-karvenagar.htm" style="text-decoration: none">
+    <font color="#000000">Karve Nagar</font></a>,
+    <a href="flowers-gifts-to-kharadi.htm" style="text-decoration: none">
+    <font color="#000000">Kharadi</font></a>,
+    <a href="flowers-gifts-to-kondhwa.htm" style="text-decoration: none">
+    <font color="#000000">Kondhwa</font></a>,
+    <a href="flowers-gifts-to-koregaon.htm" style="text-decoration: none">
+    <font color="#000000">Koregaon</font></a>,
+    <a href="flowers-gifts-to-koregaonpark.htm" style="text-decoration: none">
+    <font color="#000000">Koregaon Park</font></a>,
+    <a href="flowers-gifts-to-kothrud.htm" style="text-decoration: none">
+    <font color="#000000">Kothrud</font></a>,
+    <a href="flowers-gifts-to-magarpatta.htm" style="text-decoration: none">
+    <font color="#000000">Magarpatta</font></a>,
+    <a href="flowers-gifts-to-mulshi.htm" style="text-decoration: none">
+    <font color="#000000">Mulshi</font></a>,
+    <a href="flowers-gifts-to-mahatmagandhiroad.htm" style="text-decoration: none">
+    <font color="#000000">Mahatma Gandhi Road</font></a>,
+    <a href="flowers-gifts-to-nigdi.htm" style="text-decoration: none">
+    <font color="#000000">Nigdi</font></a>,
+    <a href="flowers-gifts-to-pashan.htm" style="text-decoration: none">
+    <font color="#000000">Pashan</font></a>,
+    <a href="flowers-gifts-to-pimpri.htm" style="text-decoration: none">
+    <font color="#000000">Pimpri</font></a>,
+    <a href="flowers-gifts-to-pimprichinchwad.htm" style="text-decoration: none">
+    <font color="#000000">Pimpri Chinchwad</font></a>,
+    <a href="flowers-gifts-to-pimplesaudagar.htm" style="text-decoration: none">
+    <font color="#000000">Pimple Saudagar</font></a>,
+    <a href="flowers-gifts-to-rastapeth.htm" style="text-decoration: none">
+    <font color="#000000">Rasta peth</font></a>,
+    <a href="flowers-gifts-to-sangvi.htm" style="text-decoration: none">
+    <font color="#000000">Sangvi</font></a>,
+    <a href="flowers-gifts-to-sadashivpeth.htm" style="text-decoration: none">
+    <font color="#000000">Sadashiv peth</font></a>,
+    <a href="flowers-gifts-to-sanghavi.htm" style="text-decoration: none">
+    <font color="#000000">Sanghavi</font></a>,
+    <a href="flowers-gifts-to-shivajinagar.htm" style="text-decoration: none">
+    <font color="#000000">Shivaji Nagar</font></a>,
+    <a href="flowers-gifts-to-senapatibapatroad.htm" style="text-decoration: none">
+    <font color="#000000">Senapati Bapat Road</font></a>,
+    <a href="flowers-gifts-to-sinhagad.htm" style="text-decoration: none">
+    <font color="#000000">Sinhagad</font></a>,
+    <a href="flowers-gifts-to-talegaon.htm" style="text-decoration: none">
+    <font color="#000000">Talegaon</font></a>,
+    <a href="flowers-gifts-to-tilakroad.htm" style="text-decoration: none">
+    <font color="#000000">Tilak Road</font></a>,
+    <a href="flowers-gifts-to-vimannagar.htm" style="text-decoration: none">
+    <font color="#000000">Viman Nagar</font></a>,
+    <a href="flowers-gifts-to-wadegaon.htm" style="text-decoration: none">
+    <font color="#000000">Wadegaon</font></a>,
+    <a href="flowers-gifts-to-wagholi.htm" style="text-decoration: none">
+    <font color="#000000">Wagholi</font></a>,
+    <a href="flowers-gifts-to-wakad.htm" style="text-decoration: none">
+    <font color="#000000">Wakad</font></a>,<a href="flowers-gifts-to-yerwada.htm" style="text-decoration: none"><font color="#000000">Yerwada</font></a></td>
+  </tr>
+  <tr>
+    <td align="center" class="background"> </td>
+  </tr>
+  <tr>
+    <td align="center" class="background"><b>Online Flower Delivery in Pune, Send 
+    Online Diwali Gifts to Pune, Bouquet Delivery in Pune</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p><font size="2">You surely want to make your family and friends feel special in every occasion and what can be better than surprising them with a flower bunch or a yummy cake? If you want a bunch of <a href=" flower.htm" style="text-decoration: none">flower</a>, <b>chocolate bouquet</b>, delicious cake or some assorted sweets to be delivered in the metropolitan area of Pune we assure you timely delivery and prompt services.Our colorful and fresh <b>Flowers for Pune</b> are neatly hand tied by professional florists. The stunning garden fresh floral bunches are ideal for brightening up anyone’s mood and spicing up any occasion.<br/><br/>Whether you choose a bunch of roses, lilies, carnations or orchids in a single colour or want a mixed flower bouquet, our bright blossoms are sure to invite loads of buoyancy and joy to any occasion. Flowers in vases or bright bouquets are fun to decorate the centre table or the mantle top with. Although they wither away but leave good memories behind. No one ever forgets the last time when they received a <b>flower gift</b>.<br/><br/><strong>Puneflowermall.com</strong> is an online florist dedicated to deliver the best flowers and gifts to their customers. We provide a wide array of gifts starting from a range of flower arrangements,<a href="cake.htm" style="text-decoration: none">cake</a>, sweets, chocolates, fresh fruits, apparels, kitchenware, crystal ware and more.<br/>While availing our services you will find that sending a long distance or a surprise gift to family and friends in Pune was never this easy. We are at your service 24*7, in all festivals like
+      <a href="diwali.htm" style="text-decoration: none">Diwali Gifts</a> or any special occasions like <a href="birthday.htm" style="text-decoration: none">birthdays</a>, anniversaries, weddings and other celebrations. We also stand by your during times of grief and have special bouquets in case you want to send flowers expressing condolence.<br/>If you are looking for the right way to express your feeling when you can’t find the right words then flowers are the best medium to choose. Order flowers and gifts for Pune with us once and you will come back again!</font></p></td>
+  </tr>
+  <tr>
+    <td align="center" class="background"><a href="affilation.htm">Affilation |</a> <a href="personaliseorder.htm">Personalise Order</a><a href="terms.htm"> | Terms | </a><a href="return.htm">Return and Refund Policy  |</a> <a href="privacy.htm">Privacy Policy  |</a> <a href="substitution.htm">Substitution Policy  |</a> <a href="shipping.htm">Shipping Policy </a></td>
+  </tr>
+  <tr>
+    <td align="center"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr class="background">
+        <td align="center"><img alt="Join Us On Facebook" height="35" src="images/facebook.gif" width="174"/></td>
+        <td align="center"><img alt="Follow Us On Twitter" height="36" src="images/twitter.gif" width="174"/></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td align="center"><pre>All Right Reserved @<a href="http://www.puneflowermall.com">www.puneflowermall.com</a></pre></td>
+  </tr>
+</tbody></table>
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+        </script></td></tr></tbody></table>
+</div>
+
+</body></html>

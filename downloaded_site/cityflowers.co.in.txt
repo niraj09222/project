@@ -1,0 +1,3529 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<script type="text/javascript">var slide_on=false;</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Send Flowers, Cakes, Gifts Online in India - CityFlowers</title>
+<meta content="Same Day Flowers! 15% Off CityFlowers®. Flowers Delivered Today, From 499.99. Send Flowers, Gifts, Cakes &amp; Balloons! 100% Satisfaction Guaranteed." name="description"/>
+<meta content="Cityflowers.co.in, india florist, flowers, send flowers, florals, gifts, cakes, delivery online, birthdays, anniversary, wedding, valentine flowers, delhi florist, pune florist, hyderabad florist, kolkata florist, bangalore florist" name="keywords"/>
+<meta content="INDEX,FOLLOW" name="robots"/>
+<link href="https://www.cityflowers.co.in/media/favicon/default/favicon.png" rel="icon" type="image/x-icon"/>
+<link href="https://www.cityflowers.co.in/media/favicon/default/favicon.png" rel="shortcut icon" type="image/x-icon"/>
+<link href="//fonts.googleapis.com/css?family=Oswald:300,regular,700&amp;subset=latin" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript">stLight.options({publisher: "fdf72e22-4d1c-4270-9aea-a784ad6c30c2"});</script>
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://www.cityflowers.co.in/js/blank.html';
+    var BLANK_IMG = 'https://www.cityflowers.co.in/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<script type="text/javascript">
+  var BASE_URL = 'https://www.cityflowers.co.in/';
+  var clearenceUrl = 'https://www.cityflowers.co.in/o/special-events/diwali-gifts-online.html';
+</script>
+<link href="https://www.cityflowers.co.in/media/css_secure/b2f5b75da6e350ec43b7ab634837efb2.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.cityflowers.co.in/media/css_secure/f35b453d04e8f86e53720e310f239b3d.css" media="print" rel="stylesheet" type="text/css"/>
+<script src="https://www.cityflowers.co.in/js/jquery/jquery.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/prototype/prototype.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/lib/ccard.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/prototype/validation.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/scriptaculous/builder.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/scriptaculous/effects.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/scriptaculous/dragdrop.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/scriptaculous/controls.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/scriptaculous/slider.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/varien/js.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/varien/form.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/varien/script.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/varien/menu.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/mage/translate.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/mage/cookies.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/jquery/func.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/magestore/sociallogin/lightbox.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/magestore/sociallogin/sociallogin.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/easing/jquery.easing.1.3.min.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/slideshow/jquery.slider.js" type="text/javascript"></script>
+<script src="https://www.cityflowers.co.in/js/slideshow/efects.js" type="text/javascript"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.cityflowers.co.in/media/css_secure/f0cdb8b5b517b2e9b25193e26d64c307.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://www.cityflowers.co.in/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="https://www.cityflowers.co.in/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var mbPopupParams = {"storeId":"1","previewId":0,"templateId":0,"popupPageId":1,"filterId":0,"isAjax":"1","requestType":"GET","rootUrl":"https%3A%2F%2Fwww.cityflowers.co.in%2F","ajaxAsync":"true","doGaTracking":"true","customParams":""};
+
+//]]>
+</script>
+<script async="" src="https://www.cityflowers.co.in/skin/frontend/base/default/js/magebird_popup/jquery.js" type="text/javascript"></script>
+<script async="" src="https://www.cityflowers.co.in/skin/frontend/base/default/js/magebird_popup/main.js?v=1.4.6d" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script>
+ 
+<link href="https://www.cityflowers.co.in/skin/frontend/default/beautyshop/css/menu1.css" media="screen" rel="stylesheet" type="text/css"/>
+ 
+<style type="text/css">.box-product-buttons,.block-cart-header .button-show,.box-product-buttons div,.newproduct_grid,button.button,.product-view .product-img-box .main-image .lightbox-btn a,.product-list .product-list-buttons .pbuttons .img,.quantity_box_button_down:hover,.quantity_box_button_up:hover,.product-list .product-list-buttons .pbuttons:hover,.view-mode strong.grid,.pager .view-mode a.grid{background-color:#B6A7A4!important;}.header .icon,.iosSlider .sliderNavi .naviItem.selected,.box-product-item .name a,.box-product-buttons div:hover,button.button:hover,.product-list .product-list-buttons .pbuttons .img2,.product-view .product-img-box .main-image .lightbox-btn a:hover,.view-mode strong.grid,.view-mode strong.list,.pager .view-mode a:hover,.prev:hover,.next:hover,#message a:hover{background-color:#F15A3B!important;}#footer h3,.box-product-item .price,a,.special-price .price-label,#phone strong,#phone b,#nav .level1>a>span{color:#F15A3B;}#nav>li.over,#nav>li:hover,#nav>li.active,#nav>li>ul>li ul>li a:hover{border-bottom-color:#F15A3B!important;}</style>
+<script type="text/javascript">
+    if(slide_on){
+        jQuery(document).ready(function($) {
+            $('.iosSlider').iosSlider({
+                desktopClickDrag: true,
+                touchMoveThreshold:4,
+                snapToChildren: true,
+                infiniteSlider: true,
+                autoSlide:true,
+                autoSlideTimer:8000,
+        		navSlideSelector: '.sliderNavi .naviItem',                
+                navNextSelector: '.iosSlider .next',
+                navPrevSelector: '.iosSlider .prev',
+        		onSlideChange: slideContentChange,
+        		onSlideComplete: slideContentComplete,
+        		onSliderLoaded: slideContentLoaded
+            }); 
+                       	
+        }); 
+    }
+</script>
+<script type="text/javascript"><!--
+
+jQuery(document).ready(function() {
+      
+      // Image animation
+      jQuery(".fade-image").live({
+        mouseenter:
+           function()
+           {
+				jQuery(this).stop().fadeTo(300, 0.6);
+           },
+        mouseleave:
+           function()
+           {
+				jQuery(this).stop().fadeTo(300, 1);
+           }
+       }
+    );
+      
+   
+});
+
+// Add any JavaScript code here
+--></script>
+<style>body{background-color:#fff;background-attachment:fixed;background-position:top center;background-repeat:no-repeat;}.buttons-cart-text,.box-product-item .name a,.box-product-item .price,h1,h2,button.button,.block .block-title strong span,#narrow-by-list dt,.block-cart-header .btn-checkout span,.form-subscribe-header h4,.product-view .product-shop .price-box .price,.price-box .price{font-family:Oswald;}.buttons-wish,#header_menu .links li:nth-child(2){display:none;}.buttons-more{border-right:1px solid #EAE5E4;}.buttons-compare{display:none;}.buttons-more{border-right:1px solid #EAE5E4;}.buttons-more{display:none;}.mini-sliders{display:none!important;}.iosSlider,.iosSlider img{width:100%!important;height:auto!important;}</style>
+<style>body{background-image:url(https://www.cityflowers.co.in/media/wysiwyg/beautyshop/default/drapes-winter14-bg_2.jpg);}</style>
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="https://www.cityflowers.co.in/skin/frontend/default/beautyshop/css/ie7.css" media="screen"/>
+<![endif]-->
+<!--[if IE 9]>
+    <link rel="stylesheet" type="text/css" href="https://www.cityflowers.co.in/skin/frontend/default/beautyshop/css/ie9.css" media="screen"/>
+<![endif]-->
+<style type="text/css">.hp-main{position:relative;margin:0px;padding:0px;width:980px;height:320px;}.snav-box{position:absolute;width:143px;height:327px;margin-top:30px;left:0px!important;top:0px!important;padding:6px 0px 0px 6px;_padding:6px 0px 0px 0px;background:url('https://www.cityflowers.co.in/floralex/snav-spr13-bg.gif') no-repeat 0px 0px;z-index:10;}#snav-links{display:block;width:125px!important;height:27px;margin-top:0px;}#snav-links:hover{background-position:0px -27px;}.snav-sameday{background:url('https://www.cityflowers.co.in/floralex/snav-winter13-sameday.png') no-repeat 0px 0px;}.snav-birthday{background:url('https://www.cityflowers.co.in/floralex/snav-winter13-birthday.png') no-repeat 0px 0px;}.snav-loveromance{background:url('https://www.cityflowers.co.in/floralex/snav-winter13-loveromance.png') no-repeat 0px 0px;}.snav-anniversary{background:url('https://www.cityflowers.co.in/floralex/snav-winter13-anniversary.png') no-repeat 0px 0px;}.snav-getwell{background:url('https://www.cityflowers.co.in/floralex/snav-winter13-getwell.png') no-repeat 0px 0px;}.snav-sympathy{background:url('https://www.cityflowers.co.in/floralex/snav-winter13-sympathy.png') no-repeat 0px 0px;}.snav-newbaby{background:url('https://www.cityflowers.co.in/floralex/snav-winter13-newbaby.png') no-repeat 0px 0px;}.snav-dotw{background:url('https://www.cityflowers.co.in/floralex/snav-winter13-dotw.png') no-repeat 0px 0px;}.snav-box span{display:none!important;}</style>
+<style type="text/css">.formobilepages{display:none;}</style>
+</head>
+<body class=" cms-index-index cms-home">
+<div id="header-menu-bg"></div>
+<div class="wrapper">
+<div class="page">
+<div id="top"></div>
+<div id="header_menu">
+<ul class="links">
+<li class="first"><a href="https://www.cityflowers.co.in/customer/account/" title="My Account">My Account</a></li>
+<li><a class="top-link-cart" href="https://www.cityflowers.co.in/checkout/cart/" title="My Cart">My Cart</a></li>
+<li><a class="top-link-checkout" href="https://www.cityflowers.co.in/firecheckout/" title="Checkout">Checkout</a></li>
+<li class=" last"><a href="https://www.cityflowers.co.in/customer/account/login/" title="Log In">Log In</a></li>
+</ul>
+<div class="header-right" style="color: #FFFFFF;"><a href="https://www.cityflowers.co.in/custom-orders/">Instant Pay Online</a> <a href="http://bit.ly/2aoAYae" rel="nofollow" target="_blank">Order Status</a> </div>
+</div>
+ 
+<div class="cnbcHeaderWrap">
+<div class="cnbcHeader">
+<a href="https://www.cityflowers.co.in/flowersauthority_asia" onclick="exit=false;"></a>
+</div> 
+</div>
+<div class="header-container">
+<div class="header">
+<div class="header-left">
+<div class="welcome-msg"></div>
+<a class="logo" href="https://www.cityflowers.co.in/" title="Flower Delivery India"><img alt="Flower Delivery India" src="https://www.cityflowers.co.in/skin/frontend/default/beautyshop/images/city-flowers-small.png"/></a>
+</div>
+<div id="phone" style="margin-top:0px;"><p style="margin-left: 5px;">Phone: +91-819999 6288 Need Help?<br/><span>Call us: 8:00 am - 9:00 pm</span><br/> <br/>
+<a href="" id="samedaypopup"><img src="https://www.cityflowers.co.in/media/wysiwyg/Banners-Home/calendar-256_1.png"/>
+SameDay Delivery</a> - <a href="" id="midnightpopup"><img src="https://www.cityflowers.co.in/media/wysiwyg/Banners-Home/calendar-256_1.png"/>
+Midnight</a></p>
+</div>
+<div class="header-center">
+<div class="top-bar"><form action="https://www.cityflowers.co.in/catalogsearch/result/" id="search_mini_form" method="get">
+<div class="form-search">
+<input class="input-text" id="search" name="q" type="text" value=""/>
+<button class="button" title="Go" type="submit"><span>Go</span></button>
+<div class="search-autocomplete" id="search_autocomplete"></div>
+<script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here...');
+            searchForm.initAutocomplete('https://www.cityflowers.co.in/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+</div>
+</form></div>
+</div>
+<div class="header-right">
+<div class="minicart-wrapper">
+<div class="icon" onclick="location.href='https://www.cityflowers.co.in/checkout/cart/'"></div>
+<div class="minicart">
+<div class="block block-cart-header">
+<div class="block-content">
+<span class="button-show"><a href="https://www.cityflowers.co.in/checkout/cart/">Shopping Cart</a>
+- <span class="price">Rs0.00</span>
+</span>
+<div class="empty" id="header-items">
+<p class="empty">You have no items in your shopping cart.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+ 
+<style type="text/css">#nav .custommenuitem{background-color:#ef392f;border-bottom-left-radius:4px;border-top-left-radius:4px;display:inline-block;font-family:'Mouse Memoirs',sans-serif;font-size:2em;font-weight:normal;letter-spacing:1.5px;line-height:1.4em;padding:0 10px;transition:all .3s ease-out 0s}#nav .custommenuitem:hover{box-shadow:3px 3px 3px rgba(0,0,0,.4);color:#fff;transform:scale(1.2)}</style>
+<select id="mobile-menu" onchange="window.location = jQuery(this).val();">
+<option value="https://www.cityflowers.co.in/">Home</option>
+<option value="https://www.cityflowers.co.in/t.html">
+Shop By Type
+</option>
+<option value="https://www.cityflowers.co.in/t/f.html">
+- Flowers By Type
+</option>
+<option value="https://www.cityflowers.co.in/t/f/best-sellers.html">
+-- Best Sellers
+</option><option value="https://www.cityflowers.co.in/t/f/roses.html">
+-- Roses
+</option><option value="https://www.cityflowers.co.in/t/f/lilies.html">
+-- Lilies
+</option><option value="https://www.cityflowers.co.in/t/f/carnations.html">
+-- Carnations
+</option><option value="https://www.cityflowers.co.in/t/f/orchids.html">
+-- Orchids
+</option><option value="https://www.cityflowers.co.in/t/f/gerbera.html">
+-- Gerbera
+</option><option value="https://www.cityflowers.co.in/t/f/mix-color.html">
+-- Mixed Combinations
+</option><option value="https://www.cityflowers.co.in/t/color.html">
+- Flowers By Color
+</option>
+<option value="https://www.cityflowers.co.in/t/color/red.html">
+-- Red
+</option><option value="https://www.cityflowers.co.in/t/color/yellow.html">
+-- Yellow
+</option><option value="https://www.cityflowers.co.in/t/color/pink.html">
+-- Pink
+</option><option value="https://www.cityflowers.co.in/t/color/white.html">
+-- White
+</option><option value="https://www.cityflowers.co.in/t/color/orange.html">
+-- Orange
+</option><option value="https://www.cityflowers.co.in/t/color/purple.html">
+-- Purple
+</option><option value="https://www.cityflowers.co.in/t/color/mix-color.html">
+-- Mix Color
+</option><option value="https://www.cityflowers.co.in/t/fd.html">
+- Flowers By Design
+</option>
+<option value="https://www.cityflowers.co.in/t/fd/bouquets.html">
+-- Bouquets
+</option><option value="https://www.cityflowers.co.in/t/fd/basket-arrangements.html">
+-- Basket Arrangements
+</option><option value="https://www.cityflowers.co.in/t/fd/florist-choice.html">
+-- Florist Choice
+</option><option value="https://www.cityflowers.co.in/t/fd/tall-standing-arragements.html">
+-- Tall Standing Arragements
+</option><option value="https://www.cityflowers.co.in/t/fd/packages.html">
+-- Packages
+</option><option value="https://www.cityflowers.co.in/price.html">
+Price
+</option>
+<option value="https://www.cityflowers.co.in/price/below-500.html">
+- Below 500 Rs
+</option><option value="https://www.cityflowers.co.in/price/1500-range.html">
+- 500 to 1500 RS
+</option><option value="https://www.cityflowers.co.in/price/above-1500.html">
+- Above 1500 to 4000 Rs
+</option><option value="https://www.cityflowers.co.in/price/above-4000.html">
+- Above 4000 Rs
+</option><option value="https://www.cityflowers.co.in/o.html">
+Occasions
+</option>
+<option value="https://www.cityflowers.co.in/o/popular-occasions.html">
+- Popular Occasions
+</option>
+<option value="https://www.cityflowers.co.in/o/popular-occasions/birthday-ideas.html">
+-- Birthdays Ideas
+</option><option value="https://www.cityflowers.co.in/o/popular-occasions/love-romance.html">
+-- Love &amp; Romance
+</option><option value="https://www.cityflowers.co.in/o/popular-occasions/anniversary-guide.html">
+-- Anniversary Guide
+</option><option value="https://www.cityflowers.co.in/o/occasions-all.html">
+- All Occasions
+</option>
+<option value="https://www.cityflowers.co.in/o/occasions-all/get-well-soon.html">
+-- Get Well Soon
+</option><option value="https://www.cityflowers.co.in/o/occasions-all/birthday.html">
+-- Birthday
+</option><option value="https://www.cityflowers.co.in/o/occasions-all/love.html">
+-- Love
+</option><option value="https://www.cityflowers.co.in/o/occasions-all/anniversary.html">
+-- Anniversary Collection
+</option><option value="https://www.cityflowers.co.in/o/occasions-all/just-becasue.html">
+-- Just Becasue
+</option><option value="https://www.cityflowers.co.in/o/occasions-all/thanks-giving.html">
+-- Thanks Giving
+</option><option value="https://www.cityflowers.co.in/o/occasions-all/sorry.html">
+-- I'm sorry Flowers
+</option><option value="https://www.cityflowers.co.in/o/occasions-all/special-congratulations.html">
+-- Special Congratulations
+</option><option value="https://www.cityflowers.co.in/o/occasions-all/sympathy-funeral.html">
+-- Sympathy/Funeral
+</option><option value="https://www.cityflowers.co.in/o/special-events.html">
+- Special Occasions
+</option>
+<option value="https://www.cityflowers.co.in/o/special-events/new-years-flowers.html">
+-- New Years Flowers
+</option><option value="https://www.cityflowers.co.in/o/special-events/mothers-day-celebrations.html">
+-- Mothers Day Celebrations
+</option><option value="https://www.cityflowers.co.in/o/special-events/father-s-day-gifts.html">
+-- Father's Day Gifts
+</option><option value="https://www.cityflowers.co.in/o/special-events/womens-day-collection.html">
+-- Womens Day Collection
+</option><option value="https://www.cityflowers.co.in/o/special-events/diwali-gifts-online.html">
+-- Diwali Gifts Online
+</option><option value="https://www.cityflowers.co.in/o/special-events/christmas-collection.html">
+-- Christmas Collection
+</option><option value="https://www.cityflowers.co.in/gifts-collection.html">
+Gifts Collection
+</option>
+<option value="https://www.cityflowers.co.in/gifts-collection/shop-by-cake.html">
+- Shop By Cake
+</option>
+<option value="https://www.cityflowers.co.in/gifts-collection/shop-by-cake/5-star-cakes.html">
+-- 5 Star Cakes
+</option><option value="https://www.cityflowers.co.in/gifts-collection/shop-by-cake/regular-cakes.html">
+-- A1 Cakes
+</option><option value="https://www.cityflowers.co.in/gifts-collection/shop-by-cake/designer-cakes.html">
+-- Designer Cakes
+</option><option value="https://www.cityflowers.co.in/gifts-collection/shop-by-cake/wedding-cakes.html">
+-- Wedding Cakes
+</option><option value="https://www.cityflowers.co.in/gifts-collection/shop-by-cake/theme-cakes.html">
+-- Theme Cakes
+</option><option value="https://www.cityflowers.co.in/gifts-collection/gifts-flowers.html">
+- Gifts Flowers
+</option>
+<option value="https://www.cityflowers.co.in/gifts-collection/gifts-flowers/flowers-with-cake-combos.html">
+-- Flowers With Cake Combos
+</option><option value="https://www.cityflowers.co.in/gifts-collection/gifts-flowers/fruit-baskets.html">
+-- Fruit Baskets
+</option><option value="https://www.cityflowers.co.in/gifts-collection/gifts-flowers/chocolate-gifts.html">
+-- Chocolate Gifts
+</option><option value="https://www.cityflowers.co.in/gifts-collection/gifts-flowers/soft-toys-teddy-bears.html">
+-- Soft Toys/Teddy Bears
+</option><option value="https://www.cityflowers.co.in/gifts-collection/gifts-flowers/balloon-bouquet.html">
+-- Balloon Bouquet
+</option><option value="https://www.cityflowers.co.in/birthdays.html">
+Birthdays
+</option><option value="https://www.cityflowers.co.in/cityflower-s-specialities.html">
+Specialities
+</option>
+<option value="https://www.cityflowers.co.in/cityflower-s-specialities/theme-parties.html">
+- Theme Parties
+</option><option value="https://www.cityflowers.co.in/cityflower-s-specialities/birthday-anniversary-parties.html">
+- Birthday Parties
+</option><option value="https://www.cityflowers.co.in/cityflower-s-specialities/balloon-decorations.html">
+- Balloon Decorations
+</option><option value="https://www.cityflowers.co.in/cityflower-s-specialities/wedding-flowers-arrangements.html">
+- Wedding Arrangements
+</option><option value="https://www.cityflowers.co.in/cityflower-s-specialities/best-deals-combos.html">
+- Best Deals
+</option><option value="https://www.cityflowers.co.in/cityflower-s-specialities/multiple-days-surprise.html">
+- Multiple Days Surprise
+</option><option value="https://www.cityflowers.co.in/cityflower-s-specialities/international.html">
+- INTERNATIONAL
+</option>
+<option value="https://www.cityflowers.co.in/cityflower-s-specialities/international/new-zealand.html">
+-- New Zealand
+</option><option value="https://www.cityflowers.co.in/cityflower-s-specialities/international/usa.html">
+-- USA
+</option><option value="https://www.cityflowers.co.in/cityflower-s-specialities/international/uk.html">
+-- UK
+</option><option value="https://www.cityflowers.co.in/cityflower-s-specialities/international/uae.html">
+-- UAE
+</option><option value="https://www.cityflowers.co.in/cityflower-s-specialities/international/canada.html">
+-- Canada
+</option><option value="https://www.cityflowers.co.in/cityflower-s-specialities/international/indonasia.html">
+-- Indonasia
+</option><option value="https://www.cityflowers.co.in/cityflower-s-specialities/international/singapore.html">
+-- Singapore
+</option><option value="https://www.cityflowers.co.in/blogs.html">
+Blogs
+</option>
+<option value="https://www.cityflowers.co.in/blogs/special-days.html">
+- Special Days
+</option><option value="https://www.cityflowers.co.in/blogs/valentines-day.html">
+- Valentines Day
+</option><option value="https://www.cityflowers.co.in/blogs/flowers-meaning.html">
+- Flowers Meaning
+</option><option value="https://www.cityflowers.co.in/blogs/flowers-garden.html">
+- Flowers Garden
+</option><option value="https://www.cityflowers.co.in/blogs/wedding-guide.html">
+- Wedding Guide
+</option></select>
+<div class="nav-container">
+<div class="right-bg">
+<ul id="nav">
+<li class="level0 first homelink"><a href="https://www.cityflowers.co.in/"><span>Home</span></a></li>
+<li class="level0 nav-1 level-top first parent">
+<a class="level-top" href="https://www.cityflowers.co.in/t.html">
+<span>Shop By Type</span>
+</a>
+<ul class="level0 chield chield3">
+<li class="level1 nav-1-1 first parent">
+<a href="https://www.cityflowers.co.in/t/f.html">
+<span>Flowers By Type</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-1-1 first">
+<a href="https://www.cityflowers.co.in/t/f/best-sellers.html">
+<span>Best Sellers</span>
+</a>
+</li><li class="level2 nav-1-1-2">
+<a href="https://www.cityflowers.co.in/t/f/roses.html">
+<span>Roses</span>
+</a>
+</li><li class="level2 nav-1-1-3">
+<a href="https://www.cityflowers.co.in/t/f/lilies.html">
+<span>Lilies</span>
+</a>
+</li><li class="level2 nav-1-1-4">
+<a href="https://www.cityflowers.co.in/t/f/carnations.html">
+<span>Carnations</span>
+</a>
+</li><li class="level2 nav-1-1-5">
+<a href="https://www.cityflowers.co.in/t/f/orchids.html">
+<span>Orchids</span>
+</a>
+</li><li class="level2 nav-1-1-6">
+<a href="https://www.cityflowers.co.in/t/f/gerbera.html">
+<span>Gerbera</span>
+</a>
+</li><li class="level2 nav-1-1-7 last">
+<a href="https://www.cityflowers.co.in/t/f/mix-color.html">
+<span>Mixed Combinations</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-1-2 parent">
+<a href="https://www.cityflowers.co.in/t/color.html">
+<span>Flowers By Color</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-2-8 first">
+<a href="https://www.cityflowers.co.in/t/color/red.html">
+<span>Red</span>
+</a>
+</li><li class="level2 nav-1-2-9">
+<a href="https://www.cityflowers.co.in/t/color/yellow.html">
+<span>Yellow</span>
+</a>
+</li><li class="level2 nav-1-2-10">
+<a href="https://www.cityflowers.co.in/t/color/pink.html">
+<span>Pink</span>
+</a>
+</li><li class="level2 nav-1-2-11">
+<a href="https://www.cityflowers.co.in/t/color/white.html">
+<span>White</span>
+</a>
+</li><li class="level2 nav-1-2-12">
+<a href="https://www.cityflowers.co.in/t/color/orange.html">
+<span>Orange</span>
+</a>
+</li><li class="level2 nav-1-2-13">
+<a href="https://www.cityflowers.co.in/t/color/purple.html">
+<span>Purple</span>
+</a>
+</li><li class="level2 nav-1-2-14 last">
+<a href="https://www.cityflowers.co.in/t/color/mix-color.html">
+<span>Mix Color</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-1-3 last parent">
+<a href="https://www.cityflowers.co.in/t/fd.html">
+<span>Flowers By Design</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-3-15 first">
+<a href="https://www.cityflowers.co.in/t/fd/bouquets.html">
+<span>Bouquets</span>
+</a>
+</li><li class="level2 nav-1-3-16">
+<a href="https://www.cityflowers.co.in/t/fd/basket-arrangements.html">
+<span>Basket Arrangements</span>
+</a>
+</li><li class="level2 nav-1-3-17">
+<a href="https://www.cityflowers.co.in/t/fd/florist-choice.html">
+<span>Florist Choice</span>
+</a>
+</li><li class="level2 nav-1-3-18">
+<a href="https://www.cityflowers.co.in/t/fd/tall-standing-arragements.html">
+<span>Tall Standing Arragements</span>
+</a>
+</li><li class="level2 nav-1-3-19 last">
+<a href="https://www.cityflowers.co.in/t/fd/packages.html">
+<span>Packages</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="level0 nav-2 level-top parent">
+<a class="level-top" href="https://www.cityflowers.co.in/price.html">
+<span>Price</span>
+</a>
+<ul class="level0 chield chield4">
+<li class="level1 nav-2-1 first">
+<a href="https://www.cityflowers.co.in/price/below-500.html">
+<span>Below 500 Rs</span>
+</a>
+</li><li class="level1 nav-2-2">
+<a href="https://www.cityflowers.co.in/price/1500-range.html">
+<span>500 to 1500 RS</span>
+</a>
+</li><li class="level1 nav-2-3">
+<a href="https://www.cityflowers.co.in/price/above-1500.html">
+<span>Above 1500 to 4000 Rs</span>
+</a>
+</li><li class="level1 nav-2-4 last">
+<a href="https://www.cityflowers.co.in/price/above-4000.html">
+<span>Above 4000 Rs</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-3 level-top parent">
+<a class="level-top" href="https://www.cityflowers.co.in/o.html">
+<span>Occasions</span>
+</a>
+<ul class="level0 chield chield3">
+<li class="level1 nav-3-1 first parent">
+<a href="https://www.cityflowers.co.in/o/popular-occasions.html">
+<span>Popular Occasions</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-3-1-1 first">
+<a href="https://www.cityflowers.co.in/o/popular-occasions/birthday-ideas.html">
+<span>Birthdays Ideas</span>
+</a>
+</li><li class="level2 nav-3-1-2">
+<a href="https://www.cityflowers.co.in/o/popular-occasions/love-romance.html">
+<span>Love &amp; Romance</span>
+</a>
+</li><li class="level2 nav-3-1-3 last">
+<a href="https://www.cityflowers.co.in/o/popular-occasions/anniversary-guide.html">
+<span>Anniversary Guide</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-3-2 parent">
+<a href="https://www.cityflowers.co.in/o/occasions-all.html">
+<span>All Occasions</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-3-2-4 first">
+<a href="https://www.cityflowers.co.in/o/occasions-all/get-well-soon.html">
+<span>Get Well Soon</span>
+</a>
+</li><li class="level2 nav-3-2-5">
+<a href="https://www.cityflowers.co.in/o/occasions-all/birthday.html">
+<span>Birthday</span>
+</a>
+</li><li class="level2 nav-3-2-6">
+<a href="https://www.cityflowers.co.in/o/occasions-all/love.html">
+<span>Love</span>
+</a>
+</li><li class="level2 nav-3-2-7">
+<a href="https://www.cityflowers.co.in/o/occasions-all/anniversary.html">
+<span>Anniversary Collection</span>
+</a>
+</li><li class="level2 nav-3-2-8">
+<a href="https://www.cityflowers.co.in/o/occasions-all/just-becasue.html">
+<span>Just Becasue</span>
+</a>
+</li><li class="level2 nav-3-2-9">
+<a href="https://www.cityflowers.co.in/o/occasions-all/thanks-giving.html">
+<span>Thanks Giving</span>
+</a>
+</li><li class="level2 nav-3-2-10">
+<a href="https://www.cityflowers.co.in/o/occasions-all/sorry.html">
+<span>I'm sorry Flowers</span>
+</a>
+</li><li class="level2 nav-3-2-11">
+<a href="https://www.cityflowers.co.in/o/occasions-all/special-congratulations.html">
+<span>Special Congratulations</span>
+</a>
+</li><li class="level2 nav-3-2-12 last">
+<a href="https://www.cityflowers.co.in/o/occasions-all/sympathy-funeral.html">
+<span>Sympathy/Funeral</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-3-3 last parent">
+<a href="https://www.cityflowers.co.in/o/special-events.html">
+<span>Special Occasions</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-3-3-13 first">
+<a href="https://www.cityflowers.co.in/o/special-events/new-years-flowers.html">
+<span>New Years Flowers</span>
+</a>
+</li><li class="level2 nav-3-3-14">
+<a href="https://www.cityflowers.co.in/o/special-events/mothers-day-celebrations.html">
+<span>Mothers Day Celebrations</span>
+</a>
+</li><li class="level2 nav-3-3-15">
+<a href="https://www.cityflowers.co.in/o/special-events/father-s-day-gifts.html">
+<span>Father's Day Gifts</span>
+</a>
+</li><li class="level2 nav-3-3-16">
+<a href="https://www.cityflowers.co.in/o/special-events/womens-day-collection.html">
+<span>Womens Day Collection</span>
+</a>
+</li><li class="level2 nav-3-3-17">
+<a href="https://www.cityflowers.co.in/o/special-events/diwali-gifts-online.html">
+<span>Diwali Gifts Online</span>
+</a>
+</li><li class="level2 nav-3-3-18 last">
+<a href="https://www.cityflowers.co.in/o/special-events/christmas-collection.html">
+<span>Christmas Collection</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="level0 nav-4 level-top parent">
+<a class="level-top" href="https://www.cityflowers.co.in/gifts-collection.html">
+<span>Gifts Collection</span>
+</a>
+<ul class="level0 chield chield2">
+<li class="level1 nav-4-1 first parent">
+<a href="https://www.cityflowers.co.in/gifts-collection/shop-by-cake.html">
+<span>Shop By Cake</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-4-1-1 first">
+<a href="https://www.cityflowers.co.in/gifts-collection/shop-by-cake/5-star-cakes.html">
+<span>5 Star Cakes</span>
+</a>
+</li><li class="level2 nav-4-1-2">
+<a href="https://www.cityflowers.co.in/gifts-collection/shop-by-cake/regular-cakes.html">
+<span>A1 Cakes</span>
+</a>
+</li><li class="level2 nav-4-1-3">
+<a href="https://www.cityflowers.co.in/gifts-collection/shop-by-cake/designer-cakes.html">
+<span>Designer Cakes</span>
+</a>
+</li><li class="level2 nav-4-1-4">
+<a href="https://www.cityflowers.co.in/gifts-collection/shop-by-cake/wedding-cakes.html">
+<span>Wedding Cakes</span>
+</a>
+</li><li class="level2 nav-4-1-5 last">
+<a href="https://www.cityflowers.co.in/gifts-collection/shop-by-cake/theme-cakes.html">
+<span>Theme Cakes</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-4-2 last parent">
+<a href="https://www.cityflowers.co.in/gifts-collection/gifts-flowers.html">
+<span>Gifts Flowers</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-4-2-6 first">
+<a href="https://www.cityflowers.co.in/gifts-collection/gifts-flowers/flowers-with-cake-combos.html">
+<span>Flowers With Cake Combos</span>
+</a>
+</li><li class="level2 nav-4-2-7">
+<a href="https://www.cityflowers.co.in/gifts-collection/gifts-flowers/fruit-baskets.html">
+<span>Fruit Baskets</span>
+</a>
+</li><li class="level2 nav-4-2-8">
+<a href="https://www.cityflowers.co.in/gifts-collection/gifts-flowers/chocolate-gifts.html">
+<span>Chocolate Gifts</span>
+</a>
+</li><li class="level2 nav-4-2-9">
+<a href="https://www.cityflowers.co.in/gifts-collection/gifts-flowers/soft-toys-teddy-bears.html">
+<span>Soft Toys/Teddy Bears</span>
+</a>
+</li><li class="level2 nav-4-2-10 last">
+<a href="https://www.cityflowers.co.in/gifts-collection/gifts-flowers/balloon-bouquet.html">
+<span>Balloon Bouquet</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="level0 nav-5 level-top">
+<a class="level-top" href="https://www.cityflowers.co.in/birthdays.html">
+<span>Birthdays</span>
+</a>
+</li><li class="level0 nav-6 level-top parent">
+<a class="level-top" href="https://www.cityflowers.co.in/cityflower-s-specialities.html">
+<span>Specialities</span>
+</a>
+<ul class="level0 chield chield7">
+<li class="level1 nav-6-1 first">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/theme-parties.html">
+<span>Theme Parties</span>
+</a>
+</li><li class="level1 nav-6-2">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/birthday-anniversary-parties.html">
+<span>Birthday Parties</span>
+</a>
+</li><li class="level1 nav-6-3">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/balloon-decorations.html">
+<span>Balloon Decorations</span>
+</a>
+</li><li class="level1 nav-6-4">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/wedding-flowers-arrangements.html">
+<span>Wedding Arrangements</span>
+</a>
+</li><li class="level1 nav-6-5">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/best-deals-combos.html">
+<span>Best Deals</span>
+</a>
+</li><li class="level1 nav-6-6">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/multiple-days-surprise.html">
+<span>Multiple Days Surprise</span>
+</a>
+</li><li class="level1 nav-6-7 last parent">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/international.html">
+<span>INTERNATIONAL</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-6-7-1 first">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/international/new-zealand.html">
+<span>New Zealand</span>
+</a>
+</li><li class="level2 nav-6-7-2">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/international/usa.html">
+<span>USA</span>
+</a>
+</li><li class="level2 nav-6-7-3">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/international/uk.html">
+<span>UK</span>
+</a>
+</li><li class="level2 nav-6-7-4">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/international/uae.html">
+<span>UAE</span>
+</a>
+</li><li class="level2 nav-6-7-5">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/international/canada.html">
+<span>Canada</span>
+</a>
+</li><li class="level2 nav-6-7-6">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/international/indonasia.html">
+<span>Indonasia</span>
+</a>
+</li><li class="level2 nav-6-7-7 last">
+<a href="https://www.cityflowers.co.in/cityflower-s-specialities/international/singapore.html">
+<span>Singapore</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="level0 nav-7 level-top last parent">
+<a class="level-top" href="https://www.cityflowers.co.in/blogs.html">
+<span>Blogs</span>
+</a>
+<ul class="level0 chield chield5">
+<li class="level1 nav-7-1 first">
+<a href="https://www.cityflowers.co.in/blogs/special-days.html">
+<span>Special Days</span>
+</a>
+</li><li class="level1 nav-7-2">
+<a href="https://www.cityflowers.co.in/blogs/valentines-day.html">
+<span>Valentines Day</span>
+</a>
+</li><li class="level1 nav-7-3">
+<a href="https://www.cityflowers.co.in/blogs/flowers-meaning.html">
+<span>Flowers Meaning</span>
+</a>
+</li><li class="level1 nav-7-4">
+<a href="https://www.cityflowers.co.in/blogs/flowers-garden.html">
+<span>Flowers Garden</span>
+</a>
+</li><li class="level1 nav-7-5 last">
+<a href="https://www.cityflowers.co.in/blogs/wedding-guide.html">
+<span>Wedding Guide</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="level0 custommenuitem"><a href="https://www.cityflowers.co.in/o/special-events/diwali-gifts-online.html" title="Diwali 30 Oct"><span>Diwali 30 Oct</span></a></li>
+</ul>
+</div>
+</div>
+</div> <div class="main-container col1-layout">
+<div class="main">
+<div class="col-main">
+<div class="std"><div style="width: 980px; height: 31px; float: right;">
+<div style="width: 780px; float: left; margin-top: -4px;"><span style="font-size: 12px; color: #898686; width: 760px; text-align: left; float: left;"><img align="absmiddle" alt="gerbera" border="0" height="28" name="topbanner1_sameday-today" src="https://www.cityflowers.co.in/media/wysiwyg/Banners-Home/upperbar_gerbera.gif" style="color: #898686;" width="28"/>Need it delivered today? Order great gifts by 5:00PM**. Shop our Classic Collection <img align="absmiddle" alt="Shop Now" border="0" height="14" src="https://www.cityflowers.co.in/media/wysiwyg/Banners-Home/arrow-fall12.gif" width="8"/></span></div>
+<div style="width: 200px; float: right; margin-right: -30px; margin-top: -6px;"><a href="https://www.cityflowers.co.in/fm-a1cityflowers"> <img align="absmiddle" alt="radio ads" border="0" height="28px" src="https://www.cityflowers.co.in/media/wysiwyg/Banners-Home/rad1n.gif" width="170px"/></a></div>
+</div>
+<div style="clear: both; height: 0px;"> </div>
+<div class="iosSlider"> 
+<div class="slider"> 
+<div class="slide" id="valnb"><a href="https://www.cityflowers.co.in/o/occasions-all/anniversary.html" title="mothers day 2016"><img alt="Fresh Anniversary flower delivery" class="royalImage" src="https://www.cityflowers.co.in/media/wysiwyg/Banners-Home/anniversary2_1_.jpg"/></a></div>
+</div>
+ </div>
+<div class="hp-wrapper">
+<div>
+<div class="snav-box"><a class="snav-sameday" href="https://www.cityflowers.co.in/t/f/best-sellers.html" id="snav-links" name="snav_spot1" title="Same-Day Delivery"></a><span>Same-Day Delivery</span> <a class="snav-birthday" href="https://www.cityflowers.co.in/o/occasions-all/birthday.html" id="snav-links" name="snav_spot2" title="Birthday"></a><span>Birthday</span> <a class="snav-loveromance" href="https://www.cityflowers.co.in/o/occasions-all/love.html" id="snav-links" name="snav_spot3" title="Love &amp; Romance"></a><span>Love &amp; Romance</span> <a class="snav-anniversary" href="https://www.cityflowers.co.in/o/occasions-all/anniversary.html" id="snav-links" name="snav_spot4" title="Anniversary"></a><span>Anniversary</span> <a class="snav-newbaby" href="https://www.cityflowers.co.in/o/occasions-all/special-congratulations.html" id="snav-links" name="snav_spot5" title="Special of the Day"></a><span>New Baby</span> <a class="snav-getwell" href="https://www.cityflowers.co.in/o/occasions-all/get-well-soon.html" id="snav-links" name="snav_spot5" title="Get Well"></a><span>Get Well</span> <a class="snav-sympathy" href="https://www.cityflowers.co.in/o/occasions-all/sympathy-funeral.html" id="snav-links" name="snav_spot7" title="Sympathy"></a><span>Sympathy</span> <a class="snav-dotw" href="https://www.cityflowers.co.in/cityflower-s-specialities/best-deals-combos.html" id="snav-links" name="snav_spot8" title="Deal of the Week"></a><span>Deal of the Week</span> <a href="#" name="snav_bigbutton" title="Easter"></a><img alt="Fresh Rewards" border="0" src="https://www.cityflowers.co.in/floralex/freshrev.png" style="margin-top: 10px; margin-left: -10px;"/></div>
+</div>
+</div>
+ 
+<div class="clear"> </div>
+<p> </p><div class="newproducts">
+<div class="carousel">
+<div class="slider">
+<div class="item slide ">
+<div class="ratings">
+<div class="rating-box">
+<div class="rating" style="width:96%"></div>
+</div>
+<span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/102/'; return false;">42 Review(s)</a></span>
+</div>
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/pink-bonanza.html">
+<img "="" alt="Pink Bonanza " src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/r/o/rose-bo-11.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/pink-bonanza.html" title="Pink Bonanza ">Pink Bonanza </a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-102">
+                                            <span class="price">Rs395.60</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/pink-bonanza.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/102/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/102/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/pink-bonanza.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/pink-bonanza.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:94%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/100/'; return false;">30 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/bunch-of-15-roses.html">
+<img "="" alt="Bunch of 15 Roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/0/0/0000596_shower_of_flowers_2.jpeg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/bunch-of-15-roses.html" title="Bunch of 15 Roses">Bunch of 15 Roses</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-100">
+                                            <span class="price">Rs460.00</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/bunch-of-15-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/100/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/100/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/bunch-of-15-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/bunch-of-15-roses.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:98%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/101/'; return false;">43 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/50-red-roses.html">
+<img "="" alt="50 Red Roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/1/7/17825rdz1.3173647_std_2.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/50-red-roses.html" title="50 Red Roses">50 Red Roses</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-101">
+                                            <span class="price">Rs1,352.40</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/50-red-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/101/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/101/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/50-red-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/50-red-roses.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:97%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/107/'; return false;">30 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/friendly-bouquet.html">
+<img "="" alt="Friendly Bouquet - 30 Roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/i/t/it14_bouquet-of-multicolor-roses.jpg-500x500_2.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/friendly-bouquet.html" title="Friendly Bouquet - 30 Roses">Friendly Bouquet - 30 R...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-107">
+                                            <span class="price">Rs864.80</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/friendly-bouquet.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/107/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/107/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/friendly-bouquet.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/friendly-bouquet.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:97%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/105/'; return false;">19 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/pink-roses-bouquet.html">
+<img "="" alt="Pink Roses Bouquet" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/a/1/a1flo44.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/pink-roses-bouquet.html" title="Pink Roses Bouquet">Pink Roses Bouquet</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-105">
+                                            <span class="price">Rs598.00</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/pink-roses-bouquet.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/105/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/105/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/pink-roses-bouquet.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/pink-roses-bouquet.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:97%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/113/'; return false;">10 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/white-roses-bouquet-special-packing.html">
+<img "="" alt="White Roses bouquet (Special Packing)" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/w/e/we087._beautiful-bunch-of-white-roses_2.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/white-roses-bouquet-special-packing.html" title="White Roses bouquet (Special Packing)">White Roses bouquet (Sp...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-113">
+                                            <span class="price">Rs1,242.00</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/white-roses-bouquet-special-packing.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/113/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/113/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/white-roses-bouquet-special-packing.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/white-roses-bouquet-special-packing.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:94%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/111/'; return false;">10 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/roses-bouquet-100-roses.html">
+<img "="" alt="Roses Bouquet - 100 Roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/s/a/samar7_2.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/roses-bouquet-100-roses.html" title="Roses Bouquet - 100 Roses">Roses Bouquet - 100 Ros...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-111">
+                                            <span class="price">Rs2,378.20</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/roses-bouquet-100-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/111/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/111/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/roses-bouquet-100-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/roses-bouquet-100-roses.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:91%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/122/'; return false;">11 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/dozen-roses.html">
+<img "="" alt="Dozen Roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/r/e/red-yellow-white-my-colorful-wishes_1.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/dozen-roses.html" title="Dozen Roses">Dozen Roses</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-122">
+                                            <span class="price">Rs395.60</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/dozen-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/122/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/122/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/dozen-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/dozen-roses.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:94%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/118/'; return false;">12 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/a-dozen-red-roses.html">
+<img "="" alt="A Dozen Red Roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/r/o/roses58.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/a-dozen-red-roses.html" title="A Dozen Red Roses">A Dozen Red Roses</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-118">
+                                            <span class="price">Rs395.60</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/a-dozen-red-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/118/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/118/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/a-dozen-red-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/a-dozen-red-roses.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:96%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/116/'; return false;">6 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/exclusive-pink-bouquet-special-packing.html">
+<img "="" alt="Exclusive Pink Bouquet (Special Packing)" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/1/2/12-pink-rose.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/exclusive-pink-bouquet-special-packing.html" title="Exclusive Pink Bouquet (Special Packing)">Exclusive Pink Bouquet ...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-116">
+                                            <span class="price">Rs786.60</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/exclusive-pink-bouquet-special-packing.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/116/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/116/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/exclusive-pink-bouquet-special-packing.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/exclusive-pink-bouquet-special-packing.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:85%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/114/'; return false;">5 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/yellow-delight-basket.html">
+<img "="" alt="Yellow Delight Basket" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/w/e/we627._beautiful-roses-basket-arrangement_2.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/yellow-delight-basket.html" title="Yellow Delight Basket">Yellow Delight Basket</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-114">
+                                            <span class="price">Rs864.80</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/yellow-delight-basket.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/114/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/114/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/yellow-delight-basket.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/yellow-delight-basket.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:98%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/112/'; return false;">3 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/purity.html">
+<img "="" alt="Purity &amp; Innocence" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/w/b/wb178._white-roses-bunch_2.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/purity.html" title="Purity &amp; Innocence">Purity &amp; Innocence</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-112">
+                                            <span class="price">Rs598.00</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/purity.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/112/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/112/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/purity.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/purity.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:87%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/109/'; return false;">8 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/pink-shower-bouquet.html">
+<img "="" alt="Pink Shower Bouquet" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/p/i/pink4_1_2.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/pink-shower-bouquet.html" title="Pink Shower Bouquet">Pink Shower Bouquet</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-109">
+                                            <span class="price">Rs698.74</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/pink-shower-bouquet.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/109/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/109/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/pink-shower-bouquet.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/pink-shower-bouquet.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:90%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/123/'; return false;">6 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/a-dozen-pure-white-roses.html">
+<img "="" alt="A Dozen Pure White Roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/w/h/white-rose-always-and-forever_2.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/a-dozen-pure-white-roses.html" title="A Dozen Pure White Roses">A Dozen Pure White Rose...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-123">
+                                            <span class="price">Rs395.60</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/a-dozen-pure-white-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/123/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/123/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/a-dozen-pure-white-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/a-dozen-pure-white-roses.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:96%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/119/'; return false;">10 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/assorted-bouquet-of-24-roses.html">
+<img "="" alt="Assorted bouquet of 24 roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/m/i/mixedrosebqt_nat_2.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/assorted-bouquet-of-24-roses.html" title="Assorted bouquet of 24 roses">Assorted bouquet of 24 ...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-119">
+                                            <span class="price">Rs690.00</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/assorted-bouquet-of-24-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/119/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/119/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/assorted-bouquet-of-24-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/assorted-bouquet-of-24-roses.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:93%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/117/'; return false;">8 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/premium-long-stem-assorted-roses.html">
+<img "="" alt=" Premium Long Stem Assorted Roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/1/4/14roses_1250__flowers_2.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/premium-long-stem-assorted-roses.html" title=" Premium Long Stem Assorted Roses"> Premium Long Stem Asso...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-117">
+                                            <span class="price">Rs972.90</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/premium-long-stem-assorted-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/117/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/117/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/premium-long-stem-assorted-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/premium-long-stem-assorted-roses.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:93%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/115/'; return false;">12 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/elegance-of-40-assorted-roses.html">
+<img "="" alt="Elegance of 40 assorted Roses." src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/w/e/we677._mix-roses-bunch-express-delivery_2.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/elegance-of-40-assorted-roses.html" title="Elegance of 40 assorted Roses.">Elegance of 40 assorted...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-115">
+                                            <span class="price">Rs1,136.20</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/elegance-of-40-assorted-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/115/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/115/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/elegance-of-40-assorted-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/elegance-of-40-assorted-roses.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:96%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/132/'; return false;">9 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/everlasting-love.html">
+<img "="" alt="Blooming Happiness" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/1/0/109.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/everlasting-love.html" title="Blooming Happiness">Blooming Happiness</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-132">
+                                            <span class="price">Rs897.00</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/everlasting-love.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/132/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/132/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/everlasting-love.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/everlasting-love.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:94%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/125/'; return false;">10 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/basket-delight-of-pink-roses.html">
+<img "="" alt="Basket Delight of Pink Roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/a/1/a1roses.com_52_1.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/basket-delight-of-pink-roses.html" title="Basket Delight of Pink Roses">Basket Delight of Pink ...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-125">
+                                            <span class="price">Rs979.80</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/basket-delight-of-pink-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/125/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/125/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/basket-delight-of-pink-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/basket-delight-of-pink-roses.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:89%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/256/'; return false;">6 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/the-big-hug-city-flowers-special.html">
+<img "="" alt="The Big Hug - City Flowers Special" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/a/1/a1roses_515b.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/the-big-hug-city-flowers-special.html" title="The Big Hug - City Flowers Special">The Big Hug - City Flow...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-256">
+                                            <span class="price">Rs1,269.60</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/the-big-hug-city-flowers-special.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/256/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/256/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/the-big-hug-city-flowers-special.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/the-big-hug-city-flowers-special.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:91%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/311/'; return false;">5 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/glamorous-exotic-lilies.html">
+<img "="" alt="GLAMOROUS EXOTIC LILIES " src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/7/2/7295b_lovely-lilies.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/glamorous-exotic-lilies.html" title="GLAMOROUS EXOTIC LILIES ">GLAMOROUS EXOTIC LILIES...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-311">
+                                            <span class="price">Rs1,393.80</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/glamorous-exotic-lilies.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/311/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/311/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/glamorous-exotic-lilies.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/glamorous-exotic-lilies.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:96%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/422/'; return false;">6 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/garden-bouquet-butterscotch-cake.html">
+<img "="" alt="Garden Bouquet &amp; Butterscotch Cake" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/e/a/easy_105.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/garden-bouquet-butterscotch-cake.html" title="Garden Bouquet &amp; Butterscotch Cake">Garden Bouquet &amp; Bu...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-422">
+                                            <span class="price">Rs1,196.00</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/garden-bouquet-butterscotch-cake.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/422/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/422/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/garden-bouquet-butterscotch-cake.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/garden-bouquet-butterscotch-cake.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:97%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/428/'; return false;">9 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/bright-moments.html">
+<img "="" alt="Bright Moments" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/b/r/brightmoment.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/bright-moments.html" title="Bright Moments">Bright Moments</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-428">
+                                            <span class="price">Rs1,380.00</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/bright-moments.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/428/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/428/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/bright-moments.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/bright-moments.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/451/'; return false;">1 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/a-pure-gem.html">
+<img "="" alt="A Pure Gem " src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/n/i/nizam-2.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/a-pure-gem.html" title="A Pure Gem ">A Pure Gem </a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-451">
+                                            <span class="price">Rs593.40</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/product/451/')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/451/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/451/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/a-pure-gem.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/product/451/')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:97%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/452/'; return false;">9 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/heart-s-desire.html">
+<img "="" alt="Heart's Desire" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/n/i/nizam-4.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/heart-s-desire.html" title="Heart's Desire">Heart's Desire</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-452">
+                                            <span class="price">Rs1,485.80</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/heart-s-desire.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/452/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/452/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/heart-s-desire.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/heart-s-desire.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:80%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/455/'; return false;">2 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/a-dozen-yellow-roses.html">
+<img "="" alt="A Dozen Yellow Roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/y/e/yellow-nixzm12.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/a-dozen-yellow-roses.html" title="A Dozen Yellow Roses">A Dozen Yellow Roses</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-455">
+                                            <span class="price">Rs395.60</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/a-dozen-yellow-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/455/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/455/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/a-dozen-yellow-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/a-dozen-yellow-roses.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:90%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/467/'; return false;">4 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/snowy-affection-pretty-bouquet.html">
+<img "="" alt="Snowy Affection Pretty Bouquet" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/0/0/001-snow.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/snowy-affection-pretty-bouquet.html" title="Snowy Affection Pretty Bouquet">Snowy Affection Pretty ...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-467">
+                                            <span class="price">Rs1,398.40</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/snowy-affection-pretty-bouquet.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/467/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/467/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/snowy-affection-pretty-bouquet.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/snowy-affection-pretty-bouquet.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:95%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/462/'; return false;">5 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/adorable-roses.html">
+<img "="" alt="Adorable Roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/3/6/36carryb.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/adorable-roses.html" title="Adorable Roses">Adorable Roses</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-462">
+                                            <span class="price">Rs496.80</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/adorable-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/462/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/462/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/adorable-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/adorable-roses.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:85%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/471/'; return false;">5 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/radiant-white-bouquet.html">
+<img "="" alt="Radiant White Bouquet" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/w/h/white-55b.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/radiant-white-bouquet.html" title="Radiant White Bouquet">Radiant White Bouquet</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-471">
+                                            <span class="price">Rs998.20</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/radiant-white-bouquet.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/471/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/471/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/radiant-white-bouquet.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/radiant-white-bouquet.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/464/'; return false;">1 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/bright-yellow-roses.html">
+<img "="" alt="Bright Yellow Roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/y/e/yellowrs5.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/bright-yellow-roses.html" title="Bright Yellow Roses">Bright Yellow Roses</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-464">
+                                            <span class="price">Rs846.40</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/bright-yellow-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/464/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/464/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/bright-yellow-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/bright-yellow-roses.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                                    <div class="item slide last"> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:95%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/488/'; return false;">4 Review(s)</a></span>
+    </div>
+                        
+<div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/choco-pink-surprise.html">
+<img "="" alt="Choco Pink Surprise" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/e/a/easyf1.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/choco-pink-surprise.html" title="Choco Pink Surprise">Choco Pink Surprise</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-488">
+                                            <span class="price">Rs998.20</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/choco-pink-surprise.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/488/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/488/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/choco-pink-surprise.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/choco-pink-surprise.html?options=cart')">Add to Cart</div>        
+</div>
+</div>
+</div>
+                      
+                    </div>
+                            </div>             
+        </div>
+                    <div class="prev new-arrow"> </div>
+            <div class="next new-arrow"> </div>  
+            </div>     
+    <div class="clear"></div>
+            <script type="text/javascript">
+     
+            jQuery('.new-arrow.prev').addClass('disabled');
+            jQuery('.carousel').iosSlider({
+                desktopClickDrag: true,
+                snapToChildren: true,
+                infiniteSlider: false,
+                navNextSelector: '.new-arrow.next',
+                navPrevSelector: '.new-arrow.prev',
+                lastSlideOffset: 3,
+                onFirstSlideComplete: function(){
+                    jQuery('.new-arrow.prev').addClass('disabled');
+                },
+                onLastSlideComplete: function(){
+                    jQuery('.new-arrow.next').addClass('disabled');
+                },
+                onSlideChange: function(){
+                    jQuery('.new-arrow.prev').removeClass('disabled');
+                    jQuery('.new-arrow.next').removeClass('disabled');
+                }
+            });
+         
+       
+        </script>    
+    <p></p>
+<div class="welcome-buttons"><a title="birthday"><img alt="" class="fade-image" src="https://www.cityflowers.co.in/media/wysiwyg/Banners-Home/cnbc_-_cityflowers.jpg"/></a></div>
+<!-- <h1 class="products-block-header">Sale Products</h1> -->
+<div class="clear"> </div>
+<p>    </p><div class="saleproducts">
+        <div class="carousel">
+            <div class="slider">
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:94%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/250/'; return false;">30 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/2-teddies-in-flowers-basket.html">
+<img "="" alt="2 Teddies in Flowers Basket." src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/a/1/a1roses_509.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/2-teddies-in-flowers-basket.html" title="2 Teddies in Flowers Basket.">2 Teddies in Flowers Ba...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-250">
+                    Rs1,610.00                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-250">
+                    Rs1,380.00                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/2-teddies-in-flowers-basket.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/250/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/250/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/2-teddies-in-flowers-basket.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/2-teddies-in-flowers-basket.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:92%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/246/'; return false;">12 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/joyful-gift.html">
+<img "="" alt="JOYFUL GIFT" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/a/r/arenaflo_1.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/joyful-gift.html" title="JOYFUL GIFT">JOYFUL GIFT</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-246">
+                    Rs1,757.20                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-246">
+                    Rs1,619.20                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/joyful-gift.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/246/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/246/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/joyful-gift.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/joyful-gift.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:90%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/232/'; return false;">7 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/subtle-grace-garden-of-love.html">
+<img "="" alt="Subtle Grace Garden of Love" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/a/1/a1flo_108.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/subtle-grace-garden-of-love.html" title="Subtle Grace Garden of Love">Subtle Grace Garden of ...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-232">
+                    Rs9,200.00                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-232">
+                    Rs8,142.00                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/subtle-grace-garden-of-love.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/232/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/232/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/subtle-grace-garden-of-love.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/subtle-grace-garden-of-love.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:97%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/249/'; return false;">32 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/fresh-fruit-cake-delight-card.html">
+<img "="" alt="Fresh Fruit Cake Delight &amp; Card" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/a/r/arenaflo_4.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/fresh-fruit-cake-delight-card.html" title="Fresh Fruit Cake Delight &amp; Card">Fresh Fruit Cake Deligh...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-249">
+                    Rs952.20                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-249">
+                    Rs860.20                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/fresh-fruit-cake-delight-card.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/249/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/249/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/fresh-fruit-cake-delight-card.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/fresh-fruit-cake-delight-card.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:97%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/240/'; return false;">19 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/delightful-combination-with-roses.html">
+<img "="" alt="DELIGHTFUL COMBINATION WITH ROSES" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/a/r/arena_604.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/delightful-combination-with-roses.html" title="DELIGHTFUL COMBINATION WITH ROSES">DELIGHTFUL COMBINATION ...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-240">
+                    Rs3,229.20                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-240">
+                    Rs2,999.20                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/delightful-combination-with-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/240/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/240/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/delightful-combination-with-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/delightful-combination-with-roses.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:96%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/314/'; return false;">3 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/my-heart-sings-say-love-you-with-500-roses-valentine.html">
+<img "="" alt='My Heart Sings - Say Love you with "500 Roses"' src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/a/1/a1flo_107_1.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/my-heart-sings-say-love-you-with-500-roses-valentine.html" title='My Heart Sings - Say Love you with "500 Roses"'>My Heart Sings - Say Lo...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-314">
+                    Rs24,380.00                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-314">
+                    Rs21,620.00                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/my-heart-sings-say-love-you-with-500-roses-valentine.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/314/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/314/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/my-heart-sings-say-love-you-with-500-roses-valentine.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/my-heart-sings-say-love-you-with-500-roses-valentine.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:91%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/206/'; return false;">6 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/choco-ferrero-rocher-bouquet.html">
+<img "="" alt="Choco Ferrero Rocher Bouquet " src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/a/1/a1roses_603.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/choco-ferrero-rocher-bouquet.html" title="Choco Ferrero Rocher Bouquet ">Choco Ferrero Rocher Bo...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-206">
+                    Rs1,840.00                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-206">
+                    Rs1,697.40                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/choco-ferrero-rocher-bouquet.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/206/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/206/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/choco-ferrero-rocher-bouquet.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/choco-ferrero-rocher-bouquet.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                            
+                                  
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/room-full-of-roses.html">
+<img "="" alt="Room Full of Roses - 1000 Roses" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/1/5/1506.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/room-full-of-roses.html" title="Room Full of Roses - 1000 Roses">Room Full of Roses - 10...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-382">
+                                            <span class="price">Rs39,882.00</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/product/382/')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/382/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/382/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/room-full-of-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/product/382/')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                            
+                                  
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/5-in-one-valentine-combo.html">
+<img "="" alt="5 in One - Valentine Combo" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/c/o/combo118.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/5-in-one-valentine-combo.html" title="5 in One - Valentine Combo">5 in One - Valentine Co...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-405">
+                                            <span class="price">Rs3,680.00</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/5-in-one-valentine-combo.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/405/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/405/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/5-in-one-valentine-combo.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/5-in-one-valentine-combo.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                                  
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/valentino-luxurious-combo.html">
+<img "="" alt="Valentino Luxurious Combo" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/a/r/arena97.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/valentino-luxurious-combo.html" title="Valentino Luxurious Combo">Valentino Luxurious Com...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-407">
+                    Rs7,360.00                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-407">
+                    Rs5,694.80                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/valentino-luxurious-combo.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/407/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/407/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/valentino-luxurious-combo.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/valentino-luxurious-combo.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:95%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/406/'; return false;">8 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/be-my-valentine.html">
+<img "="" alt="Be my Valentine !" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/2/0/201.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/be-my-valentine.html" title="Be my Valentine !">Be my Valentine !</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-406">
+                                            <span class="price">Rs4,922.00</span>                                    </span>
+                        
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/be-my-valentine.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/406/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/406/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/be-my-valentine.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/be-my-valentine.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:96%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/416/'; return false;">12 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/150-pretty-pink-roses.html">
+<img "="" alt="150 Pretty Pink Roses " src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/1/0/100pink_a1.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/150-pretty-pink-roses.html" title="150 Pretty Pink Roses ">150 Pretty Pink Roses </a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-416">
+                    Rs3,864.00                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-416">
+                    Rs3,597.20                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/150-pretty-pink-roses.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/416/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/416/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/150-pretty-pink-roses.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/150-pretty-pink-roses.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:99%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/418/'; return false;">6 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/assorted-roses-birthday-cake.html">
+<img "="" alt="Assorted Roses &amp; Birthday Cake." src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/e/a/easy_102.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/assorted-roses-birthday-cake.html" title="Assorted Roses &amp; Birthday Cake.">Assorted Roses &amp; Bi...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-418">
+                    Rs1,250.28                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-418">
+                    Rs1,094.80                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/assorted-roses-birthday-cake.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/418/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/418/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/assorted-roses-birthday-cake.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/assorted-roses-birthday-cake.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                                  
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/four-in-one-surprise.html">
+<img "="" alt="Four in One - Surprise" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/b/-/b-easy301.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/four-in-one-surprise.html" title="Four in One - Surprise">Four in One - Surprise</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-420">
+                    Rs3,450.00                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-420">
+                    Rs3,197.00                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/four-in-one-surprise.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/420/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/420/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/four-in-one-surprise.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/four-in-one-surprise.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                                  
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/balloons-surprise.html">
+<img "="" alt="Balloons &amp; Surprise" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/b/-/b-20_new_.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/balloons-surprise.html" title="Balloons &amp; Surprise">Balloons &amp; Surprise</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-475">
+                    Rs3,394.80                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-475">
+                    Rs2,994.60                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/balloons-surprise.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/475/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/475/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/balloons-surprise.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/balloons-surprise.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:93%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/472/'; return false;">1 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/balloons-smiley-cake-red-bouquet.html">
+<img "="" alt="Balloons, Smiley Cake &amp; Red Bouquet" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/b/-/b-17_new_.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/balloons-smiley-cake-red-bouquet.html" title="Balloons, Smiley Cake &amp; Red Bouquet">Balloons, Smiley Cake &amp;...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-472">
+                    Rs2,994.60                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-472">
+                    Rs2,695.60                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/balloons-smiley-cake-red-bouquet.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/472/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/472/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/balloons-smiley-cake-red-bouquet.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/balloons-smiley-cake-red-bouquet.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:87%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/474/'; return false;">1 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/balloons-with-blooming-happiness.html">
+<img "="" alt="Balloons with Blooming Happiness" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/b/-/b-19_new_.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/balloons-with-blooming-happiness.html" title="Balloons with Blooming Happiness">Balloons with Blooming ...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-474">
+                    Rs2,497.80                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-474">
+                    Rs2,097.60                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/balloons-with-blooming-happiness.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/474/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/474/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/balloons-with-blooming-happiness.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/balloons-with-blooming-happiness.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:96%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/511/'; return false;">3 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/pretty-bouquet-ferrero-rocher.html">
+<img "="" alt="Pretty Bouquet &amp; Ferrero Rocher" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/0/0/003-combo.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/pretty-bouquet-ferrero-rocher.html" title="Pretty Bouquet &amp; Ferrero Rocher">Pretty Bouquet &amp; Fe...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-511">
+                    Rs1,573.20                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-511">
+                    Rs1,370.80                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/pretty-bouquet-ferrero-rocher.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/511/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/511/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/pretty-bouquet-ferrero-rocher.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/pretty-bouquet-ferrero-rocher.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                                  
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/blessings-fall-diwali-perfect-combo.html">
+<img "="" alt="Blessings Fall, Diwali Perfect Combo" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/d/i/diyas-12.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/blessings-fall-diwali-perfect-combo.html" title="Blessings Fall, Diwali Perfect Combo">Blessings Fall, Diwali ...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-527">
+                    Rs1,297.20                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-527">
+                    Rs1,094.80                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/blessings-fall-diwali-perfect-combo.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/527/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/527/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/blessings-fall-diwali-perfect-combo.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/blessings-fall-diwali-perfect-combo.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:93%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/560/'; return false;">1 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/soft-bear-2-feet-large.html">
+<img "="" alt="Soft Bear - 2 Feet Large" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/1/1/11-bb.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/soft-bear-2-feet-large.html" title="Soft Bear - 2 Feet Large">Soft Bear - 2 Feet Larg...</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-560">
+                    Rs2,994.60                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-560">
+                    Rs2,497.80                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/soft-bear-2-feet-large.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/560/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/560/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/soft-bear-2-feet-large.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/soft-bear-2-feet-large.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide "> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                                  
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/huge-plush-soft-bear.html">
+<img "="" alt="Huge Plush Soft Bear" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/1/m/1m2darkbrownbb.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/huge-plush-soft-bear.html" title="Huge Plush Soft Bear">Huge Plush Soft Bear</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-559">
+                    Rs7,994.80                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-559">
+                    Rs5,897.20                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/huge-plush-soft-bear.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/559/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/559/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/huge-plush-soft-bear.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/huge-plush-soft-bear.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                                    <div class="slide last"> 
+                                    <div class="saleproduct once">Sale</div>
+            
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:92%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://www.cityflowers.co.in/review/product/list/id/205/'; return false;">5 Review(s)</a></span>
+    </div>
+          
+                        
+                        <div class="box-product-item">
+<div class="view-first">
+<div class="view-content">
+<div class="image">
+<a href="https://www.cityflowers.co.in/sweet-dipsy-romance.html">
+<img "="" alt="SWEET DIPSY ROMANCE" src="https://www.cityflowers.co.in/media/catalog/product/cache/1/small_image/188x204/e5c951cab86dd085aaf923d72929efe3/a/1/a1roses_602.jpg"/>
+</a>
+</div>
+<div class="name">
+<a href="https://www.cityflowers.co.in/sweet-dipsy-romance.html" title="SWEET DIPSY ROMANCE">SWEET DIPSY ROMANCE</a>
+</div>
+
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-205">
+                    Rs9,200.00                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Special Price:</span>
+                <span class="price" id="product-price-205">
+                    Rs7,774.00                </span>
+            </p>
+                    
+    
+        </div>
+
+</div>
+<div class="box-product-buttons">
+<div class="buttons-cart" onclick="setLocation('https://www.cityflowers.co.in/sweet-dipsy-romance.html?options=cart')"></div>
+<div class="buttons-wish" onclick="setLocation('https://www.cityflowers.co.in/wishlist/index/add/product/205/')"></div>
+<div class="buttons-compare" onclick="setLocation('https://www.cityflowers.co.in/catalog/product_compare/add/product/205/uenc/aHR0cHM6Ly93d3cuY2l0eWZsb3dlcnMuY28uaW4v/')"></div>
+<div class="buttons-more" onclick="setLocation('https://www.cityflowers.co.in/sweet-dipsy-romance.html')"></div>
+<div class="buttons-cart-text" onclick="setLocation('https://www.cityflowers.co.in/sweet-dipsy-romance.html?options=cart')">Add to Cart</div>
+</div>
+</div>
+</div>
+                                         
+                    </div>
+                            </div>             
+        </div>
+                    <div class="prev sale-arrow"> </div>
+            <div class="next sale-arrow"> </div>  
+            </div>     
+    <div class="clear"></div>
+            <script type="text/javascript">
+            jQuery('.sale-arrow.prev').addClass('disabled');
+            jQuery('.carousel').iosSlider({
+                desktopClickDrag: true,
+                snapToChildren: true,
+                infiniteSlider: false,
+                navNextSelector: '.sale-arrow.next',
+                navPrevSelector: '.sale-arrow.prev',
+                lastSlideOffset: 3,
+                onFirstSlideComplete: function(){
+                    jQuery('.sale-arrow.prev').addClass('disabled');
+                },
+                onLastSlideComplete: function(){
+                    jQuery('.sale-arrow.next').addClass('disabled');
+                },
+                onSlideChange: function(){
+                    jQuery('.sale-arrow.prev').removeClass('disabled');
+                    jQuery('.sale-arrow.next').removeClass('disabled');
+                }
+            });               
+        </script>    
+    <p></p>
+
+
+
+
+
+
+
+
+
+
+<div class="footer-about">
+<div class="text">
+<h1>Sending Flowers Online</h1>
+<p>Flowers can be extremely useful to express one’s emotions for the other. They are used to tell someone sorry, or to congratulate someone, or to offer condolences. Whatever the emotion is flowers can help you express them in the most vivid way. In some cultures flowers are offered during funerals for comfort. In some they are used only for happy occasions like weddings. Sending flowers to someone is a very common form of expressing your emotions towards that person.</p>
+<h2>Flower Delivery Across the India</h2>
+<p>With over 5 successful years of expertise in online market, CityFlowers.co.in proves to be the best online flower delivery service in the India and has plenty of happy customers nationwide. Whether you're planning for Delhi flower delivery services, or you want to send beautiful Mumbai flowers, we service every state from Indore, to Chandigarh, to Kolkata, and every major city, from Ahmedabad to Bangalore plus all towns like Hyderabad and all major cities in India.</p>
+<p>Your best choice when shopping for flowers online, bouquets and gifts at any time of the year, especially Valentine's Day and Mother's Day. We have a wonderful variety of fresh flowers and plants including roses, orchids, tulips, carnations, lilies, and more. We also offer delicious gourmet gift baskets of fresh fruit, gourmet food, chocolate and candy.</p>
+</div>
+<div class="social">
+<h1>Contact us</h1>
+<div class="contact">
+<div class="phone"><strong>Phone:</strong> +91-171-660-9911</div>
+<div class="email"><a href="/cdn-cgi/l/email-protection#91e2e4e1e1fee3e5d1f2f8e5e8f7fdfee6f4e3e2bff2febff8ff"><span class="__cf_email__" data-cfemail="c8bbbdb8b8a7babc88aba1bcb1aea4a7bfadbabbe6aba7e6a1a6">[email protected]</span><script data-cfhash="f9e31" type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></div>
+<div class="phone"><strong>Quality with perfection - Guaranteed!</strong></div>
+<ul style="list-style-type: lower-alpha;">
+<li>Order Flowers Online with CityFlowers.co.in, <br/> the Indian's Favorite Florist!</li>
+<li>Quick Flower Delivery and <br/>Great Customer Service.</li>
+<li>Order Flowers Online for <br/>All Occasions and Holidays.</li>
+<li>Flower Delivery Around the Nation.</li>
+<li>Trusted Florists Guaranteed</li>
+<li>Largest Florist Network.</li>
+<li>Top rated by Flowers Authority Asia <br/>in terms of quality at best price.</li>
+</ul>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+<p> </p>
+<div class="homeTestimonials">
+ <h3>What Our Customers Are Saying</h3>
+
+
+
+
+
+
+
+ <div class="homegrid_4 homealpha">
+  <div class="backgroundTestimonial">
+   <p>Wonderful service.  I ordered flowers for my wife and a beautiful arrangement  arrived on time and in full bloom.  Price was reasonable and I appreciate their sustainable practices.  I will definitely be using them in the future.  </p>
+  </div><!--backgroundTestimonial-->
+  <span>Review of: Impressive Exotic Lilies<div class="ratings">
+		<div class="rating-box">
+			<div class="rating" style="width: 95%"></div>
+		</div>
+	</div></span>
+</div>
+
+
+
+
+
+
+ <div class="homegrid_4 homealpha">
+  <div class="backgroundTestimonial">
+   <p>Very happy with the flowers sent to my daughter for her birthday. She sent a picture and they were very pretty. Will definitely order from City Flowers again. </p>
+  </div><!--backgroundTestimonial-->
+  <span>Review of: Shimmeriing Love - Hand Tied Bouquet<div class="ratings">
+		<div class="rating-box">
+			<div class="rating" style="width: 95%"></div>
+		</div>
+	</div></span>
+</div>
+
+
+
+
+
+
+ <div class="homegrid_4 homealpha">
+  <div class="backgroundTestimonial">
+   <p>Amazing flowers, these guys did exactly the same that I wanted.Right hand delivery to the person for whom I booked without revealing any kind of surprise in prior. Heart fully thanks to you guys.Timings of delivery are perfect , I request you guys kindly do not do any changes in future , we like your present service and hope it will remains like that in future also.</p>
+  </div><!--backgroundTestimonial-->
+  <span>Review of: Alluring Lilies with Premium Roses<div class="ratings">
+		<div class="rating-box">
+			<div class="rating" style="width: 95%"></div>
+		</div>
+	</div></span>
+</div>
+
+
+
+
+
+
+ <div class="homegrid_4 homealpha">
+  <div class="backgroundTestimonial">
+   <p>I found the site on Google. My order was cake and blossom - cake + 20 red fresh roses + card . Order was on time , quality was excellent , service is great. Really appreciate your service. Will definitely recommend this site to who ever is looking for making some ones day special . Highlight was I ordered on Sunday - usually all of them were out of service , because my order was for next day , Monday. Prompt service , hats off to you guys...... thanks and cheers</p>
+  </div><!--backgroundTestimonial-->
+  <span>Review of: Delightful Cake and Bloom<div class="ratings">
+		<div class="rating-box">
+			<div class="rating" style="width: 95%"></div>
+		</div>
+	</div></span>
+</div>
+
+
+
+<!--grid_4-->
+</div><!--testimonials-->
+
+<div style="clear: both;"> </div></div>                </div>
+
+
+
+
+
+            </div>
+        </div>
+    </div><!-- END page -->
+
+
+
+
+
+
+                        
+
+<div class="footer-container">
+    <div class="additional-footer">
+        <div class="social-icons"><div style="margin-left: 35px;"><a class="tryitbtn" href="http://www.cityflowers.co.in/contacts/">Write A Review</a></div>
+<p><a class="soc-img" href="http://facebook.com/a1cityflowers"><img alt="" class="fade-image" src="https://www.cityflowers.co.in/media/wysiwyg/beautyshop/social/facebook.png"/></a> <a class="soc-img" href="http://twitter.com/cityflowers_in"><img alt="" class="fade-image" src="https://www.cityflowers.co.in/media/wysiwyg/beautyshop/social/twitter.png"/></a> <a class="soc-img" href="http://pinterest.com/a1roses"><img alt="" class="fade-image" src="https://www.cityflowers.co.in/media/wysiwyg/beautyshop/social/pinterest.png"/></a> <a class="soc-img" href="https://plus.google.com/u/0/b/102244080153245727076/102244080153245727076/posts"><img alt="" class="fade-image" src="https://www.cityflowers.co.in/media/wysiwyg/beautyshop/social/google-plus.png"/></a> </p></div>
+    <div id="newsletter">
+        <form action="https://www.cityflowers.co.in/newsletter/subscriber/new/" id="newsletter-validate-detail" method="post">
+    <div class="form-subscribe clearfix">
+    <div class="form-subscribe-header"><h4>Sign up for our newsletter</h4></div>
+        <div class="input-box">
+           <input class="input-text required-entry validate-email" id="newsletter" name="email" title="Sign up for our newsletter" type="text"/>
+              
+            <button class="button" title="Submit" type="submit"><span><span>Submit</span></span></button>  
+        </div>  
+    </div>
+</form>
+<script type="text/javascript">
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    new Varien.searchForm('newsletter-validate-detail', 'newsletter', 'Enter your email address');
+//]]>
+</script>
+        
+    </div>   
+    <!-- beautyshop footer -->
+     <div id="footer">
+                            
+                        <div id="message"><a href="#top" id="top-link"></a></div> 
+                       <!-- columns -->
+   <div class="column">
+<h3>Information</h3>
+<ul>
+<li><a href="https://www.cityflowers.co.in/custom-orders/" title="custom order information">Custom Order Information</a></li>
+<li><a href="https://www.cityflowers.co.in/about-us">About Us</a></li>
+<li><a href="https://www.cityflowers.co.in/designers-flowers-arrangement/" title="designer flower arrangement">Designer Arrangement Guide</a></li>
+<li><a href="https://www.cityflowers.co.in/about-flowers/" title="about flowers">About Flowers</a></li>
+<li><a href="https://www.cityflowers.co.in/the-petals-of-thoughts/" title="flowers - the petals of thoughts">flowers - the petals of thoughts</a></li>
+<li><a href="https://www.cityflowers.co.in/blog/" title="flower blog">Blogs - CityFlowers.co.in</a></li>
+<li><a href="https://www.cityflowers.co.in/fm-cityflowers/" title="radio listner">Listen Us On Radio</a></li>
+<li><a href="https://www.cityflowers.co.in/each-petal-is-a-different-stroke/" title="flower petal guide">Flower Petals Guide</a></li>
+<li><a href="https://www.cityflowers.co.in/chocolate-flowers-gifts/" title="chocolate combo guide">Chocolates Combo Guide</a></li>
+<li><a href="https://www.cityflowers.co.in/delicious-chocolates-gift/">Delicious Chocolate Gift</a></li>
+<li><a href="https://www.cityflowers.co.in/4-best-gifts-for-valentines-day/">4 Gifts For Your Valentine's</a></li>
+<li><a href="https://www.cityflowers.co.in/kiss-day-celebrations-india/">Kiss Day Celebrations</a></li>
+<li><a href="https://www.cityflowers.co.in/feb-8th-propose-day/">8 Feb Propose Day</a></li>
+<li><a href="https://www.cityflowers.co.in/wedding-flower-guide/">Wedding Flowers Guide</a></li>
+</ul>
+</div>
+<div class="column">
+<h3>Customer Service</h3>
+<ul>
+<li><a href="https://www.cityflowers.co.in/contacts/">Contact Us</a></li>
+<li><a href="http://bit.ly/2aoAYae" rel="nofollow" target="_blank">Orders Status</a></li>
+<li><a href="https://www.cityflowers.co.in/catalog/seo_sitemap/category/">Site Map</a></li>
+<li><a href="https://www.cityflowers.co.in/customer-service">Customer Service</a></li>
+<li><a href="https://www.cityflowers.co.in/terms-conditions">Terms Conditions</a></li>
+<li><a href="https://www.cityflowers.co.in/florist-choice">Florist Choice</a></li>
+<li><a href="https://www.cityflowers.co.in/corporate-gifting">Corporate Gifting</a></li>
+<li><a href="https://www.cityflowers.co.in/career-with-us">Career With Us</a></li>
+<li><a href="https://www.cityflowers.co.in/sponsorships">Sponsorships</a></li>
+<li><a href="https://www.cityflowers.co.in/coupon-codes/">Coupon Codes</a></li>
+<li class="last privacy"><a href="https://www.cityflowers.co.in/privacy-policy">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="column">
+<h3>Extras</h3>
+<ul>
+<li><a href="https://www.cityflowers.co.in/delivery-locations/">Delivery Locations</a></li>
+</ul>
+<p><a href="https://www.cityflowers.co.in/send-flowers-kolkata-delivery/" title="Kolkata">Kolkata</a>  , <a href="https://www.cityflowers.co.in/send-flowers-shimla-delivery/" title="Shimla">Shimla</a>, <a href="https://www.cityflowers.co.in/send-flowers-mangalore-delivery/" title="Mangalore">Mangalore</a><br/> <a href="https://www.cityflowers.co.in/send-flowers-hyderabad-delivery/" title="hyderabad">Hyderabad</a>  , <a href="https://www.cityflowers.co.in/send-flowers-vizag-delivery/" title="Vizag">Vizag</a>, <a href="https://www.cityflowers.co.in/send-flowers-solan-delivery/" title="Solan">Solan</a><br/> <a href="https://www.cityflowers.co.in/send-flowers-jaipur-delivery/" title="Jaipur flower delivery">Jaipur</a>  , <a href="https://www.cityflowers.co.in/send-flowers-patiala-delivery/" title="Patiala">Patiala</a>, <a href="https://www.cityflowers.co.in/send-flowers-jodhpur-delivery/" title="Jodhpur">Jodhpur</a><br/> <a href="https://www.cityflowers.co.in/send-flowers-ahmedabad-delivery/" title="Ahmedabad">Ahmedabad</a>  , <a href="https://www.cityflowers.co.in/send-flowers-jalandhar-delivery/" title="Jalandhar">Jalandhar</a><br/> <a href="https://www.cityflowers.co.in/send-flowers-indore-delivery/" title="indore">Indore</a>  , <a href="https://www.cityflowers.co.in/send-flowers-amritsar-delivery/" title="Amritsar">Amritsar</a>, <a href="https://www.cityflowers.co.in/send-flowers-bhopal-delivery/" title="Bhopal">Bhopal</a>, <a href="https://www.cityflowers.co.in/send-flowers-raipur-delivery/" title="Raipur">Raipur</a><br/><a href="https://www.cityflowers.co.in/send-flowers-dehradun-delivery/" title="Dehradun">Dehradun</a>  , <a href="https://www.cityflowers.co.in/send-flowers-rohtak-delivery/" title="rohtak">Rohtak</a>, <a href="https://www.cityflowers.co.in/send-flowers-faridabad-delivery/" title="Faridabad">Faridabad</a>, <a href="https://www.cityflowers.co.in/send-flowers-ghaziabad-delivery/" title="Ghaziabad">Ghaziabad</a><br/> <a href="https://www.cityflowers.co.in/send-flowers-lucknow-delivery/" title="Lucknow">Lucknow</a>   <a href="https://www.cityflowers.co.in/send-flowers-kanpur-delivery/" title="Kanpur">Kanpur</a>, <a href="https://www.cityflowers.co.in/send-flowers-guntur-delivery/">Guntur</a>, <a href="https://www.cityflowers.co.in/send-to-madurai-florist/">Madurai</a>, <a href="https://www.cityflowers.co.in/send-flowers-trichy-delivery/">Trichy</a>, <a href="https://www.cityflowers.co.in/send-flowers-thrissur-delivery/">Thrissur</a>, <a href="https://www.cityflowers.co.in/send-flowers-kozhikode-delivery/">Kozhikode</a>, <a href="https://www.cityflowers.co.in/send-flowers-coimbatore-delivery/">Coimbatore</a></p>
+</div>
+<div class="column">
+<h3>Customer Service</h3>
+<a href="https://www.cityflowers.co.in/send-flowers-to-delhi-delivery/" title="flower delivery delhi">Delhi</a>, <a href="https://www.cityflowers.co.in/send-flowers-gurgaon-delivery/" title="Gurgaon">Gurgaon</a><br/> <a href="https://www.cityflowers.co.in/send-flowers-to-mumbai-delivery/" title="mumbai">Mumbai</a>, <a href="https://www.cityflowers.co.in/send-flowers-panchkula-delivery/" title="Panchkula">Panchkula</a>, <a href="https://www.cityflowers.co.in/send-flowers-zirakpur-delivery/" title="Zirakpur">Zirakpur</a><br/> <a href="https://www.cityflowers.co.in/send-flowers-to-bangalore-delivery/" title="Bangalore">Bangalore</a>, <a href="https://www.cityflowers.co.in/send-flowers-noida-delivery/" title="Noida">Noida</a>,<br/> <a href="https://www.cityflowers.co.in/send-flowers-to-pune-delivery/" title="Pune">Pune</a> , <a href="https://www.cityflowers.co.in/send-flowers-mohali-delivery/" title="Mohali">Mohali</a>, <a href="https://www.cityflowers.co.in/send-flowers-goa-delivery/" title="Goa">Goa</a>, <a href="https://www.cityflowers.co.in/send-flowers-nagpur-delivery/" title="Nagpur">Nagpur</a><br/> <a href="https://www.cityflowers.co.in/send-flowers-chandigarh-delivery/" title="Chandigarh">Chandigarh</a> , <a href="https://www.cityflowers.co.in/send-flowers-bhubaneswar-delivery/" title="Bhubaneswar">Bhubaneswar</a>, <a href="https://www.cityflowers.co.in/send-flowers-chennai-delivery/" title="chennai">Chennai</a>,  <a href="https://www.cityflowers.co.in/send-flowers-surat-delivery/" title="Surat">Surat</a>, <a href="https://www.cityflowers.co.in/send-flowers-jabalpur-delivery/" title="Jabalpur">Jabalpur</a>, <a href="https://www.cityflowers.co.in/send-flowers-gwalior-delivery/" title="Gwalior">Gwalior</a>, <a href="https://www.cityflowers.co.in/send-flowers-ujjain-delivery/" title="Ujjain">Ujjain</a><br/><a href="https://www.cityflowers.co.in/send-flowers-navi-mumbai-delivery/" title="Navi Mumbai">Navi Mumbai</a> , <a href="https://www.cityflowers.co.in/send-flowers-secunderabad-delivery/" title="Secunderabad">Secunderabad</a>, <a href="https://www.cityflowers.co.in/send-flowers-udaipur-delivery/" title="Udaipur">Udaipur</a>, <br/><a href="https://www.cityflowers.co.in/send-flowers-thiruvananthapuram-delivery/" title="thiruvananthapuram">Thiruvananthapuram</a>, <a href="https://www.cityflowers.co.in/delivery-in-ernakulam-florists/" title="Ernakulam, Cochin">Ernakulam - Cochin</a></div>   
+        
+         
+  </div>
+  </div>
+    
+    
+    
+    <!-- / beautyshop footer -->
+    
+    
+    
+    </div>
+    
+    
+   
+</div>
+
+
+
+
+
+    <div class="footer">
+                <div class="footer-left">
+            <ul class="links">
+                        <li class="first"><a href="https://www.cityflowers.co.in/catalog/seo_sitemap/category/" title="Site Map">Site Map</a></li>
+                                <li><a href="https://www.cityflowers.co.in/catalogsearch/term/popular/" title="Search Terms">Search Terms</a></li>
+                                <li><a href="https://www.cityflowers.co.in/catalogsearch/advanced/" title="Advanced Search">Advanced Search</a></li>
+                                <li><a href="https://www.cityflowers.co.in/sales/guest/form/" title="Orders and Returns">Orders and Returns</a></li>
+                                <li class=" last"><a href="https://www.cityflowers.co.in/contacts/" title="Contact Us">Contact Us</a></li>
+            </ul>
+<br/>
+            © 2012 CityFlowers.co.in. All Rights Reserved. <br/>
+<img alt="shop safe" src="https://www.cityflowers.co.in/flora/shop-safe1.gif"/><img alt="secure website" src="https://www.cityflowers.co.in/flora/secure.png"/><img alt="excellent service trademark" src="https://www.cityflowers.co.in/flora/sealexcellent1.png"/>  
+            <!--<ul>
+<li><a href="https://www.cityflowers.co.in/about-us">About Us</a></li>
+<li><a href="https://www.cityflowers.co.in/customer-service">Customer Service</a></li>
+<li><a href="https://www.cityflowers.co.in/terms-conditions">Terms Conditions</a></li>
+<li><a href="https://www.cityflowers.co.in/cancellation-policy">Cancellation and Product Policy</a></li>
+<li><a href="https://www.cityflowers.co.in/florist-choice">Florist Choice</a></li>
+<li><a href="https://www.cityflowers.co.in/corporate-gifting">Corporate Gifting</a></li>
+<li><a href="https://www.cityflowers.co.in/career-with-us">Career With Us</a></li>
+<li><a href="http://www.cityflowers.co.in/sponsorships/">Sponsorship</a></li>
+
+<li><a href="http://www.cityflowers.co.in/coupon-codes/">Coupon Codes</a></li>
+<li class="last privacy"><a href="https://www.cityflowers.co.in/privacy-policy">Privacy Policy</a></li>
+</ul>-->
+        </div>
+        <div class="footer-right">
+            <div id="paymenticons"><img align="absmiddle" alt="" src="https://www.cityflowers.co.in/media/wysiwyg/beautyshop/payment/paypal.gif"/><img align="absmiddle" alt="" src="https://www.cityflowers.co.in/media/wysiwyg/beautyshop/payment/visa.gif"/><img align="absmiddle" alt="" src="https://www.cityflowers.co.in/media/wysiwyg/beautyshop/payment/mastercard.gif"/><img align="absmiddle" alt="" src="https://www.cityflowers.co.in/media/wysiwyg/beautyshop/payment/discover.gif"/><img align="absmiddle" alt="" src="https://www.cityflowers.co.in/media/wysiwyg/beautyshop/payment/amex.gif"/><img align="absmiddle" alt="" src="https://www.cityflowers.co.in/media/wysiwyg/beautyshop/payment/moneybookers.gif"/><img align="absmiddle" alt="" src="https://www.cityflowers.co.in/media/wysiwyg/beautyshop/payment/westernunion.gif"/></div>        </div>
+    </div>
+
+<div id="gutterMobilePromotionContainer">
+<a href="http://goo.gl/ME5TaY" rel="nofollow" target="_blank" title="flowers authority certificate"><span class="gutterMobilePromotionAnimatedImage-karbonn"></span></a>
+</div>
+
+<div id="gutterMobilePromotionContainer-second">
+<a href="https://goo.gl/BwDQKt" rel="nofollow" target="_blank" title="ethical florist certificate"><span class="gutterMobilePromotionAnimatedImage-karbonn-second"></span></a>
+</div>
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '837513643013047');
+fbq('track', "PageView");</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=837513643013047&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+
+        
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+</body></html>

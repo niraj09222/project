@@ -1,0 +1,487 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<meta charset="utf-8"/>
+<title>Buy Kashmiri Shawls, Suits, Stoles, Blankets, Saffron (Kesar), Dry Fruits Online at Kashmir Villa</title>
+<meta content="index,follow" name="robots"/>
+<meta content="Online Indian shopping website for buying original Kashmiri products like Shawls, Suits, Stoles, Blankets, Saffron (Kesar), Dry Fruits and many more." name="Description"/>
+<meta content="kashmir villa, buy, Shawls, Suits, Stoles, Blankets, Saffron (Kesar), Dry Fruits, Sarees, Online, kashmiri, Kurtis" name="keywords"/>
+<link href="http://www.kashmirvilla.com" rel="canonical"/>	<!-- Define Canonical !-->
+<link href="/css/common.css?updated=08062015" rel="stylesheet" type="text/css"/>
+<link href="/css/jquery.bxslider.css?v=15012015" rel="stylesheet"/>
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<script src="/js/jQuery.js" type="text/javascript"></script>
+<script src="/js/jquery.marquee.min.js" type="text/javascript"></script>
+<script src="/js/common.js?ver=10042016" type="text/javascript"></script>
+<script src="/js/jquery.bxslider.min.js" type="text/javascript"></script>
+</head><body><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Start of Google Analytics !-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44725512-1', 'kashmirvilla.com');
+  ga('send', 'pageview');
+
+</script>
+<!-- End of Google Analytics !-->
+
+<script type="text/javascript">
+$(document).ready(function(){
+					$('#announcement').marquee({duration: 15000, pauseOnHover: true});
+					
+					$('#FooterTestimonials').bxSlider({
+							auto: true,
+							mode: 'horizontal',
+							captions: true,
+							pause: 15000,
+							speed: 1000,
+							autoDirection: 'next',
+							controls: false,
+							pager: true,
+							adaptiveHeight: true
+					  });
+					
+				<!--Start of Zopim Live Chat Script-->
+				window.$zopim||(function(d,s){var z=$zopim=function(c){
+z._.push(c)},$=z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set._.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?2yjRopTaWS9zwlYE7lFI9FxGw92mYkYG';z.t=+new Date;$.type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+				});
+				<!--End of Zopim Live Chat Script-->
+</script>
+<script src="/js/bjqs-1.3.min.js" type="text/javascript"></script>
+
+
+<div class="floatDiv" id="republic" style="width:500px;padding:20px;background:url('/images/india-flag-bg.jpg') #FFFFFF no-repeat left bottom">
+	<div class="alignRight"><a href="?republic=off"><img src="/images/close_icon.gif"/></a></div>
+	<div class="alignCenter font21 bold">
+		<span class="font21 bold textShadow" style="color:#ff6501;text-shadow: 1px 1px #333333;">CELEBRATE</span> <span class="font21 bold" style="color:#0082d6;text-shadow: 1px 1px #333333;">REPUBLIC DAY</span> <span class="font21 bold" style="color:#038002;text-shadow: 1px 1px #333333;">WITH US</span>!
+	</div>
+	<div class="font21 bold green alignRight" style="margin-top:20px">
+		Flat 20% Off on all items
+	</div>
+	<div class="font17 alignRight" style="margin-top:10px">
+		Use Coupon Code: <span class="font21 bold">REPUBLIC20</span>
+	</div>
+	<div class="font21 bold green alignRight" style="margin:30px 0 20px 0">
+		<a href="?republic=off"><img src="/images/shop-now.jpg" style="width:160px"/></a>
+	</div>
+</div>
+
+<div class="floatDiv" id="ReferralPopup" style="width:500px;padding:10px">
+	<div class="alignRight"><a href="?prompt=off"><img src="/images/close_icon.gif"/></a></div>
+	<div class="font21 bold green alignCenter">
+		Do You Know?
+	</div>
+	<div class="alignCenter font15" style="margin-top:20px;line-height:1.5">
+		<img src="/images/coins_icon.png"/> You can earn "KV Points" for the orders placed by your referrals.<br/><a class="link15 blue" href="?prompt=off&amp;proceed=y">Learn more</a>
+	</div>
+</div>
+<div class="dim" id="dim"></div>
+<div class="floatDiv" id="floatDiv"></div>
+
+<!--- HOLDER DIV !--->
+<div class="AlertDiv" id="HolderDiv"></div>
+<!--- END OF ALERT DIV !--->
+
+<!--- ALERT DIV !--->
+<div class="AlertDiv" id="AlertDiv">
+	<div class="AlertMessage" id="AlertMessage"></div>
+	<div class="alignCenter"><input class="AlertOk gray" id="AlertOk" type="button" value="OK"/></div>
+</div>
+<!--- END OF ALERT DIV !--->
+
+<!--- CONFIRM DIV !--->
+<div class="AlertDiv" id="ConfirmDiv">
+	<div class="AlertMessage darkRed" id="ConfirmMessage"></div>
+	<div><input class="AlertOk gray" id="ConfirmProceed" type="button" value="YES"/>   <input class="AlertOk" id="ConfirmProceedCancel" type="button" value="CANCEL"/></div>
+</div>
+<!--- END OF CONFIRM DIV !--->
+
+	<div class="floatDiv" id="ForgotPasswordDiv">
+		<table cellpadding="10" cellspacing="0" class="roundBorders borders">
+		<tbody><tr>
+			<td align="right" colspan="2" onclick="ClosePopup('ForgotPasswordDiv')"><img src="/images/close_icon.gif"/></td>
+		</tr>
+		<tr>
+			<td width="290px">
+			<table cellpadding="10" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td class="bold" style="padding:0 10px 0 10px">
+				Forgot Password
+				</td>
+			</tr>
+			<form method="post" name="FP" onsubmit="return ForgotPassword()"></form>
+			<tr>
+				<td class="font11">
+				Email Address<br/>
+				<input class="orangeInput" id="FPEmail" type="text" value=""/>
+				</td>
+			</tr>
+			<tr>
+				<td width="75px"><input class="orangeButton" type="submit" value="Reset Password"/>  </td>
+			</tr>
+			<tr>
+				<td><span class="hidden red" id="FPprocessing"><img src="/images/loading.gif"/></span></td>
+			</tr>
+			
+			</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
+	</div>
+		
+		
+	<div class="floatDiv" id="SignInDiv">
+		<div style="float:right;padding:5px 5px 0 0"><img onclick="ClosePopup('SignInDiv')" src="/images/close_icon.gif" style="width:9px"/></div>
+		<div style="float:left;padding:10px 0 0 10px;">
+		<form method="post" onsubmit="return SignIn();">
+		<input id="ru" type="hidden" value=""/>
+		<table cellpadding="5" cellspacing="1" style="width:100%;">
+		<tbody><tr>
+			<td class="font21 maroon" colspan="2">Login</td>
+		</tr>
+		<tr>
+			<td>Email ID</td>
+			<td><input class="orangeInput" id="email" maxlength="100" style="width:180px" type="text"/></td>
+		</tr>
+		<tr>
+			<td>Password</td>
+			<td><input class="orangeInput" id="password" style="width:180px" type="password"/></td>
+		</tr>
+		<tr>
+			<td colspan="2"><a class="font11 maroon" href="#" onclick="ShowFP()">Forgot Password?</a></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<div><input class="orangeButton" style="width:100px" type="submit" value="Login"/></div>
+				<div class="red" id="SignInError" style="margin-top:10px;"><img class="hidden" src="/images/loading.gif"/></div>
+			</td>
+		</tr>
+		</tbody></table>
+		</form>
+		</div>
+		
+		<div style="float:left;padding-top:20px">
+		<table cellpadding="10" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td valign="middle">
+			<img src="/images/or_icon.png"/>
+			</td>
+			<td style="padding:20px 10px 0 20px">
+			<span class="maroon font15 bold">Login with</span><br/><br/>
+			<img class="pointer" onclick="window.location = 'https://www.facebook.com/dialog/oauth?client_id=445416572237884&amp;redirect_uri=http%3A%2F%2Fwww.kashmirvilla.com%2F&amp;state=1532b6431d4b0348832ebc84b20591c6&amp;scope=email%2C+user_birthday';" src="/images/signin-facebook.gif" width="107px"/><br/><br/>
+			<img class="pointer" onclick="window.location = 'https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=http%3A%2F%2Fwww.kashmirvilla.com%2F&amp;client_id=956831156058.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force';" src="/images/signin-google.gif" width="107px"/>
+			</td>
+		</tr>
+		</tbody></table>
+		</div>
+		
+		<div class="font15 normal" style="clear:both;text-align:center;padding:10px 0">Don't have an account? <span class="pointer blue font15" onclick="ClosePopup('SignInDiv');ShowPopUp('RegistrationDiv')">Register Now</span></div>
+	</div>
+	
+	<div class="floatDiv" id="RegistrationDiv">
+		<div style="float:right;padding:5px 5px 0 0"><img onclick="ClosePopup('RegistrationDiv')" src="/images/close_icon.gif" style="width:9px"/></div>
+		<div style="float:left">
+			<ul>
+				<form method="post" onsubmit="return register()">
+				<li class="font21 maroon">Register</li>
+				<li style="padding-top:10px">First Name<br/><input class="orangeInput" id="FirstName" style="width:180px;" type="text"/></li>
+				<li style="padding-top:10px">Last Name<br/><input class="orangeInput" id="LastName" style="width:180px;" type="text"/></li>
+				<li style="padding-top:10px">Email ID<br/><input class="orangeInput" id="RegEmail" style="width:180px" type="text"/></li>
+				<li style="padding-top:10px">Password<br/><input class="orangeInput" id="RegPassword" style="width:180px" type="password"/></li>
+				<li style="padding-top:10px">
+						<input id="CaptchaSource" type="hidden" value="/images/captcha/7_seven.png#/images/captcha/6_six.png#/images/captcha/6_six.png#/images/captcha/1_one.png"/>
+				Enter code <span class="font11 gray">(Captcha)</span><br/>
+				<input class="orangeInput" id="captcha" maxlength="4" style="width:100px" type="text" value=""/>  <img height="19px" src="/images/captcha/7_seven.png" width="15px"/><img height="19px" src="/images/captcha/6_six.png" width="15px"/><img height="19px" src="/images/captcha/6_six.png" width="15px"/><img height="19px" src="/images/captcha/1_one.png" width="15px"/>  
+				<a class="link11 gray" href="http://en.wikipedia.org/wiki/CAPTCHA" target="_blank">What's this?</a>
+				</li>
+				<li class="font11" style="padding-top:5px"><input id="TermsAccepted" type="checkbox"/> I accept the terms and conditions.</li>
+				<li style="padding-top:10px"><input class="orangeButton" style="width:100px" type="submit" value="Register"/> </li>
+				<li class="red" id="SignUpError" style="padding-top:8px;"></li>
+				</form>
+			</ul>
+		</div>
+		
+		<div style="float:left;padding-top:100px">
+		<table cellpadding="10" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td valign="middle">
+			<img src="/images/or_icon.png"/>
+			</td>
+			<td style="padding:20px 10px 0 20px">
+			<span class="maroon font15 bold">Login with</span><br/><br/>
+			<img class="pointer" onclick="window.location = 'https://www.facebook.com/dialog/oauth?client_id=445416572237884&amp;redirect_uri=http%3A%2F%2Fwww.kashmirvilla.com%2F&amp;state=1532b6431d4b0348832ebc84b20591c6&amp;scope=email%2C+user_birthday';" src="/images/signin-facebook.gif" width="107px"/><br/><br/>
+			<img class="pointer" onclick="window.location = 'https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=http%3A%2F%2Fwww.kashmirvilla.com%2F&amp;client_id=956831156058.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force';" src="/images/signin-google.gif" width="107px"/>
+			</td>
+		</tr>
+		</tbody></table>
+		</div>
+	</div>
+	
+<div class="floatDiv" id="ShoppingCartDiv" style="width:660px;height:375px;"></div>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td style="background-color:#D97200;height:10px"></td></tr>
+<tr>
+	<td id="TopOfPage">
+	<table align="center" cellpadding="0" cellspacing="0" width="1000px">
+	<tbody><tr>
+		<td>
+		<table cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td style="padding-top:16px;width:128px;"><a href="/"><img alt="Kashmir Villa" src="/images/kashmirvilla-logo-new.png" title="Kashmir Villa"/></a></td>
+			<td style="padding-bottom:15px" valign="top">
+			<table align="right" cellpadding="0" cellspacing="0" width="860px">
+			<tbody><tr>
+				<td>
+				<table align="right" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td class="alignCenter gray" style="padding:5px 10px 0 0">
+                         <span class="blue pointer" onclick="ShowSignIn()">Login</span> | <span class="blue pointer" onclick="ShowPopUp('RegistrationDiv')">Register</span>					</td>
+					<td class="headerShopping white">
+					<span class="pointer" onclick="ShoppingCart()" style="position:relative;"><img alt="Shopping Cart" src="/images/round-cart.png" title="Shopping Cart"/>  <span class="white" id="ProductsInCart">Shopping Cart</span></span></td>
+				</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td style="padding-top:15px">
+				<table align="right" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td>
+					<table cellpadding="0" cellspacing="0">
+					<!--
+					<TR><TD colspan="3" style="vertical-align:middle"><A href="/donate.php"><DIV class="greenBG white bold roundBorders alignCenter" style="display:inline-block;width:200px;padding:5px 0;margin-bottom:5px">Donate for J&K Flood Relief</DIV></A>&nbsp;&laquo;&nbsp;To donate without an order</TD></TR>
+					!-->
+					<tbody><tr>
+						<td style="vertical-align:middle"><img src="/images/email.png"/></td>
+						<td>   s<span class="hidden">87</span>u<span class="hidden">JY</span>p<span class="hidden">MN</span>p<span class="hidden">VC</span>o<span class="hidden">YX</span>r<span class="hidden">13</span>t<span class="hidden">KJ</span>@<span class="hidden">3Z</span>k<span class="hidden">3B</span>a<span class="hidden">92</span>s<span class="hidden">KV</span>h<span class="hidden">X9</span>m<span class="hidden">63</span>i<span class="hidden">V5</span>r<span class="hidden">XE</span>v<span class="hidden">36</span>i<span class="hidden">CL</span>l<span class="hidden">UZ</span>l<span class="hidden">9F</span>a<span class="hidden">3X</span>.<span class="hidden">43</span>c<span class="hidden">1N</span>o<span class="hidden">DU</span>m<span class="hidden">EF</span></td>
+					</tr>
+					<tr>
+						<td style="vertical-align:middle"><img src="/images/phone_handset.png"/></td>
+						<td style="vertical-align:middle">   +<span class="hidden">5M</span>9<span class="hidden">HG</span>1<span class="hidden">95</span> <span class="hidden">GE</span>9<span class="hidden">82</span>0<span class="hidden">A6</span>1<span class="hidden">GC</span>8<span class="hidden">2T</span>9<span class="hidden">YM</span>4<span class="hidden">IY</span>8<span class="hidden">2L</span>0<span class="hidden">M6</span>4<span class="hidden">ED</span>8<span class="hidden">JR</span> <span class="font11 lightGray">(10:00am to 07:00pm Mon-Sat)</span></td>
+						<td style="padding:0 0 2px 10px"><a href="https://www.facebook.com/kashmirvilla" target="_blank" title="Follow us on facebook"><img src="/images/facebook.jpg"/></a></td>
+					</tr>
+                         <tr>
+						<td style="vertical-align:middle"><img src="/images/whatsapp-icon.png"/></td>
+						<td style="vertical-align:middle">   +<span class="hidden">7Y</span>9<span class="hidden">73</span>1<span class="hidden">BE</span> <span class="hidden">9K</span>9<span class="hidden">IP</span>0<span class="hidden">ZR</span>8<span class="hidden">R9</span>6<span class="hidden">M7</span>0<span class="hidden">CF</span>6<span class="hidden">Q1</span>6<span class="hidden">29</span>0<span class="hidden">YU</span>0<span class="hidden">KB</span>0<span class="hidden">QY</span> <span class="font11 lightGray">(WhatsApp only)</span></td>
+						<td> </td>
+					</tr>
+					</tbody></table>
+					</td>
+					<td align="right" colspan="2" style="padding:0 5px 0 20px;vertical-align:bottom">
+					<form action="/search.php" method="get" onsubmit="return Validate(this)">
+						<input class="orangeInput" name="q" placeholder="type product name or id..." style="width:320px" type="text" value=""/>
+						 <input class="orangeButton" type="submit" value="Search Product"/>
+					</form>
+					</td>
+				</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			</tbody></table>
+			</td>			
+		</tr>
+	<tr><td class="borders roundBorders lightGrayBG" colspan="2" style="padding:5px;background:url('/images/announcement.png') 5px 5px no-repeat">      <div style="display:inline-block;font-weight:bold;width:960px;height:17px;overflow:hidden;"><div>Stitching is also available now...... Now get your suits stitched and delivered right at your doorstep.</div></div></td></tr>		<tr>
+			<td colspan="2" style="padding-top:2px">
+			<table cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td style="background:url(/images/category_bg.png) no-repeat; height:65px; vertical-align:top;">
+				<div id="nav-container">
+				<script>
+				function ShowAllCats(t)
+				{
+					if($('#AllCats').is(":visible"))
+					{
+						$(t).html('More...');
+						$('#AllCats').slideUp(200);
+					}
+					else
+					{
+						$(t).html('Less...');
+						$('#AllCats').slideDown(200);
+					}
+					/*
+					source = document.getElementById('arrow').src;
+					if(source.indexOf('down_arrow.gif',0) > 0)
+					{
+						document.getElementById('arrow').src = '/images/up_arrow.gif';
+					}
+					else
+					{
+						document.getElementById('arrow').src = '/images/down_arrow.gif';
+					}
+					*/
+				}
+								
+				</script>
+					<ul class="nav">
+						<li><a href="/salwar-kameez">Salwar Kameez</a><ul><li><a href="/woolen-suits">Woolen Suits</a><ul><li><a href="/suits-with-stoles">Suits With Stoles</a><ul><li><a href="/pashmina-sozni-suits">Pashmina Sozni Suits</a></li></ul></li><li><a href="/palazzo-suits">Palazzo Suits</a></li></ul></li><li><a href="/kashmiri-cotton-suit">kashmiri Cotton Suit</a><ul><li><a href="/paper-silk-suits">Paper Silk Suits</a></li><li><a href="/white-cotton-suits">White Cotton Suits</a></li><li><a href="/cambric-cotton-suits">Cambric Cotton suits</a></li></ul></li></ul></li><li><a href="/kashmiri-sarees">Kashmiri Sarees</a><ul><li><a href="/aari-work-sarees">Aari Work Sarees</a></li></ul></li><li><a href="/stoles">Stoles</a><ul><li><a href="/aari-work-stoles">Aari Work Stoles</a></li><li><a href="/silky-wraps">Silky Wraps</a></li><li><a href="/cashmere-aari-stoles">Cashmere Aari Stoles</a></li><li><a href="/sozni-work-stoles">Sozni Work Stoles</a></li><li><a href="/pashmina-wraps">Pashmina Wraps</a></li></ul></li><li><a href="/shawls">Shawls</a><ul><li><a href="/basohli-pashmina">Basohli Pashmina</a></li><li><a href="/ladies-shawls">Ladies Shawls</a></li><li><a href="/gents-shawl">Gents Shawl</a></li><li><a href="/classic-plain-shawls">Classic Plain Shawls</a></li><li><a href="/amazing-checks">Amazing Checks</a></li><li><a href="/kashida-shawls">Kashida Shawls</a></li><li><a href="/sozni-work-shawls">Sozni Work Shawls</a></li><li><a href="/dual-pashmina-shawls">Dual Pashmina Shawls</a></li></ul></li><li><a href="/dry-fruits">Dry Fruits</a></li><li><a href="/kurtis-and-kaftans">Kurtis And Kaftans</a><ul><li><a href="/semistitched-kurtis">Semi-Stitched Kurtis</a></li><li><a href="/kaftans">Kaftans</a></li><li><a href="/ethnic-aari-kurtis">Ethnic Aari kurtis</a></li><li><a href="/embroidered-jackets">Embroidered Jackets</a></li><li><a href="/ladies-phirans">Ladies Phirans</a></li><li><a href="/ladies-ponchus">Ladies Ponchus</a></li><li><a href="/rayon-silk-kurtis">Rayon Silk Kurtis</a></li></ul></li>						<!--<LI style="border:none;width:90px" onClick="ShowAllCats()"><IMG id="arrow" src="/images/down_arrow.gif" style="width:15px"></LI>!-->
+                        <li class="blue font11" onclick="ShowAllCats(this)" style="border:none;width:90px">Less...</li>					</ul>
+				</div>
+				</td>
+			</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	<tr><td><div class="roundBorders5 bordersGray" id="AllCats" style="padding:10px;background-color:#F9F9F9;width:970px;float:right;margin:0 5px 20px 0"><div style="width:180px;margin:10px 10px 0 0;float:left"><div class="font15 bold" style="padding:0"><a class="link13 maroon" href="/salwar-kameez">Salwar Kameez</a></div><div><a class="link13" href="/woolen-suits">Woolen Suits</a></div> <div><a class="link13" href="/suits-with-stoles">Suits With Stoles</a></div> <div><a class="link13" href="/pashmina-sozni-suits">Pashmina Sozni Suits</a></div> <div><a class="link13" href="/palazzo-suits">Palazzo Suits</a></div> <div><a class="link13" href="/kashmiri-cotton-suit">kashmiri Cotton Suit</a></div> <div><a class="link13" href="/paper-silk-suits">Paper Silk Suits</a></div> <div><a class="link13" href="/white-cotton-suits">White Cotton Suits</a></div> <div><a class="link13" href="/cambric-cotton-suits">Cambric Cotton suits</a></div> </div><div style="width:180px;margin:10px 10px 0 0;float:left"><div class="font15 bold" style="padding:0"><a class="link13 maroon" href="/kashmiri-sarees">Kashmiri Sarees</a></div><div><a class="link13" href="/aari-work-sarees">Aari Work Sarees</a></div> </div><div style="width:180px;margin:10px 10px 0 0;float:left"><div class="font15 bold" style="padding:0"><a class="link13 maroon" href="/stoles">Stoles</a></div><div><a class="link13" href="/aari-work-stoles">Aari Work Stoles</a></div> <div><a class="link13" href="/silky-wraps">Silky Wraps</a></div> <div><a class="link13" href="/cashmere-aari-stoles">Cashmere Aari Stoles</a></div> <div><a class="link13" href="/sozni-work-stoles">Sozni Work Stoles</a></div> <div><a class="link13" href="/pashmina-wraps">Pashmina Wraps</a></div> </div><div style="width:180px;margin:10px 10px 0 0;float:left"><div class="font15 bold" style="padding:0"><a class="link13 maroon" href="/shawls">Shawls</a></div><div><a class="link13" href="/basohli-pashmina">Basohli Pashmina</a></div> <div><a class="link13" href="/ladies-shawls">Ladies Shawls</a></div> <div><a class="link13" href="/gents-shawl">Gents Shawl</a></div> <div><a class="link13" href="/classic-plain-shawls">Classic Plain Shawls</a></div> <div><a class="link13" href="/amazing-checks">Amazing Checks</a></div> <div><a class="link13" href="/kashida-shawls">Kashida Shawls</a></div> <div><a class="link13" href="/sozni-work-shawls">Sozni Work Shawls</a></div> <div><a class="link13" href="/dual-pashmina-shawls">Dual Pashmina Shawls</a></div> </div><div style="width:180px;margin:10px 10px 0 0;float:left"><div class="font15 bold" style="padding:0"><a class="link13 maroon" href="/kurtis-and-kaftans">Kurtis And Kaftans</a></div><div><a class="link13" href="/semistitched-kurtis">Semi-Stitched Kurtis</a></div> <div style="clear:left"></div><div><a class="link13" href="/kaftans">Kaftans</a></div> <div style="clear:left"></div><div><a class="link13" href="/ethnic-aari-kurtis">Ethnic Aari kurtis</a></div> <div style="clear:left"></div><div><a class="link13" href="/embroidered-jackets">Embroidered Jackets</a></div> <div style="clear:left"></div><div><a class="link13" href="/ladies-phirans">Ladies Phirans</a></div> <div style="clear:left"></div><div><a class="link13" href="/ladies-ponchus">Ladies Ponchus</a></div> <div style="clear:left"></div><div><a class="link13" href="/rayon-silk-kurtis">Rayon Silk Kurtis</a></div> <div style="clear:left"></div></div><div style="clear:left"></div><div style="clear:left"></div><div style="clear:left"></div><div style="clear:left"></div><div style="clear:left"></div><div style="clear:left"></div><div style="clear:left"></div><div style="clear:left"></div><div style="clear:left"></div><div style="clear:left"></div><div style="clear:left"></div><div style="width:180px;margin:10px 10px 0 0;float:left"><div class="bold" style="padding:0;"><a class="link13 maroon" href="/dry-fruits">Dry Fruits</a></div><div class="bold" style="padding:0;"><a class="link13 maroon" href="/electric-blankets">Electric Blankets</a></div><div class="bold" style="padding:0;"><a class="link13 maroon" href="/kashmiri-spices">Kashmiri Spices</a></div><div class="bold" style="padding:0;"><a class="link13 maroon" href="/saffron-kesar">Saffron (Kesar)</a></div><div class="bold" style="padding:0;"><a class="link13 maroon" href="/waist-coats-for-men">Waist coats For Men</a></div><div class="bold" style="padding:0;"><a class="link13 maroon" href="/health-body-care">Health &amp; Body Care</a></div><div class="bold" style="padding:0;"><a class="link13 maroon" href="/honey-pickle-jams">Honey, Pickle &amp; Jams</a></div><div class="bold" style="padding:0;"><a class="link13 maroon" href="/kashmiri-bed-sheets">Kashmiri Bed Sheets</a></div><div class="bold" style="padding:0;"><a class="link13 maroon" href="/pulses">Pulses</a></div><div class="bold" style="padding:0;"><a class="link13 maroon" href="/snow-mountain-garlic">Snow Mountain Garlic</a></div><div class="bold" style="padding:0;"><a class="link13 maroon" href="/kahwa-green-tea">Kahwa Green Tea</a></div></div><div style="clear:both"></div></div></td></tr>
+	</tbody></table>
+	</td>
+</tr><!-------START OF SPECIAL OFFER & SLIDER ROW!----------->
+<tr>
+	<td> 
+	<table align="center" cellpadding="0" cellspacing="0" width="1000px">
+	<tbody><tr>
+		<td style="height:510px">
+		<div id="container">
+		  <div id="banner-fade">
+			<ul class="bjqs">
+            <li><a href="http://www.kashmirvilla.com/saffron-kesar"><img src="/images/banners/2-1440427425.jpg" style="width:1000px;" title=""/></a></li><li><a href="http://www.kashmirvilla.com/waist-coats"><img src="/images/banners/9-1443083396.jpg" style="width:1000px;" title=""/></a></li><li><a href="http://www.kashmirvilla.com/salwar-kameez"><img src="/images/banners/4-1440427523.jpg" style="width:1000px;" title=""/></a></li>			</ul>
+		  </div>
+		  <script class="secret-source">
+			jQuery(document).ready(function($) {
+	
+			  $('#banner-fade').bjqs({
+				height      : 480,
+				width       : 998,
+				responsive  : true
+			  });
+			});
+		  </script>
+		</div>
+		</td>
+	</tr>
+	</tbody></table>
+	</td> 
+</tr>
+<!-------END OF SLIDER ROW!----------->
+<!-------START OF SPECIAL OFFER ROW!----------->
+<tr>
+	<td style="vertical-align:top;">
+	<table align="center" cellpadding="0" cellspacing="0" class="roundBorders borders" style="background-color:#e5e5e5" width="1000px">
+	<tbody><tr><td class="font21 maroon" colspan="5" style="padding:7px 20px 5px 25px">Special Offers</td></tr>
+	<tr>
+				<td align="center" style="padding-top:9px"><div class="specialOffersDiv"><a href="/buy/premium-quality-kashmiri-saffron-1-gm-pack/1/"><img src="/images/products/thumbnails/premium-quality-kashmiri-saffron-1-gm-pack-1-1.jpg" style="width:150px;" title="Premium Quality Kashmiri Saffron 1 Gm Pack"/></a><div class="overlay"><span class="WebRupee font21 gray">Rs.</span>39 Off</div></div></td>
+					<td align="center" style="padding-top:9px"><div class="specialOffersDiv"><a href="/buy/dusty-brown-kashmiri-sozni-needle-work-gents-shawl/125/"><img src="/images/products/thumbnails/dusty-brown-kashmiri-sozni-needle-work-gents-shawl-1-125.jpg" style="width:150px;" title="Dusty Brown Kashmiri Sozni Needle Work Gents Shawl"/></a><div class="overlay">15% Off</div></div></td>
+					<td align="center" style="padding-top:9px"><div class="specialOffersDiv"><a href="/buy/organic-kashmiri-lahsun-snow-mountain-garlic-pack-of-450-gms/128/"><img src="/images/products/thumbnails/organic-kashmiri-lahsun-snow-mountain-garlic-pack-of-450-gms-10-128.jpg" style="width:150px;" title="Organic Kashmiri Lahsun Snow Mountain Garlic pack of 450 gms"/></a><div class="overlay"><span class="WebRupee font21 gray">Rs.</span>100 Off</div></div></td>
+					<td align="center" style="padding-top:9px"><div class="specialOffersDiv"><a href="/buy/premium-kashmiri-walnuts-akhrot-with-shell-450-gms/31/"><img src="/images/products/thumbnails/premium-kashmiri-walnuts-akhrot-with-shell-450-gms-1-31.jpg" style="width:150px;" title="Premium Kashmiri Walnuts Akhrot with shell 450 Gms"/></a><div class="overlay"><span class="WebRupee font21 gray">Rs.</span>50 Off</div></div></td>
+					<td align="center" style="padding-top:9px"><div class="specialOffersDiv"><a href="/buy/bed-warmer-electric-blanket-double-bed-with-5-years-warranty/1599/"><img src="/images/products/thumbnails/bed-warmer-electric-blanket-double-bed-with-5-years-warranty-6-1599.jpg" style="width:150px;" title="Bed Warmer Electric Blanket Double Bed With 5 Years Warranty"/></a><div class="overlay"><span class="WebRupee font21 gray">Rs.</span>1200 Off</div></div></td>
+			</tr>
+	<tr><td> </td></tr>
+	</tbody></table>
+	</td>
+</tr>
+<!-------END OF SPECIAL OFFER ROW!----------->
+<tr>
+	<td style="vertical-align:top;padding-top:30px">
+	<table align="center" cellpadding="0" cellspacing="10" class="roundBorders borders" width="1000px">
+<tbody><tr><td style="width:25%"><img src="/images/products/acromatic-white-colour-pashmina-salwar-kameez-with-traditional-sozni-work-add-image-7200-857.jpg" style="display:none;"/><div class="roundBorders borders pointer" onclick="window.location = '/buy/acromatic-white-colour-pashmina-salwar-kameez-with-traditional-sozni-work/857/'" onmouseout="$(this).css('background-image','url(/images/products/acromatic-white-colour-pashmina-salwar-kameez-with-traditional-sozni-work-8-857.jpg)');" onmouseover="$(this).css('background-image','url(/images/products/acromatic-white-colour-pashmina-salwar-kameez-with-traditional-sozni-work-add-image-7200-857.jpg)');" style="position:relative;background:url('/images/products/acromatic-white-colour-pashmina-salwar-kameez-with-traditional-sozni-work-8-857.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/acromatic-white-colour-pashmina-salwar-kameez-with-traditional-sozni-work/857/">Buy Acromatic White Colour Pashmina Salwar Kameez With Traditional Sozni Work</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/salwar-kameez">All Salwar Kameez</a></div>    </div></div></td><td style="width:25%"><img src="/images/products/loveable-purple-color-kashmiri-aari-work-embroidered-saree-enriched-with-floral-paisley-pattern-add-image-1260-1533.jpg" style="display:none;"/><div class="roundBorders borders pointer" onclick="window.location = '/buy/loveable-purple-color-kashmiri-aari-work-embroidered-saree-enriched-with-floral-paisley-pattern/1533/'" onmouseout="$(this).css('background-image','url(/images/products/loveable-purple-color-kashmiri-aari-work-embroidered-saree-enriched-with-floral-paisley-pattern-6-1533.jpg)');" onmouseover="$(this).css('background-image','url(/images/products/loveable-purple-color-kashmiri-aari-work-embroidered-saree-enriched-with-floral-paisley-pattern-add-image-1260-1533.jpg)');" style="position:relative;background:url('/images/products/loveable-purple-color-kashmiri-aari-work-embroidered-saree-enriched-with-floral-paisley-pattern-6-1533.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/loveable-purple-color-kashmiri-aari-work-embroidered-saree-enriched-with-floral-paisley-pattern/1533/">Buy Loveable Purple Color Kashmiri Aari Work Embroidered Saree Enriched With Floral Paisley Pattern</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/kashmiri-sarees">All Kashmiri Sarees</a></div>    </div></div></td><td style="width:25%"><img src="/images/products/maroon-colour-kashmiri-aari-work-stole-with-exclusive-border-pattern-add-image-1570-1457.jpg" style="display:none;"/><div class="roundBorders borders pointer" onclick="window.location = '/buy/maroon-colour-kashmiri-aari-work-stole-with-exclusive-border-pattern/1457/'" onmouseout="$(this).css('background-image','url(/images/products/maroon-colour-kashmiri-aari-work-stole-with-exclusive-border-pattern-5-1457.jpg)');" onmouseover="$(this).css('background-image','url(/images/products/maroon-colour-kashmiri-aari-work-stole-with-exclusive-border-pattern-add-image-1570-1457.jpg)');" style="position:relative;background:url('/images/products/maroon-colour-kashmiri-aari-work-stole-with-exclusive-border-pattern-5-1457.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/maroon-colour-kashmiri-aari-work-stole-with-exclusive-border-pattern/1457/">Buy Maroon Colour Kashmiri Aari Work Stole With Exclusive Border Pattern</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/stoles">All Stoles</a></div>    </div></div></td></tr><tr><td style="width:25%"><img src="/images/products/beige-colour-kashmiri-sozni-work-embroidered-shawl-enriched-with-floral-paisley-jaal-pattern-add-image-6560-1555.jpg" style="display:none;"/><div class="roundBorders borders pointer" onclick="window.location = '/buy/beige-colour-kashmiri-sozni-work-embroidered-shawl-enriched-with-floral-paisley-jaal-pattern/1555/'" onmouseout="$(this).css('background-image','url(/images/products/beige-colour-kashmiri-sozni-work-embroidered-shawl-enriched-with-floral-paisley-jaal-pattern-2-1555.jpg)');" onmouseover="$(this).css('background-image','url(/images/products/beige-colour-kashmiri-sozni-work-embroidered-shawl-enriched-with-floral-paisley-jaal-pattern-add-image-6560-1555.jpg)');" style="position:relative;background:url('/images/products/beige-colour-kashmiri-sozni-work-embroidered-shawl-enriched-with-floral-paisley-jaal-pattern-2-1555.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/beige-colour-kashmiri-sozni-work-embroidered-shawl-enriched-with-floral-paisley-jaal-pattern/1555/">Buy Beige Colour Kashmiri Sozni Work Embroidered Shawl Enriched With Floral Paisley Jaal Pattern</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/shawls">All Shawls</a></div>    </div></div></td><td style="width:25%"><div class="roundBorders borders pointer" onclick="window.location = '/buy/healthy-dried-figs-anjeer-900-gms/36/'" style="position:relative;background:url('/images/products/healthy-dried-figs-anjeer-900-gms-4-36.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/healthy-dried-figs-anjeer-900-gms/36/">Buy Healthy Dried Figs Anjeer 900 Gms</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/dry-fruits">All Dry Fruits</a></div>    </div></div></td><td style="width:25%"><img src="/images/products/beige-colour-aari-work-embroidered-kurti-with-new-designer-flower-pot-pattern-add-image-1820-1395.jpg" style="display:none;"/><div class="roundBorders borders pointer" onclick="window.location = '/buy/beige-colour-aari-work-embroidered-kurti-with-new-designer-flower-pot-pattern/1395/'" onmouseout="$(this).css('background-image','url(/images/products/beige-colour-aari-work-embroidered-kurti-with-new-designer-flower-pot-pattern-10-1395.jpg)');" onmouseover="$(this).css('background-image','url(/images/products/beige-colour-aari-work-embroidered-kurti-with-new-designer-flower-pot-pattern-add-image-1820-1395.jpg)');" style="position:relative;background:url('/images/products/beige-colour-aari-work-embroidered-kurti-with-new-designer-flower-pot-pattern-10-1395.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/beige-colour-aari-work-embroidered-kurti-with-new-designer-flower-pot-pattern/1395/">Buy Beige Colour Aari Work Embroidered Kurti With New Designer Flower Pot Pattern</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/kurtis-and-kaftans">All Kurtis And Kaftans</a></div>    </div></div></td></tr><tr><td style="width:25%"><img src="/images/products/bed-warmer-electric-blanket-double-bed-with-5-years-warranty-add-image-5270-1599.jpg" style="display:none;"/><div class="roundBorders borders pointer" onclick="window.location = '/buy/bed-warmer-electric-blanket-double-bed-with-5-years-warranty/1599/'" onmouseout="$(this).css('background-image','url(/images/products/bed-warmer-electric-blanket-double-bed-with-5-years-warranty-6-1599.jpg)');" onmouseover="$(this).css('background-image','url(/images/products/bed-warmer-electric-blanket-double-bed-with-5-years-warranty-add-image-5270-1599.jpg)');" style="position:relative;background:url('/images/products/bed-warmer-electric-blanket-double-bed-with-5-years-warranty-6-1599.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/bed-warmer-electric-blanket-double-bed-with-5-years-warranty/1599/">Buy Bed Warmer Electric Blanket Double Bed With 5 Years Warranty</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/electric-blankets">All Electric Blankets</a></div>    </div></div></td><td style="width:25%"><div class="roundBorders borders pointer" onclick="window.location = '/buy/kashmiri-red-chilli-powder-pack-of-450-gms/85/'" style="position:relative;background:url('/images/products/kashmiri-red-chilli-powder-pack-of-250-gms-1-85.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/kashmiri-red-chilli-powder-pack-of-450-gms/85/">Buy Kashmiri Red Chilli Powder Pack Of 450 Gms</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/kashmiri-spices">All Kashmiri Spices</a></div>    </div></div></td><td style="width:25%"><img src="/images/products/premium-quality-kashmiri-saffron-1-gm-add-image-1381141391-1.jpg" style="display:none;"/><div class="roundBorders borders pointer" onclick="window.location = '/buy/premium-quality-kashmiri-saffron-1-gm-pack/1/'" onmouseout="$(this).css('background-image','url(/images/products/premium-quality-kashmiri-saffron-1-gm-pack-1-1.jpg)');" onmouseover="$(this).css('background-image','url(/images/products/premium-quality-kashmiri-saffron-1-gm-add-image-1381141391-1.jpg)');" style="position:relative;background:url('/images/products/premium-quality-kashmiri-saffron-1-gm-pack-1-1.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/premium-quality-kashmiri-saffron-1-gm-pack/1/">Buy Premium Quality Kashmiri Saffron 1 Gm Pack</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/saffron-kesar">All Saffron (Kesar)</a></div>    </div></div></td></tr><tr><td style="width:25%"><img src="/images/products/very-trendy-grey-textured-waist-coat-with-new-look-high-quality-tweed-add-image-3720-763.jpg" style="display:none;"/><div class="roundBorders borders pointer" onclick="window.location = '/buy/very-trendy-grey-textured-waist-coat-with-new-look-high-quality-tweed/763/'" onmouseout="$(this).css('background-image','url(/images/products/very-trendy-grey-textured-waist-coat-with-new-look-high-quality-tweed-1-763.jpg)');" onmouseover="$(this).css('background-image','url(/images/products/very-trendy-grey-textured-waist-coat-with-new-look-high-quality-tweed-add-image-3720-763.jpg)');" style="position:relative;background:url('/images/products/very-trendy-grey-textured-waist-coat-with-new-look-high-quality-tweed-1-763.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/very-trendy-grey-textured-waist-coat-with-new-look-high-quality-tweed/763/">Buy Very Trendy Grey Textured Waist Coat With New Look High Quality Tweed</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/waist-coats-for-men">All Waist coats For Men</a></div>    </div></div></td><td style="width:25%"><img src="/images/products/badam-rogan-pure-kashmiri-almond-oil-250-ml-pack-add-image-3180-397.jpg" style="display:none;"/><div class="roundBorders borders pointer" onclick="window.location = '/buy/badam-rogan-pure-kashmiri-almond-oil-250-ml-pack/397/'" onmouseout="$(this).css('background-image','url(/images/products/badam-rogan-pure-kashmiri-almond-oil-250-ml-pack-10-397.jpg)');" onmouseover="$(this).css('background-image','url(/images/products/badam-rogan-pure-kashmiri-almond-oil-250-ml-pack-add-image-3180-397.jpg)');" style="position:relative;background:url('/images/products/badam-rogan-pure-kashmiri-almond-oil-250-ml-pack-10-397.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/badam-rogan-pure-kashmiri-almond-oil-250-ml-pack/397/">Buy Badam Rogan Pure Kashmiri Almond Oil 250 ml Pack</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/health-body-care">All Health &amp; Body Care</a></div>    </div></div></td><td style="width:25%"><div class="roundBorders borders pointer" onclick="window.location = '/buy/kashmiri-kesar-honey-yellow-500-gm/395/'" style="position:relative;background:url('/images/products/kashmiri-kesar-honey-yellow-500-gm-9-395.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/kashmiri-kesar-honey-yellow-500-gm/395/">Buy Kashmiri Kesar Honey Yellow 500 gm.</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/honey-pickle-jams">All Honey, Pickle &amp; Jams</a></div>    </div></div></td></tr><tr><td style="width:25%"><img src="/images/products/kashmiri-aari-work-white-bed-sheet-with-2-pillow-covers-add-image-2320-188.jpg" style="display:none;"/><div class="roundBorders borders pointer" onclick="window.location = '/buy/kashmiri-aari-work-white-bed-sheet-with-2-pillow-covers/188/'" onmouseout="$(this).css('background-image','url(/images/products/kashmiri-aari-work-white-bed-sheet-with-2-pillow-covers-1-188.jpg)');" onmouseover="$(this).css('background-image','url(/images/products/kashmiri-aari-work-white-bed-sheet-with-2-pillow-covers-add-image-2320-188.jpg)');" style="position:relative;background:url('/images/products/kashmiri-aari-work-white-bed-sheet-with-2-pillow-covers-1-188.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/kashmiri-aari-work-white-bed-sheet-with-2-pillow-covers/188/">Buy Kashmiri Aari Work White Bed Sheet With 2 Pillow Covers</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/kashmiri-bed-sheets">All Kashmiri Bed Sheets</a></div>    </div></div></td><td style="width:25%"><div class="roundBorders borders pointer" onclick="window.location = '/buy/bhaderwah-rajma-red-kidney-beans-pack-of-450-gm/83/'" style="position:relative;background:url('/images/products/bhaderwah-rajma-red-kidney-beans-pack-of-450-gm-2-83.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/bhaderwah-rajma-red-kidney-beans-pack-of-450-gm/83/">Buy Bhaderwah Rajma Red Kidney Beans Pack of 450 gm</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/pulses">All Pulses</a></div>    </div></div></td><td style="width:25%"><img src="/images/products/organic-kashmiri-lahsun-snow-mountain-garlic-pack-of-250-gms-add-image-4490-127.jpg" style="display:none;"/><div class="roundBorders borders pointer" onclick="window.location = '/buy/organic-kashmiri-lahsun-snow-mountain-garlic-pack-of-900-gms/127/'" onmouseout="$(this).css('background-image','url(/images/products/organic-kashmiri-lahsun-snow-mountain-garlic-pack-of-900-gms-4-127.jpg)');" onmouseover="$(this).css('background-image','url(/images/products/organic-kashmiri-lahsun-snow-mountain-garlic-pack-of-250-gms-add-image-4490-127.jpg)');" style="position:relative;background:url('/images/products/organic-kashmiri-lahsun-snow-mountain-garlic-pack-of-900-gms-4-127.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/organic-kashmiri-lahsun-snow-mountain-garlic-pack-of-900-gms/127/">Buy Organic Kashmiri Lahsun Snow Mountain Garlic pack of 900 gms</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/snow-mountain-garlic">All Snow Mountain Garlic</a></div>    </div></div></td></tr><tr><td style="width:25%"><img src="/images/products/sugar-free-lider-saffron-kahwa-masala-add-image-760-603.jpg" style="display:none;"/><div class="roundBorders borders pointer" onclick="window.location = '/buy/sugar-free-lider-saffron-kahwa-masala/603/'" onmouseout="$(this).css('background-image','url(/images/products/sugar-free-lider-saffron-kahwa-masala-6-603.jpg)');" onmouseover="$(this).css('background-image','url(/images/products/sugar-free-lider-saffron-kahwa-masala-add-image-760-603.jpg)');" style="position:relative;background:url('/images/products/sugar-free-lider-saffron-kahwa-masala-6-603.jpg') no-repeat center top;background-size:100%;height:220px;overflow:hidden;padding:5px">    <div style="background:url('/images/transparent-pixel-white.png');position:absolute;bottom:0;left:0;width:100%;height:40px;line-height:1.5;padding:5px 0">    <div style="height:20px;margin:0 10px;overflow:hidden"><a class="bold black" href="/buy/sugar-free-lider-saffron-kahwa-masala/603/">Buy Sugar Free Lider Saffron Kahwa Masala</a></div>    <div class="alignRight" style="padding-right:20px"><a class="blue" href="/kahwa-green-tea">All Kahwa Green Tea</a></div>    </div></div></td>	</tr></tbody></table>
+	</td>
+</tr>
+<!-------START OF FOOTER!----------->
+<tr>
+	<td style="padding-top:60px;">
+	     <style>
+	.bx-wrapper li{
+		height:auto;
+		overflow:hidden;
+	}
+     </style>
+     <div style="width:1000px;border-top:#82B941 solid 1px;margin:auto;padding:20px 0;">
+     	<div class="divBlock" style="width:75%;margin-right:2%;">
+               <ul id="FooterTestimonials" style="background:url('/images/loading-big.gif') no-repeat center;">
+               <li>	<div class="font17" style="width:90%;margin:auto;">Very nice service. Easy to use website.<br/><br/>Good quality products at reasonable prices.</div>	<div style="width:150px;margin:auto;padding:20px 0 10px 0;">		<table cellpadding="0" cellspacing="0">		<tbody><tr><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td>		</tr>		</tbody></table>	</div>	<div class="alignCenter font12 gray" style="width:90%;margin:auto;">Amit N <span class="gray">(Mumbai, Maharashtra)</span></div></li><li>	<div class="font17" style="width:90%;margin:auto;">Thanks for prompt shipment. It was shipped on July 28 and FedEx delivered it this morning. My wife has been using this product and loves it .</div>	<div style="width:150px;margin:auto;padding:20px 0 10px 0;">		<table cellpadding="0" cellspacing="0">		<tbody><tr><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td>		</tr>		</tbody></table>	</div>	<div class="alignCenter font12 gray" style="width:90%;margin:auto;">Shiv Verma <span class="gray">(New Jersy)</span></div></li><li>	<div class="font17" style="width:90%;margin:auto;">The details presented match exactly with the delivered product. They are so authentic and fresh. The packing is also very neat. Product delivered within the mentioned number of days.</div>	<div style="width:150px;margin:auto;padding:20px 0 10px 0;">		<table cellpadding="0" cellspacing="0">		<tbody><tr><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td>		</tr>		</tbody></table>	</div>	<div class="alignCenter font12 gray" style="width:90%;margin:auto;">Sowmya Swaminathan <span class="gray">(Chennai)</span></div></li><li>	<div class="font17" style="width:90%;margin:auto;">Liked the shawl very much same as shown in picture, good customer service, prompt international delivery.</div>	<div style="width:150px;margin:auto;padding:20px 0 10px 0;">		<table cellpadding="0" cellspacing="0">		<tbody><tr><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td>		</tr>		</tbody></table>	</div>	<div class="alignCenter font12 gray" style="width:90%;margin:auto;">Suzie Mascarenhas <span class="gray">(Auckland NZ)</span></div></li><li>	<div class="font17" style="width:90%;margin:auto;">Awesome suit kasmirvilla has awesome peoducts. .they take care of there clients. .thumbs up</div>	<div style="width:150px;margin:auto;padding:20px 0 10px 0;">		<table cellpadding="0" cellspacing="0">		<tbody><tr><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td><td style="width:30px;height:22px;background:url('/images/raty/star-on.png') center no-repeat;"></td>		</tr>		</tbody></table>	</div>	<div class="alignCenter font12 gray" style="width:90%;margin:auto;">Sunita <span class="gray">(Patiala PB)</span></div></li>               </ul>
+               <div class="alignCenter" style="margin-top:50px;"><a class="whiteButton" href="/testimonials/">Read All Testimonials...</a></div>		</div>
+          <div class="divBlock lightGrayBG roundBorders boxShadow4px" style="padding:20px;">
+          	<div class="font21 bold">Used our service?</div>
+               <div style="margin-top:10px;"><a class="link13 blue" href="/testimonials/">Leave a testimonial / feedback</a></div>
+          </div>
+     </div>
+     </td>
+</tr>
+<tr>
+	<td style="padding-top:20px;">
+	<table cellpadding="0" cellspacing="0" style="border-top:#ccc solid 1px;background-color:#f5f5f5" width="100%">
+	<tbody><tr>
+		<td>
+		<table align="center" cellpadding="0" cellspacing="0" width="1000px">
+		<tbody><tr>
+			<td style="padding-top:8px">
+			<table cellpadding="0" cellspacing="0" width="100%">
+			<!--
+			<TR><TD style="padding:10px 0; vertical-align:middle"><A href="/donate.php"><DIV class="greenBG white bold roundBorders alignCenter" style="display:inline-block;width:200px;padding:5px 0;margin-bottom:5px">Donate for J&K Flood Relief</DIV></A>&nbsp;&nbsp;Let's come together help Jammu & Kashmir Flood Survivors</TD></TR>
+			!-->
+			<tbody><tr>
+				<td>
+				<table cellpadding="5" cellspacing="0" class="whiteBG roundBorders borders" width="100%">
+				<tbody><tr>
+					<td class="bold" style="padding:10px 0 5px 15px">Popular Categories</td>
+				</tr>
+				<tr>
+					<td class="borderTop" style="padding:5px 0 10px 15px">
+					<a class="blue" href="/stoles" title="Kashmiri Stoles">Kashmiri Stoles</a>
+					 | <a class="blue" href="/blankets" title="Kashmiri Blankets">Kashmiri Blankets</a>
+					 | <a class="blue" href="/suits" title="Kashmiri Suits">Kashmiri Suits</a>
+					 | <a class="blue" href="/shawls" title="Kashmiri Shawls">Kashmiri Shawls</a>
+					 | <a class="blue" href="/saffron-kesar" title="Kashmiri Saffron (kesar)">Kashmiri Saffron</a>
+					</td>
+				</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td style="padding:10px 0 10px 0">
+				<table cellpadding="0" cellspacing="10" class="whiteBG roundBorders borders" width="100%">
+				<tbody><tr>
+					<td class="borderBottom" colspan="2" style="padding-bottom:10px">
+					<div>
+						<div class="divBlock bold" style="width:200px;padding-top:20px">Domestic Shipping Partners</div>
+						<div class="divBlock" style="margin-left:20px">
+							<img src="/images/shipping-partners-dtdc.jpg" style="height:55px" title="DTDC"/>   <img src="/images/shipping-partners-first-flight.jpg" style="height:55px" title="First Flight"/>   <img src="/images/shipping-partners-speed-post.jpg" style="height:50px" title="Speed Post"/>
+						</div>
+					</div>
+					<div style="margin-top:20px">
+						<div class="divBlock bold" style="width:200px;padding-top:20px">International Shipping Partners</div>
+						<div class="divBlock" style="margin-left:20px">
+							<img src="/images/shipping-partners-fedex.gif" style="height:55px" title="First Flight"/>
+						</div>
+					</div>
+					</td>
+				</tr>
+				<tr>
+					<td><a class="maroon" href="/privacy-policy.php">Privacy Policy</a> | <a class="maroon" href="/shipping-policy.php">Shipping, Return &amp; Cancellation Policy</a> | <a class="maroon" href="/terms-of-use.php">Terms of Use</a> | <a class="maroon" href="/kvpoints.php">KV Points</a> <img src="/images/new.gif"/> | <a class="maroon" href="/testimonials/">Testimonials</a> | <a class="maroon" href="/contact.php">Contact Us</a></td>
+					<td align="right"><a href="https://www.facebook.com/kashmirvilla" target="_blank">Join us on Facebook <img height="19px" src="/images/facebook.jpg" title="Join us on facebook" width="20px"/></a></td>
+				</tr>
+				<tr>
+					<td>All rights reserved © 2013 Kashmir Villa ®</td>
+					<td align="right">Developed &amp; maintained by <a href="http://www.myzow.com" target="_blank">MyZow</a></td>
+				</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td class="bold" style="padding-bottom:10px; vertical-align:middle">Payment Options: <img src="/images/visa.jpg"/>    <img src="/images/mastercard.jpg"/>    <img height="25px" src="/images/net-banking.png" width="67px"/>    <a class="blue" href="/neft.php"><img height="28px" src="/images/cheque.png" width="80px"/></a>    <a class="blue" href="/neft.php"><img height="28px" src="/images/neft.png" width="100px"/></a>    <img height="28px" src="/images/cod.png" width="69px"/>    <img src="/images/paypal-icon.png" style="width:60px" title="International payment via PayPal"/></td>
+			</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+	</td>
+</tr></tbody></table>
+
+</body></html>

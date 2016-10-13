@@ -1,0 +1,4147 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"><head><script src="/CFIDE/scripts/cfform.js" type="text/javascript"></script>
+<script src="/CFIDE/scripts/masks.js" type="text/javascript"></script>
+
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>Send Flowers to India: Gifts to India, Cake to India: New Delhi, Bangalore, Mumbai, Chennai, Hyderabad: Same Day Flower Delivery, Floral Gift India</title>
+
+<meta content="index,follow" name="robots"/>
+
+<meta content="Flowers to India, Send Flowers to India, Online delivery of flowers to India, Gifts, chocolates, cakes, teddy, sweets, dry fruits to India. Send anniversary flowers, birthday flowers, wedding flowers, congratulations flowers. Cake to India, flower to india, Send Cakes to Bangalore, Chennai, Delhi, Hyderabad, Mumbai, Kolkata, Send flowers in India, Send Flowers to Bangalore, Online flowers India, same day delivery to India." name="Description"/>
+
+<meta content="Flowers, Florist, India, Flowers to India, Send flowers to India, Gifts to India, Send Gifts to India Online Florists, Online delivery of flowers, Send Flower to India, Same day delivery, Anniversary, Birthday, Wedding flowers, Cakes to India, Sweets to India, Dry Fruits to India, Chocolates to India" name="Keywords"/>
+
+<meta content="Flowers to India, Roses to India, gifts to india, Send flowers to India, send gifts to india, Flower Bouquet to India, florist, Send Flower to India, Send Cake to India, Flowers delivery in India, Sweets delivery in India, Online Florists in India, Cakes, Chocolates, Sweets, Teddy, Floral India, Flowers India" name="Classification"/>
+
+
+ <link href="css/foundation.css?v1.1" rel="stylesheet"/>
+ <link href="css/flora.css?v1.1" rel="stylesheet"/>
+ <link href="css/queries.css?v1.2" rel="stylesheet"/>
+ <link href="css/swiper.min.css" rel="stylesheet" type="text/css"/>
+ <link href="css/layout.css?v1.2" rel="stylesheet"/>
+ <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"/>
+ <link href="unitegallery/css/unite-gallery.css" rel="stylesheet" type="text/css"/>
+ <link href="css/perfect-scrollbar.min.css" rel="stylesheet"/>
+ <script src="js/vendor/modernizr.js"></script>
+ <script src="https://use.typekit.net/ovy1hif.js"></script>
+ <script>try{Typekit.load({ async: true });}catch(e){}</script>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("#searchpopupbar").mouseenter(function (e1) {
+        var thisItem = $(this);
+        clearTimeout(thisItem.data("hoverTimer"))
+		if($("#drop5").hasClass('open'))
+			$('#drop5').removeClass('open');
+			
+        var timer = setTimeout(function (e1) {
+
+            if ($("#dropsearchpopup").hasClass('open')) {
+                return;
+            } else {
+                $("#dropsearchpopup").addClass('open');
+            }
+
+        }, 200);
+        thisItem.data("hoverTimer", timer)
+    }).mouseleave(function (e2) {
+        var thisItem = $(this);
+        clearTimeout(thisItem.data('hoverTimer'))
+        var timer = setTimeout(function (e2) {
+			
+			if(!$('#frmsearchpopup a').hasClass('selected'))
+				$('#dropsearchpopup').removeClass('open');
+        }, 11000);
+        thisItem.data('hoverTimer', timer)
+    });
+	
+	$("#supportdiv").mouseenter(function (e1) {
+		if($("#dropsearchpopup").hasClass('open'))
+			$('#dropsearchpopup').removeClass('open');
+	});
+});
+
+window.setInterval(function(){
+  if(!$('#frmsearchpopup a').hasClass('selected'))
+		$('#dropsearchpopup').removeClass('open');
+}, 10000);
+
+
+
+	function addProdToCart(id,name)
+	{
+			//alert(name);
+			$.ajax({
+			type: 'GET',
+			url: 'addToCart.cfm?id='+id,
+			dataType: 'html',
+			success: function(data) {
+			if(isNaN(data))
+			{
+				alert('Error:' + data);
+			}
+			else
+			{
+			$('#number').html(data);
+			alert("'" + name + "'" + ' is added to your shopping cart.');
+
+			}
+			}
+		});
+
+		return false;
+	}
+
+	function guestLogin()
+	{
+		var name = $('#guestname').val().trim();
+		var email = $('#guestemail').val().trim();
+		if(!name.length)
+		{
+			alert('Please type in your name');
+			return false;
+		}
+		if(!email.length)
+		{
+			alert('Please type in your email');
+			return false;
+		}
+
+		$.ajax({
+			type: 'GET',
+			url: 'checkEmail.cfm',
+			data:"email="+email,
+			dataType: 'html',
+			success: function(data)
+			{
+				var result = data.trim();
+				if(result=='duplicate')
+				{
+					alert("This email address is already registered. Please click on 'Forgot Password' to get your password.");
+					return false;
+				}
+				else
+				{
+					$('#closelogin').click();
+					$('#step1checkout').click();
+					$('#name').val(name);
+					$('#email').val(email);
+				}
+			}
+			});
+
+
+	}
+	function doLogin(userid,password,action)
+	{
+		//alert('function doLogin');
+
+		var userid = $("#txtuserid").val();
+		var password=$("#txtpassword").val();
+		var action=$("#action").val();
+
+		//alert(userid+'-'+password+'-'+action);
+
+			$.ajax({
+			type: 'POST',
+			url: 'doLogin.cfm',
+			data:$('#frmLoginNew').serialize(),
+			dataType: 'html',
+			success: function(data)
+			{
+				//alert(data);
+				var arrdata = data.split("@@@",10);
+				var result = parseInt(arrdata[0]);
+
+				//alert("|"+result+"|");
+				if(result)
+				{
+					$.ajax({
+					type: 'GET',
+					url: 'refreshLoginLink.cfm',
+					dataType: 'html',
+					success: function(data)
+					{
+						$("#loginlink").html(data);
+
+					}
+					});
+
+
+					if(action=='checkout')
+					{
+
+						$("#name").val(arrdata[1]);
+						$("#email").val(arrdata[2]);
+						$("#address").val(arrdata[3]);
+						$("#address2").val(arrdata[4]);
+						$("#city").val(arrdata[5]);
+						$("#state").val(arrdata[6]);
+						$("#zip").val(arrdata[7]);
+
+						var cval = arrdata[8];
+						var cval = cval.toLowerCase();
+						var countryval = cval.charAt(0).toUpperCase() + cval.substring(1);
+
+						$("#country").val(countryval);
+
+						//$("#country option[value='" + arrdata[8] + "']").attr('selected', 'selected');
+						$("#phone").val(arrdata[9]);
+
+						$("#dsppass").hide();
+
+									$.ajax({
+								type: 'GET',
+								url: 'incGetRecipient.cfm',
+								dataType: 'html',
+								success: function(data)
+								{
+									$("#ab").html(data);
+								}
+							});
+
+						//alert('checkout');
+						$('#closelogin').click();
+						$('#step1checkout').click();
+
+					}
+					else
+					{
+						$('#closelogin').click();
+						document.location.href='customers.cfm';
+					}
+
+				}
+				else
+				{
+					alert('Please enter a valid email/password.');
+				}
+			}
+			});
+
+
+	}
+function emailCheck ()
+{
+	emailStr=document.frmRegister.guestemail.value;
+	var checkTLD=1;
+	var emailPat=/^(.+)@(.+)$/;
+	var specialChars="\\(\\)><@,;:\\\\\\\"\\.\\[\\]";
+	var validChars="\[^\\s" + specialChars + "\]";
+	var quotedUser="(\"[^\"]*\")";
+	var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
+	var atom=validChars + '+';
+	var word="(" + atom + "|" + quotedUser + ")";
+	var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
+	var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
+	var matchArray=emailStr.match(emailPat);
+
+	if (matchArray==null) {
+	alert("Email address seems incorrect (check @ and .'s)");
+	return false;
+	}
+
+	var user=matchArray[1];
+	var domain=matchArray[2];
+
+	for (i=0; i<user.length; i++) {
+	if (user.charCodeAt(i)>127) {
+	alert("Ths username contains invalid characters.");
+	return false;
+	   }
+	}
+
+	for (i=0; i<domain.length; i++) {
+	if (domain.charCodeAt(i)>127) {
+	alert("Ths domain name contains invalid characters.");
+	return false;
+	   }
+	}
+
+	if (user.match(userPat)==null) {
+	alert("The username doesn't seem to be valid.");
+	return false;
+	}
+
+	var IPArray=domain.match(ipDomainPat);
+	if (IPArray!=null) {
+
+	for (var i=1;i<=4;i++) {
+	if (IPArray[i]>255) {
+	alert("Destination IP address is invalid!");
+	return false;
+	   }
+	}
+	return true;
+	}
+
+	var atomPat=new RegExp("^" + atom + "$");
+	var domArr=domain.split(".");
+	var len=domArr.length;
+	for (i=0;i<len;i++) {
+	if (domArr[i].search(atomPat)==-1) {
+	alert("The domain name does not seem to be valid.");
+	return false;
+	   }
+	}
+
+
+	if (checkTLD && domArr[domArr.length-1].length!=2 &&
+	domArr[domArr.length-1].length!=3 &&
+	domArr[domArr.length-1].length!=4) {
+	alert("The address must end in a well-known domain or two letter " + "country.");
+	return false;
+	}
+
+	if (len<2) {
+	alert("This address is missing a hostname!");
+	return false;
+	}
+
+	guestLogin();
+}
+</script>
+
+  <script type="text/javascript">
+<!--
+    _CF_checkfrmsearchpopup = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+<script type="text/javascript">
+<!--
+    _CF_checkfrmsearch = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+
+<script type="text/javascript">/* <![CDATA[ */
+	if (window.ColdFusion) ColdFusion.required['txtuserid']=true;
+/* ]]> */</script>
+
+<script type="text/javascript">/* <![CDATA[ */
+	if (window.ColdFusion) ColdFusion.required['txtpassword']=true;
+/* ]]> */</script>
+<script type="text/javascript">
+<!--
+    _CF_checkfrmLogin = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element txtuserid required check
+        if( !_CF_hasValue(_CF_this['txtuserid'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "txtuserid", _CF_this['txtuserid'].value, "Please enter User ID ");
+            _CF_error_exists = true;
+        }
+
+        //form element txtpassword required check
+        if( !_CF_hasValue(_CF_this['txtpassword'], "PASSWORD", false ) )
+        {
+            _CF_onError(_CF_this, "txtpassword", _CF_this['txtpassword'].value, "Please enter password");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+
+<script type="text/javascript">/* <![CDATA[ */
+	if (window.ColdFusion) ColdFusion.required['guestname']=true;
+/* ]]> */</script>
+
+<script type="text/javascript">/* <![CDATA[ */
+	if (window.ColdFusion) ColdFusion.required['guestemail']=true;
+/* ]]> */</script>
+<script type="text/javascript">
+<!--
+    _CF_checkfrmRegister = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element first_name required check
+        if( !_CF_hasValue(_CF_this['first_name'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "first_name", _CF_this['first_name'].value, "Error in first_name text.");
+            _CF_error_exists = true;
+        }
+
+        //form element email required check
+        if( !_CF_hasValue(_CF_this['email'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "email", _CF_this['email'].value, "Error in email text.");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+</head>
+  <body onload="">
+
+
+<div id="mobileMenuOverlay"></div>
+<div class="allease3 " id="header">
+    <div class="row">
+        <div class="allease3" id="logo">
+            <a href="index.cfm">
+            	<img class="allease3" src="img/logo.png"/>
+            </a>
+
+        </div>
+		
+         <div id="right">
+
+            <div class="allease3" id="right-top">
+                <ul>
+
+                    <li class="hidden-on-phone" id="loginlink">
+
+                    	
+                    	<a class="login_modal" href=""> <!-- Add Class login_modal to all links you want to open a modal window -->
+                    		<i class="fa fa-user"></i>
+                        	<span class="text">Log In / Register</span>
+                        </a>
+                        
+                    </li>
+                    <li class="hidden-on-phone">
+                    	<a href="track.cfm"> <!-- Add Class login_modal to all links you want to open a modal window -->
+                    		<i class="fa fa-truck"></i>
+                        	<span class="text">Track your order</span>
+                        </a>
+					</li>
+                    <li class="hidden-on-phone">
+                        <a aria-controls="drop5" aria-expanded="false" data-dropdown="drop5" data-options="is_hover:true;" href="contact.cfm" id="supportdiv">
+                            <i class="fa fa-phone"></i>
+                            <span class="text">Support</span>
+                        </a>
+                        <ul class="f-dropdown" data-dropdown-content="" id="drop5">
+                          <li><a href="contact.cfm">Call: +91 93502.99802</a></li>
+						  <li><a href="contact.cfm"><span style="display:none"> </span>                 93505.51301</a></li>
+                          <li><a href="contact.cfm">Email: <span class="__cf_email__" data-cfemail="cfbcaabdb9aa8fa9a3a0bdaea6a1aba6aee1aca0a2">[email protected]</span><script data-cfhash="f9e31" type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></li>
+                        </ul>
+                   	</li>
+                    <li>
+                    </li><li class="hidden-on-phone">
+                    	<a aria-controls="dropsearchpopup" aria-expanded="false" data-dropdown="dropsearchpopup" data-options="is_hover:false;" href="javascript:void(0);" id="searchpopupbar">
+                    		<i class="fa fa-search"></i>
+                        	<span class="text">Search</span>
+                        </a>
+						 <ul class="f-dropdown dropsearchpopup" data-dropdown-content="" id="dropsearchpopup" style="width:auto !important;">
+							
+<script>
+// START:- For Search popup from header
+$(document).ready(function(e) {
+	$('a.dkSelectSearchpopup').click(function(event) {
+		event.stopPropagation();
+		event.preventDefault();
+		if(!$(this).hasClass('selected'))
+		{
+			$(this).addClass('selected').next().slideDown(300);bindBodyToCloseSearch();
+		}
+		else
+		{
+			$(this).removeClass('selected').next().slideUp(300);unbindBodyToCloseSearch();
+		}
+	});
+	$('.dkSelectDropdownsrchpopup').click(function(event) {event.stopPropagation();});
+	$('a.dkSelectDropdownElementfrmPopup').click(function(event) {
+		 event.stopPropagation();
+		event.preventDefault();
+	
+		var occid = $(this).siblings("div").text().trim();
+		if($(this).hasClass('selected'))
+		{
+			$(this).removeClass('selected').children('.aa').removeClass('fa-check-circle').addClass('fa-circle-o');
+			$("input:checkbox[id="+occid+"]").attr("checked", false);
+	
+		}
+		else
+		{
+			$(this).addClass('selected').children('.aa').addClass('fa-check-circle').removeClass('fa-circle-o');
+	
+			$("input:checkbox[id="+occid+"]").attr("checked", true);
+		}
+	});
+});
+	// END:- For Search popup from header
+</script>
+
+<form action="search.cfm" id="frmsearchpopup" method="post" name="frmsearchpopup" onsubmit="return _CF_checkfrmsearchpopup(this)">
+<div class="row">
+	<div class="txtsize medium-8 medium-offset-2 large-offset-0 columns">
+		<div class="dkSelectSearchpopup" style="height:50px;padding: 3px;">
+		<input id="kwsch" name="kwsch" placeholder="Enter keyword" style=" border-radius: 10px; width: 104%;height: 46px;margin: -3px;" type="text" value=""/>
+		</div>
+	</div>
+	<div class="txtsize medium-8 medium-offset-2 large-offset-0 columns">
+		<a class="dkSelectSearchpopup" style="border-radius: 10px !important; padding:8px !important; color:#e67f92; text-align: left;">
+			<img src="img/gift_icon.png" style="float: left !important; margin-top: 2px !important; width:30px !important;"/> Occassion<i class="aa fa fa-caret-down"></i>
+		</a>
+		<div class="dkSelectDropdownsrchpopup">
+			
+			<ul>
+			
+				<li>
+					
+					<div class="hide">
+						Anniversary_13
+					</div>
+					<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Anniversary</a>
+					<input class="hide" id="Anniversary_13" name="occasions" type="checkbox" value="13"/>
+				</li>
+			
+				<li>
+					
+					<div class="hide">
+						Birthday_12
+					</div>
+					<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Birthday</a>
+					<input class="hide" id="Birthday_12" name="occasions" type="checkbox" value="12"/>
+				</li>
+			
+				<li>
+					
+					<div class="hide">
+						Congratulations_18
+					</div>
+					<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Congratulations</a>
+					<input class="hide" id="Congratulations_18" name="occasions" type="checkbox" value="18"/>
+				</li>
+			
+				<li>
+					
+					<div class="hide">
+						Diwali_2
+					</div>
+					<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Diwali</a>
+					<input class="hide" id="Diwali_2" name="occasions" type="checkbox" value="2"/>
+				</li>
+			
+				<li>
+					
+					<div class="hide">
+						Love-Romance_17
+					</div>
+					<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Love &amp; Romance</a>
+					<input class="hide" id="Love-Romance_17" name="occasions" type="checkbox" value="17"/>
+				</li>
+			
+				<li>
+					
+					<div class="hide">
+						New-Born_19
+					</div>
+					<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> New Born</a>
+					<input class="hide" id="New-Born_19" name="occasions" type="checkbox" value="19"/>
+				</li>
+			
+				<li>
+					
+					<div class="hide">
+						Sympathy_14
+					</div>
+					<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Sympathy</a>
+					<input class="hide" id="Sympathy_14" name="occasions" type="checkbox" value="14"/>
+				</li>
+			
+				<li>
+					
+					<div class="hide">
+						Thank-You_15
+					</div>
+					<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Thank You</a>
+					<input class="hide" id="Thank-You_15" name="occasions" type="checkbox" value="15"/>
+				</li>
+			
+				<li>
+					
+					<div class="hide">
+						Wedding_16
+					</div>
+					<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Wedding</a>
+					<input class="hide" id="Wedding_16" name="occasions" type="checkbox" value="16"/>
+				</li>
+			
+			</ul>
+		</div>
+	</div>
+
+	<div class="txtsize medium-8 medium-offset-2 large-offset-0 columns">
+		<a class="dkSelectSearchpopup" href="#" style="border-radius: 10px !important; padding:8px 3px !important; color:#e67f92; text-align: left;">
+			<img src="img/flower_icon.png" style="float: left !important; margin-top: 2px !important; width:30px !important;"/> Flowers / Gifts <i class="aa fa fa-caret-down"></i>
+		</a>
+		<div class="dkSelectDropdownsrchpopup">
+			
+			<ul>
+				
+					<li>						
+						
+						<div class="hide">
+							Anthuriums_2
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Anthuriums</a>
+						<input class="hide" id="Anthuriums_2" name="flowers" type="checkbox" value="f2"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Asiatic-Lilies_4
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Asiatic Lilies</a>
+						<input class="hide" id="Asiatic-Lilies_4" name="flowers" type="checkbox" value="f4"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Birds-of-Paradise_6
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Birds of Paradise</a>
+						<input class="hide" id="Birds-of-Paradise_6" name="flowers" type="checkbox" value="f6"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Carnations_8
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Carnations</a>
+						<input class="hide" id="Carnations_8" name="flowers" type="checkbox" value="f8"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Chrysanthemum_10
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Chrysanthemum</a>
+						<input class="hide" id="Chrysanthemum_10" name="flowers" type="checkbox" value="f10"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Daisies_11
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Daisies</a>
+						<input class="hide" id="Daisies_11" name="flowers" type="checkbox" value="f11"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Gerberas_13
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Gerberas</a>
+						<input class="hide" id="Gerberas_13" name="flowers" type="checkbox" value="f13"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Gladioli_14
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Gladioli</a>
+						<input class="hide" id="Gladioli_14" name="flowers" type="checkbox" value="f14"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Iris_17
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Iris</a>
+						<input class="hide" id="Iris_17" name="flowers" type="checkbox" value="f17"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Orchids_20
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Orchids</a>
+						<input class="hide" id="Orchids_20" name="flowers" type="checkbox" value="f20"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Oriental-Lilies_21
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Oriental Lilies</a>
+						<input class="hide" id="Oriental-Lilies_21" name="flowers" type="checkbox" value="f21"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Rajnigandha_22
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Rajnigandha</a>
+						<input class="hide" id="Rajnigandha_22" name="flowers" type="checkbox" value="f22"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Roses_24
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Roses</a>
+						<input class="hide" id="Roses_24" name="flowers" type="checkbox" value="f24"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Tube-Roses_28
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Tube Roses</a>
+						<input class="hide" id="Tube-Roses_28" name="flowers" type="checkbox" value="f28"/>
+					</li>
+				
+					<li>						
+						
+						<div class="hide">
+							Tulips_29
+						</div>
+						<a class="dkSelectDropdownElementfrmPopup" href="#"><i class="aa fa fa-circle-o allease3"></i> Tulips</a>
+						<input class="hide" id="Tulips_29" name="flowers" type="checkbox" value="f29"/>
+					</li>
+				
+			</ul>
+		</div>
+	</div>
+
+	<div class="txtsize medium-8 medium-offset-2 large-offset-0 columns">
+		<a class="dkSelectSearchpopup" href="" style="border-radius: 10px !important; padding:8px !important; color:#e67f92; text-align: left;">
+			<img src="img/price_icon.png" style="float: left !important; margin-top: 2px !important; width:30px !important;"/> Price Range <i class="aa fa fa-caret-down"></i>
+		</a>
+		 <div class="dkSelectDropdownsrchpopup">
+			<ul>
+				<li>
+					<div class="hide">R-0-500</div>
+					<a class="dkSelectDropdownElementfrmPopup" href=""><i class="aa fa fa-circle-o allease3"></i> Below Rs. 500</a>
+					<input class="hide" id="R-0-500" name="range" type="checkbox" value="0-500"/>
+				</li>
+				<li>
+					<div class="hide">R-500-1000</div>
+					<a class="dkSelectDropdownElementfrmPopup" href=""><i class="aa fa fa-circle-o allease3"></i> Rs. 500 to 1000</a>
+					<input class="hide" id="R-500-1000" name="range" type="checkbox" value="500-1000"/>
+				</li>
+				<li>
+					<div class="hide">R-1000-1500</div>
+					<a class="dkSelectDropdownElementfrmPopup" href=""><i class="aa fa fa-circle-o allease3"></i> Rs. 1000 to 1500</a>
+					<input class="hide" id="R-1000-1500" name="range" type="checkbox" value="1000-1500"/>
+				</li>
+				<li>
+					<div class="hide">R-1500-2000</div>
+					<a class="dkSelectDropdownElementfrmPopup" href=""><i class="aa fa fa-circle-o allease3"></i> Rs. 1500 to 2000</a>
+					<input class="hide" id="R-1500-2000" name="range" type="checkbox" value="1500-2000"/>
+				</li>
+				<li>
+					<div class="hide">R-2000-500000</div>
+					<a class="dkSelectDropdownElementfrmPopup" href=""><i class="aa fa fa-circle-o allease3"></i> Above Rs. 2000</a>
+					<input class="hide" id="R-2000-500000" name="range" type="checkbox" value="2000-500000"/>
+				</li>
+			</ul>
+		 </div>
+	</div>
+
+   <div class="txtsize medium-8 medium-offset-2 large-offset-0 columns" style="width:203px;">
+		<a class="dkSelectSearchpopup" href="#" style="border-radius: 10px !important; padding:8px !important; color:#e67f92; text-align: left;">
+			<img src="img/calendar_icon.png" style="float: left !important; margin-top: 2px !important; width:25px !important;"/> Delivery Schedule <i class="aa fa fa-caret-down"></i>
+		</a>
+		 <div class="dkSelectDropdownsrchpopup">
+			<ul>
+				<li><a class="dkSelectDropdownElementfrmPopup" href=""><i class="aa fa fa-circle-o allease3"></i> Same Day Delivery</a></li>
+				<li><a class="dkSelectDropdownElementfrmPopup" href=""><i class="aa fa fa-circle-o allease3"></i> Fixed Time Delivery</a></li>
+				<li><a class="dkSelectDropdownElementfrmPopup" href=""><i class="aa fa fa-circle-o allease3"></i> Midnight Delivery</a></li>
+			</ul>
+		 </div>
+	</div>
+		<div class="txtsize medium-8 medium-offset-2 large-offset-0 columns">
+		<a class="dkButton" href="#" onclick="document.frmsearchpopup.submit();" style="border-radius: 10px !important; padding:8px !important; color:#ffffff; text-align: center;">
+			<img src="img/search_icon_white.png" style="width:15px;"/> Search
+		</a>
+	</div>
+	<div class="txtsize medium-8 medium-offset-2 large-offset-0 left columns">
+		
+  	</div>
+
+</div>
+</form>
+
+                        </ul>
+                    </li>
+                    <li>
+                    	<a href="shop.cfm" id="crt">
+							
+                            
+                            <i class="fa fa-shopping-cart"></i>
+                            <span class="number" id="number">0</span>
+                            <span class="text">Shopping Cart!</span>
+                        </a>
+                   	</li>
+                    <li class="menu-icon"><a href="#" id="mobile_menu"><i class="fa fa-bars"></i> Menu</a></li>
+                </ul>
+            </div>
+
+            <div id="right-bottom">
+				
+                <ul id="navigation">
+					<li class="show-on-mobile" id="loginlink">
+					
+						<a href="login.cfm"><i class="fa fa-user"></i> Login/Register</a></li>
+					
+                    <li class="show-on-mobile"><a href="track.cfm"><i class="fa fa-truck"></i> Track your Order</a></li>
+                    <li class="show-on-mobile"><a href="search.cfm?pSearch=1"><i class="fa fa-search"></i> Search</a></li>
+                    <li class="show-on-mobile"><a href="contact.cfm"><i class="fa fa-phone"></i> Contact Support</a>
+					
+					</li><li class="menuLeft"><a class="hasSubmenu" href="#">Diwali Hampers</a>
+                    <div class="submenu clearfix" style="width:550px;">
+                        <ul class="scrollbar">
+                            <li class="title">Diwali Gifts</li>
+                  			
+                            <li><a href="category.cfm?cat=Diwali Hampers&amp;flower=Diwali Sweets Hampers">Diwali Sweets Hampers</a></li>
+							
+                            <li><a href="category.cfm?cat=Diwali Hampers&amp;flower=Diwali Dryfruits Hampers">Diwali Dryfruits Hampers</a></li>
+							
+                            <li><a href="category.cfm?cat=Diwali Hampers&amp;flower=Diwali Chocolate Hampers">Diwali Chocolate Hampers</a></li>
+							
+                            <li><a href="category.cfm?cat=Diwali Hampers&amp;flower=Diwali Crackers Hampers">Diwali Crackers Hampers</a></li>
+							
+                        </ul>
+						
+                        <ul class="scrollbar">
+                            <li class="title">By Price Range</li>
+                            <li><a href="category.cfm?cat=Diwali Hampers&amp;r1=0&amp;r2=1000">Below Rs. 1000</a></li>
+                            <li><a href="category.cfm?cat=Diwali Hampers&amp;r1=1000&amp;r2=2000">Rs. 1000 to 2000</a></li>
+                            <li><a href="category.cfm?cat=Diwali Hampers&amp;r1=2000&amp;r2=3000">Rs. 2000 to 3000</a></li>
+                            <li><a href="category.cfm?cat=Diwali Hampers&amp;r1=3000&amp;r2=4000">Rs. 3000 to 4000</a></li>
+							<li><a href="category.cfm?cat=Diwali Hampers&amp;r1=4000&amp;r2=50000">Above Rs. 4000</a></li>
+                        </ul>
+						         
+                    </div>
+                    </li>
+					
+					
+					
+
+                    <li class="menuCenter"><a class="hasSubmenu" href="#">FLOWERS</a>
+                    <div class="submenu clearfix">
+					
+                        <ul class="scrollbar">
+                            <li class="title">Best suited for</li>
+                        	
+
+							
+                            <li><a href="category.cfm?cat=Flowers&amp;oc=Anniversary">Anniversary</a></li>
+							
+                            <li><a href="category.cfm?cat=Flowers&amp;oc=Birthday">Birthday</a></li>
+							
+                            <li><a href="category.cfm?cat=Flowers&amp;oc=Congratulations">Congratulations</a></li>
+							
+                            <li><a href="category.cfm?cat=Flowers&amp;oc=Diwali">Diwali</a></li>
+							
+                            <li><a href="category.cfm?cat=Flowers&amp;oc=Love%20%26%20Romance">Love &amp; Romance</a></li>
+							
+                            <li><a href="category.cfm?cat=Flowers&amp;oc=New%20Born">New Born</a></li>
+							
+                            <li><a href="category.cfm?cat=Flowers&amp;oc=Sympathy">Sympathy</a></li>
+							
+                            <li><a href="category.cfm?cat=Flowers&amp;oc=Thank%20You">Thank You</a></li>
+							
+                            <li><a href="category.cfm?cat=Flowers&amp;oc=Wedding">Wedding</a></li>
+							
+
+                        </ul>
+                        <ul class="scrollbar">
+                            <li class="title">By Price Range</li>
+                            <li><a href="category.cfm?cat=Flowers&amp;r1=0&amp;r2=500">Below Rs. 500</a></li>
+                            <li><a href="category.cfm?cat=Flowers&amp;r1=500&amp;r2=1000">Rs. 500 to 1000</a></li>
+                            <li><a href="category.cfm?cat=Flowers&amp;r1=1000&amp;r2=1500">Rs. 1000 to 1500</a></li>
+                            <li><a href="category.cfm?cat=Flowers&amp;r1=1500&amp;r2=2000">Rs. 1500 to 2000</a></li>
+							<li><a href="category.cfm?cat=Flowers&amp;r1=2000&amp;r2=50000">Above Rs. 2000</a></li>
+
+                            <li class="title"><i class="fa fa-heart"></i> Send a special gift</li>
+                            <li><a href="custom.cfm?cat=Flowers">Customize your Flowers</a></li>
+                        </ul>
+						<ul class="scrollbar">
+                            <li class="title">Top Flowers</li>
+                            <li><a href="category.cfm?cat=Flowers&amp;flower=Roses">Roses</a></li>
+                            <li><a href="category.cfm?cat=Flowers&amp;flower=Carnations">Carnations</a></li>
+							<li><a href="category.cfm?cat=Flowers&amp;flower=Orchids">Orchids</a></li>
+                            
+                            <li class="title">Gifts by Type</li>
+								
+									<li><a href="category.cfm?cat=Flowers&amp;prodType=1">In a Bunch</a></li>
+								
+									<li><a href="category.cfm?cat=Flowers&amp;prodType=2">In a Basket</a></li>
+								
+									<li><a href="category.cfm?cat=Flowers&amp;prodType=3">With a Vase</a></li>
+								
+									<li><a href="category.cfm?cat=Flowers&amp;prodType=13">Heart Shaped</a></li>
+								
+                        </ul>                       
+                    </div>
+                    </li>
+
+                    <li class="menuCenter"><a class="hasSubmenu" href="#">CAKES</a>
+                    <div class="submenu">
+					
+						<ul class="scrollbar">
+                            <li class="title">Best suited for</li>
+							
+                            <li><a href="category.cfm?cat=Cakes&amp;oc=Anniversary">Anniversary</a></li>
+							
+                            <li><a href="category.cfm?cat=Cakes&amp;oc=Birthday">Birthday</a></li>
+							
+                            <li><a href="category.cfm?cat=Cakes&amp;oc=Celebrations">Celebrations</a></li>
+							
+                            <li><a href="category.cfm?cat=Cakes&amp;oc=Diwali">Diwali</a></li>
+							
+                            <li><a href="category.cfm?cat=Cakes&amp;oc=Love%20%26%20Romance">Love &amp; Romance</a></li>
+							
+                            <li><a href="category.cfm?cat=Cakes&amp;oc=New%20Born">New Born</a></li>
+							
+                        </ul>
+                        <ul class="scrollbar">
+                            <li class="title">By Price Range</li>
+							<li><a href="category.cfm?cat=Cakes&amp;r1=0&amp;r2=700">Below Rs. 700</a></li>
+                            <li><a href="category.cfm?cat=Cakes&amp;r1=700&amp;r2=1000">Rs. 700 to 1000</a></li>
+                            <li><a href="category.cfm?cat=Cakes&amp;r1=1000&amp;r2=1500">Rs. 1000 to 1500</a></li>
+                            <li><a href="category.cfm?cat=Cakes&amp;r1=1500&amp;r2=2000">Rs. 1500 to 2000</a></li>
+							<li><a href="category.cfm?cat=Cakes&amp;r1=2000&amp;r2=50000">Above Rs. 2000</a></li>
+
+                            <li class="title"><i class="fa fa-heart"></i> Send a special one</li>
+                            <li><a href="custom.cfm?cat=Cakes">Customize your Cake</a></li>
+                        </ul>
+						<ul class="scrollbar">
+                            <li class="title">Top Flavours</li>
+                            <li><a href="category.cfm?cat=Cakes&amp;flower=Black Forest">Black Forest</a></li>
+                            <li><a href="category.cfm?cat=Cakes&amp;flower=Chocolate">Chocolate</a></li>
+                            <li><a href="category.cfm?cat=Cakes&amp;flower=Pineapple">Pineapple</a></li>
+							<li><a href="category.cfm?cat=cakes">More...</a></li>
+							
+                            <li class="title">Choose by Type</li>
+								
+									<li><a href="category.cfm?cat=Cakes&amp;prodType=4">Best Selling Cakes</a></li>
+								
+									<li><a href="category.cfm?cat=Cakes&amp;prodType=5">Eggless Cakes</a></li>
+								
+									<li><a href="category.cfm?cat=Cakes&amp;prodType=8">Heart shape Cakes</a></li>
+								
+									<li><a href="category.cfm?cat=Cakes&amp;prodType=10">Five Star Cakes</a></li>
+								
+									<li><a href="category.cfm?cat=Cakes&amp;prodType=12">Premium Cakes</a></li>
+								
+                        </ul>
+                    </div>
+                    </li>
+
+                    <li class="menuRight"><a class="hasSubmenu" href="#">Gifting Ideas</a>
+                    <div class="submenu">
+					
+                        <ul class="scrollbar">
+                            <li class="title">Send a Combo</li>
+                  			
+                            <li><a href="category.cfm?cat=Gifting Ideas&amp;flower=Flowers and Cake">Flowers and Cake</a></li>
+							
+                            <li><a href="category.cfm?cat=Gifting Ideas&amp;flower=Flowers and Chocolate">Flowers and Chocolate</a></li>
+							
+                            <li><a href="category.cfm?cat=Gifting Ideas&amp;flower=Flowers and Teddy">Flowers and Teddy</a></li>
+							
+                            <li><a href="category.cfm?cat=Gifting Ideas&amp;flower=Flowers and Sweets">Flowers and Sweets</a></li>
+							
+                            <li><a href="category.cfm?cat=Gifting Ideas&amp;flower=Flowers and Dry Fruit">Flowers and Dry Fruit</a></li>
+														
+							
+
+                        </ul>
+                        <ul class="scrollbar">
+                            <li class="title">By Price Range</li>
+							<li><a href="category.cfm?cat=Gifting Ideas&amp;r1=0&amp;r2=700">Below Rs. 700</a></li>
+                            <li><a href="category.cfm?cat=Gifting Ideas&amp;r1=700&amp;r2=1000">Rs. 700 to 1000</a></li>
+                            <li><a href="category.cfm?cat=Gifting Ideas&amp;r1=1000&amp;r2=1500">Rs. 1000 to 1500</a></li>
+                            <li><a href="category.cfm?cat=Gifting Ideas&amp;r1=1500&amp;r2=2000">Rs. 1500 to 2000</a></li>
+							<li><a href="category.cfm?cat=Gifting Ideas&amp;r1=2000&amp;r2=50000">Above Rs. 2000</a></li>
+
+                            <li class="title"><i class="fa fa-heart"></i> Have a great idea?</li>
+                            <li><a href="">Let us know your idea</a></li>
+                        </ul>
+						
+                        <ul class="scrollbar">
+                            <li class="title">Ideas</li>
+							
+                           	 <li><a href="details.cfm?pid=222">Reaching the Pinnacle</a></li>
+							
+                           	 <li><a href="details.cfm?pid=223">Room Full of Love</a></li>
+							
+                            
+                       </ul>
+                    </div>
+                    </li>
+
+                    <li class="menuRight"><a class="hasSubmenu" href="#">Corporates</a>
+                    <div class="submenu" id="corporateOffers">
+                        
+                        <ul class="scrollbar">
+                            <li class="title">Top Clients</li>
+                            <li><a href="corporate.cfm">HSBC Bank</a></li>
+                            <li><a href="corporate.cfm">American Express</a></li>
+                            <li><a href="corporate.cfm">SAP India</a></li>
+                            <li><a href="corporate.cfm">Hitachi</a></li>
+                            <li><a href="corporate.cfm">Crompton Greaves</a></li>
+                            <li><a href="corporate.cfm">Vodafone</a></li>
+						</ul>
+                        <ul class="scrollbar">
+                            <li class="title">Offers</li>
+                            <li><a href="corporate.cfm">Corporate Offer</a></li>
+                        </ul>
+                    </div>
+                    </li>
+
+                    
+
+                    <li class="menuRight"><a class="hasSubmenu" href="#">More+</a>
+                    <div class="submenu" id="moreProducts">
+                        <ul class="scrollbar">
+                            <li class="title">For Relations</li>
+
+                            
+                            	<li><a href="category.cfm?rel=For Her&amp;noCat=1">For Her</a></li>
+                            
+                            	<li><a href="category.cfm?rel=For Him&amp;noCat=1">For Him</a></li>
+                            
+                            	<li><a href="category.cfm?rel=For Wife&amp;noCat=1">For Wife</a></li>
+                            
+                            	<li><a href="category.cfm?rel=For Husband&amp;noCat=1">For Husband</a></li>
+                            
+                            	<li><a href="category.cfm?rel=For Mother&amp;noCat=1">For Mother</a></li>
+                            
+                            	<li><a href="category.cfm?rel=For Father&amp;noCat=1">For Father</a></li>
+                            
+                            	<li><a href="category.cfm?rel=For Sister&amp;noCat=1">For Sister</a></li>
+                            
+                            	<li><a href="category.cfm?rel=For Brother&amp;noCat=1">For Brother</a></li>
+                            
+                            	<li><a href="category.cfm?rel=For Kids&amp;noCat=1">For Kids</a></li>
+                            
+                            	<li><a href="category.cfm?rel=For Friends&amp;noCat=1">For Friends</a></li>
+                            
+                            	<li><a href="category.cfm?rel=For Boss&amp;noCat=1">For Boss</a></li>
+                            
+                            	<li><a href="category.cfm?rel=For Colleague&amp;noCat=1">For Colleague</a></li>
+                            
+                            	<li><a href="category.cfm?rel=For Employee&amp;noCat=1">For Employee</a></li>
+                            
+                            	<li><a href="category.cfm?rel=For Clients&amp;noCat=1">For Clients</a></li>
+                            
+
+                        </ul>
+                        <ul class="scrollbar">
+                            <li class="title">By Price Range</li>
+                            <li><a href="category.cfm?r1=0&amp;r2=500&amp;noCat=1">Below Rs. 500</a></li>
+                            <li><a href="category.cfm?r1=500&amp;r2=1000&amp;noCat=1">Rs. 500 to 1000</a></li>
+                            <li><a href="category.cfm?r1=1000&amp;r2=1500&amp;noCat=1">Rs. 1000 to 1500</a></li>
+                            <li><a href="category.cfm?r1=1500&amp;r2=2000&amp;noCat=1">Rs. 1500 to 2000</a></li>
+                            <li><a href="category.cfm?r1=2000&amp;r2=50000&amp;noCat=1">Above Rs. 2000</a></li>
+
+                             <li class="title"><i class="fa fa-heart"></i> Customize your gift</li>
+                            <li><a href="custom.cfm">Customize your Flowers</a></li>
+
+                        </ul>
+                        <ul class="scrollbar">
+                            <li class="title">Other Products</li>
+                            <li><a href="category.cfm?cat=chocolates">Chocolates</a></li>
+                            <li><a href="category.cfm?cat=Dry Fruits">Dry Fruits</a></li>
+                            <li><a href="category.cfm?cat=Mithai">Mithai (Sweets)</a></li>
+                            <li><a href="category.cfm?cat=Teddies">Teddies</a></li>
+                            
+
+
+                            <li class="title">Florist's Choice</li>
+                            <li><a href="askflorist.cfm"><img src="./img/floristschoice.png"/></a></li>
+
+                        </ul>
+                    </div>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+         
+    </div>
+</div>
+
+    <script>
+		function sbmForm(oform)
+		{
+			oform.submit();
+			return false;
+		}
+    </script>
+
+    <div class="content" role="article">
+		
+    	<div class="hero">
+  				<div class="hero-left">
+
+        	<div class="cycle-slideshow" data-cycle-center-horz="true" data-cycle-fx="fade" data-cycle-pager=".cycle-pager" data-cycle-slides="&gt; div" data-cycle-speed="1200" data-pause="true" id="slider">
+            	<div class="slide">
+                	<img src="img/slider/1.png"/>
+                    <div class="slide-content">
+                    	<h2>Delivering smiles</h2>
+                        <p>
+                    	We connect you with your loved ones who are far far away. A phone call is nice, but a special memory on her birthday is just exquisite.
+                        </p>
+                    </div>
+                </div>
+                <div class="slide">
+                 <img src="img/slider/2.png"/>
+                 <div class="slide-content">
+                    	<h2>Throughout the world</h2>
+                        <p>
+                    	With floraindia.com you can send gifts from anywhere in the world!
+                        </p>
+                    </div>
+                </div>
+               <div class="slide">
+                 <img src="img/slider/3.png"/>
+                 <div class="slide-content">
+                    	<h2>Only the freshest!</h2>
+                        <p>
+                    	Our extremely reliable network provide only the best quality of products across India.
+                        </p>
+                    </div>
+                </div>
+                 <div class="slide">
+                 <img src="img/slider/4.png"/>
+                 <div class="slide-content">
+                 		<h2>Same day delivery</h2>
+                        <p>
+                    	Place your order before 3:00pm IST and it will be delivered on the same day! You can thank us later :)
+                        </p>
+
+                    </div>
+                </div>
+                 <div class="slide">
+                 <img src="img/slider/5.png"/>
+                 <div class="slide-content">
+                    	<h2>Happiness every where</h2>
+                        <p>
+                    	Our motivated, trained and humble delivery boys are sure to convey your message and memories with the utmost of warmth.
+                        </p>
+                    </div>
+                </div>
+
+                </div>
+                <div class="cycle-pager"></div>
+            </div><!--
+            --><div class="hero-right">
+            	<ul id="home-featured">
+					
+            		<li>
+                    	<a class="allease3" href="http://www.floraindia.com/category.cfm?oc=Birthday&amp;noCat=1" style="background-image:url(../images/birthday_home.jpg);">						
+                        	Birthday Flowers
+                        </a>
+                    </li>
+					
+            		<li>
+                    	<a class="allease3" href="http://www.floraindia.com/category.cfm?cat=Cakes" style="background-image:url(../images/cakes_home.jpg);">						
+                        	Cakes
+                        </a>
+                    </li>
+					
+            		<li>
+                    	<a class="allease3" href="http://www.floraindia.com/category.cfm?oc=Anniversary&amp;noCat=1" style="background-image:url(../images/anniversary_home.jpg);">						
+                        	Anniversary Flowers
+                        </a>
+                    </li>
+					
+            		<li>
+                    	<a class="allease3" href="http://www.floraindia.com/category.cfm?cat=chocolates" style="background-image:url(../images/chocolates_home.jpg);">						
+                        	Chocolates
+                        </a>
+                    </li>
+					
+            		<li>
+                    	<a class="allease3" href="http://www.floraindia.com/category.cfm?cat=Flowers" style="background-image:url(../images/flowers_home.jpg);">						
+                        	All Flowers
+                        </a>
+                    </li>
+					
+            		<li>
+                    	<a class="allease3" href="http://www.floraindia.com/corporate.cfm" style="background-image:url(../images/corporates_home.jpg);">						
+                        	Corporates
+                        </a>
+                    </li>
+					
+                 </ul>
+            </div>
+        </div>
+	<form action="search.cfm" id="frmsearch" method="post" name="frmsearch" onsubmit="return _CF_checkfrmsearch(this)">
+        <div class="numbers">
+        	<div class="row">
+				<div class="large-2 medium-8 medium-offset-2 large-offset-0 columns">
+					<div class="dkSelect" style="height:50px;padding: 3px;">
+					<input id="kwsch" name="kwsch" placeholder="Enter keyword" style=" border-radius: 10px; width: 104%;height: 46px;margin: -3px;" type="text" value=""/>
+					</div>
+				</div>
+            	<div class="large-2 medium-8 medium-offset-2 large-offset-0 columns">
+                	<a class="dkSelect" href="#">
+                    	<img src="img/gift_icon.png"/> Occassion<i class="fa fa-caret-down"></i>
+                    </a>
+                    <div class="dkSelectDropdown">
+	          			
+
+                        	<ul>
+							
+								<li>
+									<div class="hide">
+										13
+									</div>
+									
+
+									<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Anniversary</a>
+									<input class="hide" id="Anniversary" name="occasions" type="checkbox" value="13"/>
+								</li>
+                                
+								<li>
+									<div class="hide">
+										12
+									</div>
+									
+
+									<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Birthday</a>
+									<input class="hide" id="Birthday" name="occasions" type="checkbox" value="12"/>
+								</li>
+                                
+								<li>
+									<div class="hide">
+										18
+									</div>
+									
+
+									<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Congratulations</a>
+									<input class="hide" id="Congratulations" name="occasions" type="checkbox" value="18"/>
+								</li>
+                                
+								<li>
+									<div class="hide">
+										2
+									</div>
+									
+
+									<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Diwali</a>
+									<input class="hide" id="Diwali" name="occasions" type="checkbox" value="2"/>
+								</li>
+                                
+								<li>
+									<div class="hide">
+										17
+									</div>
+									
+
+									<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Love &amp; Romance</a>
+									<input class="hide" id="Love-&amp;-Romance" name="occasions" type="checkbox" value="17"/>
+								</li>
+                                
+								<li>
+									<div class="hide">
+										19
+									</div>
+									
+
+									<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> New Born</a>
+									<input class="hide" id="New-Born" name="occasions" type="checkbox" value="19"/>
+								</li>
+                                
+								<li>
+									<div class="hide">
+										14
+									</div>
+									
+
+									<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Sympathy</a>
+									<input class="hide" id="Sympathy" name="occasions" type="checkbox" value="14"/>
+								</li>
+                                
+								<li>
+									<div class="hide">
+										15
+									</div>
+									
+
+									<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Thank You</a>
+									<input class="hide" id="Thank-You" name="occasions" type="checkbox" value="15"/>
+								</li>
+                                
+								<li>
+									<div class="hide">
+										16
+									</div>
+									
+
+									<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Wedding</a>
+									<input class="hide" id="Wedding" name="occasions" type="checkbox" value="16"/>
+								</li>
+                                
+
+                            </ul>
+                        </div>
+                </div>
+
+                <div class="large-2 medium-8 medium-offset-2 large-offset-0 columns">
+                	<a class="dkSelect" href="#">
+                    	<img src="img/flower_icon.png"/> Flowers / Gifts <i class="fa fa-caret-down"></i>
+                    </a>
+
+                    <div class="dkSelectDropdown">
+                        <ul>
+							
+                           		<li>
+									<div class="hide">
+										f2
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Anthuriums</a>
+									<input class="hide" id="Anthuriums" name="flowers" type="checkbox" value="f2"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f4
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Asiatic Lilies</a>
+									<input class="hide" id="Asiatic-Lilies" name="flowers" type="checkbox" value="f4"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f6
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Birds of Paradise</a>
+									<input class="hide" id="Birds-of-Paradise" name="flowers" type="checkbox" value="f6"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f8
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Carnations</a>
+									<input class="hide" id="Carnations" name="flowers" type="checkbox" value="f8"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f10
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Chrysanthemum</a>
+									<input class="hide" id="Chrysanthemum" name="flowers" type="checkbox" value="f10"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f11
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Daisies</a>
+									<input class="hide" id="Daisies" name="flowers" type="checkbox" value="f11"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f13
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Gerberas</a>
+									<input class="hide" id="Gerberas" name="flowers" type="checkbox" value="f13"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f14
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Gladioli</a>
+									<input class="hide" id="Gladioli" name="flowers" type="checkbox" value="f14"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f17
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Iris</a>
+									<input class="hide" id="Iris" name="flowers" type="checkbox" value="f17"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f20
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Orchids</a>
+									<input class="hide" id="Orchids" name="flowers" type="checkbox" value="f20"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f21
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Oriental Lilies</a>
+									<input class="hide" id="Oriental-Lilies" name="flowers" type="checkbox" value="f21"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f22
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Rajnigandha</a>
+									<input class="hide" id="Rajnigandha" name="flowers" type="checkbox" value="f22"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f24
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Roses</a>
+									<input class="hide" id="Roses" name="flowers" type="checkbox" value="f24"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f28
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Tube Roses</a>
+									<input class="hide" id="Tube-Roses" name="flowers" type="checkbox" value="f28"/>
+								</li>
+                            
+                           		<li>
+									<div class="hide">
+										f29
+									</div>
+									
+									<a class="dkSelectDropdownElement" href="#"><i class="fa fa-circle-o allease3"></i> Tulips</a>
+									<input class="hide" id="Tulips" name="flowers" type="checkbox" value="f29"/>
+								</li>
+                            
+                        </ul>
+                    </div>
+                </div>
+
+                
+
+                <div class="large-2 medium-8 medium-offset-2 large-offset-0 columns">
+                	<a class="dkSelect" href="">
+                    	<img src="img/price_icon.png"/> Price Range <i class="fa fa-caret-down"></i>
+                    </a>
+                     <div class="dkSelectDropdown">
+                    <ul>
+
+								<li>
+                            		<div class="hide">0-500</div>
+                            		<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Below Rs. 500</a>
+                            		<input class="hide" name="range" type="checkbox" value="0-500"/>
+                            	</li>
+                                <li>
+                                	<div class="hide">500-1000</div>
+                                	<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Rs. 500 to 1000</a></li>
+                                	<input class="hide" name="range" type="checkbox" value="500-1000"/>
+                                <li>
+                                	<div class="hide">1000-1500</div>
+                                	<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Rs. 1000 to 1500</a>
+                                	<input class="hide" name="range" type="checkbox" value="1000-1500"/>
+                                </li>
+                                <li>
+                                	<div class="hide">1500-2000</div>
+                                	<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Rs. 1500 to 2000</a>
+                                	<input class="hide" name="range" type="checkbox" value="1500-2000"/>
+                                </li>
+                                <li>
+                                	<div class="hide">2000-500000</div>
+                                	<a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Above Rs. 2000</a>
+                                	<input class="hide" name="range" type="checkbox" value="2000-500000"/>
+                                </li>
+
+                            </ul>
+                            </div>
+                </div>
+
+                 <div class="large-2 medium-8 medium-offset-2 large-offset-0 columns">
+                	<a class="dkSelect" href="#">
+                    	<img src="img/calendar_icon.png"/> Delivery Schedule <i class="fa fa-caret-down"></i>
+
+                    </a>
+                     <div class="dkSelectDropdown">
+                    		<ul>
+                            	<li><a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Same Day Delivery</a></li>
+                                <li><a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Fixed Time Delivery</a></li>
+                                <li><a class="dkSelectDropdownElement" href=""><i class="fa fa-circle-o allease3"></i> Midnight Delivery</a></li>
+
+                            </ul>
+                            </div>
+                </div>
+                          <input id="test" name="test" type="hidden" value="testing"/>
+                <div class="large-2 medium-8 medium-offset-2 large-offset-0 left columns">
+                	<a class="dkButton" href="" onclick="return sbmForm(document.frmsearch);">
+                    	<img src="img/search_icon_white.png"/> Search
+                    </a>
+                </div>
+
+            </div>
+        </div>
+        </form>
+
+	
+	<div class="featured">
+		<div class="row">
+			
+			<div class="large-12 columns heading center" style="margin:15px 0">
+				<h2>Our most loved gifts</h2>
+				
+					<p class="indexPara">Handpicked from our huge assortment of gifts, these have been hugely popular among our patrons.</p>
+				
+			</div>
+			
+		</div>
+		<div class="row collapse">
+		<div class="swiper-container">
+		<div class="swiper-wrapper">
+
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=411">
+						
+								<img align="bottom" alt="Awesome Red" border="0" src="pictures/411.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Red Roses in Red Packing</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=411">Awesome Red</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 890 ($13.69) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 840 ($12.92)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="411"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(411,'Awesome Red');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=327">
+						
+								<img align="bottom" alt="Celebrations Forever" border="0" src="pictures/327.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Red Roses Arrangement </li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=327">Celebrations Forever</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 675 ($10.38) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 625 ($9.62)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="327"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(327,'Celebrations Forever');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=69">
+						
+								<img align="bottom" alt="Heartbeat" border="0" src="pictures/69.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">One Dozen Red Roses</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=69">Heartbeat</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 425 ($6.54) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 390 ($6.00)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="69"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(69,'Heartbeat');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=406">
+						
+								<img align="bottom" alt="Magical Spell" border="0" src="pictures/406.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">A Bunch of Blue Orchids</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=406">Magical Spell</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 800 ($12.31) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 750 ($11.54)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="406"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(406,'Magical Spell');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=99">
+						
+								<img align="bottom" alt="Black Forest Cake" border="0" src="pictures/99.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">One Kg Black Forest Cake</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=99">Black Forest Cake</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 950 ($14.62) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 890 ($13.69)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="99"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(99,'Black Forest Cake');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=119">
+						
+								<img align="bottom" alt="Hug Me Baby One More Time" border="0" src="pictures/119.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Teddy Bear Red</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=119">Hug Me Baby One More Time</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 445 ($6.85) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 395 ($6.08)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="119"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(119,'Hug Me Baby One More Time');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=113">
+						
+								<img align="bottom" alt="Ferrero Rocher 16 Pcs " border="0" src="pictures/113.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Ferrero Rocher 16 Pcs </li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=113">Ferrero Rocher 16 Pcs </a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 825 ($12.69) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 775 ($11.92)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="113"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(113,'Ferrero Rocher 16 Pcs ');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=168">
+						
+								<img align="bottom" alt="Kaju Barfi" border="0" src="pictures/168.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">One Kg Mixed Kaju Barfi</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=168">Kaju Barfi</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1250 ($19.23) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1190 ($18.31)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="168"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(168,'Kaju Barfi');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		</div>
+		<div class="swiper-button-next"></div>
+		<div class="swiper-button-prev"></div>
+		</div>
+		
+	</div>
+</div>
+
+	
+	<div class="featured">
+		<div class="row">
+			
+			<div class="large-12 columns heading center" style="margin:15px 0">
+				<h2>Our Most Loved Bunches</h2>
+				
+					<p class="indexPara">Choose from our best selling flower bunches for your loved one</p>
+				
+			</div>
+			
+		</div>
+		<div class="row collapse">
+		<div class="swiper-container">
+		<div class="swiper-wrapper">
+
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=297">
+						
+								<img align="bottom" alt="Love Posy" border="0" src="pictures/297.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">A Bunch of Red and White Roses</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=297">Love Posy</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 425 ($6.54) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 390 ($6.00)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="297"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(297,'Love Posy');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=330">
+						
+								<img align="bottom" alt="Perfect Happiness" border="0" src="pictures/330.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Bunch of White and Pink Roses</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=330">Perfect Happiness</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 425 ($6.54) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 390 ($6.00)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="330"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(330,'Perfect Happiness');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=131">
+						
+								<img align="bottom" alt="Sensation" border="0" src="pictures/131.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Ten Red Roses </li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=131">Sensation</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 390 ($6.00) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 370 ($5.69)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="131"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(131,'Sensation');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=331">
+						
+								<img align="bottom" alt="Yellow and Lime blooms " border="0" src="pictures/331.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">One Dozen Yellow Roses</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=331">Yellow and Lime blooms </a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 425 ($6.54) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 390 ($6.00)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="331"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(331,'Yellow and Lime blooms ');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=132">
+						
+								<img align="bottom" alt="Twenty...a plenty" border="0" src="pictures/132.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">A bunch of Red Roses</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=132">Twenty...a plenty</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 625 ($9.62) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 575 ($8.85)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="132"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(132,'Twenty...a plenty');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=30">
+						
+								<img align="bottom" alt="My Love" border="0" src="pictures/30.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Bunch of Pink Roses</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=30">My Love</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1350 ($20.77) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1290 ($19.85)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="30"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(30,'My Love');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=288">
+						
+								<img align="bottom" alt="Graceful Gesture" border="0" src="pictures/288.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">A bunch of Pink Roses</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=288">Graceful Gesture</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 950 ($14.62) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 875 ($13.46)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="288"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(288,'Graceful Gesture');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=667">
+						
+								<img align="bottom" alt="Tender Love" border="0" src="pictures/667.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Pink Roses in Paper Packing</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=667">Tender Love</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 475 ($7.31) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 425 ($6.54)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="667"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(667,'Tender Love');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		</div>
+		<div class="swiper-button-next"></div>
+		<div class="swiper-button-prev"></div>
+		</div>
+		
+		<div align="right" class="name"><a href="http://www.floraindia.com/category.cfm?cat=Flowers&amp;prodType=1">More Flower Bunches...</a>      </div>
+		
+	</div>
+</div>
+
+	
+	<div class="featured">
+		<div class="row">
+			
+			<div class="large-12 columns heading center" style="margin:15px 0">
+				<h2>Our Most Loved Arrangements</h2>
+				
+					<p class="indexPara">Choose from our best selling flower arrangements.</p>
+				
+			</div>
+			
+		</div>
+		<div class="row collapse">
+		<div class="swiper-container">
+		<div class="swiper-wrapper">
+
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=46">
+						
+								<img align="bottom" alt="Cute Love" border="0" src="pictures/46.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Handle basket of Dozen Roses and a Teddy </li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=46">Cute Love</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 690 ($10.62) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 640 ($9.85)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="46"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(46,'Cute Love');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=300">
+						
+								<img align="bottom" alt="Joyful Celebration" border="0" src="pictures/300.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Red and Yellow Roses in a Basket</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=300">Joyful Celebration</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 740 ($11.38) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 690 ($10.62)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="300"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(300,'Joyful Celebration');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=287">
+						
+								<img align="bottom" alt="Love Perfection" border="0" src="pictures/287.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Red Roses Basket</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=287">Love Perfection</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 775 ($11.92) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 725 ($11.15)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="287"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(287,'Love Perfection');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=410">
+						
+								<img align="bottom" alt="Simply Outstanding" border="0" src="pictures/410.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Red Roses in a Basket</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=410">Simply Outstanding</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 850 ($13.08) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 790 ($12.15)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="410"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(410,'Simply Outstanding');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=207">
+						
+								<img align="bottom" alt="Rising High" border="0" src="pictures/207.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Arrangement of Red Roses</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=207">Rising High</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 775 ($11.92) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 725 ($11.15)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="207"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(207,'Rising High');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=295">
+						
+								<img align="bottom" alt="Colorful Delight" border="0" src="pictures/295.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">An Arrangement of Mix Color Roses</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=295">Colorful Delight</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1390 ($21.38) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1325 ($20.38)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="295"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(295,'Colorful Delight');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=335">
+						
+								<img align="bottom" alt="Dazzling Beauty" border="0" src="pictures/335.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Asiatic Lilies and Roses in a Basket</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=335">Dazzling Beauty</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1650 ($25.38) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1590 ($24.46)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="335"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(335,'Dazzling Beauty');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=398">
+						
+								<img align="bottom" alt="Ravishing Beauty" border="0" src="pictures/398.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Roses &amp; Blue Orchids in a Basket</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=398">Ravishing Beauty</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1150 ($17.69) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1090 ($16.77)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="398"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(398,'Ravishing Beauty');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		</div>
+		<div class="swiper-button-next"></div>
+		<div class="swiper-button-prev"></div>
+		</div>
+		
+		<div align="right" class="name"><a href="http://www.floraindia.com/category.cfm?cat=Flowers&amp;prodType=2">More Flower Arrangements...</a>      </div>
+		
+	</div>
+</div>
+
+	
+	<div class="featured">
+		<div class="row">
+			
+			<div class="large-12 columns heading center" style="margin:15px 0">
+				<h2>Our Most Loved Cakes</h2>
+				
+					<p class="indexPara">Celebrate their special day by sending our best selling cakes.</p>
+				
+			</div>
+			
+		</div>
+		<div class="row collapse">
+		<div class="swiper-container">
+		<div class="swiper-wrapper">
+
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=99">
+						
+								<img align="bottom" alt="Black Forest Cake" border="0" src="pictures/99.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">One Kg Black Forest Cake</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=99">Black Forest Cake</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 950 ($14.62) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 890 ($13.69)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="99"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(99,'Black Forest Cake');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=95">
+						
+								<img align="bottom" alt="Pineapple Cake" border="0" src="pictures/95.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">One Kg Pineapple Cake </li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=95">Pineapple Cake</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 950 ($14.62) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 890 ($13.69)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="95"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(95,'Pineapple Cake');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=108">
+						
+								<img align="bottom" alt="Eggless Chocolate" border="0" src="pictures/108.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">One Kg Chocolate cake Eggless</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=108">Eggless Chocolate</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 990 ($15.23) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 940 ($14.46)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="108"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(108,'Eggless Chocolate');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=95">
+						
+								<img align="bottom" alt="Pineapple Cake" border="0" src="pictures/95.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">One Kg Pineapple Cake </li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=95">Pineapple Cake</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 950 ($14.62) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 890 ($13.69)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="95"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(95,'Pineapple Cake');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=106">
+						
+								<img align="bottom" alt="Chocolate Mini" border="0" src="pictures/106.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Half kg chocolate cake </li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=106">Chocolate Mini</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 625 ($9.62) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 575 ($8.85)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="106"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(106,'Chocolate Mini');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=105">
+						
+								<img align="bottom" alt="Strawberry Mini" border="0" src="pictures/105.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Half Kg Strawberry cake</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=105">Strawberry Mini</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 625 ($9.62) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 575 ($8.85)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="105"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(105,'Strawberry Mini');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=110">
+						
+								<img align="bottom" alt="Eggless Black Forest" border="0" src="pictures/110.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">One Kg Black Forest Cake Eggless</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=110">Eggless Black Forest</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 990 ($15.23) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 940 ($14.46)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="110"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(110,'Eggless Black Forest');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=104">
+						
+								<img align="bottom" alt="Black Forest Mini" border="0" src="pictures/104.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Half kg Black Forest cake</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=104">Black Forest Mini</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 625 ($9.62) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 575 ($8.85)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="104"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(104,'Black Forest Mini');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		</div>
+		<div class="swiper-button-next"></div>
+		<div class="swiper-button-prev"></div>
+		</div>
+		
+		<div align="right" class="name"><a href="http://www.floraindia.com/category.cfm?cat=Cakes&amp;prodType=4">More Best Selling Cakes...</a>      </div>
+		
+	</div>
+</div>
+
+	
+	<div class="featured">
+		<div class="row">
+			
+			<div class="large-12 columns heading center" style="margin:15px 0">
+				<h2>Gifting Ideas and Combos</h2>
+				
+					<p class="indexPara">Our flowers combos are popular gifting ideas for your loved ones.</p>
+				
+			</div>
+			
+		</div>
+		<div class="row collapse">
+		<div class="swiper-container">
+		<div class="swiper-wrapper">
+
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=557">
+						
+								<img align="bottom" alt="Love of Life + Black Forest Cake" border="0" src="pictures/557.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Red Roses Bunch with Black Forest Cake</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=557">Love of Life + Black Forest Cake</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1050 ($16.15) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1000 ($15.38)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="557"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(557,'Love of Life + Black Forest Cake');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=547">
+						
+								<img align="bottom" alt="Boundless Love + Chocolate Mini Cake" border="0" src="pictures/547.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Red Roses Basket With Chocolate Cake </li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=547">Boundless Love + Chocolate Mini Cake</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1200 ($18.46) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1150 ($17.69)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="547"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(547,'Boundless Love + Chocolate Mini Cake');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=549">
+						
+								<img align="bottom" alt="Joyful Celebration + Black Forest Cake" border="0" src="pictures/549.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Roses in a basket with Black Forest Cake</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=549">Joyful Celebration + Black Forest Cake</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1580 ($24.31) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1530 ($23.54)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="549"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(549,'Joyful Celebration + Black Forest Cake');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=560">
+						
+								<img align="bottom" alt="Celebrations Forever + Ferrero Rocher 16 Pcs " border="0" src="pictures/560.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Red roses basket with Ferrero Rocher</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=560">Celebrations Forever + Ferrero Rocher 16 Pcs </a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1400 ($21.54) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1350 ($20.77)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="560"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(560,'Celebrations Forever + Ferrero Rocher 16 Pcs ');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=610">
+						
+								<img align="bottom" alt="Love Expression + Cadbury Celebrations" border="0" src="pictures/610.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Red roses bunch with Cadbury Celebrations </li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=610">Love Expression + Cadbury Celebrations</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 800 ($12.31) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 760 ($11.69)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="610"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(610,'Love Expression + Cadbury Celebrations');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=566">
+						
+								<img align="bottom" alt="Magical Spell + Black Forest Cake" border="0" src="pictures/566.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Bunch of Orchids with Black Forest Cake  </li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=566">Magical Spell + Black Forest Cake</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1690 ($26.00) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1650 ($25.38)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="566"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(566,'Magical Spell + Black Forest Cake');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=567">
+						
+								<img align="bottom" alt="Magical Spell + Ferrero Rocher 16 Pcs " border="0" src="pictures/567.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Blue Orchids Bunch with Ferrero Rocher </li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=567">Magical Spell + Ferrero Rocher 16 Pcs </a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1525 ($23.46) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1475 ($22.69)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="567"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(567,'Magical Spell + Ferrero Rocher 16 Pcs ');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		<div class="swiper-slide">
+		<div class="">
+			<div class="product">
+				<ul>
+					<li class="image allease3">
+						<a href="details.cfm?PID=558">
+						
+								<img align="bottom" alt="Heartbeat + Teddy Bear + Black Forest Cake" border="0" src="pictures/558.jpg"/>
+						
+							<div class="details allease3">
+								<ul>
+									<li class="boldDetail">Red Roses Bunch with Teddy bear and Black Forest Cake</li>
+								</ul>
+							</div>
+						</a>
+					</li>
+
+					<li class="name"><a href="details.cfm?PID=558">Heartbeat + Teddy Bear + Black Forest Cake</a></li>
+
+					<li class="price">
+						<div class="reg-price">
+							<span class="tiny combohide"><img src="img/price_icon.png"/>Regular Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1215 ($18.69) </span>
+						</div>
+						<div class="combo-price combohide">
+							<span aria-haspopup="true" class="has-tip tip-top" data-tooltip="" title="Combo Price: When you buy 2 or more products, we give you the benefit of cost savings and apply this combo price."><span class="tiny"><img src="img/combo_icon.png"/>Combo Price</span>
+							<span class="pr"><i class="fa fa-inr"></i> 1160 ($17.85)</span></span>
+						</div>
+					</li>
+					
+					<li class="actions">
+						
+							<a class="buynow allease3" data-product-id="1" href="javascript:void(0);" id="558"><img class="allease3" src="img/buynow_icon.png"/>Buy Now</a>
+						
+							<a aria-haspopup="true" class="atc allease3" data-options="show_on:large" data-tooltip="" href="" onclick="return addProdToCart(558,'Heartbeat + Teddy Bear + Black Forest Cake');" title="Add to Cart"><img src="img/atc_icon.png"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</div>
+		
+		</div>
+		<div class="swiper-button-next"></div>
+		<div class="swiper-button-prev"></div>
+		</div>
+		
+		<div align="right" class="name"><a href="http://www.floraindia.com/category.cfm?cat=Gifting%20Ideas&amp;flower=Flowers%20and%20Cake">More Flowers and Cakes Combos...</a>      </div>
+		
+	</div>
+</div>
+
+        </div>
+	
+	
+      <div class="stats">
+        	<div class="row">
+            	<div class="large-4 columns">
+                	<div class=" stat stat-1">
+                        <div class="stat-left"></div>
+                        <div class="stat-right">
+                            <ul>
+                                <li class="title">It's wow or never</li>
+                                <li class="number">536,327</li>
+                                <li class="slug">fresh flowers delivered</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+	
+                <div class="large-4 columns">
+                	<div class=" stat stat-2">
+                        <div class="stat-left"></div>
+                        <div class="stat-right">
+                            <ul>
+                            <li class="title">Delivering Smiles</li>
+                                <li class="number">1,031,323</li>
+                                <li class="slug">gifts delivered</li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="large-4 columns">
+                	<div class=" stat stat-3">
+                        <div class="stat-left"></div>
+                        <div class="stat-right">
+                            <ul>
+                                <li class="title">A Name built on</li>
+                                
+								<li class="number">12 YEARS</li>
+                                <li class="slug">of trust and quality</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+
+        <div class="nicethings">
+        	<div class="row">
+            	<div class="large-6 columns nicethings-left">
+                	<h2>What sets us apart</h2>
+                    <hr class="seperator"/>
+                    <div class="row content1">
+                    	<div class="large-3 medium-3 small-12 columns"><img src="img/offer4.png"/></div>
+                        <div class="large-9 medium-9 small-12 columns"><h3>Understanding the ABC of Combos</h3>
+                        	<p>We have two prices for each item, Regular Price and Combo Price. Regular Price is applicable when there is one item in shopping cart. Combo price, which is lower price, is applicable on buying two or more items together making it a combo. Since we save on logistics when we deliver at same address, we share savings with you.</p>
+                            
+                        </div>
+                    </div>
+                    <div class="row content2">
+                    	<div class="large-3 medium-3 small-12 columns"><img src="img/offer3.png"/></div>
+                        <div class="large-9 medium-9 small-12 columns columns"><h3>100% Satisfaction Guaranteed</h3>
+                        	<p>We are passionate about delivering flowers and gifts that bring smiles. And we do everything possible to make sure your gift reaches recipient in time and in good condition. We give 100% satisfaction guarantee.</p>
+                            
+                        </div>
+                    </div>
+                    <div class="row content3">
+                    	<div class="large-3 medium-3 small-12 columns"><img src="img/offer2.png"/></div>
+                        <div class="large-9 medium-9 small-12 columns columns"><h3>Largest delivery network</h3>
+                        	<p>We have the largest delivery network for fresh flowers and cakes in India. <a href="../../citylist.cfm">Click here</a> to see list of our delivery cities.</p>
+                            
+                        </div>
+                    </div>
+                    <div class="row content4">
+                    	<div class="large-3 medium-3 small-12 columns"><img src="img/offer1.jpg"/></div>
+                        <div class="large-9 medium-9 small-12 columns columns"><h3>Hassle-Free Complaints Resolution</h3>
+                        	<p>Please email us at <a href="/cdn-cgi/l/email-protection#b6c5d3c4c0d3f6d0dad9c4d7dfd8d2dfd798d5d9db"><span class="__cf_email__" data-cfemail="4e3d2b3c382b0e2822213c2f27202a272f602d2123">[email protected]</span><script data-cfhash="f9e31" type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a> or speak to us on +91 93502.99802 or 93505.51301 between 8 AM and 11 PM IST. If you or the person who received your gift calls us with any sort of issue, we'll do everything possible to make it right. We strive for your smile. </p>
+                            
+                        </div>
+                    </div>
+                </div>
+
+
+  			  
+                <div class="large-6 columns nicethings-right">
+                	<h2>Nice things they say about us!</h2>
+                    <hr class="seperator"/>
+
+                    
+                    <div class="row">
+                        <div class="large-5 medium-5 small-8 small-offset-2 medium-offset-0 large-offset-0 columns">
+                            <ul>
+
+                               	<li>
+                                    Timely Delivery 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+
+                               	<li>
+                                    Freshness Quotient 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                               	<li>
+                                    Shape and Structure 
+                                    	<i class="fa fa-circle-o"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                               	<li>
+                                    Service 
+                                    	<i class="fa fa-circle-o"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                               	<li>
+                                    Assistance 
+                                    	<i class="fa fa-circle-o"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="large-7 medium-7 small-12 columns">
+                            <div class="testimonial">
+                            	Flowers were fresh , quick delivery. I will use your service again..
+                            </div>
+                            <div class="testimonial-by">
+                            	Bimal Shah
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="large-5 medium-5 small-8 small-offset-2 medium-offset-0 large-offset-0 columns">
+                            <ul>
+
+                               	<li>
+                                    Timely Delivery 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+
+                               	<li>
+                                    Freshness Quotient 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                               	<li>
+                                    Shape and Structure 
+                                    	<i class="fa fa-circle-o"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                               	<li>
+                                    Service 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                               	<li>
+                                    Assistance 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="large-7 medium-7 small-12 columns">
+                            <div class="testimonial">
+                            	It was not as beautiful as displayed in the web site..
+                            </div>
+                            <div class="testimonial-by">
+                            	P.S.Krishna Kumar
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="large-5 medium-5 small-8 small-offset-2 medium-offset-0 large-offset-0 columns">
+                            <ul>
+
+                               	<li>
+                                    Timely Delivery 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+
+                               	<li>
+                                    Freshness Quotient 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                               	<li>
+                                    Shape and Structure 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                               	<li>
+                                    Service 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                               	<li>
+                                    Assistance 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="large-7 medium-7 small-12 columns">
+                            <div class="testimonial">
+                            	You guys did really awesome job ..
+                            </div>
+                            <div class="testimonial-by">
+                            	Rajan Singh
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="large-5 medium-5 small-8 small-offset-2 medium-offset-0 large-offset-0 columns">
+                            <ul>
+
+                               	<li>
+                                    Timely Delivery 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+
+                               	<li>
+                                    Freshness Quotient 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                               	<li>
+                                    Shape and Structure 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                               	<li>
+                                    Service 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                               	<li>
+                                    Assistance 
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+                                    	<i class="fa fa-circle"></i>
+                                    
+
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="large-7 medium-7 small-12 columns">
+                            <div class="testimonial">
+                            	We were very happy with the quality of cake and flowers delivered. Thank you for the good service!.
+                            </div>
+                            <div class="testimonial-by">
+                            	Umesh and Navina
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+	
+		<div id="loadingmessage" style="display:none">
+		  <img src="img/loadingimage.gif"/>
+		</div>
+        
+<style>
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 150px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.closegift {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.closegift:hover,
+.closegift:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+</style>
+
+<div class="modal" id="giftModal">
+  <div class="modal-content">
+    <span class="closegift">x</span>
+	<p id="footerdesc"></p>
+  </div>
+</div>
+
+<script>
+	function jqfreemsg(id)
+	{
+	var modal = document.getElementById('giftModal');
+	var btn = document.getElementById("myBtn");
+	var span = document.getElementsByClassName("closegift")[0];
+	var desc = $('#Freegift'+id).html();
+	modal.style.display = "block";
+	$('#footerdesc').html(desc);
+	span.onclick = function() {
+		modal.style.display = "none";
+	}
+	window.onclick = function(event) {
+		if (event.target == modal) {
+			modal.style.display = "none";
+		}
+	}
+	}
+</script>
+
+<div class="contactinfo">
+    <div class="row">
+        <div class="large-5 columns large-offset-1">
+            Call us on +91 93502 99802, 93505 51301
+        </div>
+        <div class="large-6 columns no">
+            Email us at: <a class="__cf_email__" data-cfemail="e19284939784a1878d8e9380888f858880cf828e8c" href="/cdn-cgi/l/email-protection">[email protected]</a><script data-cfhash="f9e31" type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <div class="footer-inner">
+        <div class="row first">
+
+            <div class="large-3 medium-3 small-12 columns">
+                <h3>Account Info</h3>
+                <ul>
+                    <li><a href="editmemberinfo.cfm">Manage Your Account</a></li>
+                    <li><a href="track.cfm">Track Your Order</a></li>
+                    <li><a href="orddet.cfm">Order History</a></li>
+                    <li><a href="reminders.cfm">Reminders</a></li>
+                    <li><a href="address_book.cfm">Manage Saved Addresses</a></li>
+                    <li><a href="custom.cfm">Custom Made Orders</a></li>
+                </ul>
+            </div>
+            <div class="large-3 medium-3 small-12 columns">
+                <h3>Information, Help &amp; Services</h3>
+                <ul>
+                    <li><a href="delivery.cfm">Delivery Information</a></li>
+                    <li><a href="faq.cfm">FAQ</a></li>
+                    <li><a href="policy.cfm">Substitution Policy</a></li>
+                    <li><a href="terms.cfm">Terms and Conditions</a></li>
+
+                    <li><a href="corporate.cfm">Corporate Flowers</a></li>
+                    <li><a href="privacy.cfm">Privacy Policy</a></li>
+                </ul>
+            </div>
+
+            <div class="large-3 medium-3 small-12 columns">
+                <h3>About Us</h3>
+                <ul>
+                    <li><a href="about.cfm">About Us</a></li>
+                    
+                    <li><a href="contact.cfm">Contact Us</a></li>
+                    <li><a href="grievance.cfm">Grievance Cell</a></li>
+                    <li><a href="career.cfm">Career With Us</a></li>
+					<li><a href="flowercare.cfm">Flower Care Tips</a></li>
+                </ul>
+            </div>
+
+           <div class="large-3 medium-3 small-12 columns">
+                <h3>Flowers Delivery Cities</h3>
+                <ul>
+                    <li><a href="city/Delhi">Flower Delivery to Delhi</a></li>
+					<li><a href="city/Mumbai">Flower Delivery to Mumbai</a></li>
+					<li><a href="city/Bangalore">Flower Delivery to Bangalore</a></li>
+					<li><a href="city/Hyderabad">Flower Delivery to Hyderabad</a></li>
+					<li><a href="city/Chennai">Flower Delivery to Chennai</a></li>
+					<li><a href="city/Pune">Flower Delivery to Pune</a></li>
+					<li><a href="citylist.cfm">All Delivery Cities</a></li>
+                </ul>
+            </div>
+
+
+
+
+        </div>
+        <div class="row">
+            <div class="large-8 medium-6 columns copyright">
+               Â© Copyright CGS Pvt. Ltd. All Rights Reserved.
+            </div>
+            <div class="large-4 medium-6 columns cards">
+                <img src="img/cards.png"/>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+   
+
+
+<!-- Login Modal Window Code -->
+<div aria-hidden="true" aria-labelledby="modalTitle" class="reveal-modal medium" data-reveal="" id="loginModal" role="dialog">
+		
+
+    	<div class="row login">
+        	<div class="large-12 columns heading center">
+            	<h2>Log into floraindia.com &amp; a load of fun awaits you!</h2>
+			</div>
+            <div class="large-12 columns">
+                <ul class="social-login">
+                	<li><a href="login/processLogin.cfm?loginType=facebook"><img src="img/fb_connect.png"/></a></li>
+                    <li><a href="login/processLogin.cfm?loginType=google"><img src="img/gp_connect.png"/></a></li>
+					
+					<li><a href="login/processLogin.cfm?loginType=twitter"><img src="img/tw_connect.png"/></a></li>
+                </ul>
+            </div>
+        </div>
+        <hr class="seperator"/>
+
+
+        <div class="row login-form-div">
+        	<div class="large-5 columns large-offset-1">
+            	<div class="heading"><h3 style="text-align:left;">Login</h3></div>
+                <div class="login-form" id="frmLogin">
+                <form id="frmLoginNew" method="post" name="frmLogin" onsubmit="return _CF_checkfrmLogin(this)"><input id="action" name="action" type="hidden" value="checkout"/>
+
+                	<label for="username">Email Address</label>
+                	<input class="radius" id="txtuserid" name="txtuserid" placeholder="Email Address" type="text"/>
+                    <label for="password">Password</label>
+                    <input class="radius" id="txtpassword" name="txtpassword" placeholder="Password" type="password"/> <input class="button tiny radius" id="Login" name="Login" onclick="doLogin();" type="button" value="Login"/>
+
+                    <a class="forgotpassword" href="javaScript:return true;" onclick="forgot=window.open('forgotpwd.cfm','name','height=220,width=380,left=100, top=100,scrollbars=yes')">Forgot Password?</a>
+                </form>
+
+                </div>
+            </div>
+            <div class="large-5 columns">
+            	<div class="heading">
+            		<h3 style="text-align:left;">
+            		Registration
+            		</h3></div>
+                <div class="login-form">
+                	<form action="register.cfm" id="frmRegister" method="post" name="frmRegister" onsubmit="return _CF_checkfrmRegister(this)">
+
+                	<label for="username">First Name</label>
+                	<input class="radius" id="guestname" name="first_name" placeholder="What should I call you?" type="text"/>
+
+                    <label for="password">Email Address</label>
+                    <input class="radius" id="guestemail" name="email" placeholder="Where can I reach you?" type="text"/> <input class="button tiny radius right" id="register" name="register" type="submit" value="Continue"/> </form>
+
+                </div>
+            </div>
+            <div class="large-1 columns"></div>
+
+        </div>
+
+
+         <a aria-label="Close" class="close-reveal-modal" id="closelogin">×</a>
+ </div>
+<!-- End Login Modal -->
+
+<!-- Add-on Modal -->
+	<div aria-hidden="true" aria-labelledby="modalTitle" class="reveal-modal" data-reveal="" id="addonModal" role="dialog">
+
+                         <div class="row">
+                         	<div class="large-12 columns heading center">
+                                <h2>Awesome choice! This goes best with..</h2>
+                            </div>
+                                <div class="large-12 columns">
+                                    
+                                </div>
+
+                            </div>
+                          <a aria-label="Close" class="close-reveal-modal">×</a>
+                        </div>
+<!-- End Modal-->
+<style>
+	#s-model { max-width:800px; padding:50px 30px; top:10px !important;}
+	#s-model .numbers .columns { margin-bottom: 16px; }
+	#s-model .dkSelectDropdown { position: relative; top: 0px; marign-top: 0px; overflow-x:hidden; }
+</style>
+
+
+
+
+ <script type="text/javascript">
+ window.onload = function() {
+ window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+ d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+ _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+ $.src='//v2.zopim.com/?2yPV4q9hfGS99QOoW5tuG65VFPZNtOOE';z.t=+new Date;$.
+ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+ }
+ </script>
+ 
+
+
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script src="js/foundation/foundation.equalizer.js"></script>
+    <script src="js/vendor/fastclick.js"></script>
+    <script src="js/vendor/retina.min.js"></script>
+    <script src="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.min.js" type="text/javascript"></script>
+	<script src="js/jquery.bxslider.min.js" type="text/javascript"></script>
+    <script src="js/cycle2.js"></script>
+    <script src="unitegallery/js/unitegallery.min.js" type="text/javascript"></script>
+    <script src="unitegallery/themes/compact/ug-theme-compact.js" type="text/javascript"></script>
+    <script src="unitegallery/themes/carousel/ug-theme-carousel.js" type="text/javascript"></script>
+    <script src="js/vendor/perfect-scrollbar.jquery.js"></script>
+    <script src="js/dkFIFunctions.js"></script>
+	<script src="js/grids.js"></script>
+	<script src="js/swiper.min.js" type="text/javascript"></script> 
+	<script src="js/myFunction.js" type="text/javascript"></script> 
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0031/0201.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+
+$(function($) {
+		$('.equalHeight').responsiveEqualHeightGrid();
+		});
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7022986-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1040304115;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1040304115/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+
+<!-- Facebook Conversion Code for Valentine Facebook -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = 'https://connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6006487224556', {'value':'0.00','currency':'INR'}]);
+</script>
+<noscript><img alt="" height="1" src="https://www.facebook.com/tr?ev=6006487224556&amp;cd[value]=0.00&amp;cd[currency]=INR&amp;noscript=1" style="display:none" width="1"/></noscript> <div aria-hidden="true" aria-labelledby="modalTitle" class="reveal-modal" data-reveal="" id="product-modal" role="dialog">
+      <div id="product-modal-inner">
+      
+      </div>
+      <a aria-label="Close" class="close-reveal-modal">×</a>
+</div>
+  <script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+
+<style>
+	.heading p {max-width: none;}
+	.indexPara {max-width: 700px;}
+</style>
+</body></html>

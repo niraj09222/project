@@ -1,0 +1,1 @@
+{'online_presence': {'facebook.com': {'url': "https://www.facebook.com/dialog/oauth?client_id=445416572237884&amp;redirect_uri=http%3A%2F%2Fwww.kashmirvilla.com%2F&amp;state=1532b6431d4b0348832ebc84b20591c6&amp;scope=email%2C+user_birthday';/about/", 'short_description': '', 'long_description': '', 'company_overview': ''}}, 'site_url': 'http://kashmirvilla.com'}

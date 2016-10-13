@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>- Welcome to Pooja Florist - Wholesale Flowers and Supplies, Mumbai Florist, Pooja Florist, Flower Decoration, Online Floral Business, Car, Wedding, Mandap, Event, Lighting, Interior floral and Cloths, Stage, Toran</title>
+<meta content="Wholesale Flowers and Supplies, Mumbai Florist, Mauli Florist, Flower Decoration, Online Floral Business, Car, Wedding, Mandap, Event, Lighting, Interior floral and Cloths, Stage, Toran, mumbai, maharashtra, kolaba, culaba, suburban, india" name="Keywords"/>
+<meta content="Wholesale Flowers and Supplies, Mumbai Florist, Mauli Florist, Flower Decoration, Online Floral Business, Car, Wedding, Mandap, Event, Lighting, Interior floral and Cloths, Stage, Toran Supplies" name="description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="images//style.css" rel="stylesheet" type="text/css"/>
+<script language="javascript" type="text/javascript">
+<!--
+function MM_swapImgRestore() {
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() {
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) {
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() {
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+//-->
+</script>
+<style type="text/css">
+<!--
+.style1 {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #ff0066;
+}
+-->
+</style></head>
+<body bgcolor="#E5E5E5" marginheight="0" topmargin="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1000">
+  <tbody><tr>
+    <td background="images/bgr.jpg" colspan="2" height="300"><table border="0" cellpadding="0" cellspacing="0" width="1000">
+      <tbody><tr>
+        <td height="240"></td>
+      </tr>
+      <tr>
+        <td><table border="0" cellpadding="0" cellspacing="0" width="1000">
+          <tbody><tr>
+            <td height="40" width="160"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b1','','images/bghomed.jpg',1)"><img alt="" border="0" name="b1" onload="MM_preloadImages('images/bghomed.jpg')" src="images/bghome.jpg"/></a></td>
+            <td height="40" width="130"><a href="AboutUs.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b2','','images/bgaboutd.jpg',1)"><img alt="" border="0" name="b2" onload="MM_preloadImages('images/bgaboutd.jpg')" src="images/bgabout.jpg"/></a></td>
+            <td height="40" width="130"><a href="Category.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b3','','images/bgcatd.jpg',1)"><img alt="" border="0" name="b3" onload="MM_preloadImages('images/bgcatd.jpg')" src="images/bgcat.jpg"/></a></td>
+            <td height="40" width="130"><a href="Payment.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b4','','images/bgpayd.jpg',1)"><img alt="" border="0" name="b4" onload="MM_preloadImages('images/bgpayd.jpg')" src="images/bgpay.jpg"/></a></td>
+            <td height="40" width="130"><a href="ContactUs.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b5','','images/bgcontactd.jpg',1)"><img alt="" border="0" name="b5" onload="MM_preloadImages('images/bgcontactd.jpg')" src="images/bgcontact.jpg"/></a></td>
+            <td height="40" width="320"><img height="40" src="images/bgrest.jpg" width="320"/></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td height="20"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="20" valign="top"> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td valign="top" width="250"><table border="0" cellpadding="0" cellspacing="0" width="250">
+      <tbody><tr>
+        <td height="50" width="15"><img height="50" src="images/TL.jpg" width="15"/></td>
+        <td align="center" bgcolor="#CDCDCD" class="Head_Name" height="50" width="220">Categories</td>
+        <td height="50" width="15"><img height="50" src="images/TR.jpg" width="15"/></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD"></td>
+        <td bgcolor="#7C7C7C" height="2"></td>
+        <td background="images/RC.jpg"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD" width="15"> </td>
+        <td bgcolor="#CDCDCD" height="30" width="220"><a class="letter-nav" href="ift.php">Toran - Indian Flowers</a></td>
+        <td background="images/RC.jpg" width="15"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD"></td>
+        <td bgcolor="#7C7C7C" height="1"></td>
+        <td background="images/RC.jpg"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD" width="15"> </td>
+        <td bgcolor="#CDCDCD" height="30" width="220"><a class="letter-nav" href="cft.php">Toran - Cut Flowers</a></td>
+        <td background="images/RC.jpg" width="15"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD"></td>
+        <td bgcolor="#7C7C7C" height="1"></td>
+        <td background="images/RC.jpg"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD" width="15"> </td>
+        <td bgcolor="#CDCDCD" height="30" width="220"><a class="letter-nav" href="hsd.php">House Decoration</a></td>
+        <td background="images/RC.jpg" width="15"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD"></td>
+        <td bgcolor="#7C7C7C" height="1"></td>
+        <td background="images/RC.jpg"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD" width="15"> </td>
+        <td bgcolor="#CDCDCD" height="30" width="220"><a class="letter-nav" href="stg.php">Stage Decoration</a></td>
+        <td background="images/RC.jpg" width="15"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD"></td>
+        <td bgcolor="#7C7C7C" height="1"></td>
+        <td background="images/RC.jpg"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD" width="15"> </td>
+        <td bgcolor="#CDCDCD" height="30" width="220"><a class="letter-nav" href="sst.php">Special Stages</a></td>
+        <td background="images/RC.jpg" width="15"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD"></td>
+        <td bgcolor="#7C7C7C" height="1"></td>
+        <td background="images/RC.jpg"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD" width="15"> </td>
+        <td bgcolor="#CDCDCD" height="30" width="220"><a class="letter-nav" href="car.php">Car Decoration</a></td>
+        <td background="images/RC.jpg" width="15"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD"></td>
+        <td bgcolor="#7C7C7C" height="1"></td>
+        <td background="images/RC.jpg"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD" width="15"> </td>
+        <td bgcolor="#CDCDCD" height="30" width="220"><a class="letter-nav" href="bed.php">Bed Decoration</a></td>
+        <td background="images/RC.jpg" width="15"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD"></td>
+        <td bgcolor="#7C7C7C" height="1"></td>
+        <td background="images/RC.jpg"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD" width="15"> </td>
+        <td bgcolor="#CDCDCD" height="30" width="220"><a class="letter-nav" href="gar.php">Garlands</a></td>
+        <td background="images/RC.jpg" width="15"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD"></td>
+        <td bgcolor="#7C7C7C" height="1"></td>
+        <td background="images/RC.jpg"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD" width="15"> </td>
+        <td bgcolor="#CDCDCD" height="30" width="220"><a class="letter-nav" href="bqt.php">Bouquets</a></td>
+        <td background="images/RC.jpg" width="15"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD"></td>
+        <td bgcolor="#7C7C7C" height="1"></td>
+        <td background="images/RC.jpg"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD" width="15"> </td>
+        <td bgcolor="#CDCDCD" height="30" width="220"><a class="letter-nav" href="jew.php">Jwellery</a></td>
+        <td background="images/RC.jpg" width="15"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD"></td>
+        <td bgcolor="#7C7C7C" height="1"></td>
+        <td background="images/RC.jpg"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#CDCDCD" width="15"> </td>
+        <td bgcolor="#CDCDCD" height="30" width="220"><a class="letter-nav" href="gnp.php">Ganpati Decoration</a></td>
+        <td background="images/RC.jpg" width="15"></td>
+      </tr>
+      <tr>
+        <td height="20" width="15"><img height="20" src="images/BL.jpg" width="15"/></td>
+        <td background="images/BC.jpg" height="20" width="220"></td>
+        <td height="20" width="15"><img height="20" src="images/BR.jpg" width="15"/></td>
+      </tr>
+    </tbody></table></td>
+    <td valign="top" width="750"><table border="0" cellpadding="0" cellspacing="0" width="750">
+      <tbody><tr>
+        <td width="20"> </td>
+        <td height="250" width="730"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" height="250" width="730">
+          <param name="movie" value="images/bannr.swf"></param>
+          <param name="quality" value="high"></param>
+          <embed height="250" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="images/bannr.swf" type="application/x-shockwave-flash" width="730"></embed>
+        </object></td>
+        </tr>
+      <tr>
+        <td width="20"> </td>
+        <td height="90" style="font-family:Verdana; font-size:13px; " valign="top" width="730"><span style="font-family:Pristina; font-weight:bold; font-style:italic; font-size:28px; color:#FF0066">Welcome to the blooming world of Pooja Florists.</span><br/>
+		Mr. KAILAS BABAN PADWAL a florist by tradition and occupation started a small floral business in the city of life ‘Mumbai’ with designs having ideasof natural decorations. Years after years his business evolved as trust worthy, quality endowing and promising...........</td>
+        </tr>
+      <tr>
+        <td width="20"> </td>
+        <td align="right" width="730"><a class="letter-nav" href="AboutUs.html">Read More.....</a></td>
+        </tr>
+      <tr>
+        <td> </td>
+        <td align="center" height="50"><marquee behavior="alternate" scrollamount="2"><span class="style1">Contact : Mr. Pratik Padwal * 9833 704 424 *</span></marquee></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td height="20"> </td>
+  </tr>
+  <tr>
+    <td bgcolor="#CDCDCD" width="200"></td>
+    <td bgcolor="#CDCDCD" height="2" width="800"></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" height="50" style="font-family:Verdana; font-size:10px; color:#663300">Copyright 2011 | All Rights Reserved | Designed &amp; Developed By : <a class="sits-nav" href="http://www.shriitservices.com">Shri IT Services</a></td>
+  </tr>
+</tbody></table>
+<div style="position:absolute;filter:alpha(opacity=0);opacity:0.001;z-index:10;">                                        </div>
+
+
+</body></html><!--R–±ûKzO!©:Qú†ö;®e¼æK/ÃX’ÄzFÈ¢¿ÚL¹`DuçÖÎ)É&6�8SgÙJO]ypZÝ!`�ÁŒý2{t¦8.øþÆÝlR‡Ô9Ý³–SŸ(·ÙŒc¾5YØRNHQÅ>Ží	!³F
+ÐO†‹JÒqŒ;U‘·ÍÚøýE2µÂzèLÏžN8~ÅÔtþÍPŠØ@Ì
+Ð°€Kwë”ý²@›¬<†š÷«‚d±z•ÜS>MÉp�ÑTòéM'kw‹þ(a@þh?ò¢€*m²•y-î¨ÃK¢a~_ìíåA¾ ºD1yÕ;ý¡Š›b”üiN<ý�	u®�@€¯†É_’A8ŠT„9Õªp]�|Ôþ™FF‹Ó‚—}—	ˆS½>8ê¯$Q"ušƒëöá¨|¬~’€Z½	æÆ¶Ø�…i&ËÜvŠãÀnïgLƒ]
+ã)ÏÊY‚úªã%' Kj
+×]BH¯aÕ·&ÙŒ—ˆŸ&—#WOM‚ÔM@`@%h?…¦ä:\œÇô!†Y@ð±®µøG‹Â]÷Ún+¯4¥à€ÛÞ¶*9´'+ì9ª™ˆêü©"Df¢vh�ç½�R$¦úç½��ç½�
+ç½�¹oLÍ‹¬NàÊ½��ç½�-->

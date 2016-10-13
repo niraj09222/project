@@ -1,0 +1,2493 @@
+<html><head>
+ 
+
+<title>Send Flowers to India Cakes Flowers to India: Low Cost Delivery in India</title>
+ 
+<meta content="Sending Flowers to India, Flowers to India, Send Cakes to India, Send Cake to India, Send Sweets to India, Gifts, Diwali, Free Home Delivery in India, Send Flowers to India, Online Flowers to India, Flowers to India from USA, Flowers to India from UK, Flowers to India from Canada, Flowers to India from Australia, Send to India from USA, US, UK, Same Day Delivery, Online Flowers to India, Sending Flowers to India Same Day, Send Flower to India, Fresh Flowers to India, Flowers in India, Jewelry Gifts to India, Jewelry to India, Mithai to India, Haldirams Sweets to India, Sweets to India" name="Description"/>
+ 
+<meta content="Send, Flowers, Flower, Gifts, Gift, India, Cakes, Chocolates, Sweets, Online, Delivery, Florist, Florists, Flowers India, Flowers to India, Gifts to India, Express Delivery, Sending, Flower Bouquet, Shopping, Fruit Basket, Wedding Flowers, Red Roses, Valentine's Gift India, Valentines Flowers India, Valentine's Flowers, Valentine's Flowers to India." name="Keywords"/>
+ 
+<meta content="Send Flowers to India, Sending Flowers to India, Online Flowers to India, Online Flower Delivery in India, Valentine's, Valentines Flowers, Valentine's Flowers to India, Valentines Flowers to India." name="Classification"/>
+
+<meta content="en" http-equiv="Content-Language"/>
+<link href="http://www.indiaonlineflorists.com/" rel="canonical"/>
+<meta content="TjUpjEh8bMW1uUkT1dIn2Lylw74UwLPwrwIUdv_IzD0" name="google-site-verification"/>
+
+
+<link href="./includes/mainstyle2.css" rel="stylesheet" type="text/css"/>
+<link href="./includes/newof.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+  testExp = new RegExp('Android|webOS|iPhone|iPad|' +
+             'BlackBerry|Windows Phone|'  +
+             'Opera Mini|IEMobile|Mobile' , 
+            'i');
+  
+  if (testExp.test(navigator.userAgent))
+       window.location.href="http://m.indiaonlineflorists.com"
+         
+</script>
+
+<script language="javascript" runat="Server" type="text/javascript">
+
+cde=new Date();
+cd=new Date();
+cde1=cde.getUTCHours()
+abc=cde.getUTCMinutes()
+cde2=cd.getUTCDate()
+cde3=cde.getDate()
+</script>
+<script language="javascript" type="text/javascript">
+var cde
+function window_onload() {
+var request1= createRequestObject();
+var x = document.referrer;
+var pg=window.location.href;
+request1.open("GET", "http://www.indiaonlineflorists.com/includes/pagevisitindex.asp?id="+x+"&pg="+pg, false);
+request1.onreadystatechange = function()
+ {
+
+if(request1.readyState == 4)
+{
+if(request1.status == 200)
+ {
+
+}
+}
+}
+
+request1.send(null);
+if(cde3==cde2)
+{
+if (cde1==10 && abc>30)
+{
+da=cde.getDate()+1
+cde.setDate(da)
+}
+if (cde1>10){
+da=cde.getDate()+1
+cde.setDate(da)
+}
+}
+p=cde.getDate()
+if (p==1 || p==21 || p==31)
+{
+st2="st"
+}
+else if (p==2 || p== 22 )
+{
+st2="nd"
+}
+else if( p==3 || p==23)
+{
+st2="rd"
+}
+else
+{
+st2="th"
+}
+p1=cde.getMonth()
+if (p1==0)
+st1="January"
+if (p1==1)
+st1="February"
+if (p1==2)
+st1="March"
+if (p1==3)
+st1="April"
+if (p1==4)
+st1="May"
+if (p1==5)
+st1="June"
+if (p1==6)
+st1="July"
+if (p1==7)
+st1="August"
+if (p1==8)
+st1="September"
+if (p1==9)
+st1="October"
+if (p1==10)
+st1="November"
+if (p1==11)
+st1="December"
+//st="Still accepting Orders for delivery on "+" "+ p + st2 +" "+ st1 + "."
+st=""
+t1.innerText= st
+t1.style.color="#FF0000" 
+t1.style.fontWeight="bold"
+t1.style.fontFamily="arial"
+//m1.src="http://www.indiaonlineflorists.com/images/top_02.jpg"
+//m2.src="http://www.indiaonlineflorists.com/cakes.jpg"
+//m3.src="http://www.indiaonlineflorists.com/choco.jpg"
+//m4.src="http://www.indiaonlineflorists.com/ff1000.jpg"
+//m5.src="http://www.indiaonlineflorists.com/same_day.jpg"
+//m6.src="http://www.indiaonlineflorists.com/delivery.jpg"
+//m7.src="http://www.indiaonlineflorists.com/no.jpg"
+//m8.src="http://www.indiaonlineflorists.com/customer.jpg"
+m10.src="http://www.indiaonlineflorists.com/images/top_01.jpg"
+m11.src="http://www.indiaonlineflorists.com/images/top_05.jpg"
+m12.src="http://www.indiaonlineflorists.com/images/top_06.jpg"
+//m13.src="http://www.indiaonlineflorists.com/fresh.jpg"
+//m14.src="http://www.indiaonlineflorists.com/images/top_04.jpg"
+m15.src="http://www.indiaonlineflorists.com/images/FLH101.jpg"
+m16.src="http://www.indiaonlineflorists.com/images/black_forest.gif"
+m17.src="http://www.indiaonlineflorists.com/images/choc3.gif"
+m18.src="http://www.indiaonlineflorists.com/images/12.jpg"
+m19.src="http://www.indiaonlineflorists.com/images/FFHNUUN105.jpg"
+//m20.src="http://www.indiaonlineflorists.com/black_bag.gif"
+m21.src="http://www.indiaonlineflorists.com/Images/FLH572.jpg"
+m22.src="http://www.indiaonlineflorists.com/images/CSCSUUN298.jpg"
+
+
+
+}
+function citychange()
+  {
+  var pn="flowers_gifts_";
+  var slval=slcity.value;
+  if(slval!="")
+    {
+     var nval=pn+slval+".asp";
+     window.location.href=nval;
+    } 
+  else
+    {
+	alert('Please Select City');
+	}
+   	
+  }
+
+function hfdcpop()
+{
+st="http://www.hdfcbanksmartbuy.com/content.aspx?pgid=35711" 
+window.open(st ,"_blank", "toolbar=1,location=0,directories=1,status=1,menubar=1,scrollbars=1,resizable=yes,height=300,width=500,top=0,left=0");
+}
+function createRequestObject()
+{
+
+ var xmlhttp=false;
+ 
+
+ try
+ {
+
+  xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+ }
+ catch (e)
+ {
+  try 
+  {
+    xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+  } 
+  catch (E) 
+  {
+   xmlhttp = false;
+  }
+ }
+ if (!xmlhttp && typeof XMLHttpRequest!='undefined')
+ {
+  xmlhttp = new XMLHttpRequest();
+}
+ return xmlhttp;
+}
+
+
+
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80994312-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<style type="text/css">
+<!--
+.style3 {color: #0000FF}
+.style3:hover {color: #0000FF}
+-->
+</style>
+
+<style type="text/css">
+<!--
+body, ul, ol, li {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.dx{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:8pt; color:#009900; 
+
+font-weight:bold;}
+.fg{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:8pt; color:#FF0000; 
+
+font-weight:bold;}
+.tk{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:8pt; color:#FF9900; 
+
+font-weight:bold;}
+.ks{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:8pt; color:#3399CC; 
+
+font-weight:bold;}
+.top a{
+	background-color:#6699FF;
+	background-repeat: no-repeat;
+	height: 24px;
+	width:100%;
+	display:block;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	background-position:center;
+	font-size: 10pt;
+	font-weight: bold;
+	text-decoration:none;
+	line-height:24px;
+	
+}
+.top a:hover
+{background-color:#000099;
+text-decoration:none;
+
+}
+
+.dd{border:1px solid #abe6fc; padding:2px;}
+.top1{background:#abe6fc; font:bold 8pt Verdana; color:#f77453; text-align:center; height:10px;}
+.top1a{ background:url(images/top_01.jpg) no-repeat; width:216px; height:131px;}
+.top2{background:url(images/top_02.jpg) no-repeat; float:left; vertical-align:top; width:278px; height:65px; padding-top:66px; text-align:center; font:bold 8pt Geneva, Arial, Helvetica, sans-serif; color:#009900;}
+.top2a{ width:483px; float:right;}
+.rtxt{font:normal 8pt Geneva, Arial, Helvetica, sans-serif; color:#ff0000;}
+.gtxt{font:bold 8pt Geneva, Arial, Helvetica, sans-serif; color:#3399cc;}
+.testi{font:bold 8pt Geneva, Arial, Helvetica, sans-serif; color:#000000; text-align:left; padding-left:15px; padding-right:15px}
+.testi2{font:normal 8pt Geneva, Arial, Helvetica, sans-serif; color:#000000; text-align:left; padding-left:15px; padding-right:15px}
+.stxt{font:bold 8pt Geneva, Arial, Helvetica, sans-serif; color:#009900;}
+.stxt2{font:bold 8pt Geneva, Arial, Helvetica, sans-serif; color:#000000;}
+.stxt2{font:normal 8pt Geneva, Arial, Helvetica, sans-serif; color:#000000;}
+.sqr{list-style-type:square;}
+.style1 {font:bold 12px Arial; color: #000000; padding-left:15px; padding-right:15px}
+.style2 {font:normal 12px Arial; color: #000000; padding-left:15px; padding-right:15px}		
+.style2wr {font:normal 12px Arial; color: #000000; margin:0; padding:0;}	
+.occ_menu {font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:normal; text-align:center; text-decoration:none; color:#DA0303}
+.occ_menu:hover {font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-align:center; text-decoration:none; color:#DA0303}
+.occ_top {
+	color: #DA0303;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight:bold
+}
+.ab{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10pt; color:#FFFFCC;
+font-weight:bold;}
+#tab {border:#DA0303 1px solid;}
+.nf_txt {
+	FONT: 12px Arial; COLOR: #DA0303; TEXT-ALIGN: left; TEXT-DECORATION: underline
+}
+.nf_txt:hover {
+	FONT: 12px Arial; COLOR: #DA0303; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.nf_txt1 {
+	FONT: bold 12px Arial; COLOR: #DA0303; HEIGHT: 30px; TEXT-ALIGN: left; text-decoration:underline
+}
+.nf_txt2 {
+	FONT: 12px Arial; COLOR: #DA0303;HEIGHT: 15px; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.nf_txt2:hover {
+	FONT: 12px Arial; COLOR: #DA0303;HEIGHT: 15px; TEXT-ALIGN: left; TEXT-DECORATION: underline
+}
+A.leftm:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #da0303; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.leftm:hover {
+	COLOR: #da0303; TEXT-DECORATION: none;
+}
+A.leftm:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #da0303; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.stylewrup { color:#0000FF; text-decoration:underline;}
+-->
+ </style>
+<link href="includes/menucss.css" rel="stylesheet" type="text/css"/>
+<script src="includes/menujs.js" type="text/javascript"></script>
+
+<style type="text/css">
+.ab{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10pt; color:#FFFFCC;
+font-weight:bold;}
+.left a{
+	background-color:#FFFFFF;
+	background-repeat: no-repeat;
+	height: 19px;
+	width: 163px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#DA0303;
+	background-position:center;
+	font-size: 8pt;
+	font-weight: bold;
+	text-decoration:none;
+	line-height: 19px;
+}
+.left a:hover
+{background-color:#FFFFCC;
+text-decoration:none;
+
+}
+
+.nmenu{padding-left:6px; font:bold 11px Arial; color:#DA0303; text-decoration:none;}
+.nmenu:hover {padding-left:6px; font:normal 11px Arial; background-color:#FFFFCC; color:#FF6633;text-decoration:none;}
+
+.left2 a{
+	background-color:#FFFFFF;
+	background-repeat: no-repeat;
+	height: 19px;
+	width: 163px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#DA0303;
+	background-position:center;
+	font-size: 12px;
+	font-weight: normal;
+	text-decoration:none;
+	line-height: 19px;
+}
+.left2 a:hover
+{background-color:#FFFFCC;
+text-decoration:none;
+font-weight: bold;
+}
+
+.nmenu2{padding-left:6px; font:normal 12px Arial; color:#DA0303; text-decoration:none;}
+.nmenu2:hover {padding-left:6px; font:bold 12px Arial; background-color:#FFFFCC; color:#FF6633;text-decoration:none;}
+</style>
+
+
+<style type="text/css">
+<!--
+.ef {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:8pt; color:#990000; 
+
+font-weight:bold;}
+.gh {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10pt; color:#FF0000; 
+
+font-weight:bold;}
+.jk {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:8pt; color:#009900;
+font-weight:bold;}
+.jk2 {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:8pt; color:#000000;
+font-weight:normal;}
+.jk1 {font-family:Verdana; font-size:10px; color:#009900;}
+-->
+</style>
+<!--
+<link href="newof.css" rel="stylesheet" type="text/css" />
+-->
+<style type="text/css">
+<!--
+.add {font-family:arial;
+font-size:12px;
+font-weight:bold;
+color:#1d0aff;
+text-decoration:none;
+}
+.ntxt {
+    font-family:Arial;
+	font-size:10px;
+	text-align:left;
+	color:#009900;
+	text-decoration:none;	
+	}
+-->
+</style>
+</head> 
+
+<body language="javascript" onload="return window_onload()">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1004"><tbody><tr>
+  <td align="center" class="rtxt"><span style="font-size:14px">Flowers to India, Sending Flowers to India, Online Flowers to India</span></td>
+</tr></tbody></table> 
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="131" id="Table_01" width="1004">
+  <tbody><tr>
+    <td width="25%"><img alt="Send Gifts and Flowers to India" height="131" id="m10" name="m10" src="blank.jpg" width="206"/></td>
+    <td width="21%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td align="center" height="65" valign="top"><a href="http://www.indiaonlineflorists.com/"><img alt="Online Florists to India" border="0" src="images/top_02.jpg"/></a></td>
+      </tr>
+      <tr>
+        <td align="center" class="add" valign="top">At your service since 2001</td>
+      </tr>
+      <tr>
+        <td align="center" height="12" valign="top"></td>
+      </tr>
+      <tr>
+        <td align="center" class="rtxt">Gifts to and Flowers to India<br/>
+		Customer Service at <img alt="Send Gifts to India" border="0" src="phone_no.gif"/></td>
+      </tr>
+    </tbody></table></td>
+    <td width="4%"><img alt="" height="131" src="images/top_03.jpg" width="35"/></td>
+    <td width="15%">
+	<table align="center" border="0" cellpadding="0" cellspacing="0" height="80" width="100%">
+      
+      <tbody><tr>
+        <td rowspan="3" valign="top" width="4%"></td>
+        <td class="rtxt" valign="middle" width="96%">Same Day Delivery </td>
+      </tr>
+      <tr>
+        <td class="rtxt" valign="middle">Guaranteed Delivery </td>
+      </tr>
+      <tr>
+        <td class="rtxt" valign="middle">Free Home Delivery </td>
+      </tr>
+      
+    </tbody></table>
+	</td>
+    <td align="right" width="19%"><img alt="Flowers and Cakes to India Same Day" height="131" id="m11" name="m11" src="blank.jpg" width="176"/></td>
+    <td align="left" width="16%"><img alt="Gifts To India.Assured Delivery on Same day." height="131" id="m12" name="m12" src="blank.jpg" width="133"/></td>
+  </tr>
+</tbody></table>
+
+<table align="center" bgcolor="#6699FF" border="0" cellpadding="0" cellspacing="0" title="Send Flowers and Gifts to &lt;%=cityname%&gt;" width="1004">
+  <tbody><tr>
+    <td align="center" class="top" height="24"><a href="default.htm" title="Home">Home</a></td>
+    <td align="center" class="top" height="24"><a href="delivery_locations.asp" title="Shipping Info">Shipping Info</a></td>
+	<td align="center" class="top" height="24"><a href="payment.asp" title="Payment">Payment</a></td>
+    <td align="center" class="top" height="24"><a href="memberlogin.asp" title="Login">Login</a></td>
+	<td align="center" class="top" height="24"><a href="newmember.asp" title="Be a Member">Be a Member</a></td>
+    <td align="center" class="top" height="24"><a href="customer_mail.asp" title="Request a Gift">Request a Gift</a></td>
+    <td align="center" class="top" height="24"><a href="terms.asp" title="Terms">Terms</a></td>
+    <td align="center" class="top" height="24"><a href="memberlogin.asp" title="Order Status">Order Status</a></td>
+    <td align="center" class="top" height="24"><a href="shopping_cart.asp" title="Shopping Cart">Shopping Cart</a></td>
+    <td align="center" class="top" height="24"><a href="customer_mail.asp" title="Contact Us">Contact Us</a></td>
+  </tr>
+ 
+</tbody></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="jk" width="1004">
+    <tbody><tr>
+    <td height="1056" valign="top" width="19%"><table border="0" cellpadding="0" cellspacing="0" height="1049" width="100%">
+      <tbody><tr>
+        <td height="1049" valign="top">
+
+
+<table border="1" bordercolor="#DA0303" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td align="center" bgcolor="#DA0303" class="ab" colspan="2" height="21">ITEM LIST</td>
+  </tr> 
+  <!--<tr>
+     <td width="11%" height="18" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="89%" height="18" class="left2"><a href="ParentsDay_online.asp" title="Parents' Day Gifts"><font color="#0000FF"><font color="#FF0000">Parents' Day Gifts</font></font></a></td>
+  </tr> --> 
+  <!--<tr>
+        <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td width="71%" height="19" class="left2"><a href="holi_online.asp" title="Holi Gifts"><font color="#0000FF">Holi Gifts</font></a></td>
+      </tr> -->
+  <!--<tr>
+        <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td width="71%" height="19" class="left2"><a href="Thanksgiving_Day_gifts.asp" title="Thanksgiving Day Gifts"><font color="#0000FF">Thanksgiving Day Gifts</font></a></td>
+      </tr> -->
+  <!--<tr>
+        <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td width="71%" height="19" class="left2"><a href="karwachauth_online.asp" title="Karwa Chauth Gifts"><font color="#0000FF">Karwa Chauth Gifts</font></a></td>
+      </tr> -->     
+  <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="diwali_gifts_online.asp" title="Diwali Gifts to India"><font color="#0000FF">Diwali Gifts to India</font></a></td>
+      </tr>
+  <tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="diwali_gifts_online.asp?pcat=7&amp;pcid=21" title="Bhaidooj Gifts to India"><font color="#0000FF">Bhaidooj Gifts to India</font></a></td>
+      </tr>	     	
+  <tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="Diwali_Gifts_to_usa_online.asp" title="Diwali Gifts to USA"><font color="#0000FF">Diwali Gifts to USA</font></a></td>
+      </tr> 
+  	
+ <tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="Diwali_Gifts_to_uk_online.asp" title="Diwali Gifts to UK"><font color="#0000FF">Diwali Gifts to UK</font></a></td>
+      </tr>
+  	
+  <tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="Diwali_Gifts_to_canada_online.asp" title="Diwali Gifts to Canada"><font color="#0000FF">Diwali Gifts to Canada</font></a></td>
+      </tr>
+  <tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="Diwali_worldwide.asp" title="Diwali Gifts Worldwide"><font color="#0000FF">Diwali Gifts Worldwide</font></a></td>
+      </tr>	  -->
+	  
+	 <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="friendship_gifts_online.asp" title="Friendship Day Gifts"><font color="#FF0000">Friendship Day Gifts</font></a></td>
+      </tr> --> 	  
+	  <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="Eid-ul-fitr-Gifts-online.asp" title="Eid Gifts"><font color="#FF0000">Eid Gifts</font></a></td>
+      </tr> --> 
+   <!--<tr>
+        <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td width="71%" height="19" class="left2"><a href="rakhi_rakshabandhan_online.asp" title="Rakhi Gifts to India"><font color="#0000FF">Rakhi To India</font></a></td>
+      </tr> -->
+  <!--<tr>
+        <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td width="71%" height="19" class="left2"><a href="rakhi_sisters_online.asp" title="Return Gifts for Sisters"><font color="#FF0000">Return Gifts for Sisters</font></a></td>
+      </tr> -->
+  <!--<tr>
+        <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td width="71%" height="19" class="left2"><a href="rakhi_usa_product.asp" title="Rakhi Gifts to USA"><font color="#0000FF">Rakhi To USA</font></a></td>
+      </tr>
+  <tr>
+        <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td width="71%" height="19" class="left2"><a href="rakhi_Gifts_to_uk_online.asp" title="Rakhi Gifts to UK"><font color="#0000FF">Rakhi To UK</font></a></td>
+      </tr>
+  <tr>
+        <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td width="71%" height="19" class="left2"><a href="rakhi_Gifts_to_canada_online.asp" title="Rakhi Gifts to Canada"><font color="#0000FF">Rakhi To Canada</font></a></td>
+      </tr>
+	  <tr>
+        <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td width="71%" height="19" class="left2"><a href="rakhi_Gifts_to_australia_online.asp" title="Rakhi Gifts to Australia"><font color="#0000FF">Rakhi To Australia</font></a></td>
+      </tr> 
+	  <tr>
+        <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td width="71%" height="19" class="left2"><a href="rakhi_Gifts_to_newzealand_online.asp" title="Rakhi Gifts to New Zealand"><font color="#0000FF">Rakhi To New Zealand</font></a></td>
+      </tr>
+      <tr>
+        <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td width="71%" height="19" class="left2"><a href="rakhi_worldwide.asp" title="Rakhi Gifts Worldwide"><font color="#0000FF">Rakhi Worldwide</font></a></td>
+      </tr>  -->
+	  	  
+	 
+  	  	  
+	<tr>
+     <td align="center" height="19" width="29%"><img height="10" src="images/bullet.gif" width="10"/></td>
+     <td class="left2" height="19" width="71%"><a href="dusshera_gifts_online.asp" title="Dussehra Gifts"><font color="#0000FF">Dussehra Gifts</font></a></td>
+    </tr> 
+	  <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="bengali_new_year_online.asp" title="Bengali New Year / Tamil New Year / Baisakhi Gifts"><font color="#0000FF">Bengali New Year / Tamil New Year / Baisakhi Gifts</font></a></td>
+      </tr> -->
+	  
+	 <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="mothers_day_gifts_online.asp" title="Mothers Day Gifts"><font color="#0000FF">Mothers Day Gifts</font></a></td>
+      </tr>  -->
+	  <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="mothers_day_gifts_online_Express.asp" title="Mothers Day Express Gifts"><font color="#0000FF">Mothers Day Express Gifts</font></a></td>
+      </tr> -->    
+	  
+	  <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="mothers_day_gifts_online_uk.asp" title="UK Mothers Day Gifts"><font color="#0000FF">UK Mothers Day Gifts</font></a></td>
+      </tr> 
+	  <tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="Womens_Day_online.asp" title="Women’s Day Gifts"><font color="#0000FF">Women’s Day Gifts</font></a></td>
+      </tr> -->
+	  <!--<tr>
+     <td width="11%" height="18" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="89%" height="18" class="left2"><a href="ugadi_gifts_online.asp" title="Ugadi Gifts"><font color="#0000FF"><b>Ugadi Gifts</b></font></a></td>
+      </tr>  -->
+  	
+  <!--<tr>
+     <td width="11%" height="18" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="89%" height="18" class="left2"><a href="Gudi_Padwa_Gift.asp" title="Gudi Padwa Gifts"><font color="#0000FF"><b>Gudi Padwa Gifts</b></font></a></td>
+      </tr>   -->
+	  	    
+	 <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="fathers_day_gifts_online.asp" title="Fathers Day Gifts"><font color="#0000FF">Father's Day Gifts</font></a></td>
+      </tr>	 -->  
+	  <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="summer_collections_online.asp" title="Summer Collections"><strong><font color="#0000FF">Summer Collections</font></strong></a></td>
+      </tr> -->	  
+	   
+	  <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="Akshaya-Tritiya_gifts_online.asp" title="Akshaya Tritiya Gifts"><strong><font color="#0000FF">Akshaya Tritiya Gifts</font></strong></a></td>
+      </tr> -->
+	  <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="EasterGifts.asp" title="Easter Gifts"><strong><font color="#0000FF">Easter Gifts</font></strong></a></td>
+      </tr>  -->
+	 
+	<!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="Ganesh_online.asp" title="Ganesh Chaturthi"><font color="#0000FF">Ganesh Chaturthi</font></a></td>
+      </tr> 
+	  <tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="teachers_day_gifts.asp" title="Teachers Day Gifts"><font color="#0000FF">Teachers Day Gifts</font></a></td>
+      </tr>	   -->
+	  <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="onam_gifts_online.asp" title="Onam Gifts"><font color="#0000FF">Onam Gifts</font></a></td>
+      </tr> -->   
+	  <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="valentine_gifts_india_online.asp" title="Valentine's Day Gifts"><font color="#0000FF">Valentine's Day Gifts</font></a></td>
+      </tr>  -->
+	  
+	  <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="christmas_online.asp" title="Christmas Gifts"><font color="#0000FF">Christmas Gifts</font></a></td>
+      </tr> -->
+	  <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="pongal_online.asp" title="Pongal Gifts"><font color="#0000FF">Pongal Gifts</font></a></td>
+      </tr> -->
+	  <!--<tr>
+     <td width="29%" height="19" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+     <td width="71%" height="19" class="left2"><a href="Lohri_online.asp" title="Lohri Gifts"><font color="#0000FF">Lohri Gifts</font></a></td>
+      </tr> -->
+	    	   	 
+  <tr>
+     <td align="center" height="19" width="29%"><img height="10" src="images/bullet.gif" width="10"/></td>
+     <td class="left2" height="19" width="71%"><a href="sameday_online.asp" title="Same Day Delivery"><font color="#000000"> <strong>Same Day Delivery</strong></font></a></td>
+  </tr>
+   <tr>
+     <td align="center" height="19" width="29%"><img height="10" src="images/bullet.gif" width="10"/></td>
+     <td class="left2" height="19" width="71%"><a href="mid_night_delivery_online.asp" title="Mid Night Delivery"><font color="#000000"> Mid Night Delivery</font></a></td>
+
+  </tr>   
+      <tr>
+        <td align="center" height="19" width="29%"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="19" width="71%"><a href="flowers_online.asp" title=" Fresh Flowers">Fresh Flowers</a></td>
+      </tr>
+      <tr>
+        <td align="center" height="19" width="29%"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="19" width="71%"><a href="Special_online.asp" title="Premium Flowers">Premium Flowers</a></td>
+      </tr>
+	  <tr>
+        <td align="center" height="19" width="29%"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="19" width="71%"><a href="flowers_longlasting.asp" title="Long Lasting Flowers">Long Lasting Flowers</a></td>
+      </tr>
+      <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="Cakes_online.asp" title="Cakes">Cakes</a></td>
+      </tr>
+	  <tr>
+        <td align="center"> </td>
+		
+        <td class="nmenu2" height="18">
+
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+    <td width="95%"><a class="nmenu2" href="Cakes_online.asp?catid=510" title="Birthday Cake">Birthday Cake</a></td>
+  </tr>
+</tbody></table>
+
+		
+
+		</td>
+      </tr>
+
+	  <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="Cakes_online.asp?catid=501" title="Anniversary Cake">Anniversary Cake</a></td>
+			  </tr>
+
+			</tbody></table>		
+		</td>
+      </tr>
+	  <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+
+				<td width="95%"><a class="nmenu2" href="Cakes_online.asp?catid=500" title="Wedding Cake">Wedding Cake</a></td>
+			  </tr>
+			</tbody></table>
+
+		
+		</td>
+      </tr>
+	  <tr>
+        <td align="center"> </td>
+
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="Cakes_online.asp?catid=506" title="Kids cake">Kids Cake</a></td>
+			  </tr>
+			</tbody></table>
+
+		
+		</td>
+
+      </tr>
+	  <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="Cakes_online.asp?catid=505" title="Eggless Cake">Eggless Cake</a></td>
+
+			  </tr>
+			</tbody></table>
+
+		
+		</td>
+      </tr>
+	   <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="Cakes_online.asp?catid=512" title="Photo Cake">Photo Cake</a></td>
+
+			  </tr>
+			</tbody></table>
+
+		
+		</td>
+      </tr>
+	  <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="sweets_online.asp" title="Sweets">Sweets</a></td>
+      </tr>
+
+      <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="chocolates_online.asp" title="Chocolate Gifts">Chocolate Gifts </a></td>
+      </tr>
+           
+      <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="dry_fruits_online.asp" title="Dry Fruits">Dry Fruits</a></td>
+      </tr>
+
+      <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="fresh_fruits_online.asp" title="Fresh Fruits">Fresh Fruits</a></td>
+      </tr>
+	  <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="apparels_online.asp" title="Apparels">Apparel Gifts </a></td>
+      </tr>	
+       <tr>
+
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="ladies_apparels_online.asp" title="Ladies Apparels">Ladies</a></td>
+			  </tr>
+			</tbody></table>
+
+		
+      </td></tr>
+
+<tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="gents_apparels_online.asp" title="Gents Apparels">Gents</a></td>
+
+			  </tr>
+			</tbody></table>
+
+		</td>
+      </tr>
+ <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="kids_apparels_online.asp" title="Kids Apparels">Kids </a></td>
+			  </tr>
+			</tbody></table>
+
+		</td>
+      </tr>	 	   
+      <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="Bag-Backpack.asp" title="Bag n Back Pack Gifts">Bag n Back Pack Gifts</a></td>
+      </tr>
+	  <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="Books_gifts_online.asp" title="Books Gifts">Books Gifts</a></td>
+      </tr>
+	  <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="combo_gifts.asp" title="Combo Gifts">Combo Gifts</a></td>
+      </tr>	 
+       <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+
+        <td class="left2" height="18"><a href="cosmetics_online.asp" title="Cosmetics">Cosmetics</a></td>
+      </tr>	
+      <tr>
+        <td align="center"> </td>
+
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  
+				<tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="cosmetics_online.asp?catid=47" title="Gents Cosmetic">Gents </a></td>
+			  </tr>
+			  
+			</tbody></table>
+
+		</td>
+
+      </tr>		  
+       <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			<td width="95%"><a class="nmenu2" href="cosmetics_online.asp?catid=48" title="Ladies Cosmetic">Ladies </a></td>
+
+		  </tr>
+		</tbody></table>
+
+		</td>
+      </tr>
+      <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			<td width="95%"><a class="nmenu2" href="cosmetics_online.asp?catid=49" title="Baby Care">Baby Care</a></td>
+
+		  </tr>
+		</tbody></table>
+
+		</td>
+      </tr>
+	  
+	  <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+
+        <td class="left2" height="18"><a href="Perfumes_online.asp" title="Perfumes">Perfumes</a></td>
+      </tr>
+	  
+	  <tr>
+        <td align="center"> </td>
+
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  
+				<tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="Perfumes_online.asp?catid=310" title="Gents Perfumes">Gents </a></td>
+			  </tr>
+			  
+			</tbody></table>
+
+		</td>
+
+      </tr>
+	  <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			<td width="95%"><a class="nmenu2" href="Perfumes_online.asp?catid=311" title="Ladies Perfumes">Ladies </a></td>
+
+		  </tr>
+		</tbody></table>
+
+		</td>
+      </tr>
+	  <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			<td width="95%"><a class="nmenu2" href="Perfumes_online.asp?catid=312" title="Kids Perfumes">Kids</a></td>
+
+		  </tr>
+		</tbody></table>
+
+		</td>
+      </tr>
+	  
+	 <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18">
+	<a href="Electronics_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m1',event)" title="Electronic Giftss">Electronic Gifts </a>
+
+			
+   	    <ul id="sddm">
+	    <li>
+		<div id="m1" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="margin-left:75px; margin-top:-14px;">
+		<a href="Electronics_online.asp?catid=178" title="Cameras">Cameras</a><br/> 
+		<a href="Electronics_online.asp?catid=179" title="CD/DVDPlayers">CD/DVD Players</a><br/>
+		<a href="Electronics_online.asp?catid=185" title="IPod / IPad &amp; Tablets">IPod / IPad &amp; Tablets</a><br/>
+		<a href="Electronics_online.asp?catid=183" title="Other Electronics Gifts">Other</a></div>
+
+	    </li>
+	    </ul>		
+		
+	  </td>
+      </tr> 
+	   <!--<tr>
+        <td align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="gift_dinner_online.asp" title="Gift a Dinner">Gift a Dinner</a></td>
+      </tr>	   -->
+		 <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="#" title="Gift Vouchers">Gift Vouchers</a></td>
+      </tr>   
+	  <!--<tr>
+<td align="center"> </td>
+<td height="18"><a href="BigFlix_Gift_Coupons.asp" class="nmenu" title="BigFlix DVD Rental Gift Vouchers">&hellip;BigFlix DVD Rental</a></td>
+</tr> -->
+
+ <tr>
+
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			<td width="95%"><a class="nmenu2" href="cafe_coffee_day.asp" title="Cafe Coffee Day Gift Vouchers">Cafe Coffee Day</a></td>
+		  </tr>
+
+		</tbody></table>
+		</td>
+      </tr>
+	   <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			    <td width="95%"><a class="nmenu2" href="Pizza_online.asp" title="Dominos Pizza Gift Vouchers">Dominos Pizza </a></td>
+			  </tr>
+			</tbody></table>
+		</td>
+      </tr>
+	  
+   <tr>
+        <td align="center"> </td>
+
+     <td class="nmenu2" height="18">
+	 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			<td width="95%"><a class="nmenu2" href="mainland_china_online.asp" title="Mainland China Gift Vouchers">Mainland China </a></td>
+		  </tr>
+		</tbody></table>
+	 </td>
+
+      </tr>
+	  <tr>
+        <td align="center"> </td>
+
+     <td class="nmenu2" height="18">
+	 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			<td width="95%"><a class="nmenu2" href="oh_Calcutta_online.asp" title="Oh Calcutta Gift Vouchers">Oh Calcutta </a></td>
+		  </tr>
+		</tbody></table>
+	 </td>
+
+      </tr>
+       <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			    <td width="95%"><a class="nmenu2" href="Pantaloon_Online.asp" title="Pantaloons Gift Vouchers">Pantaloons </a></td>
+
+			  </tr>
+			</tbody></table>
+		</td>
+      </tr>
+<tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			    <td width="95%"><a class="nmenu2" href="Pizza_hut_online.asp" title="Pizza Hut Gift Vouchers">Pizza Hut </a></td>
+
+			  </tr>
+			</tbody></table>
+		</td>
+      </tr>
+	 <!-- <tr>
+        <td align="center"> </td>
+        <td height="18" class="nmenu2">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="5%"><img src="images/bul_2.gif" width="4" height="4"></td>
+			    <td width="95%"><a href="KFC_online.asp" class="nmenu2" title="KFC Gift Vouchers">KFC</a></td>
+
+			  </tr>
+			</table>
+		</td>
+      </tr> -->
+<tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			    <td width="95%"><a class="nmenu2" href="Raymond_Online.asp" title="Raymond's Gift Vouchers">Raymond's</a></td>
+			  </tr>
+			</tbody></table>
+		</td>
+      </tr>
+ <tr>
+
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			    <td width="95%"><a class="nmenu2" href="shopperstop_online.asp" title="Shoppers Stop Gift Vouchers">Shoppers Stop </a></td>
+			  </tr>
+			</tbody></table>
+
+		</td>
+      </tr>	  
+	  <!--<tr>
+        <td align="center"> </td>
+        <td height="18" class="nmenu2">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="5%"><img src="images/bul_2.gif" width="4" height="4"></td>
+
+			    <td width="95%"><a href="itc_online.asp" title="ITC Vouchers" class="nmenu2">ITC</a></td>
+			  </tr>
+			</table>
+		</td>
+      </tr> -->	
+	  <tr>
+ 
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="handicrafts_online.asp" title="Handicraft Gifts">Handicraft Gifts</a></td>
+      </tr>
+     <!--<tr>
+        <td align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="handicrafts_online.asp" title="Handicraft Gifts">Handicraft Gifts</a></td>
+
+      </tr> 
+      <tr>
+        <td align="center"> </td>
+        <td height="18" class="nmenu2">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="5%"><img src="images/bul_2.gif" width="4" height="4"></td>
+			    <td width="95%"><a href="handicrafts_online.asp?catid=40" class="nmenu2" title="Crystal Gifts">Crystal Gifts</a></td>
+
+			  </tr>
+			</table>
+		</td>
+      </tr>
+
+<tr>
+        <td align="center"> </td>
+        <td height="18" class="nmenu2">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+			  <tr>
+				<td width="5%"><img src="images/bul_2.gif" width="4" height="4"></td>
+			    <td width="95%"><a href="handicrafts_online.asp?catid=41" class="nmenu2" title="Handicraft">Handicraft</a></td>
+			  </tr>
+			</table>
+		</td>
+      </tr>
+
+
+ <tr>
+        <td align="center"> </td>
+        <td height="18" class="nmenu2">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+			<td width="5%"><img src="images/bul_2.gif" width="4" height="4"></td>
+			<td width="95%"><a href="handicrafts_online.asp?catid=42" class="nmenu2" title="Photo Frame">Photo Frame</a></td>
+		  </tr>
+
+		</table>
+		</td>
+      </tr>
+	   <tr>
+        <td align="center"> </td>
+        <td height="18" class="nmenu2">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+
+				<td width="5%"><img src="images/bul_2.gif" width="4" height="4"></td>
+			    <td width="95%"><a href="handicrafts_online.asp?catid=43" class="nmenu2" title="Vases & Coffee Mugs">Vases & Coffee Mugs</a></td>
+			  </tr>
+			</table>
+		</td>
+      </tr>
+	   <tr>
+        <td align="center"> </td>
+        <td height="18" class="nmenu2">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="5%"><img src="images/bul_2.gif" width="4" height="4"></td>
+			    <td width="95%"><a href="handicrafts_online.asp?catid=44" class="nmenu2" title="Table Clocks">Table Clocks</a></td>
+			  </tr>
+			</table>
+		</td>
+      </tr>
+	   <tr>
+        <td align="center"> </td>
+        <td height="18" class="nmenu2">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="5%"><img src="images/bul_2.gif" width="4" height="4"></td>
+			    <td width="95%"><a href="handicrafts_online.asp?catid=45" class="nmenu2" title="Gift Items">Gift Items</a></td>
+			  </tr>
+			</table>
+		</td>
+      </tr>
+	   <tr>
+        <td align="center"> </td>
+        <td height="18" class="nmenu2">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="5%"><img src="images/bul_2.gif" width="4" height="4"></td>
+			    <td width="95%"><a href="handicrafts_online.asp?catid=46" class="nmenu2" title="Showpiece">Showpiece</a></td>
+			  </tr>
+			</table>
+		</td>
+      </tr>
+	   <tr>
+        <td align="center"> </td>
+        <td height="18" class="nmenu2">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="5%"><img src="images/bul_2.gif" width="4" height="4"></td>
+			    <td width="95%"><a href="handicrafts_online.asp?catid=56" class="nmenu2" title="Feng Shui">Feng Shui</a></td>
+			  </tr>
+			</table>
+		</td>
+      </tr>-->
+	  	  
+	  <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="Home Appliances_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m2',event)" title="Home Appliances">Home Appliances</a>
+		<ul id="sddm">
+	    <li>
+		<div id="m2" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="margin-left:120px; margin-top:-14px;">		
+		<a href="Home Appliances_online.asp?catid=151" title="Aircoolers">Aircoolers</a><br/>
+		<!--<A href="Home Appliances_online.asp?catid=152" title="Dishwasher">Dishwasher</A><br> 
+		<A href="Home Appliances_online.asp?catid=153" title="Invertor">Invertor</A><br> -->
+		<a href="Home Appliances_online.asp?catid=154" title="Irons">Irons</a><br/>
+        <a href="Mobilephone_online.asp" title="Mobile Phones">Mobile Phones</a><br/>		
+		<a href="Home Appliances_online.asp?catid=157" title="Room Heaters">Room Heaters</a><br/>		
+		<a href="Home Appliances_online.asp?catid=159" title="TV">TV</a><br/>
+		<a href="Home Appliances_online.asp?catid=160" title="Vaccume Cleaner">Vaccume Cleaner</a><br/>		
+		<a href="Home Appliances_online.asp?catid=162" title="Water Heaters">Water Heaters</a><br/>
+		<a href="Home Appliances_online.asp?catid=163" title="Water Purifiers">Water Purifiers</a><br/>
+		<a href="Home Appliances_online.asp?catid=164" title="Other Essentials">Other Essentials</a>
+		</div>
+	    </li>
+	    </ul>		
+		</td>
+      </tr> 
+	  <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="healthnfitness_online.asp" title="Health &amp; Care">Health &amp; Care</a></td>
+      </tr> 
+          <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="jewellery_online.asp">Jewellery Gifts</a></td>
+
+      </tr>
+	         <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			    <td width="95%"><a class="nmenu2" href="jewellery_online.asp?catid=51" title="Fashion Jewellery">Fashion</a></td>
+
+			  </tr>
+			</tbody></table>
+		</td>
+      </tr>
+        <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			    <td width="95%"><a class="nmenu2" href="jewellery_online.asp?catid=52" title="Gold / Diamond Jewellery">Gold / Diamond</a></td>
+			  </tr>
+			</tbody></table>
+		</td>
+      </tr>	
+	   <tr>
+        <td align="center"> </td>
+
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			    <td width="95%"><a class="nmenu2" href="jewellery_online.asp?catid=53" title="Pearl Jewellery">Pearl</a></td>
+			  </tr>
+			</tbody></table>
+		</td>
+      </tr>	
+	  <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="kidsbag_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m3',event)" title="Kids School Bag / Backpack">Kids School Bag / Backpack</a>
+		<ul id="sddm">
+	    <li>
+		<div id="m3" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="margin-left:103px; margin-top:-14px;">
+		<a href="kidsbag_online.asp?catid=220" title="Hannah Montana School Bags">Hannah Montana School Bags</a><br/>
+		<a href="kidsbag_online.asp?catid=221" title="Dinsey Pixar School Bags">Dinsey Pixar School Bags</a><br/>
+		<a href="kidsbag_online.asp?catid=222" title="Jungle Book School Bag">Jungle Book School Bag</a><br/>
+		<a href="kidsbag_online.asp?catid=223" title="Noddy School Bag">Noddy School Bag</a><br/>
+		<a href="kidsbag_online.asp?catid=224" title="Simba School Bag">Simba School Bag</a><br/>
+		<a href="kidsbag_online.asp?catid=225" title="Starx School Bag">Starx School Bag</a>
+		</div>
+	    </li>
+	    </ul>		
+		
+		</td>
+      </tr>
+	  <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="kids_cycle.asp" title="Kids Cycles &amp; Perambulators">Kids Cycles &amp; Perambulators</a></td>
+      </tr>	
+          <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="kids_stationery_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m4',event)" title="Kids Stationery">Kids Stationery</a>
+		<ul id="sddm">
+	    <li>
+		<div id="m4" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="margin-left:103px; margin-top:-14px;">
+		<a href="kids_stationery_online.asp?catid=31" title="Disney Winnie the Pooh">Disney Winnie the Pooh</a><br/>
+		<a href="kids_stationery_online.asp?catid=32" title="CN Ben 10">CN Ben 10</a><br/>
+		<a href="kids_stationery_online.asp?catid=33" title="Disney Hannah Montana">Disney Hannah Montana</a><br/>
+		<a href="kids_stationery_online.asp?catid=34" title="Disney Pixar Car">Disney Pixar Car</a><br/>
+		<a href="kids_stationery_online.asp?catid=35" title="Disney Princess">Disney Princess</a><br/>
+		<a href="kids_stationery_online.asp?catid=36" title="Disney Mickey Mouse">Disney Mickey Mouse</a>
+		</div>
+	    </li>
+	    </ul>		
+		
+		</td>
+      </tr>	 
+
+
+<!--	  <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="kids_stationery_online.asp?catid=32" class="nmenu" title="CN Ben 10">&hellip; CN Ben 10</a></td>
+	    </tr>
+	  <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="kids_stationery_online.asp?catid=33" class="nmenu" title="Disney Hannah Montana">&hellip; Disney Hannah Montana</a></td>
+	    </tr>
+	  <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="kids_stationery_online.asp?catid=36" class="nmenu" title="Disney Mickey Mouse">&hellip; Disney Mickey Mouse</a></td>
+	    </tr>		
+	  <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="kids_stationery_online.asp?catid=34" class="nmenu" title="Disney Pixar Car">&hellip; Disney Pixar Car</a></td>
+	    </tr>
+	  <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="kids_stationery_online.asp?catid=35" class="nmenu" title="Disney Princess">&hellip; Disney Princess</a></td>
+	    </tr>		
+
+	  <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="kids_stationery_online.asp?catid=31" class="nmenu" title="Disney Winnie the Pooh">&hellip; Disney Winnie the Pooh</a></td>
+	    </tr> -->																	   	 
+	  <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="Kitchen Wares_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m5',event)" title="Kitchen Appliances">Kitchen Appliances</a>		
+   	<ul id="sddm">
+	    <li>
+		<div id="m5" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="margin-left:126px; margin-top:-14px;">
+		<a href="Kitchen Wares_online.asp?catid=189" title="Coffee Maker">Coffee Maker</a><br/>
+		<a href="Kitchen Wares_online.asp?catid=188" title="Electric Kettle">Electric Kettle</a><br/>
+		<a href="Kitchen Wares_online.asp?catid=186" title="Food Processor">Food Processor</a><br/>
+		<a href="Kitchen Wares_online.asp?catid=167" title="Hand Blender">Hand Blender</a><br/>
+		<a href="Kitchen Wares_online.asp?catid=187" title="Induction Cooker">Induction Cooker</a><br/>
+		<a href="Kitchen Wares_online.asp?catid=169" title="Juicers, Mixers &amp; Grinders">Juicers, Mixers &amp; Grinders</a><br/>
+		<a href="Kitchen Wares_online.asp?catid=168" title="Microwave Ovens">Microwave Ovens</a><br/>
+		<a href="Kitchen Wares_online.asp?catid=170" title="Non-Stic Cookware">Non-Stic Cookware</a><br/>
+		<a href="Kitchen Wares_online.asp?catid=165" title="Rice Cooker">Rice Cooker</a><br/>
+		<a href="Kitchen Wares_online.asp?catid=171" title="Tea n Coffee Sets">Tea n Coffee Sets</a><br/>
+		<a href="Kitchen Wares_online.asp?catid=172" title="Toasters &amp; Grillers">Toasters &amp; Grillers</a><br/>
+		<a href="Kitchen Wares_online.asp?catid=174" title="Other Essentials">Other Essentials</a><br/>
+		</div>
+	    </li>
+	    </ul>		
+		</td>
+
+      </tr> 	   	  	        
+      <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="leather_bags_online.asp" title="Leather Items">Leather Gifts Items</a></td>
+      </tr>
+       <tr>
+        <td align="center"> </td>
+	   <td class="nmenu2" height="18">
+
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+			<td width="95%"><a class="nmenu2" href="leather_bags_online.asp?catid=54" title="Gents Leather Item">Gents</a></td>
+		  </tr>
+		</tbody></table>	
+	   </td>
+      </tr>	  
+      <tr>
+
+          <td align="center"> </td>
+		  <td class="nmenu2" height="18">
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				  <tbody><tr>
+					<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+					<td width="95%"><a class="nmenu2" href="leather_bags_online.asp?catid=55" title="Ladies Leather Item">Ladies</a></td>
+				  </tr>
+				</tbody></table>
+
+		  </td>
+      </tr>
+  
+<!--	  <tr>
+        <td align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="Mobilephone_online.asp" title="Mobile Phones">Mobile Phones</a></td>
+      </tr>	 -->
+	  <tr>
+	<td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="OfficeStationary_online.asp" title="Office Stationary">Office Stationary</a></td>
+      </tr>
+	  <tr>
+	    <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="Mobilephone_online.asp" title="Mobile Phones">Mobile Phones</a></td>
+      </tr>
+	  <tr>
+	    <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="new_born_online.asp" title="New Born Gifts">New Born Gifts</a></td>
+      </tr>
+       <!--<tr>
+        <td align="center"> </td>
+   <td height="18"><a href="OfficeStationary_online.asp?catid=111" class="nmenu" title="Leather Talks">&hellip;Leather Talks</a></td>
+      </tr>	  
+      <tr>
+        <td align="center"> </td>
+  <td height="18"><a href="OfficeStationary_online.asp?catid=112" class="nmenu" title="Vaunt">&hellip;Vaunt</a></td>
+	</tr> -->
+	<tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="Premium_Gifts_online.asp" title="Premium Gifts">Premium Gifts</a></td>
+      </tr>
+      <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="puja_items.asp" title="Puja Items">Puja Gifts Items</a></td>
+      </tr>	
+	  <tr>
+ 
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="showpiece_online.asp" title="Showpiece Gifts">Showpiece Gifts</a></td>
+      </tr>
+     <tr>
+
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="SunGlass_online.asp" title="Sun Glasses">Sun Glasses</a></td>
+      </tr>	
+	  <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="Toys and Games_online.asp" title="Toys &amp; Games">Toys &amp; Games</a></td>
+      </tr>
+
+	   <tr>
+	    <td align="center"> </td>
+	      <td class="nmenu2" height="18">
+			 <table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="Dolls.asp" title="Dolls">Dolls</a></td>
+			  </tr>
+
+			</tbody></table>
+	     </td>
+	    </tr>	
+	  <tr>
+	    <td align="center"> </td>
+	     <td class="nmenu2" height="18">
+			 <table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+
+				<td width="95%"> <a class="nmenu2" href="Soft_Toys.asp" title="Soft Toys"> Soft Toys</a></td>
+			  </tr>
+			</tbody></table>
+		</td>
+	    </tr>		
+	  <tr>
+	    <td align="center"> </td>
+
+	    <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"> <a class="nmenu2" href="Funskool_Games.asp" title="Funskool Games">Funskool Games</a></td>
+			  </tr>
+			</tbody></table>
+		</td>
+
+	    </tr>
+         <tr>
+	    <td align="center"> </td>
+	     <td class="nmenu2" height="18">
+		 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="Electronic_Toys.asp" title="Electronic Toys">Electronic Toys</a></td>
+
+			  </tr>
+			</tbody></table>
+		 </td>
+	    </tr>		
+<!--	  <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="Strategy_Games.asp" class="nmenu" title="Strategy Games">&hellip; Strategy Games</a></td>
+	    </tr>
+	  <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="Board_Games.asp" class="nmenu" title="Board Games">&hellip; Board Games</a></td>
+	    </tr>
+	 	  <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="kids_stationery.asp" class="nmenu" title="Kids Stationery">&hellip; Kids Stationery</a></td>
+	    </tr> -->	
+
+	<!--	
+		<tr>
+	    <td align="center"> </td>
+	     <td height="18" class="nmenu2">
+		 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="5%"></td>
+				<td width="95%"><a href="Bicycles_Perambulators.asp" class="nmenu2" title="Bicycles & Perambulators">Perambulators</a></td>
+			  </tr>
+			</table>
+		 </td>
+	    </tr>
+		-->
+	  <tr>
+	    <td align="center"> </td>
+	     <td class="nmenu2" height="18">
+		 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="others_Games.asp" title="All Other Games">Other Games</a></td>
+
+			  </tr>
+			</tbody></table>
+		 </td>
+	    </tr>
+
+
+
+	  <tr>
+	    <!--<td align="center"> </td>
+	     <td height="18"><a href="Soft_Toys.asp" class="nmenu">&hellip; Soft Toys</a></td>
+	    </tr>
+         <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="Dolls.asp" class="nmenu">&hellip; Dolls</a></td>
+	    </tr>			
+	  <tr>
+	    <td align="center"> </td>
+	    <td height="18"><a href="Funskool_Games.asp" class="nmenu">&hellip; Funskool Games</a></td>
+	    </tr>
+         <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="Electronic_Toys.asp" class="nmenu">&hellip; Electronic Toys</a></td>
+	    </tr>		
+	  <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="Strategy_Games.asp" class="nmenu">&hellip; Strategy Games</a></td>
+	    </tr>
+	  <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="Board_Games.asp" class="nmenu">&hellip; Board Games</a></td>
+	    </tr>
+	  <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="Outdoor_Games.asp" class="nmenu">&hellip; Outdoor Games</a></td>
+	    </tr>
+	  <tr>
+	    <td align="center"> </td>
+	     <td height="18"><a href="Bicycles_Perambulators.asp" class="nmenu">&hellip; Bicycles & Perambulators</a></td> -->
+	    </tr>
+
+         <!--<tr>
+        <td align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="shopperstop_online.asp">Shoppers Stop Coupons</a></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="Lee_online.asp">Lee Gift Coupons</a></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="Reebok_Online.asp">Reebok Gift Coupons</a></td>
+      </tr> -->
+<!--      <tr>
+        <td align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="Pantaloon_Online.asp">Pantaloons Gift Coupons</a></td>
+      </tr>
+
+<tr>
+
+        <td align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="Raymond_Online.asp">Raymond Gift Coupons</a></td>
+      </tr>
+
+
+ <tr>
+        <td align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="shopperstop_online.asp">Shoppers Stop Coupons</a></td>
+      </tr>
+	   <tr>
+        <td align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="Pizza_online.asp">Pizza Gift Voucher</a></td>
+      </tr>
+	   <tr>
+        <td align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="cafe_coffee_day.asp">Cafe Coffee Day Coupons</a></td>
+      </tr>
+   <tr>
+        <td align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="mainland_china_online.asp">Mainland China Gift Coupons</a></td>
+      </tr>
+<tr>
+<td width="11%" height="19" align="center"><img src="/images/bullet.gif" width="10" height="10"></td>
+<td width="89%" height="19" class="left2"><a href="BigFlix_Gift_Coupons.asp">BigFlix Gift Coupons</a></td>
+</tr> --> 
+	   <tr>
+        <td align="center"><img height="10" src="images/bullet.gif" width="10"/></td>
+        <td class="left2" height="18"><a href="watches_online.asp" title="Watches">Watches</a></td>
+      </tr>
+
+
+<tr>
+        <td align="center"> </td>
+
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="gents_watches_online.asp" title="Gents Watches">Gents</a></td>
+			  </tr>
+			</tbody></table>
+		</td>
+
+      </tr>
+ <tr>
+        <td align="center" class="nmenu"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="kids_watches_online.asp" title="Kids Watches">Kids</a></td>
+
+			  </tr>
+			</tbody></table>
+		</td>
+      </tr>	
+	         <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="ladies_watches_online.asp" title="Ladies Watches">Ladies</a></td>
+			  </tr>
+			</tbody></table>
+		</td>
+      </tr>
+	  <tr>
+        <td align="center"> </td>
+
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"><img height="4" src="images/bul_2.gif" width="4"/></td>
+				<td width="95%"><a class="nmenu2" href="pairs_watches_online.asp" title="Pairs">Pairs</a></td>
+			  </tr>
+			</tbody></table>
+		</td>
+
+      </tr>
+       <tr>
+        <td align="center"> </td>
+        <td class="nmenu2" height="18">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td width="5%"></td>
+				<td width="95%"></td>
+
+			  </tr>
+			</tbody></table>
+		</td>
+      </tr>
+	  
+
+     
+<!--      <tr>
+        <td align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="below_$11_online.asp">Gifts Below $ 11</a></td>
+      </tr>
+      <tr>
+        <td height="18" align="center"><img src="images/bullet.gif" width="10" height="10"></td>
+        <td height="18" class="left2" ><a href="discount_offer_online.asp">Discount Offer</a></td>
+      </tr> -->
+<!--
+       <tr>
+        <td align="center">&nbsp;</td>
+        <td bgcolor="#FFFFFF">&nbsp;</td>
+      </tr>
+-->	  
+</tbody></table>
+
+</td>
+</tr></tbody></table>
+
+
+
+
+
+
+		</td>
+      </tr>
+
+    </tbody></table></td>
+    <td width="1%"> </td>
+    <td valign="top" width="53%">
+	<table align="center" border="0" width="100%">
+
+<tbody><tr>
+<td align="center">
+ 
+
+</td>
+
+</tr>
+
+     	  
+
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" class="jk1" height="880" width="100%">
+  <tbody><tr>
+    <td align="center" height="215" valign="top"><table align="center" border="1" bordercolor="#ffcc99" cellspacing="0" width="99%">
+      <tbody><tr>
+        <td width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody>
+            <tr>
+			
+              <td align="center" bgcolor="#FFFFFF" class="jk2" height="24" valign="middle">
+			  <strong><font style="FONT-SIZE: 14pt"> Flowers to India </font>  </strong></td>
+            </tr>
+            <tr>
+              <td align="center" bgcolor="#FFFFFF" class="gh" height="24" valign="middle"> 
+			   <div align="center"><table> <tbody><tr><td align="center" class="gh" id="t1"></td></tr>
+			   
+			   </tbody></table></div>
+			   
+<!--*****Occasion Banner******* -->
+
+    <!--<a href="valentine_gifts_india_online.asp"><img src="IOF_val_2011.jpg" alt="Send Valentine's Day Gifts to India" border="0"></a><br>
+	<a href="valentine_gifts_india_online.asp" class="gh"><font color="#0000FF"><b>Send Valentine's Day Gifts to India: Click Here</b></font></a> -->
+	<!--<div align="center" class="gh"><marquee behavior="alternate"><font color="#FF0000"><b>Still Taking Valentine's Day Order : Guaranteed Delivery</b></font></marquee></div> --> 
+	<!--<a href="diwali_gifts_online.asp"><img src="iof_diwali_2010.gif" alt="Send Diwali Gifts to India" border="0"></a><br>
+	<a href="diwali_gifts_online.asp" class="gh"><font color="#0000FF"><b>For Diwali Gifts to India : Click here</b></font></a>   -->	
+	<!--<a href="mothers_day_gifts_online.asp"><img src="iofmday2014.jpg" title="Send Mother's Day Gifts to India" border="0"></a><br>
+	<a href="mothers_day_gifts_online.asp" title="Mother's Day Gifts"><font color="#0000FF" size="2"><b>Mother's Day Gifts to India : Click Here</b></font></a><br> -->	
+	<!--<div align="center" class="gh"><marquee behavior="alternate"><font color="#FF0000"><b>Still Taking Mother's Day Order : Guaranteed Delivery</b></font></marquee></div> -->
+	<!--<a href="rakhi_rakshabandhan_online.asp"><img src="iofrakhi2015.jpg" title="Send Rakhi Gifts to India" border="0"></a><br>
+	<a href="rakhi_rakshabandhan_online.asp" title="Rakhi Gifts"><font color="#0000FF" size="2"><b>Rakhi Gifts to India : Click Here</b></font></a><br> -->
+	<!--<div align="center" class="gh"><marquee behavior="alternate"><font color="#FF0000"><b>Still Taking Rakhi Order : Guaranteed Delivery</b></font></marquee></div> -->
+	<!--<div align="center" class="gh"><marquee behavior="alternate"><font color="#FF0000"><b>Still Taking Diwali Order : Guaranteed Delivery</b></font></marquee></div>-->
+			   </td>
+            </tr>
+             
+            <tr>
+			  <td align="center" height="10" valign="middle"></td>
+			  </tr>
+			  <tr>
+			  <td>
+			  
+			  </td>
+			  </tr>
+			 
+			<tr>
+              <td align="center" bgcolor="#ffe1c4" class="ef" height="24" valign="middle" width="100%">OUR SPECIALITIES </td>
+            </tr>
+          </tbody></table>
+              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody><tr><td align="center" valign="top"><a href="http://www.indiaonlineflorists.com/flowers_online.asp"><img alt="Send Fresh Flowers To India" border="0" height="50" src="iof_images/frshflowers.gif" width="515"/></a></td></tr>
+			  <tr><td height="5"></td></tr>
+			  <tr><td align="center" valign="top"><a href="http://www.indiaonlineflorists.com/Cakes_online.asp"><img alt="Send Tasty Cakes To India" border="0" height="50" src="iof_images/cakes.gif" width="515"/></a></td></tr>
+			  <tr><td height="5"></td></tr>
+			  <tr><td align="center" valign="top"><a href="http://www.indiaonlineflorists.com/chocolates_online.asp"><img alt="Send Chocolates To India" border="0" height="50" src="iof_images/chocolates.gif" width="515"/></a></td></tr>
+			  <tr><td height="5"></td></tr>
+			  <tr><td align="center" valign="top"><a href="http://www.indiaonlineflorists.com/fresh_fruits_online.asp"><img alt="Send Fresh Fruits To India" border="0" height="50" src="iof_images/frshfrts.gif" width="515"/></a></td></tr>
+            </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td align="left" height="98" valign="top"><table align="center" border="1" bordercolor="#ffcc99" cellspacing="0" class="ef" width="99%">
+      <tbody><tr>
+        <td width="100%"><center>
+
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody>
+              <tr>
+                <td align="center" bgcolor="#ffe1c4" class="ef" height="23" valign="middle" width="100%">IMPORTANT INFORMATION</td>
+              </tr>
+            </tbody>
+          </table>
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr><td height="5"></td></tr>
+              <tr><td align="center" valign="top"><a href="http://www.indiaonlineflorists.com/destinations.asp"><img alt="Same Day Delivery of Flowers,Cakes and Sweets To India" border="0" height="25" src="iof_images/ad1.gif" width="515"/></a></td></tr>
+			  <tr><td align="center" valign="top"><a href="http://www.indiaonlineflorists.com/destinations.asp"><img alt="Delivery All Over 1000 Cites And Towns Of All Over India" border="0" height="25" src="iof_images/ad2.gif" width="515"/></a></td></tr>
+			  <tr><td align="center" valign="top"><a href="http://www.indiaonlineflorists.com/destinations.asp"><img alt="No Hidden Costs For Same Day Delivery To India" border="0" height="25" src="iof_images/ad3.gif" width="515"/></a></td></tr>
+			  <tr><td align="center" valign="top"><a href="http://www.indiaonlineflorists.com/customer_mail.asp"><img alt="Assured Delivery On Same Day To India" border="0" height="26" src="iof_images/ad4.gif" width="515"/></a></td></tr>
+          </tbody></table>
+        </center></td>
+      </tr>
+      <tr>
+        <td></td></tr></tbody>
+      
+    </table></td>
+  </tr>
+  <tr>
+    <td align="left" height="464" valign="top">
+	<p align="center"><br/><br/><br/><span class="gh">About IndiaOnlineFlorists.com</span></p>
+	<p align="center" style="font:normal 13px Arial; color:#000000; padding:10px">Show your love for your loved ones and deliver the feelings of euphoria into their lives through the Flowers and Gifts we offer to you. Let your presence be felt in their events from miles away through our super fast free home delivery of presents on the ordered date and even at midnight.</p>
+        <p align="center"><span class="jk2"><font size="2"><strong><font style="FONT-SIZE: 14pt">Flowers to India, Send Flowers to India<br/></font><br/></strong>We are Leading Online Florist in India with the Largest </font></span><a class="leftm" href="destinations.asp" title="Delivery Network all over India"><br/><br/><font color="#da0303" size="2">Delivery Network</font></a> <span class="jk2"><font size="2">in India.</font></span></p>
+<p align="center"><span class="jk2"><font size="2">You may send Flowers, Cakes, Chocolates, Sweets &amp; more <br/><br/>Gifts to India at over</font></span> <a class="leftm" href="destinations.asp" title="250 Locations across India"><font color="#da0303" size="2">250 Locations across India. Locations</font></a> <span class="jk2"><font size="2">across India.</font></span></p>
+<p align="center"><a class="leftm" href="flowers_online.asp" title="Flowers to India"><font color="#da0303" size="2">Flowers</font></a><span class="jk2"><font size="2">,</font></span> <a class="leftm" href="Cakes_online.asp"><font color="#da0303" size="2">Cakes</font></a> <span class="jk2"><font size="2">&amp;</font></span> <a class="leftm" href="sweets_online.asp" title="Sweets to India"><font color="#da0303" size="2">Sweets</font></a> <font size="2"><span class="jk2">to India can be sent with </span><br/><br/></font><a class="leftm" href="express_delivery_india.asp" title="Express Delivery to india"><font color="#da0303" size="2">Express Delivery</font></a> <span class="jk2"><font size="2">facility at over 150 locations in India.</font></span></p>
+<p align="center"><span class="jk2"><font size="2">We also deliver</font></span> <a class="leftm" href="birthday_online.asp" title="Birthday Gifts to India"><font color="#da0303" size="2">Birthday Gifts</font></a>, <a class="leftm" href="anniversary_online.asp" title="Anniversary Gifts to India"><font color="#da0303" size="2">Anniversary Gifts</font></a>, <a class="leftm" href="wedding_online.asp" title="Wedding to India"><font color="#da0303" size="2">Wedding Gifts</font></a><br/><br/><span class="jk2"><font size="2">to India on your desired date of delivery.</font></span></p>
+<p align="center" class="jk2">Sending Gifts and <strong><em>Flowers to India</em></strong> was never so simple.<br/><br/>Moreover, we guarantee delivery of orders.<br/><br/><strong>Enjoy the difference !   Send Gifts and Flowers to India today.</strong></p>
+      
+      <p align="center"><img border="0" height="2" src="ash_line.gif" width="161"/><img border="0" height="2" src="ash_line.gif" width="165"/></p><br/></td>
+  </tr>
+  <tr>
+	  	<td align="center" height="308" width="99%">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td height="150" width="260"><a href="birthday_online.asp" title="Birthday Gifts"><img align="middle" border="0" height="150" src="b_day.jpg" width="258"/></a></td>
+				<td bgcolor="#FFFFFF" height="150" width="5"></td>
+				<td height="150" width="260"><a href="wedding_online.asp" title="Wedding Gifts"><img align="middle" border="0" height="150" src="wed_day.jpg" width="258"/></a></td>
+			  </tr>
+			  <tr>
+				<td bgcolor="#FFFFFF" height="5" width="260"></td>
+				<td bgcolor="#FFFFFF" height="5" width="5"></td>
+				<td bgcolor="#FFFFFF" height="5" width="260"></td>
+			  </tr>
+			  <tr>
+				<td height="150" width="260"><a href="anniversary_online.asp" title="Anniversary Gifts"><img align="middle" border="0" height="150" src="anne_gifts.jpg" width="258"/></a></td>
+				<td bgcolor="#FFFFFF" height="150" width="5"></td>
+				<td height="150" width="260"><a href="new_born_online.asp" title="New Born Gifts"><img align="middle" border="0" height="150" src="new_baby.jpg" width="258"/></a></td>
+			  </tr>
+			</tbody></table>
+
+		</td>
+	  </tr>
+</tbody></table>
+	</td>
+    <td width="1%"> </td>
+    <td valign="top" width="26%">
+      <table border="1" bordercolor="#DA0303" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td align="center" bgcolor="#DA0303" class="ab" colspan="2" height="21">PAYMENT 
+
+OPTIONS</td>
+    </tr>
+      
+      <tr>
+
+        <td align="center" colspan="2" height="110"><font class="jk">We accept </font><br/>
+          <font class="gh">Master Card / VISA / AMEX </font><br/>
+
+          <font class="jk">and more.... </font><a href="payment.asp"><font class="ef"> Click 
+
+Here</font></a><br/>
+    
+            <a href="payment.asp"><img border="0" src="http://www.delhionlineflorists.com/card.gif"/></a></td>
+
+      </tr>
+
+      
+ <tr>
+        <td align="center" height="136" width="55%"><a href="Page_details.asp?product_id=FLH101&amp;page_name=default">
+          
+          <img alt="Send Flowers to India." border="0" height="110" id="m15" name="m15" src="http://www.indiaonlineflorists.com/images/FLH101.jpg" width="110"/></a><br/>
+          <a class="left" href="flowers_online.asp">More Flowers to India</a><br/></td>
+
+   		   <td align="center" width="45%"><font class="jk">Fresh Red Roses 
+  </font><br/>
+   		     
+   		     <font class="ef">RS.425 / $  6.34</font><a class="gh" href="Page_details.asp?product_id=FLH101&amp;page_name=default"><br/>
+   		       <span class="left">BUY 
+   		         NOW</span></a></td>
+    </tr>
+      
+      
+      <tr>
+        <td align="center" height="136" width="55%"><a href="Page_details.asp?product_id=CKHNUUN101&amp;page_name=default">
+          
+          <img alt="Send Cakes to India." border="0" height="110" id="m16" name="m16" src="http://www.indiaonlineflorists.com/images/black_forest.gif" width="110"/></a><br/>
+          <a class="left" href="cakes_online.asp">More Cakes to India</a><br/></td>
+   		   <td align="center" width="45%"><font class="jk">Black Forest Cake  (1 Lb)
+  </font><br/>
+   		     
+   		     <font class="ef">RS.589 /$ 8.79 </font><a class="gh" href="Page_details.asp?product_id=CKHNUUN101&amp;page_name=default"><br/>
+   		       <span class="left">BUY 
+   		         NOW</span></a></td>
+    </tr>
+      
+      
+      <tr>
+        <td align="center" height="136" width="55%"><a href="Page_details.asp?product_id=CHHSUFE101&amp;page_name=default">
+          
+          <img alt="Send Chocolates to India." border="0" height="110" id="m17" name="m17" src="http://www.indiaonlineflorists.com/images/choc3.gif" width="110"/></a><br/>
+          <a class="left" href="chocolates_online.asp">More Chocolates to India</a><br/></td>
+   		   <td align="center" width="45%"><font class="jk">Ferrero Rocher (16 pcs)
+   		     </font><br/>
+   		     
+   		     <font class="ef">RS.697 / $ 10.40</font><a class="gh" href="Page_details.asp?product_id=CHHSUFE101&amp;page_name=default"><br/>
+   		       <span class="left">BUY 
+   		         NOW</span></a></td>
+    </tr>
+      
+      
+      <tr>
+        <td align="center" height="136" width="55%"><a href="Page_details.asp?product_id=SWCNUHA109&amp;page_name=default">
+          
+          <img alt="Send Sweets to India." border="0" height="110" id="m18" name="m18" src="http://www.indiaonlineflorists.com/images/12.jpg" width="110"/></a><br/>
+          <a class="left" href="sweets_online.asp">More Sweets to India                       </a><br/></td>
+   		   <td align="center" width="45%"><font class="jk">Assorted Mithai from Haldiram 
+  </font><br/>
+   		     
+   		     <font class="ef">RS.666 / $ 9.94</font><a class="gh" href="Page_details.asp?product_id=SWCNUHA109&amp;page_name=default"><br/>
+   		       <span class="left">BUY 
+   		         NOW</span></a></td>
+    </tr>
+      
+      
+      <tr>
+
+        
+        <td align="center" height="136" width="55%"><a href="Page_details.asp?product_id=FFHNUUN105&amp;page_name=default">
+          
+          <img alt="Send Watch to India." border="0" height="110" id="m19" name="m19" src="http://www.indiaonlineflorists.com/images/FFHNUUN105.jpg" width="110"/></a><br/>
+          <a class="left" href="fresh_fruits_online.asp">More Fresh Fruits to India </a><br/></td>
+
+   		   <td align="center" width="45%"><font class="jk">Delicious Seasonal Fruits basket gift hamper  </font><br/>
+
+   		     
+   		     <font class="ef">Rs. 755 / $ 11.27 </font><a class="gh" href="Page_details.asp?product_id=FFHNUUN105&amp;page_name=default"><br/>
+   		       <span class="left">BUY 
+   		         NOW</span></a></td>
+    </tr>
+      
+      <!--
+      <tr>
+        <td width="55%" height="136" align="center"><a 
+                  href="Page_details.asp?product_id=LTCSLFWHA102&page_name=default">
+          
+          <img src="blank.jpg" alt="Send Leather Bag to India." name="m20" 
+                  width="110"  height="110" border="0" id="m20" /></a><br />
+          <a href="leather_bags_online.asp" class="left">More Bags                          </a><br /></td>
+   		   <td align="center" width="45%"><font class="jk">Leather Bag for Ladies </font><br />
+   		     
+   		     <font class="ef">RS.1450 / $ 27.88 </font><a 
+                  href="Page_details.asp?product_id=LTCSLFWHA102&page_name=default" class="gh"><br />
+   		       <span class="left">BUY 
+   		         NOW</span></a></td>
+    </tr>-->
+      
+      
+      <tr>
+        <td align="center" height="136"><a href="Page_details.asp?product_id=FLH572&amp;page_name=default"> <img alt="Send Vouchers to India." border="0" height="110" id="m21" name="m21" src="http://www.indiaonlineflorists.com/Images/FLH572.jpg" width="110"/></a><br/>
+            <a class="left" href="flowers_online.asp">More Flowers to India</a><br/></td>
+        <td align="center"><font class="jk">Embracing Pureness Flower Arrangement</font><br/>
+            <font class="ef">Rs. 680 / $ 10.15</font><a class="gh" href="Page_details.asp?product_id=FLH572&amp;page_name=default"><br/>
+            <span class="left">BUY 
+              NOW</span></a></td>
+      </tr>
+      
+      
+      <tr>
+        <td align="center" height="136" width="55%"><a href="Page_details.asp?product_id=CSCSUUN298&amp;page_name=default">
+          
+          <img alt="Send Cosmetics to India." border="0" height="110" id="m22" name="m22" src="http://www.indiaonlineflorists.com/images/CSCSUUN298.jpg" width="110"/></a><br/>
+          <a class="left" href="cosmetics_online.asp">More Cosmetics to India</a><br/></td>
+   		   <td align="center" width="45%"><font class="jk">Beat the Heat with Garnier Bath Gift Hamper for Men </font>
+<br/>
+   		     
+   		     <font class="ef">RS.830 / $ 12.39 </font><a class="gh" href="Page_details.asp?product_id=CSCSUUN298&amp;page_name=default"><br/>
+   		       <span class="left">BUY 
+   		         NOW</span></a></td>
+
+    </tr>
+	<tr>
+        <td align="center" height="136" width="55%"><a href="Page_details.asp?product_id=CHCSUUN177&amp;page_name=default">
+
+          
+          <img alt="Combo Gift Items." border="0" height="110" src="http://www.indiaonlineflorists.com/images/CHCSUUN177.jpg" width="110"/></a><br/>
+          <a class="left" href="combo_gifts.asp">More Combo Gifts to India</a><br/></td>
+   		   <td align="center" width="45%"><font class="jk">Birthday Celebration with Homemade Chocolates and Teddy</font><br/>
+
+   		     
+   		     <font class="ef">RS.795 / $ 11.87 </font><a class="gh" href="Page_details.asp?product_id=CHCSUUN177&amp;page_name=default"><br/>
+   		       <span class="left">BUY 
+   		         NOW</span></a></td>
+
+    </tr>
+	
+	  
+      
+  </tbody></table>
+</td></tr>
+
+  <tr>
+  	<td colspan="5" height="10">
+		
+	</td>
+  </tr> 
+  <tr>
+  	<td colspan="5" width="100%">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  
+  <tbody><tr>
+    <td valign="top" width="19%">
+	   <table align="center" border="0" cellpadding="0" cellspacing="0" style="border:#FF0000 1px solid" width="100%">
+          <tbody><tr><td align="center" bgcolor="#DA0303" class="ab" height="22">RELATIONSHIP</td></tr> 
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="for_him_online.asp" title="For Him">For Him</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="for_her_online.asp" title="For Her">For Her</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="for_kids_online.asp" title="For Kids">For Kids</a></td>
+		  </tr>  
+		  <tr>
+			<td align="center" bgcolor="#DA0303" class="ab" height="22" id="tab">SEASONAL GIFTS</td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="summer_collections_online.asp" title="Summer Collections">Summer Collections</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="winter_garment_online.asp" title="Winter Collections">Winter Collections</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"> </td>
+		  </tr>
+		  
+		</tbody></table>	</td>
+		<td width="1%"></td>
+    <td valign="top" width="80%">
+		<table border="0" cellpadding="0" cellspacing="0" style="border:#FF0000 1px solid" width="100%">
+	<tbody><tr> <td align="center" bgcolor="#DA0303" class="ab" colspan="4" height="22">OCCASIONS</td></tr>	
+  <tr>
+    <td valign="top" width="25%">
+		<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+		
+		  <tbody><tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../all_purpose_online.asp" title="All Purpose">All Purpose</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../anniversary_online.asp" title="Anniversary">Anniversary</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../Babyshower_online.asp" title="Baby Shower">Baby Shower</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../bhaidooj_online.asp" title="Bhai Dooj">Bhai Dooj</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../birthday_online.asp" title="Birthday">Birthday</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../christmas_online.asp" title="Christmas">Christmas</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="22"><a class="occ_menu" href="../condolence_online.asp" title="Condolence">Condolence</a></td>
+		  </tr>	  
+		  
+		</tbody></table>	</td>
+    <td valign="top" width="25%">
+		<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../congratulation_online.asp" title="Congratulation">Congratulation</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../diwali_gifts_online.asp" title="Diwali"><strong>Diwali</strong></a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../dusshera_gifts_online.asp" title="Dusshera Gifts">Dusshera Gifts</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../fathers_day_gifts_online.asp" title="Father's Day">Father's Day</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../friendship_gifts_online.asp" title="Friendship Day">Friendship Day</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../Ganesh_online.asp" title="Ganesh Chaturthi">Ganesh Chaturthi</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../get_well_soon_online.asp" title="Get well Soon">Get well Soon</a></td>
+		  </tr>
+		</tbody></table>	</td>
+    <td valign="top" width="25%">
+		<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">          
+		  <tbody><tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../holi_online.asp" title="Holi">Holi</a></td>
+		  </tr>
+		  <tr>
+			<td class="occ_menu" height="18"><a class="occ_menu" href="../House_Warming_online.asp" title="House Warming">House Warming</a></td>
+		  </tr>		
+  <tr>
+    <td class="occ_menu" height="18"><a class="occ_menu" href="../karwachauth_online.asp" title="Karwa Chauth">Karwa Chauth</a></td>
+  </tr>
+  <tr>
+    <td class="occ_menu" height="18"><a class="occ_menu" href="../mothers_day_gifts_online.asp" title="Mother's Day">Mother's Day</a></td>
+  </tr>
+  <tr>
+    <td class="occ_menu" height="18"><a class="occ_menu" href="../new_born_online.asp" title="New Born Gifts">New Born Gifts</a></td>
+  </tr>
+  <tr>
+    <td class="occ_menu" height="18"><a class="occ_menu" href="../new_year_online.asp" title="New Year">New Year</a></td>
+  </tr>
+  <tr>
+    <td class="occ_menu" height="18"><a class="occ_menu" href="../rakhi_rakshabandhan_online.asp" title="Rakhi Gifts"><strong>Rakhi Gifts</strong></a></td>
+  </tr>
+  
+
+</tbody></table>	</td>
+    <td valign="top" width="25%">
+		<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">   
+  <tbody><tr>
+    <td class="occ_menu" height="18"><a class="occ_menu" href="../Sorry_online.asp" title="Sorry">Sorry</a></td>
+  </tr>
+  <tr>
+    <td class="occ_menu" height="18"><a class="occ_menu" href="../Thank_You_online.asp" title="Thank You">Thank You</a></td>
+  </tr>
+  <tr>
+    <td class="occ_menu" height="18"><a class="occ_menu" href="../valentine_gifts_india_online.asp" title="Valentine's Day">Valentine's Day</a></td>
+  </tr>
+  <tr>
+    <td class="occ_menu" height="18"><a class="occ_menu" href="../wedding_online.asp" title="Wedding">Wedding</a></td>
+  </tr>		
+  <tr>
+    <td class="occ_menu" height="18"><a class="occ_menu" href="../Womens_Day_online.asp" title="Women's Day Gifts"> Women's Day Gifts</a></td>
+  </tr>
+  <tr>
+    <td height="18"> </td>
+  </tr>
+  
+  
+  
+</tbody></table>	</td>
+  </tr>
+</tbody></table>	</td>
+  </tr>
+</tbody></table>
+	</td>
+  </tr>
+  <tr> <td colspan="5" height="10" width="100%"></td></tr>
+  <tr>
+    <td class="jk1" colspan="5"><table align="center" border="0" cellpadding="0" cellspacing="0" class="ef1" width="100%">
+      <tbody><tr>
+
+        <td align="center" bgcolor="#6699FF" class="jk1" height="19"> </td>
+      </tr> 
+	  <tr><td></td>  	  
+      </tr><tr>
+ <td align="center" class="jk1" height="570">
+ <table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr><td align="left" class="fg"><span class="gh">Secure Payment Gateway:</span><br/>
+		        We respect your Privacy. We only know the recipient's details and your message and not your payment details. Your online payment is through Secure Payment gateway, www.ccavenue.com/ Securepg.Fssnet.co.in which is secured. Also, we do not share your information. This means that your online transactions are absolutely safe, secure and confidential.</td>
+		      </tr></tbody></table>	<br/><br/>	
+		
+<div align="left">		
+
+<!--
+<p class="style2">
+It’s winter and it is the time to rejoice for New Year celebrations. People across the world are getting ready to exchange New Year gifts and send good wishes and notes of friendship and camaraderie to their loved ones. Strengthen your bonds with your friends and family and create a cherished memory with them by sending our New Year Gifts to India, Lip-smacking New Year Chocolates to India, New Year Gifts and Flowers to India, Xmas Gifts to India, Fresh Seasonal Flower Bouquets with Candles to India, Attractive Holiday Gifts to India, Corporate Gifts to India, New Year Hampers to India, New Year Gifts to India, New Year Flowers to India, Splendid Roses to India, New Year Fruit Hampers to India, Roasted Cashews to India, Sweets to India, Tasty New Year Cakes to India, Black Forest Cakes to India, Fruit Cakes to India, New Year Mixed Dry Fruits to India, Egg less Cakes to India, Plum Cakes to India, New Year Cakes to India, Special New Year Gift Hamper to India, New Year Gifts to India, New Year Flowers to India, Striking New Year Motorola Set to India, New Year Cosmetics and Perfumed Body Spray to India, New Year Shawls and Woolen Garments to India, Fashionable Shirts and Suits to India, Wonderful New Year Gift Voucher to India and lots more incredible New Year gifts. Sending New Year Gifts to India have become hassle free and protected with us. Boost up the joy of your New Year celebrations by choosing to send New Year Gifts from indiaonlineflorists.com. Order now to send exciting New Year Gifts to India.  Shop online with us and add zeal to your revelry in an invigorating way.
+&nbsp;</p>-->
+
+<!--<p><strong><U>Send Diwali Gifts to India</U></strong></p>
+<p><span class="style2">The occasion of Diwali calls for fun and celebration. People all over India are eagerly waiting for the grand festivities of Diwali. Send Diwali Gifts to India online from</span> <a class="style3" href="http://www.indiaonlineflorists.com/">indiaonlineflorists.com</a> <span class="style2">and cheer up your friends, family and loved ones in a remarkable way. Connect with your dear ones in India and make a treasured memory with them by preferring to send Striking Diwali Cards, Diyas, Lamps, Candles, Diwali Crackers to India, Mouthwatering Diwali Mithai, Fresh Diwali Sweets to India, Tasty Diwali Cakes, Lip-smacking Diwali Chocolates to India, Diwali Puja Gift Hampers to India, Appetizing Diwali Dry Fruits, Tempting Fresh Fruits for Diwali in India, Stunning Diwali Flowers for delivery in India, Exclusive Diwali Gift Hampers, Silver Gifts, Trendy Shirts for Diwali in India, Stylish Sarees for Diwali, Classy Salwar Suits for Diwali in India, Diwali Cosmetics, Gold Ganesh Pendants for Diwali, Laxmi Ganesh Gifts for Diwali and lots more exciting Diwali gifts for delivery in India. Have faith in us for the delivery of all Diwali Gifts to India on time. We guarantee the delivery of all gifts to India for Diwali on time, or else money back in full. Moreover sending Diwali Gifts and Flowers to India online with us is 100 % safe. So hurry and shop online with us for delivering Diwali Gifts to India and add a zesty surprise to their revelry.</span></p> -->
+
+<!--Valentine Writeup Start-->
+<!--<p class="style2wr">
+<strong>Same Day Valentine’s Day Flower Delivery to India:</strong><br><br>
+Sending enchanting Flower can be the best way to share your emotion to your loved ones on Valentine’s Day. Send various types of dramatic Flowers like Roses, Tulips, Lilies, Gerberas, Orchids and many more beside different types of Floral Arrangements, Heart Shaped Flower Bouquets conveying the messages of love straight from your heart to the person conquering your dreams and thoughts.<br><br>
+<strong>Send Valentine’s Day Special Gifts to India:</strong><br><br>
+Deliver your good wishes and Valentine special presents to your beloved in just a single click and express your unconditional and true love. Speak out your deepest feelings of heart to your loved ones on this Valentine’s Day through the wonderful concept of gifting Flowers, Cakes, Chocolates, Fresh Fruits, Mixed Red Roses and many more.<br><br>
+<strong>Valentine’s Day Cakes Delivery across India:</strong><br><br>
+Cake is the most intimate friend of celebration. It plays an important role in making our occasions more joyful and happier. Keep your nearest and dearest ones smiling and happy on this Valentine’s Day by delivering various types of mouth-watering flavoured Cakes, Heart Shaped Cakes, Fruit Cakes, Chocolate Cakes and Eggless Cakes.<br><br>
+</p> -->
+<!--Valentine Writeup End-->
+
+<!--*****Mother's Day Start********** -->
+<!--<p class="style2wr">
+<strong>Mother's day is on 8th May, 2016.</strong><br><br>
+<strong>Mid Night Delivery of Gifts for Mummy to India:</strong><br><br>
+Send your special love and affection along with Flowers, Cakes, Chocolates and many more gift items to your loving mother on this Mother’s Day even at Mid Night and show your deep love and concern. We are an online shopping portal always ready at your service. Just click on to our website and deliver present to your sweet mummy.<br><br>
+<strong>Mother’s Day Fresh Flowers and Cakes Delivery to India on Same Day:</strong><br><br>
+Same day delivery of Flowers, Cakes, Chocolates and a lot more wonderful items is a wonderful concept for making someone surprised. Send your selected lovely present along with your special wishes through our website to your loving mummy on this Mother’s Day and express your best love and respect for her duties on the journey of motherhood.<br><br>
+<strong>Order Flowers and Gifts Online for Mom:</strong><br><br>
+Keep your loving and sweet mother happy and smiling on the special occasion of Mother’s Day by sending a wide collection of Flowers, Cakes, Chocolates, Fresh Fruits and many more gift items through our website. We are an online flower shop who assures to deliver the ordered gifts at the doorsteps of the recipients on perfect time.<br><br>
+</p> -->
+<!--*****Mother's Day End********** -->
+
+<!--Rakhi Writeup Start-->
+<!--<p class="style2wr">
+<strong>Splash Affectionate Love Towards Your Brother on This Raksha Bandhan:</strong><br><br>
+Raksha Bandhan, also called Rakhi Purnima or just Rakhi, has a deep rooted historical significance in India. There are various stories linked with the past mythology of the Hindu religion. Tie your beloved Brothers close to your heart by gifting Irresistible Gift Pack of Best Brother Mellow Chocolates, Exotic Multicolored Rakhi with Kaju Katli Bites, Genuine Leather Wallet with Rakhi, Classic Haldirams Assorted Sweets and Silver Rakhi Thali, Haldirams Soan Papdi N Rakhi and many more to your Brothers on this Raksha Bandhan that will be forever cherished by them.<br><br>
+<strong>Gift Amazing Presents to Your Brother on This Raksha Bandhan:</strong><br><br>
+Raksha Bandhan, meaning "Knot of Protection" is one of the most important festivals celebrated by Hindus throughout the world. The festival stands for the beautiful relationship shared between Brothers and Sisters. Drench your dear Brothers in your love by gifting them, these Ecstatic Gift of Tempting Cadbury Chocolates Hamper, Thali Hamper N Haldirams Sweets, Fashionable Rakhi Hamper for Sweet Surprise, Trendy Rakhi and Silver Plated Paan Shaped Puja Thali and many more on this Raksha Bandhan to appreciate them for being there with you always.<br><br>
+<strong>Same Day Delivery of Rakhi to India:</strong><br><br>
+Send Rakhis beautified with Om, Ganesha, Swastik, Zardozi works, Rudraksha, Cartoon Characters and more to your Bhaiya, Bhabhi, little ones or other loved ones in the matter of a few mouse clicks through our online website. In addition to that you can also order to anywhere in India, through the same website, Silver, Gold-Plated and more varieties of Rakhis along with Roli Tilak and Chawal to complete the rituals from miles away.<br><br>
+</p> -->
+<!--Rakhi Writeup End-->
+
+
+<!--*****Normal Start********** -->
+<p class="style2wr">
+<strong>Midnight Delivery of Flowers to India:</strong><br/><br/>
+Spread the fragrance of your sweetest thoughts into the lives of the lovely people in your life and surround them with the extraordinary beauty of floral arrangements with blooms like Roses, Lilies, Gerberas, Orchids and many more available at our online shopping site. We even deliver our orders at midnight all over India to help you surprise your special ones on their special days.<br/><br/>
+<strong>Same Day Delivery of Floral Arrangements:</strong><br/><br/>
+Love is best expressed with the colors and fragrance of Flowers. They welcome a feeling of joy. To witness such a beauty, order Floral Arrangements for Birthday, Anniversary, Wedding and all the special events of your loved ones staying at any part of India, through our online shopping site. We also provide Same Day delivery provision by which you can send your selected Gifts on the ordered date.<br/><br/>
+<strong>Free Home Delivery Bouquets to India:</strong><br/><br/>
+Order online for your dearest people staying at any corner of India, Bouquets for all occasions. Our expert florists select garden fresh blooms like Roses, Lilies, Tulips, Carnations, Gerberas and Orchids and arrange them in lovely Bouquets or in Baskets. We provide Free Home deliveries throughout the country and that too very fast due to our strong network, service and dedicated staffs.
+</p>
+<!--*****Normal End********** -->
+
+</div>
+
+<div align="left" style="margin-top:18px">
+<p class="style2wr"><u><b>Testimonials for IndiaOnlineFlorists.com</b></u></p>
+<ol style="margin:0; padding:0; list-style-position:inside">
+<li class="style2wr">"Shopping from your site is really a pleasure as well as confusing as for what to choose from such a wide array of such splendid Floral Arrangements. I am a big fan of yours." – Devina</li>
+<li class="style2wr">"Your midnight delivery of Lily Bouquet to my friend on Friendship Day surprised her and she was mesmerized by its beauty. Thanks." – Rebecca</li>
+<li class="style2wr">"It was an amazing experience shopping from your site. I was amazed to see the wide range of Floral Baskets. Looking forward for more shopping and fun." – Mahendra</li>
+<li class="style2wr">"I appreciate the service you provide to your customers. Being one of them I feel extremely lucky and I am very happy regarding your fast and free home deliveries and customer support." – Lathika</li>
+<li class="style2wr">"My spouse was extremely pleased by the Flowers and gifts that I bought for her from you website. She insists me in buying more from just your site." – Nagesh</li>
+</ol></div>  
+          </td>
+      </tr>
+	  
+	  
+    </tbody></table></td>
+
+  </tr> 
+  <tr><td colspan="5"> </td></tr>
+  <tr>
+  	<td align="center" class="ef" colspan="5" width="100%"><a class="ef" href="destinations.asp" title="Send Flowers and Gifts to India">We deliver at 900 more locations all over India. Click Here for complete list</a>
+		
+
+	</td>
+  </tr>
+  <tr>
+  	<td align="center" class="ef" colspan="5" valign="middle">
+
+ 	<a class="ef" href="http://www.germanyflowershop.com/" title="Send Flowers and Gifts to Germany">Send Flowers and Gifts to Germany : Click Here</a>
+	
+
+	</td>
+  </tr>
+  <tr><td colspan="5"> </td></tr>
+  <tr>
+  	<td bgcolor="#FFFBFB" colspan="5" style="border:#DA0303 1px solid;" width="100%">
+		<table align="center" border="0" cellpadding="0" cellspacing="0" width="98%">
+  <tbody><tr>
+    <td class="nf_txt1" colspan="2" height="15">All Stores</td>
+    <td class="nf_txt1" width="12%">Your Account</td>
+    <td class="nf_txt1" width="13%">Help</td>
+
+    <td class="nf_txt1" width="12%">Payment Option</td>
+  </tr>
+  <tr>
+    <td valign="top" width="12%">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="apparels_online.asp">Apparel Gifts</a></td>
+		  </tr>
+
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="cakes_online.asp">Cakes</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="chocolates_online.asp">Chocolate Gifts</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Combo_Gifts.asp">Combo Gifts</a></td>
+
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Cosmetics_online.asp">Cosmetics/Perfumes</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Dry_Fruits_online.asp">Dry Fruits</a></td>
+		  </tr>
+		  <tr>
+
+			<td class="nf_txt2"><a class="nf_txt2" href="Electronics_online.asp">Electronic Gifts</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Flowers_online.asp">Flowers</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Fresh_Fruits_online.asp">Fresh Fruits</a></td>
+
+		  </tr>
+<!--		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="#">Gift Vouchers</a></td>
+		  </tr> -->
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Handicrafts_online.asp">Handicraft Gifts</a></td>
+		  </tr>
+		  <tr>
+
+			<td class="nf_txt2"><a class="nf_txt2" href="Home Appliances_online.asp">Home Appliances</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Kids_Stationery_online.asp">Kids Stationery</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Kitchen wares_online.asp">Kitchen Appliance</a></td>
+
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Leather_bags_online.asp">Leather Items</a></td>
+		  </tr>
+		  <tr><td height="5"></td></tr>
+		</tbody></table>	</td>
+    <td valign="top" width="13%">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+		  <tbody><tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Mobilephone_online.asp">Mobile Phones</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="OfficeStationary_online.asp">Office Stationary</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Special_online.asp">Premium Flowers</a> </td>
+
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Puja_Items.asp">Puja Items</a> </td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="summer_collections_online.asp">Summer Collection</a> </td>
+		  </tr>
+
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="SunGlass_online.asp">Sun Glasses</a></td>
+			</tr><tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Sweets_online.asp">Sweets </a></td>
+		  </tr>
+		 
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Toys and Games_online.asp">Toys &amp; Games </a></td>
+
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Watches_online.asp">Watches</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Winter_garment_online.asp">Winter Collections</a> </td>
+		  </tr>
+
+		  <tr>
+			<td> </td>
+		  </tr>
+		  <tr>
+			<td> </td>
+		  </tr>
+		  <tr>
+			<td> </td>
+		  </tr>
+
+		  
+		  <tr>
+			<td eight="4"></td>
+		  </tr>
+		</tbody></table>	</td>
+    <td valign="top">
+
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="memberlogin.asp">Login</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="order_status.asp">Order Status</a></td>
+		  </tr>
+		  <tr>
+
+			<td class="nf_txt2"><a class="nf_txt2" href="Shopping_cart.asp">Shopping cart</a></td>
+		  </tr>
+		  
+		  <tr>
+			<td> </td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt1" height="15">Others</td>
+		  </tr>
+
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="customer_mail.asp">About us</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="customer_mail.asp">Suggestions</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="customer_mail.asp">Gift Finder</a></td>
+
+		  </tr>
+<!--		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="#">Occasions Calendar</a></td>
+		  </tr> -->
+		  <tr>
+			<td class="nf_txt2"> </td>
+		  </tr>
+		  <tr>
+
+			<td class="nf_txt1" height="15">Contact us</td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="customer_mail.asp">Contact us</a></td>
+		  </tr>
+		  <tr>
+			<td height="5"></td>
+		  </tr>
+
+		</tbody></table>	</td>
+    <td valign="top">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="terms.asp">Terms &amp; Conditions</a></td>
+		  </tr>
+		  <tr>
+
+			<td class="nf_txt2"><a class="nf_txt2" href="delivery_locations.asp">Shipping Informations</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Privacy_Policy.asp">Privacy Policy</a> </td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Substituion_Policy.asp">Substituion Policy</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Refund_Policy.asp">Refund Policy</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="Cancellation_Policy.asp">Cancellation Policy</a></td>
+		  </tr>
+		  <tr>
+
+			<td class="nf_txt2"><a class="nf_txt2" href="Sitemap.asp">Site Map</a></td>
+		  </tr>
+		  <tr>
+			<td> </td>
+		  </tr>
+		  <tr>
+			<td>
+			<table width="83%">
+			<tbody><tr>
+			  <td align="left" width="34"><a href="https://www.facebook.com/indiaonlineflorists" target="_blank" title="Facebook"><img border="0" src="facebookicon.gif"/></a></td>
+			  <td align="left" width="32"><a href="https://twitter.com/online_florists" target="_blank" title="Twitter"><img border="0" src="twittericon.gif"/></a></td>
+			  <td align="left" width="35"><a href="https://plus.google.com/+IndiaOnlineFloristsSameDay" target="_blank" title="Google+"><img border="0" src="googleplusicon.gif"/></a></td>	
+			  <td align="left" width="36"><a href="http://blog.indiaonlineflorists.com" target="_blank" title="Blog"><img border="0" src="blogicon.gif"/></a></td>		  
+			  <td align="left" width="33"><a href="https://www.youtube.com/indiaonlineflorists" target="_blank" title="YouTube"><img border="0" src="utubeicon.gif"/></a></td>
+			</tr>
+			</tbody></table>
+			</td>
+		  </tr>		  		  
+		</tbody></table>	</td>
+    <td valign="top">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="payment.asp">Credit Cards</a></td>
+
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="payment.asp">ATM-cum-Debit Cards</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="payment.asp">Cash Payment</a></td>
+		  </tr>
+		  <tr>
+
+			<td class="nf_txt2"><a class="nf_txt2" href="payment.asp">Net Banking</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="payment.asp">Mobile Payment</a></td>
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="payment.asp">and More : Click Here</a></td>
+
+		  </tr>
+		  <tr>
+			<td class="nf_txt2"><a class="nf_txt2" href="payment.asp">Secured Payment Gateway</a></td>
+		  </tr>
+		  <tr>
+			<td height="4"></td>
+		  </tr>
+		  <tr>
+
+			<td height="91" valign="middle"><a href="payment.asp" title="Payment Option"><img border="0" height="91" src="bot_pay_opt.jpg" width="141"/></a></td>
+		  </tr>
+		</tbody></table>	</td>
+  </tr>
+</tbody></table>
+
+
+	</td>
+  </tr>
+  <tr><td colspan="5"><p align="center" class="gh1"> <a href="Disclaimer.asp">Disclaimer</a></p></td></tr>
+  <tr><td colspan="5" height="30"><p align="center" class="occ_menu"> <a class="occ_menu" href="http://m.indiaonlineflorists.com/">View Mobile Version</a></p></td></tr>
+  <tr><td colspan="5"><p align="center"><a class="ef1" href="http://www.indiaonlineflorists.com">www.IndiaOnlineFlorists.com</a> 
+
+</p></td></tr>
+<tr><td colspan="5"> </td></tr>
+</tbody></table>
+
+</body></html>

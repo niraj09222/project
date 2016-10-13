@@ -1,0 +1,3019 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<link href="https://www.phoolwala.com/" rel="canonical"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Online Flowers Delivery, Gifts Online India, Birthday Flowers Online: Phoolwala.com</title>
+<meta content="Flowers online, gifts online, online flowers delivery, birthday flowers,online florist flower shops, Delhi Flowers Delivery, Mumbai Flowers Delivery, Bangalore Flowers Delivery, send flowers to India, buy flowers online, send valentine day flowers online, online florist, gifts to India, cakes online India, gift baskets, plants, same day flowers delivery, birthday flowers, birthday gifts" name="keywords"/>
+<meta content="Gifts Online and Online Flower Delivery- Online Birthday Flowers Bouquets Delivery, Birthday Gifts Online Delivery in Delhi, Bangalore (Bangaluru), Mumbai, Gurgaon (Gurugram), Kolkata and Indian cities by Phoolwala florist shops. Send birthday flowers bouquets, cakes, chocolates exciting gifts online to surprise your loved ones in India." name="description"/>
+<meta content=" Send Flowers Gifts Online, Gifts Shopping, Florist, Business" name="classifications"/>
+<meta content="H-fuinpW30C-jmuLNJ1zGvyx7aUqEQju8ISqDH6w3AI" name="google-site-verification"/>
+<meta content="WzUuarlcSHtDiIYTsvneDYupXuaaqh4NmRjKQdSr2QQ" name="google-site-verification"/>
+<meta content="shiv" name="author"/>
+<meta content="INDEX,ALL" name="Robots"/>
+<meta content="INDEX, FOLLOW" name="YahooSeeker"/>
+<meta content="INDEX, FOLLOW" name="msnbot"/>
+<meta content="INDEX, FOLLOW" name="googlebot"/>
+<meta content="yes" name="allow-search"/> 
+<meta content="en" http-equiv="Content-Language"/> 
+<meta content="1Gt5oPdAzQc22f5UQQeDV-wVsHM" name="alexaVerifyID"/>
+<meta content="width=device-width, initial-scale=1.0" id="view" name="viewport"/>
+<meta content="IE=9" http-equiv="X-UA-Compatible"/>
+<link href="https://www.phoolwala.com/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://www.phoolwala.com/css/main.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://www.phoolwala.com/css/txtscroller.css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"> </script>
+<script src="https://www.phoolwala.com/css/txtscroller.js" type="text/javascript"></script>
+<script type="text/javascript">
+	(function($) {
+		$(function() {
+			$("#txtscroller").txtscroller({orientation:'vertical',customClass:'vert'});
+			$("#ftxtscroller").txtscroller({orientation:'vertical',customClass:'vert2'});
+		});
+	})(jQuery);
+	</script>
+	
+<!-- validation -->
+	<script src="https://www.phoolwala.com/include/validation.js" type="text/javascript"></script>
+<!-- validation //-->
+ <!--Start Changes  For  calendar  -->
+	<script type="text/javascript">
+jQuery.noConflict();
+jQuery(function() {
+var date = new Date();
+var currentMonth = date.getMonth();
+var currentDate = date.getDate();
+var currentYear = date.getFullYear();
+var	addone = 0;
+				
+				setbyadmindt = (0+addone);
+				iExpiryDate2Show = 1;
+				//document.getElementById("onedayadv").value = setbyadmindt;
+});
+</script>
+<link href="https://www.phoolwala.com/newcalendar/calendar.css" rel="stylesheet" title="calendar"/> 
+<script language="javascript" src="https://www.phoolwala.com/newcalendar/calendar.js" type="text/javascript"></script>
+<link href="https://www.phoolwala.com/popupdiv/style/style.css" media="all" rel="stylesheet" type="text/css"/>
+<script src="https://www.phoolwala.com/popupdiv/js/script.js" type="text/javascript"></script>
+<!-- End Changes For Calendar -->
+<!-- top navi menus -->
+<!--
+	<link rel="stylesheet" type="text/css" href="https://www.phoolwala.com/css/prettyPhoto.css" media="screen" />
+	-->
+	<script src="https://www.phoolwala.com/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+	<script src="https://www.phoolwala.com/js/core.js" type="text/javascript"></script>
+	<script src="https://www.phoolwala.com/js/jquery.pngFix.js" type="text/javascript"></script>
+<!-- top navi menus -->
+
+<!-- right clcik -->
+
+		
+<link href="https://www.phoolwala.com/flexslider.css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="https://www.phoolwala.com/js/modernizr.js" type="text/javascript"></script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1677121085945369');
+fbq('track', "PageView");</script>
+<noscript></noscript></head><body><img height="1" src="https://www.facebook.com/tr?id=1677121085945369&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+<!-- End Facebook Pixel Code -->
+
+
+
+
+<script type="text/javascript">
+    var _taq = {"id":"bbe7e3ff-dea0-46e5-a5fe-6c543cec9f1a","events":[],"identify":[],"property":[]};
+    (function() {
+        var ta = document.createElement('script'); ta.type = 'text/javascript'; ta.async = true; ta.id = "__ta";
+        ta.src = '//cdn-jp.gsecondscreen.com/static/tac.min.js';
+        var fs = document.getElementsByTagName('script')[0]; fs.parentNode.insertBefore(ta, fs);
+    })();
+</script>
+<!-- Google Code for Remarketing Tag -->
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="http://www.googleads.g.doubleclick.net/pagead/viewthroughconversion/969662840/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+	<!-- Google Code for Remarketing Tag (mobiquest) //-->
+ 	<!-- google code-->
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-16256061-6']);
+	  _gaq.push(['_trackPageview']);
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	<!-- google code-->
+
+
+
+<!-- facebook like sign //-->
+<!-- main div //-->
+			
+		
+        <!-- top header -->
+		<div id="container">
+        <div class="request">
+       <div><div style="width:12px; height:12px; margin:-6px 0px -2px 0px; float:right;"><a href="#" onclick="document.getElementById('callimg').style.display='none';this.style.display='none';"><img alt="close" src="https://www.phoolwala.com/images/cross-icon1.png" style="height:10px;width:10px;z-index:99;"/></a></div>
+       <a href="https://www.phoolwala.com/request-cal-back/" title="Request A Free Call"><img alt="Request A Free Call" height="45" id="callimg" src="https://www.phoolwala.com/images/callback.png" title="Request A Free Call" width="130"/></a>
+       </div>
+</div>
+
+<div class="topnavi">
+<ul> 
+
+
+						<li><a href="https://www.phoolwala.com/track-order/" title="Track Order">Track Order</a></li>
+						<li><a href="https://www.phoolwala.com/florist-online/help/2/" title="Help">Help</a></li>
+						<li>
+												<a href="https://www.phoolwala.com/login/" title="Login">Login</a>
+							
+												</li>
+                       
+					</ul>
+</div>
+<div class="txte2"> Call:<a href="tel:+91 - 98733 56937" style="color: #000;"> +91 - 98733 56937</a> /<a href="tel:+91 - 92133 56937" style="color: #000;"> 92133 56937 </a></div>
+<div class="txte1">10+ Years of Trusted Flowers, Gifts Delivery | Thousands of Happy Customers</div>
+<div class="header">
+<div class="logo"><a href="https://www.phoolwala.com/" title="Phoolwala.com - India Florist"><img alt="Phoolwala.com - India Florist" src="https://www.phoolwala.com/images/logo-image.png"/></a>
+</div>
+<div class="topsearch">
+<form action="https://www.phoolwala.com/topsearch/" id="searchbox" method="post" name="topsearchfrm" onsubmit="return validate_topsearch();">
+<input id="search" name="tskeyword" onblur="javascript:if(this.value==''){this.value='Search flowers, cakes and gifts';}" onfocus="javascript:if(this.value=='Search flowers, cakes and gifts'){this.value='';}" placeholder="Search Flowers, Gifts, Cakes etc" type="text" value="Search flowers, cakes and gifts"/>
+    <input id="submit" type="submit" value="Search"/>
+</form>
+</div>
+<div class="spcart"><a href="https://www.phoolwala.com/my-account/" title="My Account"><img alt="My Account" src="https://www.phoolwala.com/images/myaccount-1.png"/></a><a href="https://www.phoolwala.com/cart.php" title="Shopping Cart"><img alt="Shopping Cart" src="https://www.phoolwala.com/images/shopping-cart-icon.png"/></a></div>
+<div class="clearfix"></div>
+</div>
+
+				<!-- Top Search From -->
+								<!-- Top Search From -->
+				<div class="topcart">
+					<table border="0" cellpadding="1" width="100%">		
+						<tbody><tr>
+							<td><a href="https://www.phoolwala.com/cart.php" title="Cart Items">
+							Rs							Cart(0)					
+							
+							</a> <img align="right" alt="Cart" src="https://www.phoolwala.com/images/shopping-cart.png" style="margin-top:-6px;margin-right:-6px;"/></td>
+							</tr>
+					</tbody></table>
+				</div>
+
+			<!-- top header //-->
+
+	  <!-- top - part //--><!-- header part -->
+
+
+	<!-- top navigation -->
+		<nav> 
+<label class="toggle" for="drop"><img align="bottom" height="24" src="https://www.phoolwala.com/images/menu.png" width="30"/></label>
+<input id="drop" type="checkbox"/>
+<ul class="menu">
+
+<!--li><a href="https://www.phoolwala.com/category/birthday-gifts/" title="Birthday Gifts" >Birthday</a></li-->
+
+
+
+<li>
+ <label class="toggle" for="drop-1">Birthday Gifts </label>
+<a href="javascript:void(0);return;">Birthday Gifts</a>
+    <input id="drop-1" type="checkbox"/>
+								<ul>						
+											<li><a href="https://www.phoolwala.com/flowers/birthday-flowers-delivery/" title="Birthday Flowers">Birthday Flowers</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/birthday-cakes-delivery/" title="Birthday Cakes">Birthday Cakes</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/birthday-flowers-n-cake-delivery/" title="Birthday Flowers N Cake">Birthday Flowers N Cake</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/birthday-flowers-n-chocolates-delivery/" title="Birthday Flowers N Chocolates">Birthday Flowers N Chocolates</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/birthday-flowers-n-soft-toys-delivery/" title="Birthday Flowers N Soft Toys">Birthday Flowers N Soft Toys</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/birthday-hampers-delivery/" title="Birthday Hampers">Birthday Hampers</a></li>
+											</ul>
+							</li>
+
+<li>
+<label class="toggle" for="drop-5">Express Delivery</label>
+<a href="javascript:void(0);return;">Express Delivery</a>
+ <input id="drop-5" type="checkbox"/>
+																
+								<ul>						
+											<li><a href="https://www.phoolwala.com/flowers/express-delivery/" title="Express Delivery">Express Delivery</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/mid-night--flowers-delivery/" title="Mid Night  Flowers Delivery">Mid Night  Flowers Delivery</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/recommended-products-delivery/" title="Recommended Products">Recommended Products</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/serenade-flowers-delivery/" title="Serenade Flowers Delivery">Serenade Flowers Delivery</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/flowers-n-cakes/" title="Flowers n Cakes">Flowers n Cakes</a></li>
+											</ul>
+					<!--<a href="https://www.phoolwala.com/flowers/express-delivery/" title="Same Day Delivery">Same Day Delivery</a></li>-->
+</li>
+
+
+
+<li>
+ <label class="toggle" for="drop-2">Gift by Occasions </label>
+<a href="javascript:void(0);return;">Gift by Occasions</a>
+    <input id="drop-2" type="checkbox"/>
+								<ul>						
+											<li><a href="https://www.phoolwala.com/flowers/birthday-delivery/" title="Birthday">Birthday</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/love-and-romance-delivery/" title="Love and Romance">Love and Romance</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/anniversary-delivery/" title="Anniversary Gifts Online">Anniversary Gifts Online</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/congratulations-delivery/" title="Congratulations">Congratulations</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/friendship-delivery/" title="Friendship">Friendship</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/get-well-soon-delivery/" title="Get Well Soon">Get Well Soon</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/sympathy-delivery/" title="Sympathy">Sympathy</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/just-like-that-delivery/" title="Just Like That">Just Like That</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/new-born-delivery/" title="New Born">New Born</a></li>
+											</ul>
+							</li>
+<li>
+ <label class="toggle" for="drop-3">Gift Combos </label>
+<a href="javascript:void(0);return;">Gift Combos</a>
+    <input id="drop-3" type="checkbox"/>
+								<ul>
+													<li><a href="https://www.phoolwala.com/flowers/flowers-with-cakes-delivery/" title="Flowers with Cakes">Flowers with Cakes</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/flowers-n-sweets/" title="Flowers N Sweets">Flowers N Sweets</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/flowers-n-chocolates/" title="Flowers N Chocolates">Flowers N Chocolates</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/flowers-n-soft-toys/" title="Flowers N Soft Toys">Flowers N Soft Toys</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/flowers-n-fruits/" title="Flowers N Fruits">Flowers N Fruits</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/flowers-with-teddy/" title="Flowers with Teddy">Flowers with Teddy</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/flowers-cakes-n-teddy-delivery/" title="Flowers Cakes N Teddy">Flowers Cakes N Teddy</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/flowers-chocolates-n-teddy-delivery/" title="Flowers Chocolates N Teddy">Flowers Chocolates N Teddy</a></li>
+											</ul>
+							
+		</li>
+<li><label class="toggle" for="drop-4">Offers</label>
+<a href="javascript:void(0);return;">Offers</a>
+ <input id="drop-4" type="checkbox"/>
+																
+								<ul>						
+											<li><a href="https://www.phoolwala.com/online/flowers-399-delivery/" title="Flowers@399">Flowers@399</a></li>
+											</ul>
+					</li>
+
+<li>
+ <label class="toggle" for="drop-6">Courier Gifts</label>
+<a href="javascript:void(0);return;">Courier Gifts</a>
+    <input id="drop-6" type="checkbox"/>
+						<ul>
+													<li><a href="https://www.phoolwala.com/flowers/personalized-gifts/" title="Personalized Gifts">Personalized Gifts</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/golden-n-silver-roses/" title="Golden N Silver Roses">Golden N Silver Roses</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/antique-gifts-collection/" title="Antique Gifts Collection">Antique Gifts Collection</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/bonsai-n-lucky-plants/" title="Bonsai N Lucky Plants">Bonsai N Lucky Plants</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/huggable-soft-toys/" title="Huggable Soft Toys">Huggable Soft Toys</a></li>
+													<li><a href="https://www.phoolwala.com/flowers/handmade-home-decor/" title="Handmade Home Decor">Handmade Home Decor</a></li>
+											</ul>
+								</li>
+<li><label class="toggle" for="drop-9">Corporate Gifts</label>
+<a href="javascript:void(0);return;">Corporate Gifts</a>
+ <input id="drop-9" type="checkbox"/>
+																
+								<ul>						
+											<li><a href="https://www.phoolwala.com/online/senior-management-delivery/" title="Senior Management">Senior Management</a></li>
+													<li><a href="https://www.phoolwala.com/online/middle-management-delivery/" title="Middle Management">Middle Management</a></li>
+													<li><a href="https://www.phoolwala.com/online/junior-management-delivery/" title="Junior Management">Junior Management</a></li>
+											</ul>
+					</li>
+<li>
+ <label class="toggle" for="drop-10">Remote Location</label>
+<a href="javascript:void(0);return;">Remote Location</a>
+    <input id="drop-10" type="checkbox"/>
+									<ul>						
+											<li><a href="https://www.phoolwala.com/online/remote-area-locations-for-delivery/" title="Remote Area Locations for Delivery">Remote Area Locations for Delivery</a></li>
+											</ul>
+					</li>
+<li>
+ <label class="toggle" for="drop-7">International</label>
+<a href="javascript:void(0);return;">International</a>
+    <input id="drop-7" type="checkbox"/>
+<ul>
+										<li><a href="https://www.phoolwala.com/international-products/philippines/" title="Philippines">
+						Philippines</a></li>
+										<li><a href="https://www.phoolwala.com/international-products/singapore/" title="Singapore">
+						Singapore</a></li>
+										<li><a href="https://www.phoolwala.com/international-products/uae/" title="United Arab Emirates">
+						United Arab Emirates</a></li>
+										<li><a href="https://www.phoolwala.com/international-products/usa/" title="United States">
+						United States</a></li>
+										<li><a href="https://www.phoolwala.com/international-delivery/" title="View All Countries">View All Countries</a></li>
+				                <li>
+                
+			</li></ul>
+</li>
+
+
+
+<li>
+ <label class="toggle" for="drop-11">By Price</label>
+<a href="javascript:void(0);return;">By Price</a>
+    <input id="drop-11" type="checkbox"/>
+<!--   
+   <ul>
+				<li><a href="https://www.phoolwala.com/price/501/1000/" title="[501 to 1000]">[501 to 1000]</a></li>
+				<li><a href="https://www.phoolwala.com/price/1001/1500/" title="[1001 to 1500]">[1001 to 1500]</a></li>
+				<li><a href="https://www.phoolwala.com/price/1501/2000/" title="[1501 to 2000]">[1501 to 2000]</a></li>
+				<li><a href="https://www.phoolwala.com/price/2501/3000/" title="[2501 to 3000]">[2501 to 3000]</a></li>
+				<li><a href="https://www.phoolwala.com/price/3001/10000/" title="[3001 and above]">[3001 and above]</a></li>
+			</ul>
+-->            
+  </li>
+  
+  <li><a href="https://www.phoolwala.com/gifts-to-india/" title="Gifts to India">View ALL</a></li>
+</ul>
+</nav>
+
+
+
+
+
+
+
+<div class="categories"><a href="#"> </a>
+<div id="pitch" style="display:block;">
+	    <div class="left-div">
+			<div style="float:left;">
+				<div id="cssmenu">
+                <li class="cathead">Categories</li>
+						<ul>
+			
+					<!-- FIRST LI -->
+						<li class="frstli"><a href="https://www.phoolwala.com/online/birthday-gifts-delivery/" title="Birthday Gifts"><span> Birthday Gifts</span></a>            
+							<ul>
+														<li> 
+															<table border="0" cellpadding="0" cellspacing="0" width="100%">
+															<tbody><tr>
+																	<td>
+																			<table border="0" cellpadding="3" cellspacing="2" style="vertical-align:top;" width="100%">
+
+															 <tbody><tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/birthday-flowers-delivery/" title="Birthday Flowers delivery">
+																						Birthday Flowers																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/birthday-cakes-delivery/" title="Birthday Cakes">
+																						Birthday Cakes																					</a>
+																				</td>	
+															 </tr>  <tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/birthday-flowers-n-cake-delivery/" title="Birthday Flowers N Cake delivery">
+																						Birthday Flowers N Cake																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/birthday-flowers-n-chocolates-delivery/" title="Birthday Flowers N Chocolates delivery">
+																						Birthday Flowers N Chocolates																					</a>
+																				</td>	
+															 </tr>  <tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/birthday-flowers-n-soft-toys-delivery/" title="Birthday Flowers N Soft Toys delivery">
+																						Birthday Flowers N Soft Toys																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/birthday-hampers-delivery/" title="Birthday Hampers gifts delivery">
+																						Birthday Hampers																					</a>
+																				</td>	
+															 </tr> 																			</tbody></table>
+																	
+																	</td>									
+															</tr>
+															<tr>
+																	<td class="offer-sucategory1" colspan="2">   
+																	<a href="https://www.phoolwala.com/online/birthday-gifts-delivery/" title="View all birthday gifts"><strong>View all birthday gifts</strong></a>
+																	</td>																	
+															</tr>
+														</tbody></table>																					
+													</li>
+						  </ul>
+			  </li>
+					<!-- FIRST LI //-->
+					
+					<!-- FIRST LI -->
+						<li class="scndli"><a href="https://www.phoolwala.com/online/gifts-by-occasions-delivery/" title="Gifts By Occasions"><span> Gifts By Occasions</span></a>            
+							<ul>
+														<li> 
+															<table border="0" cellpadding="0" cellspacing="0" width="100%">
+															<tbody><tr>
+																	<td>
+																			<table border="0" cellpadding="3" cellspacing="2" style="vertical-align:top;" width="100%">
+
+															 <tbody><tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/birthday-delivery/" title="Birthday">
+																						Birthday																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/love-and-romance-delivery/" title="Love and Romance">
+																						Love and Romance																					</a>
+																				</td>	
+															 </tr>  <tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/anniversary-delivery/" title="Anniversary Gifts">
+																						Anniversary Gifts Online																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/congratulations-delivery/" title="Congratulations">
+																						Congratulations																					</a>
+																				</td>	
+															 </tr>  <tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/friendship-delivery/" title="Friendship">
+																						Friendship																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/get-well-soon-delivery/" title="Get Well Soon">
+																						Get Well Soon																					</a>
+																				</td>	
+															 </tr>  <tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/sympathy-delivery/" title="Sympathy">
+																						Sympathy																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/just-like-that-delivery/" title="Just Like That">
+																						Just Like That																					</a>
+																				</td>	
+															 </tr>  <tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/new-born-delivery/" title="New Born">
+																						New Born																					</a>
+																				</td>	
+															 <td>    </td>  </tr>																			</tbody></table>
+																	
+																	</td>									
+															</tr>
+															<tr>
+																	<td class="offer-sucategory1" colspan="2">   
+																	<a href="https://www.phoolwala.com/online/gifts-by-occasions-delivery/" title="View all gifts by occasions"><strong>View all gifts by occasions</strong></a>
+																	</td>																	
+															</tr>
+														</tbody></table>																					
+													</li>
+						  </ul>
+			  </li>
+					<!-- FIRST LI //-->
+					
+					<!-- FIRST LI -->
+						<li class="frstli"><a href="https://www.phoolwala.com/online/flowers-399-delivery/" title="Flowers@399"><span> Flowers@399</span></a>            
+							<ul>
+														<li> 
+															<table border="0" cellpadding="0" cellspacing="0" width="100%">
+															<tbody><tr>
+																	<td>
+																			<table border="0" cellpadding="3" cellspacing="2" style="vertical-align:top;" width="100%">
+
+															 <tbody><tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/flowers-special-offers-delivery/" title="Flowers Special Offers">
+																						Flowers Special Offers																					</a>
+																				</td>	
+															 <td>    </td>  </tr>																			</tbody></table>
+																	
+																	</td>									
+															</tr>
+															<tr>
+																	<td class="offer-sucategory1" colspan="2">   
+																	<a href="https://www.phoolwala.com/online/flowers-399-delivery/" title="View all flowers@399"><strong>View all flowers@399</strong></a>
+																	</td>																	
+															</tr>
+														</tbody></table>																					
+													</li>
+						  </ul>
+			  </li>
+					<!-- FIRST LI //-->
+					
+					<!-- FIRST LI -->
+						<li class="scndli"><a href="https://www.phoolwala.com/online/flowers-499-delivery/" title="Flowers@499"><span> Flowers@499</span></a>            
+							<ul>
+														<li> 
+															<table border="0" cellpadding="0" cellspacing="0" width="100%">
+															<tbody><tr>
+																	<td>
+																			<table border="0" cellpadding="3" cellspacing="2" style="vertical-align:top;" width="100%">
+
+															 <tbody><tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/special-flowers-offers-delivery/" title="Special Flowers Offers only 499 Rs.">
+																						Special Flowers Offers																					</a>
+																				</td>	
+															 <td>    </td>  </tr>																			</tbody></table>
+																	
+																	</td>									
+															</tr>
+															<tr>
+																	<td class="offer-sucategory1" colspan="2">   
+																	<a href="https://www.phoolwala.com/online/flowers-499-delivery/" title="View all flowers@499"><strong>View all flowers@499</strong></a>
+																	</td>																	
+															</tr>
+														</tbody></table>																					
+													</li>
+						  </ul>
+			  </li>
+					<!-- FIRST LI //-->
+					
+					<!-- FIRST LI -->
+						<li class="frstli"><a href="https://www.phoolwala.com/online/gifts-by-receiver-delivery/" title="Gifts By Receiver"><span> Gifts By Receiver</span></a>            
+							<ul>
+														<li> 
+															<table border="0" cellpadding="0" cellspacing="0" width="100%">
+															<tbody><tr>
+																	<td>
+																			<table border="0" cellpadding="3" cellspacing="2" style="vertical-align:top;" width="100%">
+
+															 <tbody><tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/mom-n-grandmother-delivery/" title="Mom N Grandmother">
+																						Mom N Grandmother																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/wife-n-girl-friends-delivery/" title="Wife N Girl Friends">
+																						Wife N Girl Friends																					</a>
+																				</td>	
+															 </tr>  <tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/husband-n-boyfriend-delivery/" title="Husband N Boyfriend">
+																						Husband N Boyfriend																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/sister-n-daughter-delivery/" title="Sister N Daughter">
+																						Sister N Daughter																					</a>
+																				</td>	
+															 </tr>  <tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/brother-n-son-delivery/" title="Brother N Son">
+																						Brother N Son																					</a>
+																				</td>	
+															 <td>    </td>  </tr>																			</tbody></table>
+																	
+																	</td>									
+															</tr>
+															<tr>
+																	<td class="offer-sucategory1" colspan="2">   
+																	<a href="https://www.phoolwala.com/online/gifts-by-receiver-delivery/" title="View all gifts by receiver"><strong>View all gifts by receiver</strong></a>
+																	</td>																	
+															</tr>
+														</tbody></table>																					
+													</li>
+						  </ul>
+			  </li>
+					<!-- FIRST LI //-->
+					
+					<!-- FIRST LI -->
+						<li class="scndli"><a href="https://www.phoolwala.com/online/gifts-for-her-delivery/" title="Gifts-for-her"><span> Gifts-for-her</span></a>            
+							<ul>
+														<li> 
+															<table border="0" cellpadding="0" cellspacing="0" width="100%">
+															<tbody><tr>
+																	<td>
+																			<table border="0" cellpadding="3" cellspacing="2" style="vertical-align:top;" width="100%">
+
+															 <tbody><tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/gifts-for-wife/" title="flowers gifts for her">
+																						Gifts for wife																					</a>
+																				</td>	
+															 <td>    </td>  </tr>																			</tbody></table>
+																	
+																	</td>									
+															</tr>
+															<tr>
+																	<td class="offer-sucategory1" colspan="2">   
+																	<a href="https://www.phoolwala.com/online/gifts-for-her-delivery/" title="View all gifts-for-her"><strong>View all gifts-for-her</strong></a>
+																	</td>																	
+															</tr>
+														</tbody></table>																					
+													</li>
+						  </ul>
+			  </li>
+					<!-- FIRST LI //-->
+					
+					<!-- FIRST LI -->
+						<li class="frstli"><a href="https://www.phoolwala.com/online/cakes-to-india-delivery-delivery/" title="Cakes to India Delivery"><span> Cakes to India Delivery</span></a>            
+							<ul>
+														<li> 
+															<table border="0" cellpadding="0" cellspacing="0" width="100%">
+															<tbody><tr>
+																	<td>
+																			<table border="0" cellpadding="3" cellspacing="2" style="vertical-align:top;" width="100%">
+
+															 <tbody><tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/regular-express-cakes-delivery/" title="Regular Express Cakes">
+																						Regular Express Cakes																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/regular-egg-less-cakes-delivery/" title="Regular Egg-Less Cakes">
+																						Regular Egg-Less Cakes																					</a>
+																				</td>	
+															 </tr>  <tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/regular-heart-shape-cakes-delivery/" title="Regular Heart Shape Cakes">
+																						Regular Heart Shape Cakes																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/five-star-bakery-cakes-delivery/" title="Five Star Bakery Cakes">
+																						Five Star Bakery Cakes																					</a>
+																				</td>	
+															 </tr>  <tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/designer-cakes-delivery/" title="Designer Cakes">
+																						Designer Cakes																					</a>
+																				</td>	
+															 <td>    </td>  </tr>																			</tbody></table>
+																	
+																	</td>									
+															</tr>
+															<tr>
+																	<td class="offer-sucategory1" colspan="2">   
+																	<a href="https://www.phoolwala.com/online/cakes-to-india-delivery-delivery/" title="View all cakes to india delivery"><strong>View all cakes to india delivery</strong></a>
+																	</td>																	
+															</tr>
+														</tbody></table>																					
+													</li>
+						  </ul>
+			  </li>
+					<!-- FIRST LI //-->
+					
+					<!-- FIRST LI -->
+						<li class="scndli"><a href="https://www.phoolwala.com/online/shop-by-feelings-delivery/" title="Shop By Feelings"><span> Shop By Feelings</span></a>            
+							<ul>
+														<li> 
+															<table border="0" cellpadding="0" cellspacing="0" width="100%">
+															<tbody><tr>
+																	<td>
+																			<table border="0" cellpadding="3" cellspacing="2" style="vertical-align:top;" width="100%">
+
+															 <tbody><tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/love-delivery/" title="Love">
+																						Love																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/regret-delivery/" title="Regret">
+																						Regret																					</a>
+																				</td>	
+															 </tr>  <tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/friendship-delivery/" title="Friendship">
+																						Friendship																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/courage-n-hopes-delivery/" title="Courage N Hopes">
+																						Courage N Hopes																					</a>
+																				</td>	
+															 </tr>  <tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/thank-you-delivery/" title="Thank You">
+																						Thank You																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/sympathy-delivery/" title="Sympathy">
+																						Sympathy																					</a>
+																				</td>	
+															 </tr> 																			</tbody></table>
+																	
+																	</td>									
+															</tr>
+															<tr>
+																	<td class="offer-sucategory1" colspan="2">   
+																	<a href="https://www.phoolwala.com/online/shop-by-feelings-delivery/" title="View all shop by feelings"><strong>View all shop by feelings</strong></a>
+																	</td>																	
+															</tr>
+														</tbody></table>																					
+													</li>
+						  </ul>
+			  </li>
+					<!-- FIRST LI //-->
+					
+					<!-- FIRST LI -->
+						<li class="frstli"><a href="https://www.phoolwala.com/online/bonsai-plants-delivery/" title="Bonsai Plants"><span> Bonsai Plants</span></a>            
+							<ul>
+														<li> 
+															<table border="0" cellpadding="0" cellspacing="0" width="100%">
+															<tbody><tr>
+																	<td>
+																			<table border="0" cellpadding="3" cellspacing="2" style="vertical-align:top;" width="100%">
+
+															 <tbody><tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/bonsai-plants-and-trees-delivery/" title="Bonsai Plants and Trees">
+																						Bonsai Plants and Trees																					</a>
+																				</td>	
+															 <td>    </td>  </tr>																			</tbody></table>
+																	
+																	</td>									
+															</tr>
+															<tr>
+																	<td class="offer-sucategory1" colspan="2">   
+																	<a href="https://www.phoolwala.com/online/bonsai-plants-delivery/" title="View all bonsai plants"><strong>View all bonsai plants</strong></a>
+																	</td>																	
+															</tr>
+														</tbody></table>																					
+													</li>
+						  </ul>
+			  </li>
+					<!-- FIRST LI //-->
+					
+					<!-- FIRST LI -->
+						<li class="scndli"><a href="https://www.phoolwala.com/online/corporate-gifts-delivery/" title="Corporate Gifts"><span> Corporate Gifts</span></a>            
+							<ul>
+														<li> 
+															<table border="0" cellpadding="0" cellspacing="0" width="100%">
+															<tbody><tr>
+																	<td>
+																			<table border="0" cellpadding="3" cellspacing="2" style="vertical-align:top;" width="100%">
+
+															 <tbody><tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/senior-management-delivery/" title="Senior Management">
+																						Senior Management																					</a>
+																				</td>	
+															 <td>    </td> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/middle-management-delivery/" title="Middle Management">
+																						Middle Management																					</a>
+																				</td>	
+															 </tr>  <tr> 																
+																				<td>
+																					<a href="https://www.phoolwala.com/flowers/junior-management-delivery/" title="Junior Management">
+																						Junior Management																					</a>
+																				</td>	
+															 <td>    </td>  </tr>																			</tbody></table>
+																	
+																	</td>									
+															</tr>
+															<tr>
+																	<td class="offer-sucategory1" colspan="2">   
+																	<a href="https://www.phoolwala.com/online/corporate-gifts-delivery/" title="View all corporate gifts"><strong>View all corporate gifts</strong></a>
+																	</td>																	
+															</tr>
+														</tbody></table>																					
+													</li>
+						  </ul>
+			  </li>
+					<!-- FIRST LI //-->
+										
+				  </ul>
+									</div>
+			</div>
+		</div>
+		
+ <!-- Demo CSS -->
+
+
+	<!-- Modernizr -->
+
+    <div class="flexslider">
+          <ul class="slides">
+				
+<!--
+				<div class="pitch-gallery-div"> 
+					<img src="https://www.phoolwala.com/adminpanel/uploads/js_slider/1466573186-1-birthday-flowers-gifts-delivery.jpg" alt="Send Birthday Flowers Gifts to India" />
+					<div class="infoline">Send Birthday Flowers Gifts to India</div>
+				</div>
+				-->
+  	    		<li>
+  	    	    <a href="https://www.phoolwala.com/online/birthday-gifts-delivery/" style="padding-left:0px;" title="Send Birthday Flowers Gifts to India"><img alt="Send Birthday Flowers Gifts to India" height="298" src="https://www.phoolwala.com/adminpanel/uploads/js_slider/1466573186-1-birthday-flowers-gifts-delivery.jpg" width="100%"/></a>
+				<div class="infoline">Send Birthday Flowers Gifts to India</div>
+  	    		</li>
+ <!--
+				<div class="pitch-gallery-div"> 
+					<img src="https://www.phoolwala.com/adminpanel/uploads/js_slider/1455611055-1441281635-1431423405-send-express-flowers-n-gifts-combos-to-india.jpg" alt="Send Flowers with Cakes as Combo Gifts to India" />
+					<div class="infoline">Send Flowers with Cakes as Combo Gifts to India</div>
+				</div>
+				-->
+  	    		<li>
+  	    	    <a href="http://www.phoolwala.com/products/flowers-with-cakes/" style="padding-left:0px;" title="Send Flowers with Cakes as Combo Gifts to India"><img alt="Send Flowers with Cakes as Combo Gifts to India" height="298" src="https://www.phoolwala.com/adminpanel/uploads/js_slider/1455611055-1441281635-1431423405-send-express-flowers-n-gifts-combos-to-india.jpg" width="100%"/></a>
+				<div class="infoline">Send Flowers with Cakes as Combo Gifts to India</div>
+  	    		</li>
+ <!--
+				<div class="pitch-gallery-div"> 
+					<img src="https://www.phoolwala.com/adminpanel/uploads/js_slider/1447498601-1441356739-1399957875-golden rose slider.jpg" alt="Golden and Silver Roses" />
+					<div class="infoline">Golden and Silver Roses</div>
+				</div>
+				-->
+  	    		<li>
+  	    	    <a href="http://www.phoolwala.com/products/golden-n-silver-roses/" style="padding-left:0px;" title="Golden and Silver Roses"><img alt="Golden and Silver Roses" height="298" src="https://www.phoolwala.com/adminpanel/uploads/js_slider/1447498601-1441356739-1399957875-golden rose slider.jpg" width="100%"/></a>
+				<div class="infoline">Golden and Silver Roses</div>
+  	    		</li>
+ <!--
+				<div class="pitch-gallery-div"> 
+					<img src="https://www.phoolwala.com/adminpanel/uploads/js_slider/1462862512-bonsai-plants1.jpg" alt="Send Bonsai Lucky Plants Gift Online" />
+					<div class="infoline">Send Bonsai Lucky Plants Gift Online</div>
+				</div>
+				-->
+  	    		<li>
+  	    	    <a href="http://www.phoolwala.com/flowers/bonsai-n-lucky-plants/" style="padding-left:0px;" title="Send Bonsai Lucky Plants Gift Online"><img alt="Send Bonsai Lucky Plants Gift Online" height="298" src="https://www.phoolwala.com/adminpanel/uploads/js_slider/1462862512-bonsai-plants1.jpg" width="100%"/></a>
+				<div class="infoline">Send Bonsai Lucky Plants Gift Online</div>
+  	    		</li>
+ <!--
+				<div class="pitch-gallery-div"> 
+					<img src="https://www.phoolwala.com/adminpanel/uploads/js_slider/1471853294-1458977606-1441616314-1431423394-send-flowers-399.jpg" alt="Send Flowers at Low Price 399/- | Delivery all Ind" />
+					<div class="infoline">Send Flowers at Low Price 399/- | Delivery all Ind</div>
+				</div>
+				-->
+  	    		<li>
+  	    	    <a href="https://www.phoolwala.com/online/flowers-399-delivery/" style="padding-left:0px;" title="Send Flowers at Low Price 399/- | Delivery all Ind"><img alt="Send Flowers at Low Price 399/- | Delivery all Ind" height="298" src="https://www.phoolwala.com/adminpanel/uploads/js_slider/1471853294-1458977606-1441616314-1431423394-send-flowers-399.jpg" width="100%"/></a>
+				<div class="infoline">Send Flowers at Low Price 399/- | Delivery all Ind</div>
+  	    		</li>
+   
+ 
+    
+          </ul>
+  </div>
+<!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
+
+
+  <!-- FlexSlider -->
+  <script src="jquery.flexslider.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+    $(window).load(function(){
+      $('.flexslider').flexslider({
+        animation: "slide",
+        start: function(slider){
+          $('body').removeClass('loading');
+        }
+      });
+    });
+  </script>
+    <div class="sidecat">
+<ul>
+  <li><a href="https://www.phoolwala.com/flowers/new-born-delivery/"><img alt="New Born" src="/images/homecat/newborn.jpg"/></a></li>
+    <li><a href="https://www.phoolwala.com/flowers/birthday-delivery/"><img alt="Birthday" src="/images/homecat/birthday.jpg"/></a></li>
+          <li><a href="https://www.phoolwala.com/flowers/anniversary-delivery/"><img alt="Anniversary" src="/images/homecat/anniversary.jpg"/></a></li>
+  <li><a href="https://www.phoolwala.com/flowers/just-like-that-delivery/"><img alt="Just Like That" src="/images/homecat/justlikethat.jpg"/></a></li>
+     </ul>
+  <div class="sidecat1"><a href="https://www.phoolwala.com/flowers/love-and-romance-delivery/"><img alt="Love and Romance" src="../images/homecat/loveandromance.jpg"/></a></div>
+	  </div></div> 
+		</div>
+
+
+	<!-- top navigation //-->
+
+
+
+<!-- header part //-->
+		<!-- middle part -->
+	<div id="middle_part">
+		<div class="middle">
+<div id="subcontainer">	
+
+ 	       	
+
+
+		<div style="width:100%;float:left;">
+
+				<!-- /-->
+
+				<div align="center" style="width:100%;margin:20px 0 10px 0; color: #666; font-size: 24px;"> Flowers@399	
+		</div>
+</div>
+		<!-- product list -->
+<div class="boxes">	
+		  
+
+
+
+		<ul>
+
+					  <li>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/flowers-online-10-red-roses-delivery/5794/"><img alt="10 Red Roses" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/10redrosesbunch.jpg" title="10 Red Roses"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="10 Red Roses">
+
+												10 Red Roses</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 399.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 6.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+
+
+		<ul>
+
+					  <li>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/flowers-online-10-mix-gerberas-delivery/5797/"><img alt="10 Mix Gerberas" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/10mixgerberas.jpg" title="10 Mix Gerberas"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="10 Mix Gerberas">
+
+												10 Mix Gerberas</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 399.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 6.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+
+
+		<ul>
+
+					  <li>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/flowers-online-10-mix-carnations-delivery/5796/"><img alt="10 Mix Carnations" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/10mixcarnations.jpg" title="10 Mix Carnations"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="10 Mix Carnations">
+
+												10 Mix Carnations</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 399.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 6.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+
+
+		<ul>
+
+					  <li>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/flowers-online-10-pink-roses-delivery/5799/"><img alt="10 Pink Roses" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/10pinkroses.jpg" title="10 Pink Roses"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="10 Pink Roses">
+
+												10 Pink Roses</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 399.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 6.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+
+
+		<ul>
+
+					  <li>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/flowers-surprise-by-roses--flowers-bouquet-to-bangalore/5922/"><img alt="Surprise by Roses- Flowers bouquet to Bangalore" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/bangalore-flowers-8-pink-roses-paper-pack.jpg" title="Flowers Surprise by Roses- Flowers bouquet to Bangalore"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Flowers Surprise by Roses- Flowers bouquet to Bangalore">
+
+												Flowers Surprise by ...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 399.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 6.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		        <div class="clearfix"></div>
+<div align="center"><a href="https://www.phoolwala.com/flowers/flowers-399-delivery/" style="color: #666; font-size: 12px;"><strong> View <font color="8460a2">More</font></strong></a>
+
+				 </div>
+		</div>
+
+		
+		
+
+		<!-- product list //-->
+
+
+
+
+	
+
+
+		<div style="width:100%;float:left;">
+
+				<!-- /-->
+
+				<div align="center" style="width:100%;margin:20px 0 10px 0; color: #666; font-size: 24px;"> Birthday Gifts				
+
+				</div>
+</div>
+			<!-- product list -->
+<div class="boxes">	
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/birthday-flowers-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Birthday Flowers">Birthday Flowers</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/basket-of-15-mix-roses/613/"><img alt="Basket of mix roses to India" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1377943249-1303379892-PHW-B-15-WPYO-R.jpg" title="Basket of 15 Mix Roses"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Basket of 15 Mix Roses">
+
+												Basket of 15 Mix Ros...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 839.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 12.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/birthday-cakes-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Birthday Cakes">Birthday Cakes</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/flowers-cakes-online-10-red-roses-n-black-forest-cake-delivery/5653/"><img alt="10 Red roses N Black Forest  Cake" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/PHW-10RR-0.5BFcake-NW.jpg" title="10 Red roses N Black Forest Cake"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="10 Red roses N Black Forest Cake">
+
+												10 Red roses N Black...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 944.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 14.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/birthday-flowers-n-cake-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Birthday Flowers N Cake">Flowers N Cake</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/flowers-cakes-online-sweet-simple-carnation-hamper-delivery/5684/"><img alt="Sweet Simple carnation Hamper " src="https://www.phoolwala.com/adminpanel/uploads/thumbs/PW-24RC-6inchTeddy-0.5Kg-Pnaplcake.jpg" title="Sweet Simple carnation Hamper"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Sweet Simple carnation Hamper">
+
+												Sweet Simple carnati...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,599.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 23.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/birthday-flowers-n-chocolates-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Birthday Flowers N Chocolates">Flowers N Chocolate</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-flowers-rose-and-love-delivery/6023/"><img alt="Rose and Love " src="https://www.phoolwala.com/adminpanel/uploads/thumbs/Pw-10rr-teddy-ferro16.jpg" title="Rose and Love"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Rose and Love">
+
+												Rose and Love</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,599.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 23.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/birthday-flowers-n-soft-toys-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Birthday Flowers N Soft Toys">Flowers N Soft Toys</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-flowers-chocolates-teddy-eureka-delivery/618/"><img alt="Roses with Teddy N Chocolates to India" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1303381392-PHW-N-15-MIX-R-5CDBRYCHLT-TEDDY.jpg" title="Eureka"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Eureka">
+
+												Eureka</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,154.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 17.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		        <div class="clearfix"></div>
+<div align="center"><a href="https://www.phoolwala.com/online/birthday-gifts-delivery/" style="color: #666; font-size: 12px;"><strong> View <font color="8460a2">More</font></strong></a>
+
+				 </div>
+		</div>
+
+		
+		
+
+		<!-- product list //-->
+
+		
+		<div style="width:100%;float:right;margin-left:1px;">
+
+				<!-- /-->
+
+				<div align="center" style="width:100%;margin:20px 0 10px 0; color: #666; font-size: 24px;"> Gifts By Occasions				
+
+				</div>
+</div>
+			<!-- product list -->
+<div class="boxes">	
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/birthday-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Birthday">Birthday</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/gifts-to-india-heart-full-love-delivery/5652/"><img alt="Heart Full Love" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/PHW-60RR-0.5Ccake-NW.jpg" title="Heart Full Love"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Heart Full Love">
+
+												Heart Full Love</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 2,414.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 35.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/love-and-romance-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Love and Romance">Love and Romance</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-flowers-100-red-roses-arrangement-delivery/791/"><img alt="100 Red Roses Arrangement to india" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1314173060-100-Roses-3-4-ft.jpg" title="100 Red Roses Arrangement"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="100 Red Roses Arrangement">
+
+												100 Red Roses Arrang...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 3,499.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 51.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/anniversary-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Anniversary Gifts Online">Anniversary</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/rakhi-gifts-india-50-red-roses-with-99-ferrero-rocher-delivery/794/"><img alt="Bunch of 50 Red Roses with 99 ferrero to India" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1321270978-ferrero chocilate.jpg" title="50 Red Roses with 99 ferrero  rocher"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="50 Red Roses with 99 ferrero  rocher">
+
+												50 Red Roses with 99...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 5,879.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 85.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/congratulations-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Congratulations">Congratulations</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-flowers-happy-memories-delivery/796/"><img alt="Rose and Carnations with Chocolates to India" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/6-r-6-ger-1-dairymilk.jpg" title="Happy Memories"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Happy Memories">
+
+												Happy Memories</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 734.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 11.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/friendship-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Friendship">Friendship</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-flowers-15-mix-roses-delivery/377/"><img alt="15 Mix Roses to India" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1296382699-PH-15-PRY-R.jpg" title="15 mix roses"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="15 mix roses">
+
+												15 mix roses</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 734.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 11.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		        <div class="clearfix"></div>
+<div align="center"><a href="https://www.phoolwala.com/online/gifts-by-occasions-delivery/" style="color: #666; font-size: 12px;"><strong> View <font color="8460a2">More</font></strong></a>
+
+				 </div>
+		</div>
+
+		
+		
+
+		<!-- product list //-->
+
+		
+		<div style="width:100%;float:left;">
+
+				<!-- /-->
+
+				<div align="center" style="width:100%;margin:20px 0 10px 0; color: #666; font-size: 24px;"> Gifts By Receiver				
+
+				</div>
+</div>
+			<!-- product list -->
+<div class="boxes">	
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/mom-n-grandmother-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Mom N Grandmother">Mom N Grandmother</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/roses-with-assorted-chocolates/797/"><img alt="Bouquet of 12 Red roses with assorted Cadbury Chocolates" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1322825662-FT-N12RR-CHOC.jpg" title="Roses with assorted Chocolates"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Roses with assorted Chocolates">
+
+												Roses with assorted ...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 734.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 11.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/wife-n-girl-friends-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Wife N Girl Friends">Wife N Girl Friends</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-flowers-chocolates-teddy-roses-n-fererro-rocher-delivery/600/"><img alt="Roses and chocolates to India" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1303290543-PHW-B-12-R-R-16PCSFRROCH-TEDDY.jpg" title="Roses n Fererro Rocher"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Roses n Fererro Rocher">
+
+												Roses n Fererro Roch...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,469.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 21.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/husband-n-boyfriend-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Husband N Boyfriend">Husband N Boyfriend</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-flowers-shining-surprise-delivery/610/"><img alt="send Lovely Basket to India" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1377943825-1303295154-PHW-B-12-RW-CGER.jpg" title="Shining Surprise"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Shining Surprise">
+
+												Shining Surprise</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 944.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 14.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/sister-n-daughter-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Sister N Daughter">Sister N Daughter</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/flowers-online-chocolates-love-struck-delivery/5701/"><img alt="Love Struck" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/PW-16RR-126gmCadcelb-6inchteddy.jpg" title="Love Struck"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Love Struck">
+
+												Love Struck</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,399.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 20.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/brother-n-son-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Brother N Son">Brother N Son</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-flowers-cakes-happiness-mayhem-delivery/386/"><img alt="12 Red Carnation and Cake to India" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1296457422-PH-12-R-C-0.5KGCCAKE.jpg" title="Happiness Mayhem"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Happiness Mayhem">
+
+												Happiness Mayhem</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,259.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 18.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		        <div class="clearfix"></div>
+<div align="center"><a href="https://www.phoolwala.com/online/gifts-by-receiver-delivery/" style="color: #666; font-size: 12px;"><strong> View <font color="8460a2">More</font></strong></a>
+
+				 </div>
+		</div>
+
+		
+		
+
+		<!-- product list //-->
+
+		
+		<div style="width:100%;float:right;margin-left:1px;">
+
+				<!-- /-->
+
+				<div align="center" style="width:100%;margin:20px 0 10px 0; color: #666; font-size: 24px;"> Cakes to India Delivery				
+
+				</div>
+</div>
+			<!-- product list -->
+<div class="boxes">	
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/regular-express-cakes-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Regular Express Cakes">Regular Express Cakes</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-cakes-1kg-chocolate-cake-delivery/341/"><img alt="1kg chocolate cake" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1296374386-1KG-CHOC-CAKE.jpg" title="1KG - Chocolate - Cake"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="1KG - Chocolate - Cake">
+
+												1KG - Chocolate - Ca...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,364.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 20.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/regular-egg-less-cakes-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Regular Egg-Less Cakes">Regular Egg-Less Cakes</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-cakes-heart-shape-eggless-chocolate-cake-delivery/1066/"><img alt="Heart Shape Eggless Chocolate Cake to India" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1349417862-MF138_1lg__17558_std.jpg" title="Heart Shape Eggless Chocolate Cake"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Heart Shape Eggless Chocolate Cake">
+
+												Heart Shape Eggless ...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,574.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 23.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/regular-heart-shape-cakes-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Regular Heart Shape Cakes">Regular Heart Shape Cakes</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/cakes-online-1kg-heart-shape-pineapple-cake-delivery/2266/"><img alt="1Kg Heart Shape Pineapple Cake" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1368261005-PW-DCK003.jpg" title="1Kg Heart Shape Pineapple Cake"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="1Kg Heart Shape Pineapple Cake">
+
+												1Kg Heart Shape Pine...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,469.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 21.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/five-star-bakery-cakes-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Five Star Bakery Cakes">Five Star Bakery Cakes</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/cakes-online-five-star-bakery-chocolate-truffle-cake-1kg-delivery/2273/"><img alt="Five Star Bakery - Chocolate Truffle Cake 1Kg" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1368266382-PW-FSC004.jpg" title="Five Star Bakery - Chocolate Truffle Cake 1Kg"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Five Star Bakery - Chocolate Truffle Cake 1Kg">
+
+												Five Star Bakery - C...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 3,499.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 51.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/designer-cakes-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Designer Cakes">Designer Cakes</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/cakes-online-smiley-cake-delivery/5805/"><img alt="Smiley Cake" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1kgsmileycake.jpg" title="Smiley Cake"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Smiley Cake">
+
+												Smiley Cake</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,800.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 26.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		        <div class="clearfix"></div>
+<div align="center"><a href="https://www.phoolwala.com/online/cakes-to-india-delivery-delivery/" style="color: #666; font-size: 12px;"><strong> View <font color="8460a2">More</font></strong></a>
+
+				 </div>
+		</div>
+
+		
+		
+
+		<!-- product list //-->
+
+		
+		<div style="width:100%;float:left;">
+
+				<!-- /-->
+
+				<div align="center" style="width:100%;margin:20px 0 10px 0; color: #666; font-size: 24px;"> Shop By Feelings				
+
+				</div>
+</div>
+			<!-- product list -->
+<div class="boxes">	
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/love-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Love">Love</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-flowers-basket-of-gifts-delivery/390/"><img alt="12 Mix Roses and Chocolate and Teddy to India" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1349979798-1296458671-B-12-WOP-R-6FER-TEDDY.jpg" title="Basket of Gifts"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Basket of Gifts">
+
+												Basket of Gifts</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,469.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 21.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/regret-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Regret">Regret</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-flowers-basket-of-15-mix-flowers-delivery/601/"><img alt="Basket of Flowers to India" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1303291676-PHW-B-15-MIX-FLWR.jpg" title="Basket of 15 Mix Flowers"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Basket of 15 Mix Flowers">
+
+												Basket of 15 Mix Flo...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 944.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 14.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/friendship-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Friendship">Friendship</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-flowers-chocolates-16-ferrero-rocher-chocolate-box-delivery/802/"><img alt="16 Ferrero Rocher Chocolates to India" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1342114338-16_ferrero.jpg" title="16 Ferrero Rocher Chocolate Box"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="16 Ferrero Rocher Chocolate Box">
+
+												16 Ferrero Rocher Ch...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,154.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 17.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/courage-n-hopes-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Courage N Hopes">Courage N Hopes</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/online-flowers-bunch-of-15-mix-roses-delivery/793/"><img alt="15  Mix Roses to Delhi India" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/15-mix-roses.jpg" title="Bunch of 15 Mix Roses"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Bunch of 15 Mix Roses">
+
+												Bunch of 15 Mix Rose...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 734.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 11.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/thank-you-delivery/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Thank You">Thank You</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/yellow-roses-with-ferrero-chocolates/1305/"><img alt="Yellow Roses with Ferrero Chocolates" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1355999912-PW_12_YR_24FERR.jpg" title="Yellow Roses with Ferrero Chocolates"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Yellow Roses with Ferrero Chocolates">
+
+												Yellow Roses with Fe...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,889.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 27.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		        <div class="clearfix"></div>
+<div align="center"><a href="https://www.phoolwala.com/online/shop-by-feelings-delivery/" style="color: #666; font-size: 12px;"><strong> View <font color="8460a2">More</font></strong></a>
+
+				 </div>
+		</div>
+
+		
+		
+
+		<!-- product list //-->
+
+		
+		<div style="width:100%;float:right;margin-left:1px;">
+
+				<!-- /-->
+
+				<div align="center" style="width:100%;margin:20px 0 10px 0; color: #666; font-size: 24px;"> Courier Gifts				
+
+				</div>
+</div>
+			<!-- product list -->
+<div class="boxes">	
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/personalized-gifts/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Personalized Gifts">Personalized Gifts</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/mothers-day-gifts-photo-upload-spoon-mug-delivery/4051/"><img alt="Photo  Upload  Spoon  Mug - Personalized Gifts" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/TD-Photo  Upload  Spoon  Mug.jpg" title="Photo  Upload  Spoon  Mug"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Photo  Upload  Spoon  Mug">
+
+												Photo  Upload  Spoon...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 499.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 7.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/golden-n-silver-roses/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Golden N Silver Roses">Golden Silver Roses</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/gifts-to-india-silver-rose-pure-love-delivery/2189/"><img alt="Silver Rose Pure Love" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1366283745-PWC-GSR-008.jpg" title="Silver Rose Pure Love"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Silver Rose Pure Love">
+
+												Silver Rose Pure Lov...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 2,099.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 30.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/antique-gifts-collection/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Antique Gifts Collection">Antique Gifts</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/gifts-to-india-heart-happy-bday-24k-gold-plated-gift-studded-with-swarovski-crystals-delivery/3969/"><img alt="HEART HAPPY B'DAY 24k GOLD PLATED GIFT STUDDED WITH SWAROVSKI CRYSTALS - Gifts" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/GF-heart-happy-birthday.jpg" title="HEART HAPPY B'DAY 24k GOLD PLATED GIFT STUDDED WITH SWAROVSKI CRYSTALS"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="HEART HAPPY B'DAY 24k GOLD PLATED GIFT STUDDED WITH SWAROVSKI CRYSTALS">
+
+												HEART HAPPY B'DAY 2...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,024.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 15.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/bonsai-n-lucky-plants/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Bonsai N Lucky Plants">Bonsai Plants</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/gifts-to-india-pyramid-bamboo-for-delhi-ncr-bangalore-delivery/2220/"><img alt="Pyramid Bamboo for Delhi-Ncr &amp; Bangalore" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1367238162-PW-Plants001.jpg" title="Pyramid Bamboo for Delhi-Ncr &amp; Bangalore"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Pyramid Bamboo for Delhi-Ncr &amp; Bangalore">
+
+												Pyramid Bamboo for D...</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 3,249.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 47.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		  
+
+		
+
+		<ul>
+
+					  <li>
+
+					  <div style="color: #333;font-size: 16px; text-align: center;"> <a href="https://www.phoolwala.com/flowers/huggable-soft-toys/" style="color: #999; font-size: 16px; margin-top: -10px;" title="Huggable Soft Toys">Huggable Soft Toys</a></div>
+
+						  
+
+										
+												<a href="https://www.phoolwala.com/send/teddy bear-orange-teddy-bear-delivery/2208/"><img alt="Orange Teddy Bear" src="https://www.phoolwala.com/adminpanel/uploads/thumbs/1367995830-PW-ST001.jpg" title="Orange Teddy Bear"/></a>
+
+												<div style="color: #666; font-size: 14px;" title="Orange Teddy Bear">
+
+												Orange Teddy Bear</div>
+
+												<br/>
+
+										  <span class="product-pricers">
+
+						  Rs 1,149.00</span>
+
+						  <span class="product-pricedoller">
+
+						  $ 17.00
+						  </span>
+
+					  </li>
+
+				   </ul>
+
+		        <div class="clearfix"></div>
+<div align="center"><a href="https://www.phoolwala.com/online/courier-gifts-delivery/" style="color: #666; font-size: 12px;"><strong> View <font color="8460a2">More</font></strong></a>
+
+				 </div>
+		</div>
+
+		
+		
+
+		<!-- product list //-->
+
+		
+
+
+		<!-- product listing //-->	 
+
+		<div class="clrboth"></div>
+
+		<div class="occaionevent">Featured Categories</div>
+
+		
+				<div class="captionbox">
+
+					<div class="captionimg">
+
+						<a href="https://www.phoolwala.com/online/gifts-by-occasions-delivery/" title="Occasions"> <img alt="Occasions" border="0" height="90" src="https://www.phoolwala.com/adminpanel/uploads/maincatimg/occasion.jpg" width="90"/> </a>
+
+					</div>
+
+					<div class="captiontext">
+
+						<div class="captionhead"> <a href="https://www.phoolwala.com/online/gifts-by-occasions-delivery/" title="Gifts By Occasions">
+
+						Gifts By Occasions</a>
+
+						</div>
+
+						<div class="captiontext1">Occasions</div>
+
+						<div class="captionclick"><a href="https://www.phoolwala.com/online/gifts-by-occasions-delivery/">Gift Now !!!</a></div>
+
+					</div>
+
+				</div>
+
+		
+				<div class="captionbox">
+
+					<div class="captionimg">
+
+						<a href="https://www.phoolwala.com/online/birthday-gifts-delivery/" title="birthday gifts"> <img alt="birthday gifts" border="0" height="90" src="https://www.phoolwala.com/adminpanel/uploads/maincatimg/birthday1.jpg" width="90"/> </a>
+
+					</div>
+
+					<div class="captiontext">
+
+						<div class="captionhead"> <a href="https://www.phoolwala.com/online/birthday-gifts-delivery/" title="Birthday Gifts">
+
+						Birthday Gifts</a>
+
+						</div>
+
+						<div class="captiontext1">birthday gifts</div>
+
+						<div class="captionclick"><a href="https://www.phoolwala.com/online/birthday-gifts-delivery/">Gift Now !!!</a></div>
+
+					</div>
+
+				</div>
+
+		
+				<div class="captionbox">
+
+					<div class="captionimg">
+
+						<a href="https://www.phoolwala.com/online/special-deals-delivery/" title="Special Deals"> <img alt="Special Deals" border="0" height="90" src="https://www.phoolwala.com/adminpanel/uploads/maincatimg/deals.jpg" width="90"/> </a>
+
+					</div>
+
+					<div class="captiontext">
+
+						<div class="captionhead"> <a href="https://www.phoolwala.com/online/special-deals-delivery/" title="Special Deals">
+
+						Special Deals</a>
+
+						</div>
+
+						<div class="captiontext1">Special Deals</div>
+
+						<div class="captionclick"><a href="https://www.phoolwala.com/online/special-deals-delivery/">Gift Now !!!</a></div>
+
+					</div>
+
+				</div>
+
+		
+		<div class="clrboth"></div>
+  <div class="btm"> 
+    <h1>Online Flowers Delivery, Send Flowers Bouquets, Gifts to India</h1>
+  </div>
+<div class="clearfix"></div>
+			<div class="hpdesc">
+
+			<br/>
+
+<div class="hpdescp" style="text-align: justify;">While sending your <em>flowers gifts online</em> to India, your expectations are at high for timely and safe delivery to your family, relatives, friends, officials and anyone. Phoolwala assures the strong commitment to fulfill your every expectation regarding your gifts,<strong> </strong><em><strong>online flowers bouquets delivery</strong></em>. You can choose and rely our services with confidence because we have large network in India, USA, UK, Australia and other countries across the world. Phoolwala <em>delivers gifts</em>, flowers, cakes and other gift items to major cities of India like Delhi NCR, Mumbai, Chennai, Bangalore, Kolkata, Hyderabad, all state capitals and almost other cities. In case, if you recalled to <em>send gifts</em> urgently then at last moment too gifts are delivered by immediate effects called as <em>same day express flowers delivery</em><strong> </strong>and midnight delivery where you need to just place the order before 5:00 PM IST and leave everything on us. If you are searching gits flowers in Delhi then choose the best and reliable florist  <em>Delhi flowers delivery by flower shop florist</em>. <em>Gifts and flowers</em> are delivered on same day on many occasions like birthday, anniversary, wedding or any special occasion etc.  Phoolwala delivers your online gifts, fresh flowers bouquet, cakes and chocolates to Delhi NCR. Gifts are delivered in every part of Delhi (East, West, North, South, Central, Outer, Old), NCR, Noida, Gurgaon, Ghaziabad, Faridabad, etc.</div>
+<h2><span style="font-size: x-large;">Birthday Flowers Gifts &amp; Cakes Delivery</span></h2>
+<div class="hpdescp" style="text-align: justify;">On every occasion, gifts play an important role in your celebrations and happy moments with your relatives, friend and loving one. You have the best choice Phoolwala, an reputed and respected India florist to send<strong> <a href="https://www.phoolwala.com/online/birthday-gifts-delivery/" title="Birthday gifts"><em><span style="color: rgb(51, 102, 255);">birthday gifts delivery</span></em></a></strong> and cakes on every occasion like birthday, anniversary, new year, christmas day, <em>Valentine's Day, </em>Flowers Gifts<strong> </strong>to India, father's day, mother's day, etc. You can also<strong> </strong>send your gifts, flowers, cakes<strong> </strong>and chocolates on every Indian festival like Holi gifts, Diwali Gifts , Karwa Chauth, Dussehra, Rakhi, Eid and any regional festival of India like Pongal, Onam, etc. Once you take our gifts delivery services, you'll find that in India Phoolwala is the best option for your personal, social or business celebrations with <em>birthday flowers gifts</em>.</div>
+<h2><span style="font-size: x-large;">Online Flowers Gifts Delivery</span></h2>
+<div class="hpdescp" style="text-align: justify;">Gifts are wonderful ways to express the feelings to the near and dear ones. But flowers are undeniably the apt gift for any occasion. Each flower has its own exquisiteness and charm that adds the vibrancy to the occasion. Now a days there are various famous and well-established florists accessible online. These <em>online florists</em> create fabulous flower arrangements from bouquets to baskets. They have all one need to impress and make the dear ones happy. They have creative and distinct ideas to create singular flower arrangements from various flowers that enhance the beauty of the flower amazingly.<br/>
+<br/>
+Earlier people had to visit the local florist for getting and selecting the flower arrangements and get it delivered to the location. But, today with the use of the<strong> </strong>internet <em><strong>online  flower delivery</strong></em> is much simple. Now with just a few clicks from the computer one can place the order for their favourite flower arrangement and send them to their near and dear ones across the globe. The online purchase of the one of the easiest means through which one can get the flowers arrangements. The best feature of placing the order for the flower arrangements from online florist<strong> </strong>portals is that one get see the image of the arrangement clearly and to browse from an extensive range. Phoolwala.com an online florist offer with their exclusive and extensive range stunning flower arrangements at affordable rates and ensure the prompt <em>online flowers delivery</em> arrangement to the preferred location as desired. <br/>
+<br/>
+Online flowers delivery is the best alternative for those who are busy with their work schedule. Therefore, to spread smiles on the faces of the near and dear ones living across the globe and make their special day memorable send a refreshing and striking flower arrangement from an established online florist. Phoolwala made it very easy to ordering flowers bouquets online through its website. You can browse categories for ordering online such as <a href="https://www.phoolwala.com/diwali-gifts-to-india.htm" title="Diwali gifts online"><span style="color: rgb(0, 128, 128);"><strong>Diwali Gifts</strong></span></a>, <em>birthday flowers</em> and <em>birthday gifts</em>, <strong><em><a href="https://www.phoolwala.com/flowers/anniversary-delivery/" title="Anniversary gifts online"><span style="color: rgb(255, 0, 255);">anniversary gifts</span></a></em></strong>, special occasions gifts, <em>valentine's day gifts, cakes online</em> etc.  Phoolwala provides exclusive care by customer support team to book flowers delivery orders online. Phoolwala have more than 10 years rich experience to arrange flowers bouquets delivery across India. There are thousands of happy customers’ talks about Phoolwala smooth delivery process.  The most important fact about Phoolwala is its strong vendors and delivery network that made online flowers delivery very easy. Many of the times orders are delivered within 2 hours.  Online flowers delivery saves your time and cost as well. If you are looking for sending flowers to someone and going to market to buy flowers and you need to spend lot of time in traffic and see the flowers  shops nearby  but Phoolwala makes is possible to<strong> </strong>order flowers online at one click and get it delivered to your  location.</div>
+<div class="skype_c2c_menu_container notranslate" data-fp="{A0B5EE26-6AAB-4326-A791-2E9E489674FE}" data-murl="https://pipe.skype.com/Client/2.0/" data-p2murl="https://c2c-p2m-secure.skype.com/p2m/v1/push" data-uiid="1" data-uilang="en" id="skype_c2c_menu_container" onmouseout="SkypeClick2Call.MenuInjectionHandler.hideMenu(this, event)" onmouseover="SkypeClick2Call.MenuInjectionHandler.showMenu(this, event)" style="display: none;">
+<div class="skype_c2c_menu_click2call"><a class="skype_c2c_menu_click2call_action" id="skype_c2c_menu_click2call_action" target="_self">Call</a></div>
+<div class="skype_c2c_menu_click2sms"><a class="skype_c2c_menu_click2sms_action" id="skype_c2c_menu_click2sms_action" target="_self">Send SMS</a></div>
+<div class="skype_c2c_menu_push_to_mobile"><a class="skype_c2c_menu_push_to_mobile_action" id="skype_c2c_menu_push_to_mobile_action" target="_blank">Call from mobile</a></div>
+<div class="skype_c2c_menu_add2skype"><a class="skype_c2c_menu_add2skype_text" id="skype_c2c_menu_add2skype_text" target="_self">Add to Skype</a></div>
+<div class="skype_c2c_menu_toll_info"><span class="skype_c2c_menu_toll_callcredit">You'll need Skype Credit</span><span class="skype_c2c_menu_toll_free">Free via Skype</span></div>
+</div>		
+
+	 </div>
+</div>
+
+
+
+<div itemscope="" itemtype="http://schema.org/Product">
+<span itemprop="name">Phoolwala</span>
+<div itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer"> We have a collection of <span itemprop="offerCount">340</span> floral designs<span itemprop="category"> </span> on sale, ranging from Rs.<span itemprop="lowPrice">70</span><meta content="INR" itemprop="priceCurrency"/> to Rs.<span itemprop="highPrice">9649</span> <meta content="INR" itemprop="priceCurrency"/>
+</div>
+<div>
+Overall customer rating is <span itemscope="" itemtype="http://data-vocabulary.org/Review-aggregate"> <span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"> <span id="ratingValue" itemprop="average">4.8</span> out of <span itemprop="best">5.0</span> </span> for <span itemprop="itemreviewed">Phoolwala</span> by <span itemprop="votes">8.5K+</span> Satisfied Customers on over <span itemprop="count">10K+</span> successful order Completed.
+</span></div>
+</div>
+
+
+
+	</div>
+
+	</div>
+
+	<!-- middle part //-->
+
+</div>
+
+<div id="container">
+
+	<div id="footer">
+
+
+
+		<div class="ft1">
+
+			<img alt="Timely Delivery" src="/images/auto.png"/> Secure Payment
+
+            <h6>10+ Years of Trusted Flowers Gifts Delivery Experience </h6></div>    
+
+            <div class="ft2">					
+
+				<form action="https://www.phoolwala.com/track-order/" id="ftrack_order" method="post" name="ftrack_order" style="margin-top: 20px;">		
+
+						<input class="track-text-box" name="order" onblur="if (this.value == '') (this.value='Order Number')" onfocus="if (this.value == 'Order Number') (this.value='')" onkeypress="return alpha(event)" type="text" value="Order Number"/>
+
+						<input class="track-button" name="track" onclick="return validate_ftrack_order();" type="submit" value="Track my Order"/>	
+
+					</form>
+
+		
+
+		</div>
+
+		<!--  green div //-->
+
+		<!--  footer div -->
+
+		<div id="footer1">
+
+					<div class="col20">
+
+						<h3>About Company</h3>
+
+						<ul>
+
+							<li><a href="https://www.phoolwala.com/page/about-us-delivery/" title="About Phoolwala">About Phoolwala</a></li>
+
+							<li><a href="https://www.phoolwala.com/contact-us/">Contact Us</a></li>
+
+							<li><a href="https://www.phoolwala.com/florist-online/careers/14/" title="Career">Career</a></li>
+
+							<li><a href="https://www.phoolwala.com/florist-online/faqs/15/" title="FAQs"> FAQs </a></li>
+
+							<li><a href="https://www.phoolwala.com/sitemap.xml" title="Sitemap"> Sitemap </a></li>
+
+							<li><a href="https://www.phoolwala.com/delivery-city/" title="India Flowers Delivery Cities">Flowers Delivery Cities </a></li>
+
+						</ul>
+
+					</div>
+
+					<div class="col20">
+
+						<h3>Terms &amp; Policies</h3>
+
+						
+        <ul>
+          <li><a href="https://www.phoolwala.com/florist-online/terms/9/" title="Terms and Conditions">Terms 
+            and Conditions</a></li>
+          <li><a href="https://www.phoolwala.com/florist-online/privacy-policy-delivery/190/" title="Privacy Policy">Privacy 
+            Policy</a></li>
+          <li><a href="https://www.phoolwala.com/florist-online/refund-and-cancellation/11/" title="Refund &amp; Cancellation">Refund 
+            &amp; Cancellation</a></li>
+          <li><a href="https://www.phoolwala.com/florist-online/shipping-details/10/" title="Shipping Details">Shipping 
+            Details</a></li>
+          <li><a href="https://www.phoolwala.com/florist-online/disclaimer/12/" title="Disclaimer">Disclaimer</a></li>
+          <li><a href="https://www.phoolwala.com/florist-online/rakhi-disclaimers-delivery/388/" title="Disclaimer">Rakhi 
+            Gifts Disclaimer</a><a href="https://www.phoolwala.com/florist-online/rakhi-disclaimers-delivery/388/" title="rakhi orders disclaimer"></a></li>
+          <li><a href="https://www.phoolwala.com/valentine-disclaimer/" title="Valentine's Day Disclaimer">Valentine 
+            Disclaimer</a></li>
+        </ul>
+
+					</div>
+
+					<div class="col20">
+
+						<h3>Business Inquiry</h3>
+
+						<ul>
+
+							<li><a href="https://www.phoolwala.com/contact-us/" title="Bulk Order Enquiry">Bulk Order Enquiry</a></li>
+
+							<li><a href="https://www.phoolwala.com/contact-us/" title="Request A Gift">Request A Gift</a></li>
+
+							<li><a href="https://www.phoolwala.com/testimonials/" title="Phoolwala.com Reviews">Feedback / Reviews</a></li>
+
+							<li><a href="https://www.phoolwala.com/articles/" title="Articles">Articles</a></li>
+
+							<li><a href="https://www.phoolwala.com/pressrelease/" title="Press Release">Press Release</a></li>
+
+							<li><a href="https://www.phoolwala.com/florist-online//385/" title="Affiliate Program">Affiliate Program</a></li>
+
+						</ul>
+
+					</div>
+
+					<div class="col20">
+
+						<h3>About Account</h3>
+
+						
+        <ul>
+          <li><a href="https://www.phoolwala.com/track-order/" title="Track My Order">Track 
+            My Order</a></li>
+          <li><a href="https://www.phoolwala.com/my-account/" title="My Account">My 
+            Account</a></li>
+          <li><a href="https://www.phoolwala.com/vendor/" title="Vendor Register">Vendor 
+            Register</a></li>
+          <li title="Phoolwala.com Blog"><a href="http://www.phoolwala.com/blog/">Blog</a></li>
+        </ul>
+
+					</div>
+
+					
+
+				
+
+					<div class="col21">
+
+						<h3>Reviews / Testimonials</h3>
+
+						<ul id="ftxtscroller" style="border-top:1px solid #f0f0f0;">
+
+						
+								<li>
+
+									<span>Dr. Ritesh, Korea, Republic of</span>
+
+									<p>Satisfied with your prompt service! Flowers and cake both were fresh. The quality of the teddy bear can be improved. </p>
+
+								</li>
+
+						
+								<li>
+
+									<span>Brijesh, India</span>
+
+									<p>Awesome express delivery...
+Thank you.. </p>
+
+								</li>
+
+						
+								<li>
+
+									<span>ASHISH, India</span>
+
+									<p>Very fast delivery and good discount. 
+Thank you Phoolwala :) </p>
+
+								</li>
+
+						
+								<li>
+
+									<span>vijay, India</span>
+
+									<p>An incredible express service. Cant imagine, that my order was delivered within hours or ordering. Saved me from humiliation and regret, as i had few hours to send my heartbeats through gift to my lov </p>
+
+								</li>
+
+						
+								<li>
+
+									<span>Saurabh Banerjee, India</span>
+
+									<p>Great Service.. </p>
+
+								</li>
+
+						
+								<li>
+
+									<span>Mudgal, India</span>
+
+									<p>Excellent service.The delivery was made perfectly on time. </p>
+
+								</li>
+
+						
+								<li>
+
+									<span>Rajneesh verma, United Kingdom</span>
+
+									<p>Excellent service..on time ...Good presentation...Thanks team phoolwala </p>
+
+								</li>
+
+						
+								<li>
+
+									<span>Ashwin Nair, United States</span>
+
+									<p>thanx a ton guys u rock!!!!!!
+definite recommendation\\m/ </p>
+
+								</li>
+
+						
+								<li>
+
+									<span>Rajkumar, </span>
+
+									<p>It was great to have selected your esteemed coy to deliver on time..appreciate your cake and fresh flowers.keep it up..best wishes Rajkumar </p>
+
+								</li>
+
+						
+								<li>
+
+									<span>jwngblaori brahma, India</span>
+
+									<p>i used phoolwala.com for the first time to send flowers n cake and it was all fres. this is one of the best sites to send surprises to your dear ones... i am so happy with the service. i will definite </p>
+
+								</li>
+
+						
+						</ul>
+
+						
+
+					<span style="color: #8460a2;float:left; font-size: 12px"><a href="https://www.phoolwala.com/testimonials/" style="color: #8460a2;" title="View All">View All</a></span>
+
+					</div>
+
+				</div>
+
+                <div class="clearfix"></div>
+
+					<!--editing-->
+
+				<!--City listing-->
+
+                <div class="city-listing">
+
+				
+      <h2>Online Flowers Gifts Delivery to Indian Cities by Phoolwala</h2>
+
+                <ul>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/flowers-to-ahmedabad-delivery/29/" title="Ahmedabad">
+
+							Ahmedabad</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/ajmer-flowers-cakes-and-gifts-india-delivery/76/" title="Ajmer">
+
+							Ajmer</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/gifts-cakes-and-flowers-to-ambala-india-delivery/107/" title="Ambala">
+
+							Ambala</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/amritsar-flowers-gifts-and-cakes-india-delivery/108/" title="Amritsar">
+
+							Amritsar</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/flowers-to-bangalore-delivery/24/" title="Bangalore">
+
+							Bangalore</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/bhopal-flowers-delivery/41/" title="Bhopal">
+
+							Bhopal</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/bhubaneswar-flowers-gifts-and-cakes-india-delivery/329/" title="Bhubaneswar">
+
+							Bhubaneswar</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/flowers-to-chandigarh-delivery/31/" title="Chandigarh">
+
+							Chandigarh</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/flowers-gifts-cakes-to-chennai-india-delivery/32/" title="Chennai">
+
+							Chennai</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/send-flowers-to-cochin-delivery/152/" title="Cochin">
+
+							Cochin</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/delhi-florists-delivery/37/" title="Delhi">
+
+							Delhi</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/goa-flowers-cakes-gifts-india-delivery/36/" title="Goa">
+
+							Goa</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/buy-flowers-for-guwahati-delivery/50/" title="Guwahati">
+
+							Guwahati</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/send-flowers-to-gwalior-delivery/174/" title="Gwalior">
+
+							Gwalior</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/flowers-gifts-to-hyderabad-delivery/34/" title="Hyderabad">
+
+							Hyderabad</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/send-flowers-to-indore-delivery/55/" title="Indore">
+
+							Indore</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/jabalpur-flower-cakes-and-gifts-india-delivery/56/" title="Jabalpur">
+
+							Jabalpur</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/gifts-cakes-and-flowers-to-jaipur-india-delivery/40/" title="Jaipur">
+
+							Jaipur</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/kanpur-flowers-delivery/60/" title="Kanpur">
+
+							Kanpur</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/send-flowers-to-kerala-delivery/132/" title="Kerala">
+
+							Kerala</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/send-flowers-to-kolkata-delivery/35/" title="Kolkata">
+
+							Kolkata</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/lucknow-florist-delivery/39/" title="Lucknow">
+
+							Lucknow</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/mohali-flowers-gifts-cakes-india-delivery/105/" title="Mohali">
+
+							Mohali</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/flowers-gifts-and-cakes-to-mumbai-india-delivery/25/" title="Mumbai">
+
+							Mumbai</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/flowers-to-mysore-delivery/45/" title="Mysore">
+
+							Mysore</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/gifts-cakes-and-flowers-nagpur-india-delivery/46/" title="Nagpur">
+
+							Nagpur</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/flowers-to-noida-delivery/26/" title="Noida">
+
+							Noida</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/send-flowers-gifts-and-cakes-to-panchkula-india-delivery/239/" title="Panchkula">
+
+							Panchkula</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/patna-florist-flowers-delivery/49/" title="Patna">
+
+							Patna</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/pune-gifts-cakes-and-flowers-india-delivery/38/" title="Pune">
+
+							Pune</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/gifts-flowers-and-cakes-to-rajkot-india-delivery/251/" title="Rajkot">
+
+							Rajkot</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/gifts-cakes-and-flowers-to-ranchi-india-delivery/48/" title="Ranchi">
+
+							Ranchi</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/gifts-flowers-and-cakes-to-vadodara-india-delivery/250/" title="Vadodara">
+
+							Vadodara</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/varanasi-flowers-gifts-and-cakes-india-delivery/358/" title="Varanasi">
+
+							Varanasi</a></li>
+
+				
+							<li><a href="https://www.phoolwala.com/florist-online/visakhapatnam-flowers-delivery/100/" title="Visakhapatnam">
+
+							Visakhapatnam</a></li>
+
+				
+                </ul>
+
+				<span style="color: #8460a2;float:left; margin-right: 10px"><a href="https://www.phoolwala.com/delivery-city/" style="color: #8460a2;" title="View All"><strong>View All</strong></a></span>
+
+                </div>
+
+				<div class="clearfix"></div>
+
+                
+
+                <!--City listing//-->
+
+
+
+				<!-- International City listing-->
+
+                <!--<div class="city-listing">
+
+				<h2>Send Flowers, Gifts to India Delivery</h2>
+
+				<ul>
+
+						
+						<li style="width: 12%"><a href="https://www.phoolwala.com/" title="Flowers to India">Flowers to India</a></li>
+
+						<li style="width: 12%"><a href="https://www.phoolwala.com/flowers/birthday-flowers-delivery/" title="Birthday flowers">Birthday flowers</a></li>
+
+						<li style="width: 12%"><a href="https://www.phoolwala.com/online/cakes-to-india-delivery-delivery/" title="India Cakes">India Cakes</a></li>
+
+						<li style="width: 12%"><a href="https://www.phoolwala.com/online/birthday-gifts-delivery/" title="Birthday Gifts">Birthday Gifts</a></li>
+
+						<li style="width: 12%"><a href="https://www.phoolwala.com/flowers/anniversary-flowers-delivery/" title="Anniversary Flowers">Anniversary Flowers</a></li>
+
+						<li style="width: 12%"><a href="https://www.phoolwala.com/flowers/v-day-premium-gifts-for-her-delivery/" title="Gifts for Her">Gifts for Her</a></li>
+
+						<li style="width: 12%"><a href="https://www.phoolwala.com/online/mother--s-day-gift-collections-delivery/" title="Mothers Day Gifts">Mothers Day Gifts</a></li>
+
+						<li style="width: 12%"><a href="https://www.phoolwala.com/online/corporate-gifts-delivery/" title="Corporate Gifts">Corporate Gifts</a></li>
+
+	                </ul><div></div>
+
+				<div class="clearfix"></div>
+
+                <!-- International City listing//-->
+
+				<div class="footer" style=" background:#fff;">
+
+				<h3>Payment Options</h3><img alt="Payment Options" src="https://www.phoolwala.com/images/payment.png"/></div>
+
+				<div class="footer" style=" background:#fff;">
+      <h3>Payment Gateways </h3>
+      <p> <span id="siteseal"><script async="" src="https://seal.godaddy.com/getSeal?sealID=LBlo1kFLwOHwcNzGPDZhqJCw7iVIspdgFUf4JtKrUJSOpyvPGy8wuQZTxM3d" type="text/javascript"></script></span></p>
+      <img alt="Payment Gatways" src="https://www.phoolwala.com/images/gateway.jpg"/>
+
+                </div>
+
+				<div class="footer" style=" background:#fff;">					
+
+						<!--<a href="https://www.phoolwala.com/florist-online/phoolwala-mobile-apps--for-loyality-progrmme/384/" title="Download Mobile Apps" style="color:#6E6E6E;">
+
+						<img src="https://www.phoolwala.com/images/app-icon.png" alt="Download Mobile Apps" /><h3> Download Mobile Apps</h3></a>-->
+
+                        <a href="http://www.copyscape.com/plagiarism-checker/" rel="nofollow" target="_blank"><img alt="Protected by Copyscape Plagiarism Checker" border="0" height="31" src="/thirdPartyImages/copyscape/cs-pu-3d-88x31.gif" style="float:right;" title="Protected by Copyscape Plagiarism Checker - Do not copy content from this page." width="88"/></a>
+
+				  </div>
+
+				<div class="clrboth"></div>
+
+				<div class="payment-heading"><strong>Payment Options: </strong> Credit Cards, Debit Cards, Net Banking - (All Major Indian Banks), Cash Deposits at ICICI/ Axis Bank Branches 
+      <div style="float:right; margin-right:0px;color: #6E6E6E;"> |</div>
+    </div>
+
+
+
+				<div class="clrboth"></div>
+
+
+
+                <!--editing//-->
+
+				
+
+
+
+				
+
+
+
+                <!--footer listing//-->
+
+				<div class="bottemsocial">
+
+					<div class="footer-socialmedia">
+
+						<h3>Follow us</h3>
+
+						<ul>
+
+							<li class="fb">
+
+								<a href="https://www.facebook.com/phoolwaladotcom" target="_blank" title="Facebook">
+
+									<img alt="Facebook" height="35" src="https://www.phoolwala.com/images/face-book.png" width="35"/>
+
+								</a>
+
+							</li>
+
+							<li class="tw">
+
+								<a href="http://twitter.com/PhoolwalaDotCom" target="_blank" title="Twitter">
+
+									<img alt="Twitter" height="35" src="https://www.phoolwala.com/images/twitter-img.png" width="35"/>
+
+								</a>
+
+							</li>
+
+							<li class="pt">
+
+								<a href="http://pinterest.com/phoolwaladotcom/" target="_blank" title="Pinterest">
+
+									<img alt="Pinterest" height="35px" src="https://www.phoolwala.com/images/social_p.png" width="35px"/>
+
+								</a>
+
+							</li>
+
+							<li class="gp">
+
+								<a href="https://plus.google.com/109169530085420456514/" target="_blank" title="Google Plus">
+
+									<img alt="Google Plus" height="35px" src="https://www.phoolwala.com/images/google-plus.png" width="35px"/>
+
+								</a>
+
+							</li>
+
+							<li class="lnkin">
+
+								<a href="http://in.linkedin.com/in/phoolwala" target="_blank" title="Linkedin">
+
+									<img alt="Linkedin" height="35px" src="https://www.phoolwala.com/images/linkedin.png" width="35px"/>
+
+								</a>
+
+							</li>
+
+						</ul>
+
+					</div>
+
+                    <div class="footer-socialmedia" style="margin-top: 30px;">
+
+					 © 2016 All rights reserved with Phoolwala.com.</div>
+
+					<div class="footer-subscribe">
+
+						<h3><a href="https://www.phoolwala.com/florist-online/offers/385/" style="color:#6e6e6e" title="Phoolwla Offers and Deals">Get Discount &amp; Offers</a></h3>
+
+	
+						<form action="" id="user_offerfrm" method="post" name="user_offerfrm">
+
+							<ul>
+
+								<li><input class="track-text-box" id="offer_email" name="offer_email" onblur="if (this.value == '') (this.value='Enter Your Email')" onfocus="if (this.value == 'Enter Your Email') (this.value='')" onkeypress="return alpha(event)" style="float:left;margin-top:-5px;" type="text"/></li>
+
+								<li><input class="footer-subscribe-button" name="discount_offer" onclick="return validate_user_offer();" type="submit" value="Subscribe"/></li>
+
+							</ul>
+
+						</form>
+
+					</div>
+
+
+			</div>
+
+
+
+
+</div>
+
+        
+
+        
+
+        
+
+		</div>
+
+		<!--  footer div //-->	
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+	
+
+	<!-- Google Code for Remarketing Tag (mobiquest) -->
+
+	<script src="https://www.googleadservices.com/pagead/conversion.js" type="text/javascript"></script>
+
+	<!-- Google Code for Remarketing Tag (mobiquest) //-->
+
+
+<!-- Google Code for Remarketing Tag -->
+
+<!--1
+
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+
+//-->
+
+
+
+
+
+
+
+
+
+
+
+<div>
+
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/972010912/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+
+</div>
+
+
+
+ 
+
+
+
+</body></html>

@@ -1,0 +1,4957 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+
+
+
+
+
+
+
+
+
+
+     <meta charset="utf-8"/>
+    
+    
+     <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+    
+  
+  
+  
+   <meta content="width=device-width, initial-scale=1" name="viewport"/>
+    
+    
+    
+    
+    <meta content="floristdelhi.com" name="author"/>
+
+
+
+
+<title>   Florist Delhi,Online Send Flowers to Delhi, Flowers Shops Delhi, Flowers Delivery Delhi India,   </title>
+
+
+<meta content="florist delhi - Send Flowers to Delhi, Gurgaon, Noida, Faridabad &amp; Ghaziabad within 3hrs. Flowers Delivery in Delhi by online florist Delhi." name="Description"/>
+
+
+
+
+<meta content="florist, Flowers, Cakes, flowers to delhi, florist delhi, online florist delhi, florists in delhi, flowers delivery delhi, Flowers Gurgaon, Flowers Noida, Flowers Ghaziabad" name="Keywords"/>
+
+
+
+<link href="https://plus.google.com/u/0/102749755002598041968" rel="author"/>
+<meta content="Flowers Delhi, Send Flowers to Delhi, Send Flowers India, Flowers Delivery India, Flowers India, Deliver Flowers India, Florist in Delhi" name="Flowers"/>
+<meta content="Regional, Asia, India, Business and Economy, Shopping" name="classification"/>
+
+
+
+<meta content="Flowers Delhi, Send Flowers to Delhi, Florist in India, Send Flowers India, Flowers Delivery Delhi, Flowers Delhi, Deliver Flowers Delhi, Delhi Flowers, Flowers in Delhi" name="page-topic"/>
+
+
+<meta content="Flowers Delhi, Send Flowers to Delhi, Florist in Delhi, Send Flowers Delhi, Flowers Delivery Delhi, Flowers Delhi, Deliver Flowers Delhi, Delhi Flowers, Flowers in Delhi" name="page-type"/>
+
+
+
+
+
+
+<meta content="all" name="audience"/>
+<meta content="floristdelhi.com - Send Flowers to Delhi." name="author"/>
+<meta content="www.floristdelhi.com" name="publisher"/>
+<meta content="4 days" name="revisit-after"/>
+<meta content="English" name="content-Language"/>
+<meta content="global" name="distribution"/>
+<meta content="by https//www.floristdelhi.com" name="copyright"/>
+<meta content="Delhi" name="city"/>
+<meta content="Delhi" name="state"/>
+<meta content="All" name="robots"/>
+
+<meta content="document" name="resource-type"/>
+
+
+
+
+<meta content="clFdBLh_mC4c2_m_nASbxCbOKYgXr-qdVzlvuyWFXhs" name="google-site-verification"/>
+
+
+
+
+
+
+
+
+
+
+
+ <link href="img/icon.jpg" rel="shortcut icon"/>
+
+
+
+
+
+<meta content="2WRGC62SH2G2KhuiWX8t_XA38Z-beEJOVA0Eq1LEiCQ" name="google-site-verification"/>
+
+
+
+  
+    <!-- being Bootstrap Core CSS -->
+    <link href="css/floristboostrap.css" rel="stylesheet"/>
+
+
+
+
+    <!-- Custom CSS -->
+    <link href="css/florist-custom.css" rel="stylesheet"/>
+    <!--end custom css-->
+    
+    
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  /* Note: Try to remove the following lines to see the effect of CSS positioning */
+ .affix {
+      top: 0;
+      width: 100%;
+      -webkit-transition: all .5s ease-in-out;
+	   -moz-transition: all .5s ease-in-out;
+      transition: all .5s ease-in-out;
+	  z-index:999;
+  }
+  .affix-top {
+      position: static;
+      top: -35px;
+  }
+  .affix + .container-fluid {
+      padding-top: 100px;
+  }
+  
+  
+ 
+  .scrollup{
+			width:50px;
+			height:50px;			
+			text-indent:-9999px;
+			opacity:3;
+			position:fixed;
+			bottom:50px;
+			right:5px;
+			display:none;			
+			background: url('icon_top.png') no-repeat;
+		}
+  
+  
+  div p{font-size:12px; color:#666;}
+  
+  </style>
+
+
+
+<!--  being scrolltop button script -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+
+<script type="text/javascript">
+			$(document).ready(function(){ 
+			
+			$(window).scroll(function(){
+				if ($(this).scrollTop() > 100) {
+					$('.scrollup').fadeIn();
+				} else {
+					$('.scrollup').fadeOut();
+				}
+			}); 
+			
+			$('.scrollup').click(function(){
+				$("html, body").animate({ scrollTop: 0 }, 600);
+				return false;
+			});
+ 
+		});
+		</script>
+
+
+
+
+
+</head>
+
+<body>
+
+
+
+<!--start logo wth content-->
+
+
+
+
+<div class="container-fluid fbg">
+
+
+
+
+ <div class="container">
+  
+
+
+
+<!--start of box of logo-->
+
+<div class="col-sm-4 col-md-4">   <a href="http://www.floristdelhi.com"><img alt="logo" class="img-responsive" src="img/logo.png"/> </a>  </div>
+
+
+<!--end of box of logo-->
+
+
+
+
+<!-- being  PHONE NO...-->
+
+<div align="center" class=" col-sm-5 col-md-5">  
+<div class="row"> 
+
+<h4 style="color:#289;"> <img src="img/phone-icon.png" width="40"/> Toll Free-  1800 102 4287 
+
+<p style="color:#666; font-size:16px;">Timing- 9am to 10pm  (IST)</p>
+
+
+<p style="color:#280;"> Whatsapp - 98103 92755</p>
+</h4>
+
+
+ 
+</div>
+ </div>
+
+<!-- end  PHONE NO...-->
+
+
+
+<div class="col-md-3" style=" padding-top:15px; padding-bottom:10px;">
+
+
+
+<div align="right" class="row">
+
+<a href="https://www.facebook.com/justflowersdelhi"><img alt="facebook page" src="img/fb-icon.png" width="40"/></a>
+
+<a href="https://twitter.com/floristdelhi"><img src="img/twitter-icon.png" width="40"/></a>
+<a href="https://plus.google.com/105831787491502942916/posts"><img alt="google+" src="img/google-icon.png" width="40"/></a>
+
+<a href="https://www.linkedin.com/pub/just-flowers/ba/b5a/a8b"><img src="img/link-icon.png" width="40"/></a>
+
+
+
+</div>
+
+
+<div style="padding-left:100px; padding-top:10px;">
+<a href="http://www.floristdelhi.com/orderstatus.asp"> <strong>Track Order </strong></a>
+
+</div>
+
+
+
+</div>
+
+
+
+</div> 
+
+</div>
+
+
+
+
+<!--END logo with content  -->
+
+     <!-- Being Navigation -->
+    <div class="container-fuild">
+   <div class=" nav navbar navbar-default navigation " data-offset-top="100" data-spy="affix" role="navigation">
+    
+      <div class="container">
+        <div class="navbar-header">
+          <button class="navbar-toggle collapsed" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+         
+        </div>
+        
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="http://www.floristdelhi.com">Home</a></li>
+           
+           
+      
+        
+            <li class="dropdown">
+			  <a class="dropdown-toggle" data-toggle="dropdown" href="http://www.floristdelhi.com">By Price <span class="caret"></span></a>				
+			  <ul class="dropdown-menu" role="menu">
+               
+               <li><a href="http://www.floristdelhi.com/product.asp?price=100%20and%20500">Below
+                  Rs 500</a></li>
+                <li><a href="http://www.floristdelhi.com/product.asp?price=501%20and%201000">Between
+                  Rs 501 to 1000</a></li>
+                <li><a href="http://www.floristdelhi.com/product.asp?price=1001%20and%201500">Between
+                  Rs 1001 to 1500</a></li>
+                <li><a class="footlink" href="http://www.floristdelhi.com/product.asp?price=1501%20and%202000">Between
+                  Rs 1501 to 2000</a></li>
+                 <li><a class="footlink" href="http://www.floristdelhi.com/product.asp?price=2001%20and%2030000">Above
+                  Rs 2001<br/>
+                  </a></li>
+                
+                
+                
+              </ul>               
+            </li>
+            
+     
+     
+        
+        
+  
+             
+          
+             
+             <li class="dropdown">
+			  <a class="dropdown-toggle" data-toggle="dropdown" href="http://www.floristdelhi.com">Products <span class="caret"></span></a>				
+			  <ul class="dropdown-menu" role="menu">
+               
+               <li><a href="http://www.floristdelhi.com/default.asp?Cat=Bunches">Flowers
+                  Bunches</a></li>
+                <li><a href="http://www.floristdelhi.com/default.asp?Cat=Arrangements">Flowers
+                  Arrangements</a></li>
+                <li><a href="http://www.floristdelhi.com/default.asp?Cat=Corporate">Corporate
+                  Gifts</a></li>
+                <li><a href="http://www.floristdelhi.com/default.asp?Cat=Gift">Gift
+                  Hampers</a></li>
+                 <li><a href="http://www.floristdelhi.com/default.asp?Cat=Fruits">Fruits   </a></li>
+                 
+                  <li><a href="http://www.floristdelhi.com/default.asp?Cat=Cakes">Cakes   </a></li>
+                   
+                  
+                   <li><a href="http://www.floristdelhi.com/default.asp?Cat=Combo">Combos   </a></li>
+                
+                <li><a href="http://www.floristdelhi.com/default.asp?Cat=Chocolates">Chocolates   </a></li>	
+               
+               
+                <li><a href="http://www.floristdelhi.com/default.asp?Cat=Sweets">Mithai  </a></li>	
+              <li><a href="http://www.floristdelhi.com/default.asp?Cat=Stuff-toys">Stuff 
+                  Toys   </a></li>	
+                 
+               
+               
+                
+              </ul>               
+            </li>
+            
+            
+            
+            
+            
+            
+             <li class="dropdown">
+			  <a class="dropdown-toggle" data-toggle="dropdown" href="http://www.floristdelhi.com"> By Occasion<span class="caret"></span></a>				
+			  <ul class="dropdown-menu" role="menu">
+               
+               <li><a href="http://www.floristdelhi.com/default.asp?Cat=Anniversary">Anniversary</a></li>
+                <li><a href="http://www.floristdelhi.com/default.asp?Cat=Birthday">Birthday</a></li>
+                <li><a href="http://www.floristdelhi.com/default.asp?Cat=wedding">Wedding</a></li>
+                <li><a href="http://www.floristdelhi.com/default.asp?Cat=Congrats">Congratulations</a></li>
+                 <li><a href="http://www.floristdelhi.com/default.asp?Cat=Love">Love
+                  and Romance </a></li>
+                  
+                
+                <li><a href="http://www.floristdelhi.com/default.asp?Cat=GetWell">Get
+                  Well </a></li>
+                
+                  <li><a href="http://www.floristdelhi.com/default.asp?Cat=Baby">New
+                  Baby </a></li>
+                    <li><a href="http://www.floristdelhi.com/default.asp?Cat=Thanks">Thank
+                  You </a></li>
+                      <li><a href="http://www.floristdelhi.com/default.asp?Cat=HouseWarming">House
+                  Warming </a></li>
+                 <li><a href="http://www.floristdelhi.com/default.asp?Cat=Sorry">Sorry </a></li>
+                  <li><a href="http://www.floristdelhi.com/default.asp?Cat=Sympathy">Sympathy </a>
+                
+              </li></ul>                
+            </li>
+            
+            
+            
+            
+            
+            
+            
+         <li class="dropdown">
+			  <a class="dropdown-toggle" data-toggle="dropdown" href="http://www.floristdelhi.com">By Flowers <span class="caret"></span></a>				
+			  <ul class="dropdown-menu" role="menu">
+               
+            
+            
+               <li><a href="http://www.floristdelhi.com/default.asp?Cat=roses">Roses</a></li>
+                <li><a href="http://www.floristdelhi.com/default.asp?Cat=Carnation">Carnation</a></li>
+                <li><a href="http://www.floristdelhi.com/default.asp?Cat=Lily">Lilly</a></li>
+                <li><a href="http://www.floristdelhi.com/default.asp?Cat=Orchid">Orchid </a></li>
+                 <li><a href="http://www.floristdelhi.com/default.asp?Cat=Gerbera">Gerbera </a></li>
+                
+                
+                
+                
+                
+              </ul>                
+            </li>
+            
+            
+             <li><a href="http://www.floristdelhi.com/default.asp?Cat=special"><b> Special Offers</b></a></li>
+            <li><a href="http://www.floristdelhi.com/about.html">About us</a></li>
+            <li><a href="http://www.floristdelhi.com/midnight.html">Midnight Delivery</a></li>
+             <li><a href="http://www.floristdelhi.com/contact.html">Contact us</a></li>
+            
+                <li><a href="http://www.floristdelhi.com/pay.html">Payment</a>  </li>
+            
+            
+            
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+</div>
+
+
+<!--end navigation -->
+
+
+
+
+
+
+
+
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+
+   
+
+
+
+
+
+            <div class="col-md-12">
+
+                <div class="row carousel-holder">
+
+                    <div class="col-md-9">
+                   
+                   <!--- hide  strcture of banner-->
+                      
+                      
+                        <div class="carousel slide" data-ride="carousel" id="carousel-example-generic">
+                            <ol class="carousel-indicators">
+                                <li class="active" data-slide-to="0" data-target="#carousel-example-generic"></li>
+                                <li data-slide-to="1" data-target="#carousel-example-generic"></li>
+                                <li data-slide-to="2" data-target="#carousel-example-generic"></li>
+                                <li data-slide-to="3" data-target="#carousel-example-generic"></li>
+                                <li data-slide-to="4" data-target="#carousel-example-generic"></li>
+
+                                
+                                
+                                	
+                         
+                                
+                            </ol>
+                            <div class="carousel-inner">
+                            
+                            
+                           
+                          
+                           
+                         
+                           
+                           
+                           
+                           
+                       
+                           
+                            
+                            
+                            <div class="item active ">
+                                 
+                                 
+                                 
+                              <img alt="birthday Flowers" class="slide-image img-thumbnail" src="img/flower.jpg"/>  
+                            </div>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+      <div class="item">
+                                   
+                                    <img alt="Cakes " class="slide-image img-thumbnail" src="img/cake.jpg"/> 
+                                </div>                       
+                            
+    
+      
+      
+      
+      
+      
+      
+      
+        <div class="item">
+                                    <img alt="add to cart" class="slide-image img-thumbnail" src="img/midnight.jpg"/>
+                                </div>
+      
+      
+                                                    
+      <div class="item">
+                                    <img alt="shop" class="slide-image img-thumbnail" src="img/just-flowers-banner.jpg"/>
+                                </div>
+                            
+                            
+                            
+                            
+                            
+                                <div class="item">
+                                    <img alt="add to cart" class="slide-image img-thumbnail" src="img/payu.jpg"/>
+                                </div>
+                               
+                            </div>
+                          
+                          
+                           
+                            
+                             
+                             
+                             
+                             
+                             
+                               <!-- best seller-->
+                      
+                            
+                            
+                            
+                            
+                        </div>
+                     
+                       
+                      
+                        
+                        
+                        <!-- start strecture -->
+                   
+                   
+                        
+                        
+                        
+                    </div>
+
+  <div class="col-lg-3 "> 
+  
+  <div style="height:40px; padding:5px; background-color:#418181; color:#fff; font-size:20px; text-align:center; border-radius:7px; margin-bottom:5px;">    VISIT OUR SHOPS </div>
+  
+<div style="overflow:scroll; height:250px; ">
+
+
+<p>
+
+</p><p style="color:#25724B; font-size:15px; font-weight: bold"> Janakpuri</p> 
+<p> A4C/184A, Mota Singh Road, Janakpuri, New Delhi </p>
+<p> Contact Person- Mr. Damanpal Anand</p>
+<hr/>
+
+<p style="color:#25724B; font-size:15px; font-weight: bold">  Paschim Vihar</p> 
+ <p>B1/18A, Paschim Vihar, New Delhi</p>
+ 
+<p> Contact Person- Mr. Jatin </p>
+<hr/>
+
+
+<p style="color:#25724B; font-size:15px; font-weight: bold"> Rajouri Garden</p> 
+ <p>G23/1A, opposite Sai Mandir, Main Market Rajouri Garden, New Delhi</p>
+ 
+ <p> Contact Person- Mr. Sarabjeet Singh</p>
+<hr/>
+
+
+<p style="color:#25724B; font-size:15px; font-weight: bold"> Chittranjan Park</p> 
+
+  <p> K1/31, Ground Floor, C R Park, New Delhi</p>
+   <p> Contact Person- Mrs Vandana Kohli</p>
+<hr/>
+  
+
+
+<p style="color:#25724B; font-size:15px; font-weight: bold">Vasundhara Enclave</p>
+
+<p>  G22, Sunrise Vardman Plaza, Vasundhara Enclave, Delhi</p>
+  <p> Contact Person- Mr. Rahul Pandey</p>
+<hr/>
+  
+
+
+
+<p style="color:#25724B; font-size:15px; font-weight: bold">Gurgaon DLF Phase III</p>
+
+<p> U13/50, Anand Plaza, Gurgaon Phase III</p>
+  <p> Contact Person- Mrs Ayesha Gomes</p>
+<hr/>
+  
+
+
+<p style="color:#25724B; font-size:15px; font-weight: bold"> Geetanjali Enclave</p>
+ <p>Shop No 105, DDA Lal Market, opposite Aurobindo College, New Delhi</p>
+  <p> Contact Person-Mr. Mukesh Sharma</p>
+<hr/>
+  
+  <p style="color:#25724B; font-size:15px; font-weight: bold"> Model Town</p>
+ <p>236, Gujranwala Town Part 3, New Delhi </p>
+  <p> Contact Person- Mr. Nakul Gupta</p>
+<hr/>
+
+<p style="color:#25724B; font-size:15px; font-weight: bold"> Pitam pura</p>
+ <p>Shop No. 14 MD Market Pitam pura Near Muni Maya Ram Jain Hospital Delhi </p>
+  <p> Contact Person- Mr. Harpreet Walia</p>
+<hr/>
+  
+
+<p style="color:#25724B; font-size:15px; font-weight: bold"> Gurgaon South city 2</p> 
+ <p>UG012, Unitech Arcadia, Gurgaon</p>
+  <p> Contact Person- Mrs Ayesha Gomes</p>
+<hr/>
+  
+
+<p style="color:#25724B; font-size:15px; font-weight: bold"> Indirapuram</p> 
+<p>shop no. 3, UGF, Amrapali Royal Market, 1/4, Vaibhav Khand, Indirapuram, Ghaziabad</p>
+  <p> Contact Person- Mr Ankur Maskara</p>
+<hr/>
+  
+
+<p style="color:#25724B; font-size:15px; font-weight: bold"> Bangalore</p>  <p>204, Tulsi Garden, near Eshwara temple, CT Street, Marathalli, Bangalore</p>
+  <p> Contact Person- Mr Roopesh Reddy</p>
+<hr/>
+  
+
+<p style="color:#25724B; font-size:15px; font-weight: bold"> Pune</p>  <p> Shop No. 1 Chhaya Housing Society Kothrud Pune.</p>
+  <p> Contact Person- Mr Ajit Deshpande</p>
+<hr/>
+  
+
+<p style="color:#25724B; font-size:15px; font-weight: bold"> Jammu</p>   <p>shop no. 1, sector 2, Channi Himmat, Jammu</p> 
+ <p> Contact Person- Mr. Sandeep Gupta</p>
+<hr/>
+  
+
+<p style="color:#25724B; font-size:15px; font-weight: bold"> Amritsar</p> 
+<p>Shop No. 6 Building Shri Darbar Sahib near Papadwala Bazaar Amritsar</p>
+  <p> Contact Person- Mr Sanjeet Singh</p>
+<hr/>
+  
+
+<p style="color:#25724B; font-size:15px; font-weight: bold"> Ahmednagar</p>   <p> Shop No. 2 Ground floor Kushtha Dham Road Professor Colony Chowk Savedi Ahmednagar </p> 
+ <p> Contact Person- Mrs Chetna Kabra</p>
+<hr/>
+  
+
+</div>
+
+  
+  
+  
+  
+ 
+                        
+                          </div>
+
+
+
+
+
+
+                </div>
+                
+                
+              
+                
+                
+                
+                
+                
+                
+
+<div class="col-md-10 none" data-scroll-reveal="enter from the bottom after 0.5s">          
+                       
+      <p>  <strong> Florist Delhi</strong> : We are Delhi florist deliver flowers, cakes, chocolates, fruits, teddy and gift all over <span style="color:#289;">Delhi, Ghaziabad, Noida, Faridabad and Gurgaon</span>. We have our own Florist shop at different locations in Delhi by name of JUST FLOWERS. Currently we have Florist shops in 	Rajendra Nagar, Green Park, Greater Kailash, Janakpuri, Rajouri Garden, Paschim Vihar, Pitampura, Geetanjali Enclave Malviya Nagar, Indirapuram, Vasundhara Enclave, Sushant lok and South city 2, Sohna road. Our Company Just Florist Pvt Ltd registered under Company of Registration act India. We need 3-4 working hours for flowers and cake delivery anywhere in Delhi. We also manage Midnight and early morning deliveries.  You may use our online flowers delivery service to send Flowers and Cake to Delhi and NCR.
+</p>                       </div>
+
+          
+        
+        <div class="col-md-1">  <!--being comm100-->
+         
+ <!--Begin Comm100 Live Chat Code-->
+<div id="comm100-button-211"></div>
+<script type="text/javascript">
+    var Comm100API = Comm100API || new Object;
+    Comm100API.chat_buttons = Comm100API.chat_buttons || [];
+    var comm100_chatButton = new Object;
+    comm100_chatButton.code_plan = 211;
+    comm100_chatButton.div_id = 'comm100-button-211';
+    Comm100API.chat_buttons.push(comm100_chatButton);
+    Comm100API.site_id = 86554;
+    Comm100API.main_code_plan = 211;
+
+    var comm100_lc = document.createElement('script');
+    comm100_lc.type = 'text/javascript';
+    comm100_lc.async = true;
+    comm100_lc.src = 'https://chatserver.comm100.com/livechat.ashx?siteId=' + Comm100API.site_id;
+    var comm100_s = document.getElementsByTagName('script')[0];
+    comm100_s.parentNode.insertBefore(comm100_lc, comm100_s);
+
+    setTimeout(function() {
+        if (!Comm100API.loaded) {
+            var lc = document.createElement('script');
+            lc.type = 'text/javascript';
+            lc.async = true;
+            lc.src = 'https://hostedmax.comm100.com/chatserver/livechat.ashx?siteId=' + Comm100API.site_id;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(lc, s);
+        }
+    }, 5000)
+</script>
+
+
+<!--End Comm100 Live Chat Code--> 
+               
+               
+  
+      </div>
+          
+          
+     
+          
+          
+          
+<!-- Begin product asp code-->
+
+
+
+
+
+
+
+     <div class="row">
+      
+
+
+
+
+ 
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=196"> <img alt="Red &amp; white Roses with 1/2kg choco mud Cake" border="0" src="image/roses-cake-combo.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  196 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Red &amp; white Roses with 1/2kg choco mud Cake
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 799.00</h6>
+
+
+                <h6 class="pull-right">US$ 14.53</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="196"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=196"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=166"><img alt=" Messenger Of Love" border="0" src="image/combo32.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  166
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                      Messenger Of Love
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 999.00</h6>
+
+
+                  <h6 class="pull-right">US$ 18.16</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="166"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=166"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=63"><img alt="Very Special Ocassion" border="0" src="image/FDI-138.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  63
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Very Special Ocassion
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 799.00</h6>
+
+
+                  <h6 class="pull-right">US$ 14.53</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="63"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=63"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=119"> <img alt="Exotic Orchids" border="0" src="image/FDI-344.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  119 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Exotic Orchids
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 999.00</h6>
+
+
+                <h6 class="pull-right">US$ 18.16</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="119"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=119"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=19"><img alt="Enamoring Red" border="0" src="image/FDI-319.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  19
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Enamoring Red
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,099.00</h6>
+
+
+                  <h6 class="pull-right">US$ 19.98</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="19"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=19"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=17"><img alt="I want RED" border="0" src="image/FDI-317.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  17
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         I want RED
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 799.00</h6>
+
+
+                  <h6 class="pull-right">US$ 14.53</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="17"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=17"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=153"> <img alt="Shiny Red" border="0" src="image/FDI-368.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  153 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Shiny Red
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,099.00</h6>
+
+
+                <h6 class="pull-right">US$ 19.98</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="153"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=153"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=154"><img alt="Triumph" border="0" src="image/FDI-369.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  154
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Triumph
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,199.00</h6>
+
+
+                  <h6 class="pull-right">US$ 21.80</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="154"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=154"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=93"><img alt="Hearty Congratulations" border="0" src="image/combo9.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  93
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Hearty Congratulations
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,599.00</h6>
+
+
+                  <h6 class="pull-right">US$ 29.07</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="93"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=93"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=13"> <img alt="Perfect Combination" border="0" src="image/FDI-313.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  13 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Perfect Combination
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,499.00</h6>
+
+
+                <h6 class="pull-right">US$ 27.25</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="13"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=13"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=3"><img alt="Delicate Beauty" border="0" src="image/FDI-303.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  3
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Delicate Beauty
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,049.00</h6>
+
+
+                  <h6 class="pull-right">US$ 19.07</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="3"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=3"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=165"><img alt="PreciousThought" border="0" src="image/combo31.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  165
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         PreciousThought
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,099.00</h6>
+
+
+                  <h6 class="pull-right">US$ 19.98</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="165"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=165"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=14"> <img alt="Dazzling RED" border="0" src="image/FDI-314.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  14 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Dazzling RED
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,399.00</h6>
+
+
+                <h6 class="pull-right">US$ 25.44</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="14"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=14"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=176"><img alt="Bunch of 15 Roses and 1/2kg Cake" border="0" src="image/combo22.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  176
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Bunch of 15 Roses and 1/2kg Cake
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 799.00</h6>
+
+
+                  <h6 class="pull-right">US$ 14.53</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="176"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=176"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=177"><img alt="Bunch of 20 Red roses." border="0" src="image/FDI-376.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  177
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Bunch of 20 Red roses.
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 649.00</h6>
+
+
+                  <h6 class="pull-right">US$ 11.80</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="177"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=177"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=194"> <img alt="Red &amp; White" border="0" src="image/red-white-roses.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  194 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Red &amp; White
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 499.00</h6>
+
+
+                <h6 class="pull-right">US$ 9.07</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="194"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=194"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=195"><img alt="The Big Heart" border="0" src="image/1000-roses-delhi.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  195
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     The Big Heart
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 21,099.00</h6>
+
+
+                  <h6 class="pull-right">US$ 383.62</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="195"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=195"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=192"><img alt="Give me Red" border="0" src="image/FDI-192.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  192
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Give me Red
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 499.00</h6>
+
+
+                  <h6 class="pull-right">US$ 9.07</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="192"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=192"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=191"> <img alt="Red Velvet Cake with 15 Red Roses" border="0" src="image/red-velvet-combo.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  191 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Red Velvet Cake with 15 Red Roses
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,099.00</h6>
+
+
+                <h6 class="pull-right">US$ 19.98</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="191"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=191"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=185"><img alt="Hottest Selling - Cute Heart" border="0" src="image/cute heart.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  185
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Hottest Selling - Cute Heart
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 999.00</h6>
+
+
+                  <h6 class="pull-right">US$ 18.16</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="185"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=185"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=116"><img alt="Charming Yellow" border="0" src="image/FDI-341.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  116
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Charming Yellow
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 699.00</h6>
+
+
+                  <h6 class="pull-right">US$ 12.71</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="116"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=116"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=55"> <img alt="Fascinating Pink" border="0" src="image/FDI-101.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  55 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Fascinating Pink
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 3,999.00</h6>
+
+
+                <h6 class="pull-right">US$ 72.71</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="55"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=55"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=147"><img alt="Blushing lilly with Exotica Red" border="0" src="image/FDI-361.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  147
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Blushing lilly with Exotica Red
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,999.00</h6>
+
+
+                  <h6 class="pull-right">US$ 36.35</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="147"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=147"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=193"><img alt="Grand Celebration" border="0" src="image/100-red-roses.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  193
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Grand Celebration
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 2,299.00</h6>
+
+
+                  <h6 class="pull-right">US$ 41.80</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="193"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=193"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=18"> <img alt="Brilliant Hues" border="0" src="image/FDI-318.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  18 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Brilliant Hues
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 699.00</h6>
+
+
+                <h6 class="pull-right">US$ 12.71</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="18"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=18"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=190"><img alt="Roses Heart with cheese cream cake in Jar." border="0" src="image/jar-combo5.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  190
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Roses Heart with cheese cream cake in Jar.
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,299.00</h6>
+
+
+                  <h6 class="pull-right">US$ 23.62</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="190"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=190"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=141"><img alt="Choco Chip Cake" border="0" src="image/cake21.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  141
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Choco Chip Cake
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 999.00</h6>
+
+
+                  <h6 class="pull-right">US$ 18.16</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="141"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=141"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=69"> <img alt="Enchanting Red" border="0" src="image/FDI-340.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  69 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Enchanting Red
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 399.00</h6>
+
+
+                <h6 class="pull-right">US$ 7.25</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="69"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=69"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=67"><img alt="Various shades of Roses" border="0" src="image/FDI-144.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  67
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Various shades of Roses
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 799.00</h6>
+
+
+                  <h6 class="pull-right">US$ 14.53</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="67"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=67"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=174"><img alt="1/2 kg Black Forest Cake" border="0" src="image/cake2.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  174
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         1/2 kg Black Forest Cake
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 499.00</h6>
+
+
+                  <h6 class="pull-right">US$ 9.07</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="174"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=174"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=187"> <img alt="Chocolate arrangement in heart shape" border="0" src="image/jfv009.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  187 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Chocolate arrangement in heart shape
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,999.00</h6>
+
+
+                <h6 class="pull-right">US$ 36.35</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="187"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=187"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=182"><img alt="12 Red Roses bunch with Lucky Bamboo" border="0" src="image/rose-bamboo-combo.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  182
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     12 Red Roses bunch with Lucky Bamboo
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 999.00</h6>
+
+
+                  <h6 class="pull-right">US$ 18.16</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="182"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=182"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=183"><img alt="1/2kg Pineapple cake with lucky bamboo" border="0" src="image/cake-bamboo-combo.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  183
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         1/2kg Pineapple cake with lucky bamboo
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 999.00</h6>
+
+
+                  <h6 class="pull-right">US$ 18.16</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="183"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=183"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=175"> <img alt="A Bunch of 15 Pink Roses" border="0" src="image/FDI-340p.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  175 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         A Bunch of 15 Pink Roses
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 499.00</h6>
+
+
+                <h6 class="pull-right">US$ 9.07</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="175"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=175"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=186"><img alt="Red Roses arranged in Guitar shape" border="0" src="image/jfv005.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  186
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Red Roses arranged in Guitar shape
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 2,499.00</h6>
+
+
+                  <h6 class="pull-right">US$ 45.44</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="186"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=186"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=188"><img alt="Chocolates arranged in Guitar shape" border="0" src="image/jfv006.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  188
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Chocolates arranged in Guitar shape
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 2,999.00</h6>
+
+
+                  <h6 class="pull-right">US$ 54.53</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="188"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=188"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=189"> <img alt="15 Red Roses and 300gms cheese cream cake in Jar." border="0" src="image/jar-combo1.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  189 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         15 Red Roses and 300gms cheese cream cake in Jar.
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 899.00</h6>
+
+
+                <h6 class="pull-right">US$ 16.35</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="189"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=189"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=145"><img alt="Boundless Love" border="0" src="image/combo17.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  145
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Boundless Love
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,499.00</h6>
+
+
+                  <h6 class="pull-right">US$ 27.25</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="145"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=145"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=66"><img alt="The sign of Joy" border="0" src="image/FDI-162.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  66
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         The sign of Joy
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 999.00</h6>
+
+
+                  <h6 class="pull-right">US$ 18.16</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="66"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=66"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=12"> <img alt="Celebration with Love" border="0" src="image/FDI-312.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  12 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Celebration with Love
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 3,299.00</h6>
+
+
+                <h6 class="pull-right">US$ 59.98</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="12"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=12"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=65"><img alt="The Cherished Heart" border="0" src="image/FDI-145.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  65
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     The Cherished Heart
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 2,499.00</h6>
+
+
+                  <h6 class="pull-right">US$ 45.44</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="65"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=65"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=22"><img alt="Pleasant Red " border="0" src="image/FDI-322.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  22
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Pleasant Red 
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,599.00</h6>
+
+
+                  <h6 class="pull-right">US$ 29.07</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="22"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=22"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=180"> <img alt="2 layer Lucky Bamboo" border="0" src="image/2layer-bamboo-plant.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  180 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         2 layer Lucky Bamboo
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 599.00</h6>
+
+
+                <h6 class="pull-right">US$ 10.89</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="180"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=180"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=38"><img alt="1kg Black Forest Cake" border="0" src="image/cake2.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  38
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     1kg Black Forest Cake
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 799.00</h6>
+
+
+                  <h6 class="pull-right">US$ 14.53</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="38"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=38"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=142"><img alt="Premium Caramel Cake" border="0" src="image/cake27.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  142
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Premium Caramel Cake
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 899.00</h6>
+
+
+                  <h6 class="pull-right">US$ 16.35</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="142"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=142"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=133"> <img alt="Barbie Doll Cake" border="0" src="image/cake26.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  133 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Barbie Doll Cake
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,899.00</h6>
+
+
+                <h6 class="pull-right">US$ 34.53</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="133"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=133"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=157"><img alt="Ardenne Glads and Roses" border="0" src="image/FDI-372.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  157
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Ardenne Glads and Roses
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,099.00</h6>
+
+
+                  <h6 class="pull-right">US$ 19.98</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="157"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=157"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=11"><img alt="Relish Life" border="0" src="image/FDI-311.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  11
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Relish Life
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 6,999.00</h6>
+
+
+                  <h6 class="pull-right">US$ 127.25</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="11"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=11"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=169"> <img alt="Party With Teddy Bears" border="0" src="image/teddy-bunch.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  169 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Party With Teddy Bears
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,299.00</h6>
+
+
+                <h6 class="pull-right">US$ 23.62</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="169"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=169"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=173"><img alt="Photo On Cake" border="0" src="image/photocake.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  173
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Photo On Cake
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,050.00</h6>
+
+
+                  <h6 class="pull-right">US$ 19.09</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="173"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=173"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=156"><img alt="Perfect Peach" border="0" src="image/FDI-371.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  156
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Perfect Peach
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,499.00</h6>
+
+
+                  <h6 class="pull-right">US$ 27.25</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="156"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=156"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=184"> <img alt="Red Roses with Ferrero Rocher chocolate" border="0" src="image/JF-03.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  184 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Red Roses with Ferrero Rocher chocolate
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,299.00</h6>
+
+
+                <h6 class="pull-right">US$ 23.62</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="184"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=184"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=149"><img alt="Captivating Pink Oriental Lilies" border="0" src="image/FDI-363.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  149
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Captivating Pink Oriental Lilies
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 999.00</h6>
+
+
+                  <h6 class="pull-right">US$ 18.16</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="149"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=149"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=15"><img alt="Graceful Pink" border="0" src="image/FDI-315.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  15
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Graceful Pink
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 999.00</h6>
+
+
+                  <h6 class="pull-right">US$ 18.16</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="15"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=15"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=181"> <img alt="3 layer Lucky Bamboo" border="0" src="image/3layer-bamboo-plant.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  181 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         3 layer Lucky Bamboo
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 799.00</h6>
+
+
+                <h6 class="pull-right">US$ 14.53</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="181"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=181"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=178"><img alt="Bouquet of Teddy with Ferrero Rocher chocolate" border="0" src="image/JF-02.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  178
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Bouquet of Teddy with Ferrero Rocher chocolate
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,299.00</h6>
+
+
+                  <h6 class="pull-right">US$ 23.62</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="178"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=178"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=28"><img alt="Wonderful Combination" border="0" src="image/FDI-328.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  28
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Wonderful Combination
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 649.00</h6>
+
+
+                  <h6 class="pull-right">US$ 11.80</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="28"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=28"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+           
+
+                <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                           <a href="details.asp?PID=158"> <img alt="Just For You" border="0" src="image/FDI-373.jpg"/></a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  158 
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Just For You
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,699.00</h6>
+
+
+                <h6 class="pull-right">US$ 30.89</h6>
+                               
+                      
+                      
+                      
+                                
+                                
+                          <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="158"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+      
+                        
+       
+              <a class="btn btn-success " href="details.asp?PID=158"> Details</a>                                                       
+                                
+                                </b></form></span><b>
+                            </b></div><b>
+                            
+                        </b></div><b>
+                    </b></div><b>
+                
+                
+                 <!--START LOOP--> 
+                    
+                   
+                    
+                    
+                    
+                    
+
+                    <div class="col-sm-3col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                             <a href="details.asp?PID=159"><img alt="Vivacious Shades of Mix Flowers" border="0" src="image/FDI-374.jpg"/></a>
+                           
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  159
+                         
+                   </h5>
+                            
+                            
+                         <p>
+                     Vivacious Shades of Mix Flowers
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,299.00</h6>
+
+
+                  <h6 class="pull-right">US$ 23.62</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+               
+               
+     
+     
+   
+   <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="159"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+       
+             <a class="btn btn-success " href="details.asp?PID=159"> Details</a>                         
+                                        
+                                
+                      </b></form></span><b>
+                                
+                                
+                              </b></div><b>
+
+                        </b></div><b>
+                    </b></div><b>
+                    
+                    
+                    
+          
+          
+                   
+
+                    <div class="col-sm-3 col-lg-3 col-md-3" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="thumbnail">
+                          
+                          
+                            <a href="details.asp?PID=164"><img alt="Lovely Wishes" border="0" src="image/combo30.jpg"/> </a>
+                            <div class="caption">
+                             <h5 class="text-success">
+                                
+                         Code : Florist Delhi-  164
+                         
+                              </h5>
+                            
+                            
+                              <p>
+                         Lovely Wishes
+                            
+                              </p> 
+             
+                            
+                 <h6 class="pull-left">Rs. 1,999.00</h6>
+
+
+                  <h6 class="pull-right">US$ 36.35</h6>
+                               
+                                
+                                
+                             <span class="btn-group"> 
+                                
+       <form action="addtocart.asp" method="post"><br/>
+  <input class="btn btn-sample" type="submit" value="Buy Now"/>
+  <b><input name="intProdID" type="hidden" value="164"/><input name="intQuant" type="hidden" value="1"/>
+
+       
+       
+       
+       
+    <a class="btn btn-success " href="details.asp?PID=164"> Details</a>                         
+        
+                                
+                                
+    </b></form></span><b>                           
+                       
+                       
+                       
+                       
+                       
+                       
+                                         
+                            </b></div><b>
+                        </b></div><b>
+                    </b></div><b>
+
+                    
+
+
+
+
+
+
+
+<!-- END OF PRODUCT-->
+<!-- product discription-->
+
+
+    
+    
+    <!-- /.container -->
+
+
+
+
+
+            </b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></div><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b>
+
+        </b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></div><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b>
+
+    </b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></div><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b>
+    
+   </b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></div><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b><b>
+    
+    
+    
+
+
+    <div class="container">
+
+        <hr/>
+
+
+
+<div class="row" style="text-align:center;">
+
+
+                
+    <a href="default.asp?Cat=Home&amp;page=2"><b><font align="CENTER" color="#FF0000">More
+    Flowers</font></b> <font color="#FF0000"><br/>
+    </font>
+ </a>   
+
+
+
+ </div>
+ 
+ 
+<hr/>
+
+
+
+
+
+
+
+
+
+        <!-- Footer -->
+        <footer>
+            
+            <!--start footer navbar-->
+            
+            <div class="row">
+            
+            <div class="col-lg-2">  </div>
+            <div class="col-lg-1">  <a href="http://www.floristdelhi.com">Home</a></div>
+                         <div class="col-lg-2"><a href="http://www.floristdelhi.com/sub.html">  Substitution
+            Policy</a></div>
+              <div class="col-lg-2"> <a href="http://www.floristdelhi.com/privacy.html"> Privacy
+            Policy </a></div>
+               <div class="col-lg-2"> <a href="http://www.floristdelhi.com/refund.html"> Refund
+            Policy </a></div>
+                <div class="col-lg-2"> <a href="http://www.floristdelhi.com/term.html"> Terms
+            &amp; Conditions </a></div>
+                 
+                 <div class="col-lg-1"> <a href="http://www.floristdelhi.com/contact.html">Contacts</a></div>
+
+            
+            </div>
+            <!--end footer navbar-->    
+            
+            <hr/>
+                        <div class="row">
+                <div class="col-lg-12" data-scroll-reveal="enter from the bottom after 0.5s">
+               <div class="col-lg-3"> </div> 
+                    <img class="img-responsive" src="img/cardesall.jpg"/>
+                 
+                 
+                 
+                 
+                 
+              
+              
+      <h3> How To Select A Good Florist in Delhi for flowers and cake delivery? </h3>
+                 
+                    <p style="font-size:normal"> It is important to work with the <a class="alink" href="http://www.floiristdelhi.com">Delhi florist</a>. Today, if you do a search on <a class="alink" href="http://www.google.com">  Google </a>or browse through your local directory, you will find many local and online florists for flowers delivery. With so many choices, how do you select a good florist to deliver flowers? Now, let me share with you a few tips to choose a good florist for online flower delivery: <br/> <br/>
+One of the biggest headaches when comes to buying flowers is to choose the right type of flower. There are many different types, shapes, sizes and colors. A professional florist will be able to advise you to choose the right type of flower for your recipient. Many people will tend to choose a florist based on location for delivery of flowers. For example, if there is a florist shop just one street away from your home, you will most probably get flowers delivery from them. By doing so, you are short-changing yourself. There is a chance that other florists are offering better flowers delivery at better rates. So before you decide to buy flower from your local florist, it will be good that you can do a research first and keep your options open. <br/> <br/>
+One thing you can look at when selecting a florist is to choose someone who is affiliated with a professional group. Serious florists will probably join a professional group and try to be the best at their craft.  <br/> <br/>
+
+
+Next, visit the website of the florist. If the florist does not have a website, ask for a catalog. You should choose a florist with a wide range of selection and quality flowers for online flowers delivery. The flowers should be neatly arranged and fresh. A good florist should have a wide range of selection for you to choose from. And if you find some of their flowers are turning brown, walk away. Do not do business with them.
+ <br/> <br/>
+A good florist should be customer oriented. He or she must know how to build good rapport with you and always care for your needs and always ready to deliver flowers of your choice. To verify this, ask the florists a few questions and see how they respond. You need to find a florist who you can work well with. We invite you to use our flowers delivery services and experience the difference. At Florist Delhi our aim is to provide 100% customer satisfaction. So place order online for flowers delivery and if you are not satisfied your money will refunded.  </p>
+
+<hr/>
+
+
+
+<!-- start google rating reviews -->
+<div itemscope="" itemtype="http://schema.org/Product">
+<div class="category-description std">
+<h3><span itemprop="name">Florist Delhi</span></h3>
+</div>
+<div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating" style="color:#999; font-size:12px;">
+Products in this category have been rated <span itemprop="ratingValue">4.5</span> out of <span itemprop="bestRating">5</span> based on <span itemprop="ratingCount">50</span> reviews.
+</div>
+<div itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer" style="color:#999; font-size:12px;"> We have a collection of <span itemprop="offerCount">150</span> flower designs<span itemprop="category"> </span> on sale, ranging from INR <span itemprop="lowPrice">399</span><meta content="INR" itemprop="priceCurrency"/> to INR <span itemprop="highPrice">17499</span> <meta content="INR" itemprop="priceCurrency"/></div>
+</div>
+
+
+
+<!-- end google rating reviews -->
+
+
+
+
+
+                </div>
+                
+             
+                
+                
+                
+                
+                
+                
+                
+            </div>
+        
+        </footer>
+
+
+    </div>
+    <!-- /.container -->
+    
+    
+    
+    
+    
+    <div class="container-fluid fbg">
+    
+    
+    <div class="container">
+
+        <hr/>
+
+
+
+        <!-- begin Footer -->
+        <footer>
+            <div class="row">
+            
+           
+            
+                <div class="col-lg-12" data-scroll-reveal="enter from the bottom after 0.6s">
+                   
+              
+                    
+                     <h4 style="color:#333;"> We can deliver flowers  &amp; Cake in
+      Delhi within 3 hrs. Following Delhi area are included in our Flowers
+      Delivery Network </h4>
+            
+             <hr/>
+             
+             
+                    
+               <div class="col-md-2"> 
+               
+               
+               
+               <ul>
+               <li>  <a href="http://www.floristdelhi.com/send-flower-Connaught-Place">Connaught Place </a>   </li>
+                <li>  <a href="http://www.floristdelhi.com/send-flower-Darya-Ganj">Darya Ganj</a>   </li>
+                 <li>  <a href="http://www.floristdelhi.com/send-flower-Lodi-Colony">Lodi Colony </a>   </li>
+                  <li>  <a href="http://www.floristdelhi.com/send-flower-Pandara-Road">Pandara Road </a>   </li>
+                   <li>  <a href="http://www.floristdelhi.com/send-flower-Safdarjung">Safdarjung</a>   </li>
+               
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Anand-Parbat">Anand Parbat </a>   </li>
+            
+               
+                <li>  <a href="http://www.floristdelhi.com/send-flower-Karol-Bagh">Karol Bagh </a>   </li>
+              
+                 <li>  <a href="http://www.floristdelhi.com/send-flower-Chandni-Chowk">Chandni Chowk </a>   </li>
+                
+                  <li>  <a href="http://www.floristdelhi.com/send-flower-Chawri-Bazar">Chawri Bazar</a>   </li>
+                 
+                   <li>  <a href="http://www.floristdelhi.com/send-flower-Jama-Masjid">Jama Masjid</a>   </li>
+                 
+                   <li>  <a href="http://www.floristdelhi.com/send-flower-Sadar-Bazar">Sadar Bazar </a>   </li>
+          
+                    
+           <li>  <a href="http://www.floristdelhi.com/send-flower-Delhi-University">Delhi University</a>   </li>          
+                    
+                   
+                      <li>  <a href="http://www.floristdelhi.com/send-flower-Punjabi-Bagh">Punjabi Bagh</a>   </li>  
+                      
+                         <li>  <a href="http://www.floristdelhi.com/send-flower-Rajouri-Garden">Rajouri Garden</a>  </li>  
+                            <li>  <a href="http://www.floristdelhi.com/send-flower-Subhash-Nagar">Subhash Nagar</a>   </li>  
+                               <li>  <a href="http://www.floristdelhi.com/send-flower-Naraina-Industrial-Estate">Naraina</a>    </li>  
+                                  <li>  <a href="http://www.floristdelhi.com/send-flower-Ansari-Nagar">Ansari Nagar</a>  </li>  
+                                     <li>  <a href="http://www.floristdelhi.com/send-flower-Nauroji-Nagar">Nauroji Nagar</a>  </li>  
+                                        <li>  <a href="http://www.floristdelhi.com/send-flower-S-J-Enclave">S. J. Enclave</a>  </li>  
+                 
+                 
+                  <li>  <a href="http://www.floristdelhi.com/send-flower-Mehrauli">Mehrauli</a>  </li>  
+                  
+                   <li>  <a href="http://www.floristdelhi.com/send-flower-Paryavaran-Complex">Paryavaran Complex</a>  </li>  
+                   
+                    <li>  <a href="http://www.floristdelhi.com/send-flower-Sultan-Puri">Sultanpur</a> </li>  
+                    
+                     <li>  <a href="http://www.floristdelhi.com/send-flower-Gadaipur">Gadaipur</a>  </li>  
+                      <li>  <a href="http://www.floristdelhi.com/send-flower-Ghitorni">Ghitorni</a>  </li>  
+                       <li>  <a href="http://www.floristdelhi.com/send-flower-Gandhi-Nagar">Gandhi Nagar</a> </li>  
+           <li>  <a href="http://www.floristdelhi.com/send-flower-Pahar-Ganj">Pahar Ganj</a> </li>  
+          
+         
+           
+                    
+               
+                </ul>
+                </div>
+               
+               
+               
+            
+               
+               
+               <div class="col-md-2">
+               
+                <ul>
+              <li>  <a href="http://www.floristdelhi.com/send-flower-Gulabi-Bagh">Gulabi Bagh </a>   </li>
+                <li>  <a href="http://www.floristdelhi.com/send-flower-Roop-Nagar">Roop Nagar </a>   </li>
+              
+                 <li>  <a href="http://www.floristdelhi.com/send-flower-Geeta-Colony">Geeta Colony</a>   </li>
+                
+                  <li>  <a href="http://www.floristdelhi.com/send-flower-Shakti-Nagar">Shakti Nagar	 </a>   </li>
+                   <li>  <a href="http://www.floristdelhi.com/send-flower-Subzi-Mandi">Subzi Mandi </a>   </li>
+               
+               
+               
+                <li>  <a href="http://www.floristdelhi.com/send-flower-Patel-Nagar">Patel Nagar </a>   </li>
+               
+                <li>  <a href="http://www.floristdelhi.com/send-flower-South-Patel-Nagar">Patel Nagar South </a>   </li>
+                 <li>  <a href="http://www.floristdelhi.com/send-flower-West-Patel-Nagar">Patel Nagar West </a>   </li>
+                 
+                  <li>  <a href="http://www.floristdelhi.com/send-flower-Dr.Mukerjee-Nagar">Dr. Mukerjee Nagar </a>   </li>
+                  
+                   <li>  <a href="http://www.floristdelhi.com/send-flower-Gujranwala-Town">Gujra Wala Town </a>   </li>
+                   
+                    <li>  <a href="http://www.floristdelhi.com/send-flower-Model-Town">Model Town  </a>   </li>
+                    
+               
+                   
+                    
+           <li>  <a href="http://www.floristdelhi.com/send-flower-Mehrauli">Mehrauli</a>   </li>          
+                    
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Paryavaran-Complex">Paryavaran Complex</a>  </li> 
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Man-Sarovar-Park">Man Sarovar Park</a>  </li> 
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Rohtash-Nagar">Rohtash Nagar</a>  </li> 
+            <li>  <a href="http://www.floristdelhi.comsend-flower-Shahdara">Shahdara</a>  </li> 
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Shivaji-Park">Shivaji Park</a>  </li> 
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Telewara">Telewara</a>   </li> 
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Vishwas-Nagar">Vishwas Nagar</a>  </li> 
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Jahangir-Puri">Jahangir Puri</a>   </li> 
+            
+              <li>  <a href="http://www.floristdelhi.com/send-flower-Rani-Bagh">Rani Bagh</a>  </li> 
+               <li>  <a href="http://www.floristdelhi.com/send-flower-Saraswati-Vihar">Saraswati Vihar</a>   </li>  
+               
+               
+               <li>  <a href="http://www.floristdelhi.com/send-flower-Maya-Puri">Maya Puri</a>  </li>  
+               
+               <li>  <a href="http://www.floristdelhi.com/send-flower-East-of-Kailash">East of Kailash</a>  </li>  
+               <li>  <a href="http://www.floristdelhi.com/send-flower-Sriniwaspuri">Sriniwaspuri</a>   </li>  
+              
+               
+                </ul>
+               
+               
+                </div>
+                
+                
+               <div class="col-md-2">
+               
+                <ul>
+              <li>  <a href="http://www.floristdelhi.com/send-flower-Delhi-Cantt">Delhi Cantt </a>   </li>
+                <li>  <a href="http://www.floristdelhi.com/send-flower-Dhaula-Kuan">Dhaula Kuan </a>   </li>
+              
+                 <li>  <a href="http://www.floristdelhi.com/dsend-flower-Subroto-Park">Subroto Park</a>   </li>
+                
+                  <li>  <a href="http://www.floristdelhi.com/send-flower-Hazrat-Nizamuddin">Hazrat Nizamuddin	 </a>   </li>
+                   <li>  <a href="http://www.floristdelhi.com/send-flower-Yusuf-Sarai">Yusuf Sarai </a>   </li>
+               
+                <li>  <a href="http://www.floristdelhi.com/send-flower-Ashram">Ashram </a>   </li>
+               
+                <li>  <a href="http://www.floristdelhi.com/send-flower-Jungpura">Jungpura </a>   </li>
+                 <li>  <a href="http://www.floristdelhi.com/send-flower-Ramesh-Nagar">Ramesh Nagar </a>   </li>
+                 
+                  <li>  <a href="http://www.floristdelhi.com/send-flower-Karam-Pura">Karam Pura</a>   </li>
+                  
+           
+           
+                  <li>  <a href="http://www.floristdelhi.com/send-flower-Green-Park">Green Park Market </a>   </li>
+                   
+                    <li>  <a href="http://www.floristdelhi.com/send-flower-IIT-Hauz-Khas">IIT </a>   </li>
+                
+                    
+           <li>  <a href="http://www.floristdelhi.com/send-flower-Shakur-Pur">Shakur Pur</a>   </li>          
+                    
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Inderlok">Inderlok</a>   </li>   
+               <li>  <a href="http://www.floristdelhi.com/send-flower-Ganeshpura">Ganeshpura</a>   </li>   
+                  <li>  <a href="http://www.floristdelhi.com/send-flower-Inderlok">Inderlok</a>   </li>      <li>  <a href="http://www.floristdelhi.com/send-flower-Keshav-Puram">Keshav Puram</a>   </li>      <li>  <a href="http://www.floristdelhi.com/send-flower-Onkar-Nagar">Onkar Nagar</a>   </li>   
+                     <li>  <a href="http://www.floristdelhi.com/send-flower-Sarai-Rohilla">Sarai Rohilla</a>   </li>   
+                        <li>  <a href="http://www.floristdelhi.com/send-flower-Rampura">Rampura</a>   </li>   
+                           <li>  <a href="http://www.floristdelhi.com/send-flower-Nangloi">Nangli</a>   </li>   
+                              <li>  <a href="http://www.floristdelhi.com/send-flower-Kapashera">Kapashera</a>   </li>   
+                              
+                              
+                                 <li>  <a href="http://www.floristdelhi.com/send-flower-Jail-Road">Jail Road</a>   </li>      
+               
+               <li>  <a href="http://www.floristdelhi.com/send-flower-Jeevan-Park">Jeevan Park</a>  </li>      
+               <li>  <a href="http://www.floristdelhi.com/send-flower-Uttam-Nagar">Uttam Nagar</a>   </li>      
+               <li>  <a href="http://www.floristdelhi.com/send-flower-Hamdard-Nagar"> Hamdard Nagar</a>   </li>      
+               
+       <li>  <a href="http://www.floristdelhi.com/send-flower-New-Multan-Nagar">New Multan Nagar</a> </li>  
+           <li>  <a href="http://www.floristdelhi.com/Send-flowers-Janakpuri">Janak Puri</a> </li>           
+               
+               
+               
+                </ul>
+               
+               
+                </div>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               <div class="col-md-2">
+               
+                <ul>
+              <li>  <a href="http://www.floristdelhi.com/send-flower-Chirag-Delhi">Chirag Delhi</a>   </li>
+                <li>  <a href="http://www.floristdelhi.com/send-flower-Malviya-Nagar">Malviya Nagar </a>   </li>
+              
+                 <li>  <a href="http://www.floristdelhi.com/send-flower-Panchsheel-Enclave">Panchsheel Enclave</a>   </li>
+                
+                  <li>  <a href="http://www.floristdelhi.com/send-flower-Pushp-Vihar">Pushp Vihar	 </a>   </li>
+                   <li>  <a href="http://www.floristdelhi.com/send-flower-Saket">Saket </a>   </li>
+               
+                <li>  <a href="http://www.floristdelhi.com/send-flower-Sarvodya%20Enclave">Sarvodya Enclave </a>   </li>
+               
+                <li>  <a href="http://www.floristdelhi.com/send-flower-Fateh-Nagar">Fateh Nagar</a>   </li>
+                 <li>  <a href="http://www.floristdelhi.com/send-flower-Khyala">Khyala </a>   </li>
+                 
+                  <li>  <a href="http://www.floristdelhi.com/send-flower-Mahabir-Nagar">Mahabir Nagar </a>   </li>
+                  
+                   <li>  <a href="http://www.floristdelhi.com/send-flower-Tilak-Nagar">Tilak Nagar </a>   </li>
+                   
+                    <li>  <a href="http://www.floristdelhi.com/send-flower-Vikas-puri">Vikas puri</a>   </li>
+                    
+                    
+           <li>  <a href="http://www.floristdelhi.com/send-flower-Khanpur">Khanpur</a>   </li>          
+       <li>  <a href="http://www.floristdelhi.com/send-flower-Deoli">Deoli</a>   </li>        
+        <li>  <a href="http://www.floristdelhi.com/send-flower-Madipur">Madipur</a>   </li>        
+         <li>  <a href="http://www.floristdelhi.com/send-flower-Alaknanda">Alaknanda</a>   </li>        
+          <li>  <a href="http://www.floristdelhi.com/send-flower-Chittranjan-Park">Chittranjan Park</a>  </li>        
+           <li>  <a href="http://www.floristdelhi.com/send-flower-Govindpuri">Govindpuri</a>   </li>        
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Okhla">Okhla</a>   </li>        
+              
+              <li>  <a href="http://www.floristdelhi.com/send-flower-Anand-Niketan">Anand Niketan</a>  </li>        
+               <li>  <a href="http://www.floristdelhi.com/" send-flower-chanakya-puri"="">Chanakya Puri</a>  </li>        
+                <li>  <a href="http://www.floristdelhi.com/send-flower-Malcha-Marg">Malcha Marg</a>  </li>        
+                 <li>  <a href="http://www.floristdelhi.com/send-flower-Moti-Bagh">Moti Bagh</a>  </li>        
+                  <li>  <a href="http://www.floristdelhi.com/send-flower-Nanak-Pura">Nanak Pura</a>  </li>        
+                                
+            
+          <li>  <a href="http://www.floristdelhi.com/send-flower-Hari-nagar">Hari nagar</a></li>             
+               
+                </ul>
+               
+               
+                </div>
+                
+               
+               
+               
+               
+               
+               
+               
+               
+               
+                   <div class="col-md-2"> 
+               
+                <ul>
+                 
+               
+               
+  
+       <li>  <a href="http://www.floristdelhi.com/send-flower-Alaknanda">Alaknanda </a>   </li>
+      
+      
+      
+                  
+                   <li>  <a href="http://www.floristdelhi.com/send-flower-Chittranjan-Park">Chittranjan Park</a>   </li>
+                   
+                   
+                    <li>  <a href="http://www.floristdelhi.com/send-flower-Govindpuri">Govindpuri</a>   </li>
+            
+                    
+           <li>  <a href="http://www.floristdelhi.com/send-flower-Nehru-Place">Nehru Place</a>   </li>          
+                
+                 
+      <li>  <a href="http://www.floristdelhi.com/send-flower-Okhla">Okhla</a>   </li>  
+       
+        <li>  <a href="http://www.floristdelhi.com/send-flower-Okhla-Industrial-Area">Okhla Industrial Area</a>   </li>  
+          <li>  <a href="http://www.floristdelhi.com/send-flower-Anand-Niketan">Anand Niketan</a>   </li>    <li>  <a href="http://www.floristdelhi.com/send-flower-Chanakya-Puri">Chanakya Puri</a>   </li>  
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Malcha-Marg">Malcha Marg</a>   </li>  
+              <li>  <a href="http://www.floristdelhi.com/send-flower-Moti-Bagh">Moti Bagh</a>   </li>  
+                <li>  <a href="http://www.floristdelhi.com/send-flower-Nanak-Pura">Nanak Pura</a>   </li>  
+                  <li>  <a href="http://www.floristdelhi.com/send-flower-R-K-Puram">R K Puram</a>   </li>  
+                    
+  <li>  <a href="http://www.floristdelhi.com/send-flower-Pahar-Ganj">Pahar Ganj</a>   </li>
+    <li>  <a href="http://www.floristdelhi.com/send-flower-Satyawati-Nagar">Satyawati Nagar,</a></li> 
+     <li>  <a href="http://www.floristdelhi.com/send-flower-Shastri-Nagar">Shastri Nagar</a>   </li> 
+      <li>  <a href="http://www.floristdelhi.com/send-flower-Wazir-Pur">Wazir Pur</a>   </li> 
+       <li>  <a href="http://www.floristdelhi.com/send-flower-Bhajan-Pura">Bhajan Pura</a>   </li> 
+        <li>  <a href="http://www.floristdelhi.com/send-flower-Seelampur">Seelampur</a>  </li> 
+         <li>  <a href="http://www.floristdelhi.com/send-flower-Yamuna-Vihar">Yamuna Vihar</a>   </li> 
+          <li>  <a href="http://www.floristdelhi.com/send-flower-Civil-Lines">Civil Lines</a>   </li>
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Timar-Pur">Timar Pur</a>   </li>        
+     
+     
+     
+     
+       <li>  <a href="http://www.floristdelhi.com/send-flower-Bikaji-Cama-Place">Bikaji Cama Place</a>   </li>  
+               <li>  <a href="http://www.floristdelhi.com/send-flower-Vasant-Kunj">Vasant Kunj</a>   </li>  
+               <li>  <a href="http://www.floristdelhi.com/send-flower-Saraswati-Vihar">Saraswati Vihar</a>   </li> 
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+      
+ </ul>
+           
+           
+           
+           
+           
+ 
+               
+          </div>     
+                    
+             <div class="col-md-2"> 
+               
+                <ul>
+                 
+               
+               
+   <li>  <a href="http://www.floristdelhi.com/send-flower-Sarojini%20Nagar">Sarojini Nagar</a>   </li>  
+                      <li>  <a href="http://www.floristdelhi.com/send-flower-Kidwai-Nagar">Kidwai Nagar</a>   </li>  
+                        
+                 
+    
+     <li>  <a href="http://www.floristdelhi.com/ssend-flower-Laxmi-Bai-Nagar">Laxmi Bai Nagar</a>   </li>          
+           
+           
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Netaji-Nagar">Netaji Nagar</a>   </li>          
+           
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Defence-Colony">Defence Colony</a>   </li>          
+           
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Lajpat-Nagar"> Lajpat Nagar</a>   </li>          
+           
+            <li>  <a href="http://www.floristdelhi.com/send-flower-New-Friends-Colony">New Friends Colony</a>   </li>          
+           
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Jamia-Nagar">Jamia Nagar</a>   </li>          
+           
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Zakir-Nagar">Zakir Nagar</a>   </li>          
+           
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Sukhdev-Vihar">Sukhdev Vihar</a>   </li>          
+            <li>  <a href="http://www.floristdelhi.com/send-flower-rohini">Rohini</a>   </li>           
+                        <li>  <a href="http://www.floristdelhi.com/send-flower-pitampura">Pitampura</a>   </li>    
+                                                <li>  <a href="http://www.floristdelhi.com/send-flower-noida">NOIDA</a>   </li> 
+        
+                                                        <li>  <a href="http://www.floristdelhi.com/send-flower-gurgaon">Gurgaon</a>   </li> 
+           <li>  <a href="http://www.floristdelhi.com/send-flower-Dabri">Dabri</a>  </li>          
+           
+    
+     <li>  <a href="http://www.floristdelhi.com/send-flower-Sagarpur">Sagarpur</a>   </li>          
+           
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Aya-Nagar">Aya Nagar</a>  </li>          
+           
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Greater-Kailash">Greater Kailash</a></li>          
+           
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Kailash-Colony"> Kailash Colony</a>  </li>          
+           
+            <li>  <a href="http://www.floristdelhi.com/ssend-flower-Masjid-moth">Masjid moth</a> </li>          
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Andrewsganj">Andrewsganj</a>  </li>          
+           
+           
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Sadiq-Nagar">Sadiq Nagar</a>  </li>          
+           
+            <li>  <a href="http://www.floristdelhi.com/send-flower-Sahpurjat">Sahpurjat</a>  </li>          
+           
+      <li>  <a href="http://www.floristdelhi.com/send-flower-Krishna-nagar">Krishna nagar</a>  </li>  
+     
+       <li>  <a href="http://www.floristdelhi.com/send-flower-Jagatpuri">Jagatpuri</a>  </li>  
+        <li>  <a href="http://www.floristdelhi.com/send-flower-Ram-Nagar">Ram Nagar</a>  </li>  
+         <li>  <a href="http://www.floristdelhi.com/send-flower-Ashok-Vihar">Ashok Vihar</a>  </li>     
+
+  <li>  <a href="http://www.floristdelhi.com/end-flower-Paschim-Vihar">Paschim Vihar</a> </li>  
+           <li>  <a href="http://www.floristdelhi.com/send-flower-Jwalaheri">Jwalaheri</a> </li>  
+
+ <li>  <a href="http://www.floristdelhi.com/send-flower-dwarka">Dwarka</a> </li>  
+  <li>  <a href="http://www.floristdelhi.com/send-flower-Ghaziabad">Ghaziabad</a> </li>  
+
+
+     
+ </ul>
+           
+           
+           
+           
+           
+ 
+               
+          </div>     
+                            
+           
+    
+                    
+                
+                    
+                </div>
+            </div>
+        </footer>
+
+
+
+<!--end footer-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr/>
+
+
+        <!-- begin Footer -->
+        <footer> </footer>
+
+    </div>
+    
+    </div>
+    
+    
+    
+   
+    
+
+    <!-- jQuery Version 1.11.0 -->
+    <script src="js/jquery-1.11.0.js"></script>
+
+
+
+
+
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+    
+    <script src="assets/js/jquery.smooth-scroll.min.js"> </script>
+    <!--SCROLL ANIMATION SCRIPTS-->
+    <script src="assets/js/scrollReveal.js"></script>
+    <!--CUSTOM SCRIPTS-->
+   
+     <script src="assets/js/custom.js">   </script>
+   
+   
+    
+    
+    
+ 	<a class="scrollup" href="http://gazpo.com/downloads/tutorials/jquery/scrolltop/#" style="display: none;">Scroll</a>
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></body></html>

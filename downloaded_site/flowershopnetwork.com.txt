@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html><head>
+									<title>Send Flowers From A Real Local Florist | Flower Shop Network</title>
+					<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+					<meta content="Flower Shop Network is your source for real local florists to send flowers for delivery anywhere in the US and Canada." name="description"/>
+					<meta content="local florists, send flowers, local flower shop, find a florist, Flower Shop Network, FSN, sending flowers" name="keywords"/>
+											<meta content="width=device-width, initial-scale=1" name="viewport"/>
+										<link href="/" rel="canonical"/>
+								<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+								<script src="//apis.google.com/js/plusone.js" type="text/javascript">{lang: 'en'}</script>
+				<link href="/css/styles.css" rel="stylesheet" type="text/css"/>
+				<link href="/relay/scripts/jquery/sidr/stylesheets/jquery.sidr.dark.css" rel="stylesheet"/>
+				<link href="/floristsonly/styles.css" rel="stylesheet" type="text/css"/>
+				<script src="/relay/scripts/jquery/js/jquery-1.11.1.min.js?" type="text/javascript"></script>
+				<script src="/relay/scripts/jquery/jquery-ui-1.11.1/jquery-ui.js?" type="text/javascript"></script>
+				<link href="/relay/scripts/jquery/jquery-ui-1.11.1/jquery-ui.css?" rel="stylesheet" type="text/css"/>
+				<link href="/relay/scripts/jquery/jquery-ui-1.11.1/jquery-ui.theme.css?" rel="stylesheet" type="text/css"/>
+				<script> jQuery.noConflict(); $j = jQuery; </script>
+								<script>		
+					var mobileSafe = 1;
+					if($j(window).width() > 974 || !mobileSafe){
+						$j('head').append("<link id='dynamicSS' href=\"/css/stylesFull.css\" rel=\"stylesheet\" type=\"text/css\">\n");
+					}
+					else{
+						$j('head').append("<link id='dynamicSS' href=\"/css/stylesMobile.css\" rel=\"stylesheet\" type=\"text/css\">\n");
+					}
+				</script>
+				<script src="/scripts/javascript/jquery/jquery.event.move/js/jquery.event.move.js" type="text/javascript"></script> 				<script src="/scripts/javascript/jquery/jquery.event.swipe/js/jquery.event.swipe.js" type="text/javascript"></script> 				<link href="/scripts/javascript/jquery/fancybox/jquery.fancybox.css?v=2.1.3" media="screen" rel="stylesheet" type="text/css"/> 				<script src="/scripts/javascript/jquery/fancybox/jquery.fancybox.js?v=2.1.3" type="text/javascript"></script>
+				<script src="/relay/scripts/jquery/fancybox/jquery.mousewheel-3.0.6.pack.js" type="text/javascript"></script>
+				
+				<script src="/relay/scripts/jquery/sidr/jquery.sidr.min.js"></script>
+				<script src="/scripts/javascript/simpleSlider.js" type="text/javascript"></script>
+				<script src="/scripts/javascript/prototype/prototype.js" type="text/javascript"></script>
+																<link href="https://plus.google.com/106033290155754834637" rel="publisher"/>
+				<!-- Upgraded to XHR based Google Analytics Code -->
+				<script type="text/javascript">
+					var _gaq = _gaq || [];
+					_gaq.push(['_setAccount', 'UA-604019-6']);
+					_gaq.push(['_trackPageview']);
+					(function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					})();
+				</script>
+			</head>
+			<body class="yui-skin-sam" itemscope="" itemtype="http://schema.org/WebPage">
+				<script>
+					window.fbAsyncInit = function() {
+					  FB.init({
+						appId      : '516090491762077',
+						xfbml      : true,
+						version    : 'v2.3'
+					  });
+					};
+			  
+					(function(d, s, id){
+					   var js, fjs = d.getElementsByTagName(s)[0];
+					   if (d.getElementById(id)) {return;}
+					   js = d.createElement(s); js.id = id;
+					   js.src = "//connect.facebook.net/en_US/sdk.js";
+					   fjs.parentNode.insertBefore(js, fjs);
+					 }(document, 'script', 'facebook-jssdk'));
+			  </script>
+				<div class="container gradient">
+		
+			<div class="lowResHeader">
+				<div class="logoBlock">
+  		    <a alt="Home" href="/" style="text-decoration:none;">
+  		      <img class="compactHeaderLogo" src="/images/wide.png"/>
+  		    </a>
+  		    <a class="menuIcon" href="#container-inner" id="low-res-menu"><img src="/images/sm-menu-icon.png"/></a>
+  		  </div>
+  		  <div class="rainbowStripe"></div>
+  		  		<div class="lowResSubMenu">
+			<div class="lowResSearch">
+		    <div class="search">
+		      <form action="http://www.flowershopnetwork.com/pages/search.php" method="GET" name="frmSearchMain">
+  		      <input _label="Find a Florist in ..." autocomplete="off" class="blankBoxOut searchBox" name="addr_city" style="height:20px;" tabindex="1" type="text" value=""/>
+  		      <input class="lowResSearchButton" style="border:none" type="submit" value=" "/>
+  		    </form>
+		    </div>
+		  </div>
+		</div>
+		<div style="clear:both"></div>
+				<div class="lowResPopOutMenu" id="menuListPopout">
+				<ul>
+			<li><a href="http://www.flowershopnetwork.com/">Flower Shop Network</a></li>
+			<li><a href="http://www.flowershopnetwork.com/"><span class="greenDash"></span>Home</a></li>
+			<li><a href="http://www.flowershopnetwork.com/flower-pictures"><span class="pinkDash"></span>Shop Flowers</a></li>
+        	<li><a href="http://www.flowershopnetwork.com/blog/"><span class="purpleDash"></span>Bloomin' Blog</a></li>
+        	<li><a href="http://www.flowershopnetwork.com/florists/"><span class="tealDash"></span>Find Florists</a></li>
+        	<li><a href="http://www.flowershopnetwork.com/contactus"><span class="greenDash"></span>Contact FSN</a></li>
+        	<li><a href="http://www.flowershopnetwork.com/floristsonly"><span class="orangeDash"></span>Florists Only!</a></li>
+            <li><a href="http://www.flowershopnetwork.com/about/"><span class="pinkDash"></span>About FSN</a></li>
+        	<li class="lowResPopOutEnd"> </li>
+	    </ul>
+		</div>
+    </div>
+    <div style="clear:both"></div>
+			  
+			</div>
+			<div id="fixedNav">
+				<center>
+	  		<div style="width:980px;">
+	  		  <div class="logoBlock">
+	  		    <a alt="Home" href="/" style="text-decoration:none;">
+	  		      <img class="compactHeaderLogo" src="/images/wide.png"/>
+	  		    </a>
+	  		  </div>
+	  		  <div class="compactSearchBlock" style="margin-right:20px;">
+	  		    <div class="search">
+	  		      <form action="http://www.flowershopnetwork.com/pages/search.php" method="GET" name="frmSearchMain">
+				  <input _label="Find a Florist in ..." autocomplete="off" class="blankBoxOut searchBox" name="addr_city" style="vertical-align: top;height 22px; margin-top:7px;" tabindex="1" type="text" value="Find a Florist in ..."/>
+	    		      <input class="searchButton" height="32" style="vertical-align: top; border: 0;height 28px; margin: 8px;" type="submit" value="Search" width="74"/>
+	    		    </form>
+	  		    </div>
+	  		  </div>
+	  		</div>
+	  		</center>
+				<div style="clear: both"></div>
+	  		<div class="rainbowStripe"></div>
+			  <div style="clear: both"></div>
+			  <div class="headerMenuBar">
+			    <a class="headerLinkSelected" href="http://www.flowershopnetwork.com/">Home</a>
+			    <a class="headerLink" href="http://www.flowershopnetwork.com/flower-pictures/">Shop Flowers</a>
+			    <a class="headerLink" href="http://www.flowershopnetwork.com/blog/">Bloomin' Blog</a>
+			    <a class="headerLink" href="http://www.flowershopnetwork.com/florists/">Find Florists</a>
+			    <a class="headerLink" href="http://www.flowershopnetwork.com/about/">About FSN</a>
+			    <a class="headerLink" href="http://www.flowershopnetwork.com/contactus/">Contact FSN</a>
+			    <a class="headerLink" href="http://www.flowershopnetwork.com/floristsonly/">Florists Only!</a>
+			  </div>
+			</div>
+  		<div class="logoSearchHeader">
+  		<center>
+  		<div style="width:974px;">
+  		  <div class="logoBlock">
+  		    <a alt="Home" href="/" style="text-decoration:none;">
+  		      <img class="headerLogo" src="/images/header-logo.jpg"/>
+  		    </a>
+  		  </div>
+  		  <div class="searchBlock">
+  		    <div class="searchText"><img class="headerReal" src="/images/header-real.jpg"/>Find Your <span class="searchTextBold">Local Florist</span>:</div>
+  		    <div class="search">
+  		      <div class="searchLabelText"><b>Near</b> (city, state or zip)</div>
+  		      <form action="http://www.flowershopnetwork.com/pages/search.php" method="GET" name="frmSearchMain">
+			  <input _label="City, State or Zip" autocomplete="off" class="blankBoxOut searchBox" name="addr_city" style="vertical-align: top;" tabindex="1" type="text" value="City, State or Zip"/>
+    		      <input class="searchButton" height="32" style="vertical-align: top; border: 0;" type="submit" value="Search" width="74"/>
+    		    </form>
+  		    </div>
+  		  </div>
+  		</div>
+  		</center>
+  		
+  		<div style="clear: both"></div>
+  		<div class="rainbowStripe"></div>
+		  <div style="clear: both"></div>
+		  <div class="headerMenuBar">
+		    <a class="headerLinkSelected" href="http://www.flowershopnetwork.com/">Home</a>
+		    <a class="headerLink" href="http://www.flowershopnetwork.com/flower-pictures/">Shop Flowers</a>
+		    <a class="headerLink" href="http://www.flowershopnetwork.com/blog/">Bloomin' Blog</a>
+		    <a class="headerLink" href="http://www.flowershopnetwork.com/florists/">Find Florists</a>
+		    <a class="headerLink" href="http://www.flowershopnetwork.com/about/">About FSN</a>
+		    <a class="headerLink" href="http://www.flowershopnetwork.com/contactus/">Contact FSN</a>
+		    <a class="headerLink" href="http://www.flowershopnetwork.com/floristsonly/">Florists Only!</a>
+		  </div>
+		</div>
+		<div class="container-inner" id="container-inner"><div class="pageContent"><div class="inner-content" style="background-color:#f4f4f4">
+  <div class="homePageDealBox">
+      <div style="color:#0a9a91;font-size:18px;font-weight:bold;margin-top:10px">Want the best deal?</div>
+      <div style="margin:5px;font-size:13px;"><b>Flower Shop Network</b> believes in local florists!</div>
+      <div style="margin-top:10px;margin-bottom:10px;">When you send flowers through FSN, the local flower shop receives 100% of the profits!</div>
+      <div class="footerSearch">
+        <div style="margin-top:20px;text-align:left;position:relative;font-size:14px;">Find Your <b>Local Florist</b> <img class="homepageReal" src="/images/footer-real.png"/></div>
+        <div style="clear:both"></div>
+        <form action="/pages/search.php" method="get" name="frmSearchMain">
+  	      <input _label="City, State or Zip" autocomplete="off" class="footerSearchBox blankBoxOut" id="search2" name="addr_city" style="vertical-align: top;padding-left:5px;margin-left:0px" tabindex="1" type="text" value="City, State or Zip"/>
+  	      <input class="footerSearchButton" height="32" style="vertical-align: top; border: 0;" type="submit" value="GO" width="74"/>
+	      </form>
+	    </div>
+	    <div style="clear:both"></div>
+	    <div style="margin-top:10px;font-style:italic;">- or -</div>
+	    <a class="aboutButton" href="/about/">Find Out More</a>
+  </div>
+  <div class="fsnHomeBanner">
+			<div class="showBanner" id="banner1">
+		<a alt="Celebrate your love story" href="/fsn_banner.php?seq=308" title="Celebrate your love story">
+			<img alt="Celebrate your love story" border="0" class="homePageBanner" src="/images/banners/fsn_banner_308.jpg"/>
+		</a>
+		</div>
+				<div class="hideBanner" id="banner2">
+		<a alt="Get on their good side!" href="/fsn_banner.php?seq=312" title="Get on their good side!">
+			<img alt="Get on their good side!" border="0" class="homePageBanner" src="/images/banners/fsn_banner_312.jpg"/>
+		</a>
+		</div>
+				<div class="hideBanner" id="banner3">
+		<a alt="Order Fall Flowers Today!" href="/fsn_banner.php?seq=314" title="Order Fall Flowers Today!">
+			<img alt="Order Fall Flowers Today!" border="0" class="homePageBanner" src="/images/banners/fsn_banner_314.jpg"/>
+		</a>
+		</div>
+			<div class="bannerSelector">
+			<div class="bannerSelectorBlockSelected" id="bannerThumb1"> </div>
+				<div class="bannerSelectorBlock" id="bannerThumb2"> </div>
+				<div class="bannerSelectorBlock" id="bannerThumb3"> </div>
+		  </div>
+  </div>
+  <div class="fsnHomePageTestimonialBlock">
+    Lovely website. Easy to find a florist in a particular town or city, plus you are dealing with a real florist who definitely knows the business!! Keep up the great work!
+    <div class="testTagLine">Raylene M. of Calgary, AB</div>
+  </div> 
+  <div style="clear:both"></div>
+  <div class="fsnHomePageSocialLine">
+    <!--img src="/images/social-dont-forget.png"-->
+    	  <div class="">
+			<div class="fb-like" data-action="like" data-layout="button_count" style="width:100px;float:left;vertical-align:bottom;margin-top:0px;"></div>
+			<!-- Place this tag where you want the +1 button to render -->
+			<div style="float:left;margin-left:10px;width: 96px;"><div class="g-plusone" data-size="medium" width="100px"></div></div>
+
+			<!-- Place this render call where appropriate -->
+			<script type="text/javascript">
+			  (function() {
+			    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			    po.src = 'https://apis.google.com/js/plusone.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script>
+						<div style="float:left">
+				<a class="twitter-share-button" data-count="none" href="https://twitter.com/share">Tweet</a>
+			</div>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	  </div>
+	  <div style="clear:both"></div>
+	   
+  </div>
+  <div style="clear:both"></div>
+  <div class="fsnHomePageSendFlowers">
+    <h1 style="color:#9b9b9b;font-size:20px;font-weight:bold;">Send flowers for...</h1>
+    <a class="lookingLinkBirthday" href="/flower-pictures/birthday/" title="Birthday Flowers">Birthday</a>
+    <a class="lookingLinkAnniversary" href="/flower-pictures/anniversary/" title="Anniversary Flowers">Anniversary</a>
+    <a class="lookingLinkRomance" href="/flower-pictures/roses/" title="Romance Flowers">Romance</a>
+    <a class="lookingLinkJustBecause" href="/flower-pictures/just-because/" title="Just Because Flowers">Just Because</a>
+    <a class="lookingLinkGetWellSoon" href="/flower-pictures/get-well/" title="Get Well Soon Flowers">Get Well Soon</a>
+    <a class="lookingLinkSympathy" href="/flower-pictures/sympathy/" title="Funeral Flowers">Sympathy</a>
+    <a class="lookingLinkHouseplants" href="/flower-pictures/all-house-plants/" title="House Plants">House Plants</a>
+    <a class="lookingLinkMoreFlowers" href="/flower-pictures/" title="More Flowers">More Flowers!</a>
+    <div style="clear:both"></div>
+  </div>
+  <div class="blogBox">
+      <div style="padding-left:10px;padding-top:10px">
+          <img src="/images/blog-icon.png"/><a href="/blog/" style="padding-left:5px;font-size:20px;color:#cd0572;font-weight:bold">Latest from the Bloomin' Blog</a>
+      </div>
+      <div class="blogCatLink" style="">
+          <a href="/blog/category/trends/">Trends</a>   |   <a href="/blog/category/gift-ideas/">Gift Ideas</a>   |   <a href="/blog/category/holiday-info/">Holidays</a>   |   <a href="/blog/category/flower-suggestions/">Flower Suggestions</a>   |   <a href="/blog/">And More</a>
+      </div>
+      <div class="blogExcerpts" style="overflow:auto;height: 228px;padding: 10px;">
+           
+    		      <a href="/blog/october-card-messages-2016" style="text-decoration:none;">
+    		        <div style="color:#049c8f; font-weight:bold;font-size:14px;">October Card Messages 2016</div>
+    		        <div style="color:#454545; margin-bottom:5px;">A thoughtful card message along with your gift of flowers will touch the heart and leave a lasting memory. Here are some examples to help you find the right words to say for the holidays in October!</div>
+    		      </a>
+    		      <a href="/blog/floralgram-september-2016" style="text-decoration:none;">
+    		        <div style="color:#049c8f; font-weight:bold;font-size:14px;">Floralgram, September 2016</div>
+    		        <div style="color:#454545; margin-bottom:5px;">See what happened on the Bloomin' Blog in September and what you have to look forward to in October!</div>
+    		      </a>
+    		      <a href="/blog/new-baby-flowers-what-you-need-to-know" style="text-decoration:none;">
+    		        <div style="color:#049c8f; font-weight:bold;font-size:14px;">New Baby Flowers: What You Need to Know</div>
+    		        <div style="color:#454545; margin-bottom:5px;">Flowers serve as a wonderful gift of encouragement. Their refreshing scent and beauty bring joy and happiness! Keep reading to learn everything you need to know about sending new baby flowers.</div>
+    		      </a>      </div>
+  </div>
+  <div class="homePageFlowerButtons">
+    <a alt="Flower Care Tips" href="/blog/flower-care/" title="Flower Care Tips"><img alt="Flower Care Tips" src="/images/buttons-flower-care-tips.png"/></a>
+    <a alt="Card Messages" href="/blog/enclosure-card-messages/" title="Card Messages"><img alt="Card Messages" src="/images/buttons-card-messages.png"/></a>
+    <a alt="Flower Dictionary" href="/blog/flower-dictionary/" style="margin-left: -5px;" title="Flower Dictionary"><img alt="Flower Dictionary" src="/images/buttons-flower-dictionary.png"/></a>
+  </div>
+  <div style="clear:both"></div>
+  <div class="homePageSellBox" style="height:370px">
+    <h1 style="color:#029d95;font-size:24px;font-weight:bold;float:left;margin-top:7px">
+      Why Flower Shop Network? 
+    </h1>
+    <hr style="border: 6px solid #029d95;margin-top: 15px;margin-bottom: 10px;margin-right: 15px;"/>
+    <div style="clear:both"></div>
+    <div style="margin-bottom:10px;font-size:14px">
+      <h2 style="font-weight: bold;color: #f49716;margin: 0px;padding: 0px;font-size: 15px;display: inline-block;">Flower Shop Network makes sending flowers easy!</h2>
+      When you select a <b>flower arrangement</b>, you will be instantly connected to a REAL local florist in your community.  
+      You can also <b>visit our directory</b> and choose your own florist <b>anywhere in the US &amp; Canada</b>!
+    </div>
+    <img src="/images/homepage-also-offer.png"/><br/>
+    <ul class="homePageList">
+       <li style="color:#d42f2b;font-size:22px"><span style="color:#454545;font-size:14px">A real, physical address and phone number assuring you are dealing with a real local florist.</span></li>
+       <li style="color:#f7921e;font-size:22px"><span style="color:#454545;font-size:14px">Customer Reviews for florists listed in our directory.</span></li>
+       <li style="color:#f2c508;font-size:22px"><span style="color:#454545;font-size:14px"><b><a href="/blog/category/florist-spotlights">Florist Spotlights</a></b>, a more in-depth look at a particular florist.</span></li>
+       <li style="color:#91c53d;font-size:22px"><span style="color:#454545;font-size:14px">Social media participation - find us on <b><a href="http://www.facebook.com/fanfsn">Facebook</a>, <a href="http://www.twitter.com/fsn">Twitter</a>, <a href="http://www.youtube.com/user/flowershopnetwork">Youtube</a>, etc.</b></span></li>
+       <li style="color:#049c8f;font-size:22px"><span style="color:#454545;font-size:14px"><b>We're mobile!</b> Connect to your favorite florist anywhere, anytime!</span></li>
+       <li style="color:#065fa1;font-size:22px"><span style="color:#454545;font-size:14px">We offer a <b><a href="http://es.flowershopnetwork.com">Spanish version of our florist directory</a></b> for the Spanish-speaking community.</span></li>
+    </ul>
+    <div style="margin-top:10px;font-size:16px;padding-bottom:20px;">
+      <span style="font-weight:bold;color:#029d95;">So, what is Flower Shop Network all about?</span>
+      Making sure every flower purchase is a special occasion and delivered by a real local florist.
+    </div>
+  </div>
+  <div class="homePageSocialBox" style="float:left;width:255px;text-align:left;padding:5px;margin-top:20px">
+    <div style="font-weight:bold;font-size:22px;">We're Social</div>
+    <div style="margin-bottom:10px;">Find us on your favorite social site!</div>
+    <div style="text-align:center; max-width:175px; margin:auto;">
+					<a alt="FSN on Facebook" href="http://www.facebook.com/FanFSN" title="FSN on Facebook"><img alt="FSN on Facebook" height="32" src="https://www.flowershopnetwork.com/images/social_media/3-32.png" style="border:none;margin-left: 5px;margin-right: 5px;" width="32"/></a>
+		    <a alt="FSN on Twitter" href="http://twitter.com/#!/fsn" title="FSN on Twitter"><img alt="FSN on Twitter" height="32" src="https://www.flowershopnetwork.com/images/social_media/4-32.png" style="border:none;margin-left: 5px;margin-right: 5px;" width="32"/></a>
+		    <a alt="FSN on Youtube" href="http://www.youtube.com/user/flowershopnetwork" title="FSN on Youtube"><img alt="FSN on Youtube" height="32" src="https://www.flowershopnetwork.com/images/social_media/16-32.png" style="border:none;margin-left: 5px;margin-right: 5px;" width="32"/></a>
+		    <a alt="FSN on Google+" href="https://plus.google.com/106033290155754834637" title="FSN on Google+"><img alt="FSN on Google+" height="32" src="https://www.flowershopnetwork.com/images/social_media/11-32.png" style="border:none;margin-left: 5px;margin-right: 5px;" width="32"/></a>
+		    <a alt="FSN on Pinterest" href="http://pinterest.com/flowershopnetwk/" title="FSN on Pinterest"><img alt="FSN on Pinterest" height="32" src="https://www.flowershopnetwork.com/images/social_media/12-32.png" style="border:none;margin-left: 5px;margin-right: 5px;" width="32"/></a>
+					<a alt="FSN RSS Feed" href="http://www.flowershopnetwork.com/blog/feed/" title="FSN RSS Feed"><img alt="FSN RSS Feed" height="32" src="/images/social_media/19-32.png" style="margin-left: 5px;margin-right: 5px;" width="32"/></a>
+			    </div>
+   <div style="background-color:white;width:250px;">
+    <div id="fb-root"></div><div ;="" class="fb-page" data-adapt-container-width="false" data-height="241" data-hide-cover="true" data-href="https://facebook.com/FanFSN" data-show-facepile="true" data-show-posts="false" data-small-header="true" data-width="250" hide_cover="true"></div>
+   </div>
+  </div>
+  <div style="clear:both"></div>
+  <div style="font-weight:bold;font-size:14px;margin-top: 20px;margin-bottom: 20px;">Additional Resources From FSN:</div>
+  <div style="text-align:center">
+    <a alt="Flower &amp; Gift Market" href="http://www.fgmarket.com" title="Flower &amp; Gift Market"><img src="/images/resources-fgmarket.jpg" style="margin-right:20px;margin-left:20px;"/></a>
+    <a alt="FSN Funeral Homes" href="http://www.fsnfuneralhomes.com" title="FSN Funeral Homes"><img src="/images/resources-funeral-homes.jpg" style="margin-right:20px;margin-left:20px;"/></a>
+    <a alt="FSN Hospitals" href="http://www.fsnhospitals.com" title="FSN Hospitals"><img src="/images/resources-hospitals.jpg" style="margin-right:20px;margin-left:20px;"/></a>
+    <a alt="Wedding and Party Network" href="http://www.weddingandpartynetwork.com" title="Wedding and Party Network"><img src="/images/resources-wedding-party.jpg" style="position:relative;top:5px;margin-right:20px;margin-left:20px;"/></a>
+  </div>
+</div>
+<script>
+  
+  document.observe("dom:loaded", function() {
+    var currentBanner = 1;
+    new PeriodicalExecuter(function(pe) {
+      $$(".showBanner").each(function(banner){
+        banner.removeClassName("showBanner");
+        banner.addClassName("hideBanner");
+      });
+      
+      $$(".bannerSelectorBlockSelected").each(function(banner){
+        banner.removeClassName("bannerSelectorBlockSelected");
+        banner.addClassName("bannerSelectorBlock");
+      });
+      
+      if(currentBanner > 3)
+        currentBanner = 1;
+        
+      $("bannerThumb"+currentBanner).removeClassName("bannerSelectorBlock");
+      $("bannerThumb"+currentBanner).addClassName("bannerSelectorBlockSelected");
+      $("banner"+currentBanner).removeClassName("hideBanner");
+      $("banner"+currentBanner).addClassName("showBanner");
+      currentBanner++;
+    }, 5);
+  });
+</script>
+		       <div style="clear:both"></div>
+  	    </div>
+  	    <div style="clear:both"></div>
+  	  </div>
+  	  <div style="clear:both"></div>
+  	  <center>
+  		<div class="footer">
+  		    <div class="footerSubBlock">
+    		    <div class="footerListHeader">Find Flowers</div>
+    		    <ul class="footerList">
+    		      <li><a href="http://www.flowershopnetwork.com/flower-pictures/birthday/">Birthday Flowers</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/flower-pictures/anniversary/">Anniversary Flowers</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/flower-pictures/roses/">Rose Arrangements</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/flower-pictures/just-because/">Flowers Just Because</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/flower-pictures/sympathy/">Funeral Flowers</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/flower-pictures/get-well/">Get Well Flowers</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/flower-pictures/gift-baskets/">Gift Baskets</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/flower-pictures/all-house-plants/">House Plants</a></li>
+    		    </ul>
+  		    </div>
+  		    <div class="footerSubBlock">
+    		    <div class="footerListHeader">Learn &amp; Explore</div>
+    		    <ul class="footerList">
+    		      <li><a href="http://www.flowershopnetwork.com/blog/">Bloomin' Blog</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/blog/flower-care/">Fresh Flower Care</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/blog/enclosure-card-messages/">Card Messages</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/blog/flower-plant-care-information/">House Plant Care</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/blog/ask-the-expert/">Ask the Plant Expert</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/blog/share-story/">Share Your Story</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/blog/flower-dictionary/">Flower Dictionary</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/pages/floral-holidays.php">Floral Holidays</a></li>
+    		      <li><a href="http://www.weddingandpartynetwork.com/gallery/tag/30/Wedding-Flowers">Wedding Flower Pictures</a></li>
+    		    </ul>
+  		    </div>
+  		    <div class="footerSubBlock">
+    		    <div class="footerListHeader">For the Florists</div>
+    		    <ul class="footerList">
+    		      <li><a href="http://www.fsnf2f.com">FSNf2f.com Login</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/floristsonly/benefits/">Member Benefits</a></li>
+              <li><a href="http://www.flowershopnetwork.com/floristsonly/web/">Websites</a></li>
+              <li><a href="http://www.flowershopnetwork.com/floristsonly/fsnf2f/">FSNf2f</a></li>
+              <li><a href="http://www.flowershopnetwork.com/floristsonly/email/">Email Campaigns</a></li>
+          	  <li><a href="http://www.flowershopnetwork.com/floristsonly/facebook/">Facebook Interface</a></li>
+          	  <li><a href="https://www.flowershopnetwork.com/floristsonly/calendars/">Floral Calendars</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/floristsonly/">Much, Much More!</a></li>
+    		    </ul>
+  		    </div>
+  		    <div class="footerSubBlock" style="border-right:1px solid #dadada;padding-right:15px;">
+    		    <div class="footerListHeader">More About Us</div>
+    		    <ul class="footerList">
+    		      <li><a href="http://www.flowershopnetwork.com/about/">About Us</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/experience/">Our Experience</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/contactus/">Contact Us</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/about/careers.php">Careers @ FSN</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/about/reviews.php">Reviews</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/about/link.php">Link to FSN</a></li>
+    		      <li><a href="http://es.flowershopnetwork.com/">En Espanol</a></li>
+    		      <li><a href="http://fsn.mobi/">FSN Mobile</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/blog/tag/newsletter/">Newsletter</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/sitemap/">Site Map</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/pages/policies.php">Privacy Policy</a></li>
+    		      <li><a href="http://www.flowershopnetwork.com/about/termsofuse.php">Terms of Service</a></li>
+    		    </ul>
+    		    <div class="footerListHeader" style="margin-top:10px;font-size:12px;">We're Social</div>
+    		    <div>
+								<a alt="FSN on Facebook" href="http://www.facebook.com/FanFSN" title="FSN on Facebook"><img alt="FSN on Facebook" height="32" src="https://www.flowershopnetwork.com/images/social_media/3-32.png" style="border:none;margin-left: 5px;margin-right: 5px;" width="32"/></a>
+		    <a alt="FSN on Twitter" href="http://twitter.com/#!/fsn" title="FSN on Twitter"><img alt="FSN on Twitter" height="32" src="https://www.flowershopnetwork.com/images/social_media/4-32.png" style="border:none;margin-left: 5px;margin-right: 5px;" width="32"/></a>
+		    <a alt="FSN on Youtube" href="http://www.youtube.com/user/flowershopnetwork" title="FSN on Youtube"><img alt="FSN on Youtube" height="32" src="https://www.flowershopnetwork.com/images/social_media/16-32.png" style="border:none;margin-left: 5px;margin-right: 5px;" width="32"/></a>
+		    <a alt="FSN on Google+" href="https://plus.google.com/106033290155754834637" title="FSN on Google+"><img alt="FSN on Google+" height="32" src="https://www.flowershopnetwork.com/images/social_media/11-32.png" style="border:none;margin-left: 5px;margin-right: 5px;" width="32"/></a>
+		    <a alt="FSN on Pinterest" href="http://pinterest.com/flowershopnetwk/" title="FSN on Pinterest"><img alt="FSN on Pinterest" height="32" src="https://www.flowershopnetwork.com/images/social_media/12-32.png" style="border:none;margin-left: 5px;margin-right: 5px;" width="32"/></a>
+					<a alt="FSN RSS Feed" href="http://www.flowershopnetwork.com/blog/feed/" title="FSN RSS Feed"><img alt="FSN RSS Feed" height="32" src="/images/social_media/19-32.png" style="margin-left: 5px;margin-right: 5px;" width="32"/></a>
+			    		    </div>
+  		    </div>
+			<div style="position: absolute; bottom: 2px; right: 2px; font-size: 9px;">web17-at</div>
+  		    <div class="footerSubBlock" style="width:250px;text-align:center">
+    		    <img class="footerLogo" src="/images/footer-logo.png"/>
+    		    <div style="font-size:12px">Flower Shop Network is your source for finding a real local florist.</div>
+    		    <div class="footerSearch">
+    		      <div style="font-weight:bold;margin-top:20px;text-align:left;padding-left:35px;position:relative;">Find Your Local Florist <img class="footerReal" src="/images/footer-real.png"/></div>
+    		      <form action="http://www.flowershopnetwork.com/pages/search.php" method="post" name="frmSearchMain">
+      		      <input _label="City, State" autocomplete="off" class="blankBoxOut footerSearchBox" id="search2" name="addr_city" style="vertical-align: top;" tabindex="1" type="text" value="City, State"/>
+      		      <input class="footerSearchButton" height="32" style="vertical-align: top; border: 0;" type="submit" value="GO" width="74"/>
+      		    </form>
+    		    </div>
+  		    </div>
+  		    <div style="clear:both"></div>
+  		</div>
+  	  </center>
+  	  <div style="clear:both"></div>
+	  
+	  
+		<script>
+
+		  function displayFoMenu(position){
+		    $("foDrop" + position).style.display = "block";
+		  }
+
+		  function hideFoMenu(position){
+		    $("foDrop" + position).style.display = "none";
+		  }
+
+      $$(".blankBoxOut").each(function (input){
+      	input._label = input.getAttribute("_label") || input.defaultValue;
+      	if(input.value == input._label || input.value == "") {
+      		input.value = input._label;
+      		input.style.fontStyle = 'italic';
+      		input.style.color = '#a2a2a2';
+      		input.style.fontWeight = 'normal';
+      	} else {
+      		input.style.fontWeight  = 'bold';
+      		input.style.color       = '#454545';
+      		input.style.fontStyle   = 'normal';
+      	}
+      	input.observe("focus", function() {
+      		if(this.value == this._label){
+      		  this.value = "";
+      			this.style.fontWeight = 'bold';
+        		this.style.color = '#454545';
+        		this.style.fontStyle = 'normal';
+      		}
+      	}.bind(input));
+
+      	input.observe("blur" ,function() {
+      		if(this.value == ""){
+      			this.style.fontStyle = 'italic';
+        		this.style.color = '#a2a2a2';
+        		this.style.fontWeight = 'normal';
+      			this.value = this._label;
+      		}
+      	}.bind(input));
+      });
+
+		$j(function() {
+			var countryIds=[1,2,3,6];
+			checkWindowSize();
+			$j(".searchBox[name=addr_city], .footerSearchBox[name=addr_city], .gallerySearchBox[name=addr_city]").autocomplete({
+				minLength: 2, 
+				source: function(searchTerm, result) {
+					$j.ajax({
+						type: "GET", 
+						dataType: "json", 
+						data: { city: searchTerm.term, autocomplete: 1, countryId: countryIds },
+						url: "/xhr/City.xhrSearch", 
+						success: function(responseData) {
+							var options = [];
+							$j.each(responseData, function(i, item) {
+								var option = {};
+								option.label = item.cityName + ', ' + item.stateAbbr;
+								option.value = item.cityName + ', ' + item.stateAbbr;
+								option.obj = item;
+								options.push(option);
+							});
+							result(options);
+						}
+					});
+				}
+			});
+		});
+		
+		var stickySize = false;
+		var pixelRatio = window.devicePixelRatio;
+		function checkWindowSize(){
+			if(mobileSafe){
+				var windowWidth = $j(window).width();
+				$j(".container").width(windowWidth);
+				simpleSlider.redraw();
+				
+				if(pixelRatio > 1 && windowWidth <= 500)
+					stickySize = true;
+				else
+					stickySize = false;
+				
+				if(!stickySize){	
+					if(windowWidth <= 974){
+						$j("#fixedNav").hide();
+						if(mobileSafe){
+							$j('#dynamicSS').attr('href', "/css/stylesMobile.min.css");
+						}
+					}
+					else{
+						$j(".lowResPopOutMenu").hide();
+						$j('#dynamicSS').attr('href', "/css/stylesFull.min.css");
+					}
+				}
+			}
+		}
+		
+		$j(window).resize(function() {
+				checkWindowSize();
+		});
+		
+		$j(window).scroll(function() {
+				var yPos = ( $j(window).scrollTop() );
+				var windowWidth = $j(window).width();
+				if(windowWidth > 974 && pixelRatio == 1){
+					if(yPos > 100) { // show sticky menu after screen has scrolled down 200px from the top
+						$j("#fixedNav").fadeIn();
+					} else {
+						$j("#fixedNav").fadeOut();
+					}
+				}
+				else{
+					$j("#fixedNav").hide();
+				}
+		});
+		
+		$j(document).ready(function() {
+		  $j('#low-res-menu').sidr({
+			  source:'#menuListPopout',
+			  side:'right'
+		  });
+		  $j(".sidr-inner > ul > li > ul").hide();
+		  $j(".sidr-class-foDownArrow").show();
+		  $j(".sidr-class-foUpArrow").hide();
+		  $j(".sidr-inner > ul > li").click(function(){
+				$j(this).find("ul").toggle('fast',function(){
+					//After toggle
+				});
+				
+				$j(this).find(".sidr-class-foDownArrow").toggle();
+				$j(this).find(".sidr-class-foUpArrow").toggle();
+			});
+		});
+		
+		
+		$j(".lowResPopOutMenu > ul > li").click(function(){
+			$j(this).find("ul").slideToggle('fast',function(){
+				//After toggle
+			});
+			
+			$j(this).find(".foDownArrow").toggle();
+			$j(this).find(".foUpArrow").toggle();
+		});
+
+	  </script>
+	    <!-- Place this tag in your head or just before your close body tag -->
+		<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+		
+</body></html>

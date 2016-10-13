@@ -1,0 +1,2349 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17740242-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head><body><div align="center">
+
+
+
+
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+
+<title>Send Flowers to India Gifts Send Cakes to India Same Day: Cheap Flowers Delivery in India</title>
+ 
+<meta content="Flowers to india, India Florist, Send Flowers to India, Flower Delivery in India, Cakes to India, Send Cakes to India, Sending Flowers to India, Online Cake Delivery in India Same Day, Taj Cakes to India, Eggless Cakes to India, Cake Delivery in India, Flowers to India from USA, Send Flowers to India from USA, Send Flowers to india from UK, Send Flowers to India from Australia, Send Flowers to India from Canada, Send Flowers to India from UAE Dubai." name="Description"/> 
+ 
+<meta content="Florist, India Florist, India Florists, Florist India, Florists India, Send, Flowers, send Flowers, send Flowers to India, Cakes to India, Send Cakes, Cake Delivery, In India, Sweets to India, India, Flowers, Gifts, Cakes, Sweets, Florists, Send, Sending, Online Florist in India, Florist in India, Online Florists in India." name="Keywords"/>
+
+<meta content="India Florist, Florist in India, Florist India, Florists, Florists India, Online Florists, Send Flowers to India, Flowers to India, Send Cakes to India, Sweets to India, Online Gifts, Cakes, Sweets, Flowers, Gifts, India." name="classification"/>
+
+<!--
+Valentine
+<title>Send Flowers to India Cakes Valentine Gifts to India: Low Cost Flower Delivery in India</title>
+ 
+<meta name="Description" content="Flowers to india, India Florist, Send Valentine’s Day Flowers to India, Valentine Gifts to India, Send Flowers to India, Online Flowers Delivery in India, Cakes to India, Send Cakes to India, Sending Flowers to India, Online Cake Delivery in India Same Day, Taj Cakes to India, Eggless Cakes to India, Cake Delivery in India, Flowers to India from USA, Send Flowers to India from US, Send Flowers to india from UK, Send Flowers to India from Australia, Send Flowers to India from Canada, Send Flowers to India from UAE Dubai.">
+-->
+
+<!--Send Rakhi to India, Rakhi Gifts to India, --> 
+<!--Mother’s Day Gifts to India, Gifts to India for Mother, --> 
+
+ 
+<!--<title>Send Flowers to India Gifts Send Cakes to India Same Day: Cheap Rakhi to India</title> -->
+
+
+<meta content="sJzP2BrLijjGvQwV3ri_H9ZaYFRNVAbp7bBbotgkhIU" name="google-site-verification"/>
+<meta content="MJ12_631b0b6c-98a8-4fd8-952a-85f34b9202ab" name="majestic-site-verification"/>
+<link href="IFN-style.css" rel="stylesheet" type="text/css"/>
+<script language="javascript" src="main_banner.js"></script>
+<script language="javascript">
+function Select_City1()
+{
+url=document.getElementById('select1').value
+url="http://www.indiafloristnetwork.com/"+url+"/default.asp"
+window.location.href=url
+}
+
+function Select_City2()
+{
+url=document.getElementById('select2').value
+url="http://www.indiafloristnetwork.com/"+url+"/default.asp"
+window.location.href=url
+}
+
+function save1()
+{
+window.location.href ="a.asp?user="+t1.value+"&password="+t2.value
+
+ 
+}
+function CreateBookmarkLink()
+ {
+
+ title = "Flowers and Gifts to India"; 
+ 
+ url = "http://www.indiafloristsnetwork.com";
+  
+
+	if (window.sidebar) 
+{ // Mozilla Firefox Bookmark
+		window.sidebar.addPanel(title, url,"");
+} else if( window.external ) { // IE Favorite
+		window.external.AddFavorite( url, title); }
+	else if(window.opera && window.print) { // Opera Hotlist
+		return true; }
+ }
+
+
+
+</script>
+
+
+
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Arial;
+
+	font-size: 13px;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+#fade { /*--Transparent background layer--*/
+	display: none; /*--hidden by default--*/
+	background: #000;
+	position: fixed; left: 0; top: 0;
+	width: 100%; height: 100%;
+	opacity: .20;
+	z-index: 9999;
+	text-align:center;
+}
+.popup_block{
+	display: none; /*--hidden by default--*/
+	background: #fff;
+	padding: 10px;
+	border: 1px solid #8ebb22;
+	position: fixed;
+	z-index: 99999;
+	/*--CSS3 Rounded Corners--*/
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	height:300px;
+	width:550px;
+	margin:auto;
+	left:50%;
+	top:50%;
+	margin-left:-50%;
+	margin-top:-50%;
+}
+img.btn_close {
+	float: right;
+	margin: -25px -35px 0 0;
+	height: 25px;
+}
+/*--Making IE6 Understand Fixed Positioning--*/
+*html #fade {
+	position: absolute;
+}
+*html .popup_block {
+	position: absolute;
+}
+
+-->
+</style>
+<script src="functions.js" type="text/javascript"></script>	
+<script src="jquery-1.js" type="text/javascript"></script>		
+
+
+
+
+
+
+<table align="center" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="1001">
+  <tbody><tr>
+    <td height="111" valign="top" width="1001">
+		
+      <script language="javascript">
+function open_win()
+{
+xyz=window.open ("http://www.indiafloristnetwork.com/Design_comment.asp","ff",'toolbar=0,height=600, width=600,menubar=0,resizable=no,left=5,top=5,scrollbars=1')
+}
+</script>
+<style type="text/css">
+<!--
+.top_white_txt {
+	font:normal 13px Verdana;
+	color: #FFFFFF;
+}
+-->
+</style>
+
+ <table border="0" cellpadding="0" cellspacing="0" width="1001">
+  <tbody><tr>
+    <td bgcolor="#9ac118" width="1001">
+		<table border="0" cellpadding="0" cellspacing="0" width="1001">
+		  <tbody><tr>
+			<td height="101" width="20"></td>
+			<td background="../siteimages/sitename2.jpg" style="background-repeat:no-repeat; " width="390">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tbody><tr>
+				<td height="51" width="59"><a href="http://www.indiafloristnetwork.com/" title="Send Flowers, Cakes and Gifts to India"><img border="0" height="51" src="../siteimages/blank.gif" width="59"/></a></td>
+				<td width="339"><a href="http://www.indiafloristnetwork.com/" title="Send Flowers, Cakes and Gifts to India"> <img border="0" height="51" src="../siteimages/blank.gif" width="339"/></a></td>
+			  </tr>
+			  <tr>
+				<td height="51"><a href="http://www.indiafloristnetwork.com/" title="Send Flowers, Cakes and Gifts to India"><img border="0" height="51" src="../siteimages/blank.gif" width="51"/></a></td>
+				<td align="left" valign="top" width="339"><span class="top_white_txt">Flowers, Cakes and Gifts Same Day</span></td>
+			  </tr>
+			</tbody></table>
+
+			</td>
+			<td align="center" valign="top" width="348"><!--<a onclick="open_win()" style="cursor:pointer; color:#FF0000"><img src="../siteimages/comment_bg.jpg" width="258" height="54"/></a>--> </td>
+			<td background="../siteimages/top1bg2.jpg" height="92" style="background-repeat:no-repeat; background-position:center" width="241">
+				<table border="0" cellpadding="0" cellspacing="0" width="241">
+				  <tbody><tr>
+					<td height="15" width="30"></td>
+					<td width="211"></td>
+				  </tr>
+				  <tr>
+					<td height="16" width="30"></td>
+					<td align="left"><strong>100% Assured Delivery</strong></td>
+				  </tr>
+				  <tr>
+					<td height="15" width="30"></td>
+					<td align="left"><strong>Same Day Delivery Available</strong></td>
+				  </tr>
+				  <tr>
+					<td height="15" width="30"></td>
+					<td align="left"><strong>Secured Payment Gateway</strong></td>
+				  </tr>
+				  <tr>
+					<td height="14" width="30"></td>
+					<td align="left"><strong>Delivery on Sundays and Holidays</strong></td>
+				  </tr>
+				  <tr>
+					<td height="17" width="30"></td>
+					<td></td>
+				  </tr>
+				</tbody></table>
+
+			</td>
+			<td width="2"></td>
+		  </tr>
+		  <tr>
+			<td colspan="5" height="10"></td>
+		  </tr>
+		</tbody></table>
+	</td>
+  </tr>
+   <tr>
+    <td height="3" width="1001"></td>
+  </tr>
+  <tr>
+    <td background="../siteimages/nav_bg.jpg" height="33" style="border:#c8c8c8 1px solid" valign="top" width="1001">
+		<table border="0" cellpadding="0" cellspacing="0" width="1001">
+		  <tbody><tr>
+			<td align="center" class="nav_menu" width="89"><a class="nav_menu" href="default.asp">Home</a></td>
+			<td height="33" width="1"><img src="../siteimages/nav_separator.jpg"/></td>
+			<td align="center" class="nav_menu" width="125"><a class="nav_menu" href="http://www.indiafloristnetwork.com/delivery-info.asp">Delivery Info</a></td>
+			<td height="33" width="1"><img src="../siteimages/nav_separator.jpg"/></td>
+			<td align="center" class="nav_menu" width="135"><a class="nav_menu" href="http://www.indiafloristnetwork.com/Order_Status.asp">Order Status</a></td>
+			<td height="33" width="1"><img src="../siteimages/nav_separator.jpg"/></td>
+			<td align="center" class="nav_menu" width="113"><a class="nav_menu" href="http://www.indiafloristnetwork.com/Locations.asp">Locations</a></td>
+			<td height="33" width="1"><img src="../siteimages/nav_separator.jpg"/></td>
+			<td align="center" class="nav_menu" width="109"><a class="nav_menu" href="http://www.indiafloristnetwork.com/Payment.asp">Payment</a></td>
+			<td height="33" width="1"><img src="../siteimages/nav_separator.jpg"/></td>
+			<td align="center" class="nav_menu" width="85"><a class="nav_menu" href="http://www.indiafloristnetwork.com/Member_Login.asp">Login</a></td>
+			<td height="33" width="1"><img src="../siteimages/nav_separator.jpg"/></td>
+			<td align="center" class="nav_menu" width="80"><a class="nav_menu" href="http://www.indiafloristnetwork.com/FAQ.asp">FAQ</a></td>
+			<td height="33" width="1"><img src="../siteimages/nav_separator.jpg"/></td>
+			<td align="center" class="nav_menu" width="139"><a class="nav_menu" href="http://www.indiafloristnetwork.com/Shopping_Cart511.asp">Shopping Cart</a></td>
+			<td height="33" width="1"><img src="../siteimages/nav_separator.jpg"/></td>
+			<td align="center" class="nav_menu" width="121"><a class="nav_menu" href="http://www.indiafloristnetwork.com/customer_mail.asp">Contact Us</a></td>
+		  </tr>
+		</tbody></table>
+
+	</td>
+  </tr>
+  <tr>
+    <td height="3" width="1001"></td>
+  </tr>
+</tbody></table>
+       
+		
+		
+
+<script language="JavaScript">
+var xy = navigator.appVersion;
+xz = xy.substring(0,4);
+document.cookie = "ScreenWidth=" + screen.width
+document.cookie = "ScreenHeight=" + screen.height
+
+</script>
+
+	</td>
+  </tr>
+  
+<!-- Rakhi Still Taking -->
+ 
+<!--<tr><td height="2"></td></tr>
+  <tr><td height="28" style="background-color:#A60107; border:2px solid #4F000A">
+  <marquee behavior="alternate"><font style="font:bold 16px Verdana; color:#FFFFFF">Still Taking Rakhi Orders : Assured Delivery</font></marquee>
+  </td></tr> 
+  <tr><td height="3"></td></tr> -->
+  
+  
+  <!--Rakhi Banner -->
+  
+  
+  
+  <!--<tr>
+    <td width="1001"  valign="top">
+		<table width="1001" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+			<td width="736" >
+			
+			<table width="736" border="0" cellpadding="3" bgcolor="#CDEB8B" style="border:2px solid #9AC118">
+                            <tr>
+								<td colspan="5">
+									<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#CDEB8B" >
+														
+									  <tr>
+									  
+									  	<td width="14%" height="50" align="center"><a href="RAKHI.asp"><img src="siteimages/india.gif" width="60" height="45" border="0" title="Send Rakhi Gifts to INDIA" /></a></td>
+										<td width="14%" height="50" align="center"><a href="RAKHI_TO_USA.asp"><img src="siteimages/usa.gif" width="60" height="45" border="0" title="Send Rakhi Gifts to USA" /></a></td>
+										<td width="14%" align="center"><a href="RAKHI_to_uk.asp"><img src="siteimages/uk.gif" width="60" height="45" border="0" title="Send Rakhi Gifts to UK"/></a></td>
+										<td width="14%" align="center"><a href="rakhi_to_canada.asp"><img src="siteimages/canada.gif" width="60" height="45" border="0" title="Send Rakhi Gifts to CANADA"/></a></td>
+										<td width="14%" align="center"><a href="rakhi_to_australia.asp"><img src="siteimages/australia.gif" width="60" height="45" border="0" title="Send Rakhi Gifts to AUSTRALIA"/></a></td>
+										<td width="15%" align="center"><a href="rakhi_to_newzealand.asp"><img src="siteimages/newzealand.gif" width="60" height="45" border="0" title="Send Rakhi Gifts to NEW ZEALAND"/></a></td>
+										<td width="15%" align="center"><a href="world_rakhi.asp"><img src="siteimages/world.gif" width="60" height="45" border="0" title="Send Rakhi Gifts to WORLDWIDE"/></a></td>
+										
+									  </tr>
+									  <tr>
+									  <td height="35" align="center" class="cityitem_product_price"><a href="RAKHI.asp" class="bbold_txt1">Rakhi Gifts to</a> <br />
+									    <a href="RAKHI.asp" class="cityitem_product_price">INDIA</a></td>
+										<td height="35" align="center" class="cityitem_product_price"><a href="RAKHI_TO_USA.asp" class="bbold_txt1">Rakhi Gifts to</a> <br /><a href="RAKHI_TO_USA.asp" class="cityitem_product_price">USA</a></td>
+										<td align="center" class="cityitem_product_price"><a href="RAKHI_to_uk.asp" class="bbold_txt1">Rakhi Gifts to </a><br />
+									    <a href="RAKHI_to_uk.asp" class="cityitem_product_price">UK</span></a></td>
+										<td align="center" class="cityitem_product_price"><a href="rakhi_to_canada.asp" class="bbold_txt1">Rakhi Gifts to</a> <br />
+									    <a href="rakhi_to_canada.asp" class="cityitem_product_price">CANADA</span></a></td>
+										<td align="center" class="cityitem_product_price"><a href="rakhi_to_australia.asp" class="bbold_txt1">Rakhi Gifts to</a> <br />
+									    <a href="rakhi_to_australia.asp" class="cityitem_product_price">AUSTRALIA</span></a></td>
+										<td align="center" class="cityitem_product_price"><a href="rakhi_to_australia.asp" class="bbold_txt1">Rakhi Gifts to</a> <br />
+									    <a href="rakhi_to_newzealand.asp" class="cityitem_product_price">NEW ZEALAND</span></a></td>
+										<td align="center" class="cityitem_product_price"><a href="world_rakhi.asp" class="bbold_txt1">Rakhi Gifts to</a> <br />
+									    <a href="world_rakhi.asp" class="cityitem_product_price">WORLDWIDE</span></a></td>
+									  </tr>
+									</table>
+								</td>
+							    	
+							</tr>
+							
+							
+							
+							
+                              
+              </table>
+				
+
+			</td>
+			<td width="10"></td>
+			<td width="255" valign="top"><a href="RAKHI.asp"><img src="siteimages/rakhi_index_banner.jpg" title="Rakhi Gifts to India" width="255" height="98" border="0" /></a></td>
+		  </tr>
+		</table>
+
+	</td>
+  </tr> -->
+  
+  
+  <!--Diwali Still Taking-->
+  
+  <!--<tr><td height="2"></td></tr>
+  <tr><td height="28" style="background-color:#A60107; border:2px solid #4F000A">
+  <marquee behavior="alternate"><font style="font:bold 16px Verdana; color:#FFFFFF">Still Taking Diwali Orders : Assured Delivery</font></marquee>
+  </td></tr> 
+  <tr><td height="3"></td></tr>  -->
+  
+  
+  <!--Diwali Baner-->
+  <!--<tr>
+    <td width="1001"  valign="top">
+		<table width="1001" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+			<td width="736" >
+			
+			<table width="736" border="0" cellpadding="3" bgcolor="#CDEB8B" style="border:2px solid #9AC118">
+                            <tr>
+								<td colspan="5">
+									<table width="98%" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#CDEB8B" >
+														
+									  <tr>
+									  
+									  	<td width="20%" height="50" align="center"><a href="Diwali.asp"><img src="siteimages/india.gif" width="60" height="45" border="0" title="Send Diwali Gifts to INDIA" /></a></td>
+										<td width="19%" height="50" align="center"><a href="diwali_USA.asp"><img src="siteimages/usa.gif" width="60" height="45" border="0" title="Send Diwali Gifts to USA" /></a></td>
+										<td width="19%" align="center"><a href="diwali_uk.asp"><img src="siteimages/uk.gif" width="60" height="45" border="0" title="Send Diwali Gifts to UK"/></a></td>
+										<td width="20%" align="center"><a href="diwali_canada.asp"><img src="siteimages/canada.gif" width="60" height="45" border="0" title="Send Diwali Gifts to CANADA"/></a></td>
+										
+										<td width="20%" align="center"><a href="world_diwali.asp"><img src="siteimages/world.gif" width="60" height="45" border="0" title="Send Diwali Gifts to WORLDWIDE"/></a></td>
+										
+									  </tr>
+									  <tr>
+									  <td height="35" align="center" class="cityitem_product_price"><a href="Diwali.asp" class="bbold_txt1">Diwali Gifts to</a> <br />
+									    <a href="Diwali.asp" class="cityitem_product_price">INDIA</a></td>
+										<td height="35" align="center" class="cityitem_product_price"><a href="diwali_USA.asp" class="bbold_txt1">Diwali Gifts to</a> <br /><a href="diwali_USA.asp" class="cityitem_product_price">USA</a></td>
+										<td align="center" class="cityitem_product_price"><a href="diwali_uk.asp" class="bbold_txt1">Diwali Gifts to </a><br />
+									    <a href="diwali_uk.asp" class="cityitem_product_price">UK</span></a></td>
+										<td align="center" class="cityitem_product_price"><a href="diwali_canada.asp" class="bbold_txt1">Diwali Gifts to</a> <br />
+									    <a href="diwali_canada.asp" class="cityitem_product_price">CANADA</span></a></td>
+										<td align="center" class="cityitem_product_price"><a href="world_diwali.asp" class="bbold_txt1">Diwali Gifts to</a> <br />
+									    <a href="world_diwali.asp" class="cityitem_product_price">WORLDWIDE</span></a></td>
+									  </tr>
+									</table>
+								</td>
+							    	
+							</tr>
+							
+							
+							
+							
+                              
+              </table>
+				
+
+			</td>
+			<td width="10"></td>
+			<td width="255" valign="top"><a href="Diwali.asp"><img src="siteimages/diwali_index_banner.jpg" title="Diwali Gifts to India" width="255" height="98" border="0" /></a></td>
+		  </tr>
+		</table>
+
+	</td>
+  </tr> -->
+  
+<!--<tr><td align="center"><a href="valentines day.asp" title="Valentine's Day Gifts to India"><img src="siteimages/valentine-banner-outside.jpg" border="0" /></a></td></tr> -->
+  
+<!--<tr><td height="3"></td></tr>
+  
+ <tr><td height="2"></td></tr>
+  <tr><td height="28" style="background-color:#A60107; border:2px solid #4F000A">
+  <marquee behavior="alternate"><font style="font:bold 16px Verdana; color:#FFFFFF">Still Taking Valentine's Day Orders : Assured Delivery</font></marquee>
+  </td></tr> -->
+  
+  
+ <!--<tr><td align="center"><a href="mothers day.asp" title="Mother's Day Gifts to India"><img src="siteimages/mother-banner-outside.jpg" border="0" /></a></td></tr>  -->
+  
+  <!--<tr><td height="2"></td></tr>
+  <tr><td height="28" style="background-color:#A60107; border:2px solid #4F000A">
+  <marquee behavior="alternate"><font style="font:bold 16px Verdana; color:#FFFFFF">Still Taking Mother's Day Orders : Assured Delivery</font></marquee>
+  </td></tr>  -->
+  
+  <tr><td height="3"></td></tr>
+  
+  <tr>
+    <td height="447" valign="top" width="1001">
+		<table border="0" cellpadding="0" cellspacing="0" width="1001">
+		  <tbody><tr>
+			<td height="246" width="736">
+				<table border="0" cellpadding="0" cellspacing="0" width="736">
+				  <tbody><tr>
+					<td>
+					
+<div class="IFN_MainBanner">
+  <div class="IFN_MainBannerpics">
+    <ul class="IFN_MainBannerul">
+      <li class="IFN_MainBannerli">
+	  <a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');"><img border="0" src="siteimages/Banner_index_01.jpg" title="Fresh Flowers to India"/></a>	  </li>
+      <li class="IFN_MainBannerlihide">
+	  <a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');"><img border="0" src="siteimages/Banner_index_02.jpg" title="Fresh Baked Cakes to India"/></a>	  </li>
+      <li class="IFN_MainBannerlihide">
+	  <a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');"><img border="0" src="siteimages/Banner_index_03.jpg" title="Imported Chocolates to India"/></a>	  </li>
+      <li class="IFN_MainBannerlihide">
+	  <a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');"><img border="0" src="siteimages/Banner_index_04.jpg" title="Fresh Haldiram Sweets to India"/></a>	  </li>
+    </ul>
+  </div>
+</div>
+					
+					</td>
+				  </tr>
+				  <tr>
+					<td height="3"></td>
+				  </tr>
+				  <tr>
+					<td height="198" valign="top" width="736">
+<table border="0" cellpadding="0" cellspacing="0" width="736">
+	<tbody><tr>
+	<td height="198" style="background:url(siteimages/ban_birthday_s.jpg) center no-repeat" width="240">
+	<div style="height:159px;">
+	<a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Birthday Gifts to India"><img border="0" height="198" src="siteimages/transparent_ban.gif" width="240"/></a>	</div>
+	<div style="height:39px; text-align:center">
+	<a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" style="font:normal 20px/39px Georgia; text-decoration:none; color:#fff; font-style:italic; text-align:center" title="Birthday Gifts to India">Birthday Gifts</a>	</div>	</td>
+	<td width="8"></td>
+	<td height="198" style="background:url(siteimages/ban_wedding_s.jpg) center no-repeat" width="240">
+	<div style="height:159px;">
+	<a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Wedding Gifts to India"><img border="0" height="198" src="siteimages/transparent_ban.gif" width="240"/></a>	</div>
+	<div style="height:39px; text-align:center">
+	<a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" style="font:normal 20px/39px Georgia; text-decoration:none; color:#fff; font-style:italic; text-align:center" title="Wedding Gifts to India">Wedding Gifts</a>	</div>	</td>
+	<td width="8"></td>
+	<td height="198" style="background:url(siteimages/ban_Anniversary_s.jpg) center no-repeat" width="240">
+	<div style="height:159px;">
+	<a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Anniversary Gifts to India"><img border="0" height="198" src="siteimages/transparent_ban.gif" width="240"/></a>	</div>
+	<div style="height:39px; text-align:center">
+	<a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" style="font:normal 20px/39px Georgia; text-decoration:none; color:#fff; font-style:italic; text-align:center" title="Anniversary Gifts to India">Anniversary Gifts</a></div>	</td>
+	</tr>
+</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+			</td>
+			<td width="10"></td>
+			<td valign="top" width="255">
+				<table border="0" cellpadding="0" cellspacing="0" width="255">
+				  <tbody><tr>
+					<td bgcolor="#ebeaed" class="bdr1" height="134" valign="top" width="253">
+						<table border="0" cellpadding="0" cellspacing="0" style="padding-top:2px" width="253">
+						  <tbody><tr>
+							<td align="center" class="bbold_txt1" height="18">Select City for Delivery Location</td>
+						  </tr>
+						  <tr>
+							<td height="25">
+								<table align="center" border="0" cellpadding="0" cellspacing="0" width="95%">
+								  <tbody><tr>
+									<td align="center" width="87%">
+											<select id="select1" name1="select1" onchange="Select_City1()">
+											 <option value="0">-- Select City for Delivery 
+ --</option>
+                                        
+<option value="Adilabad">Adilabad</option>
+                                        
+<option value="Agra">Agra</option>
+                                        
+<option value="Ahmadnagar">Ahmadnagar</option>
+                                        
+<option value="Ahmedabad">Ahmedabad</option>
+                                        
+<option value="Ajmer">Ajmer</option>
+                                        
+<option value="Akola">Akola</option>
+                                        
+<option value="Alapuzha">Alapuzha</option>
+                                        
+<option value="Aleppy">Aleppy</option>
+                                        
+<option value="Aligarh">Aligarh</option>
+                                        
+<option value="Allahabad">Allahabad</option>
+                                        
+<option value="Aluva">Aluva</option>
+                                        
+<option value="Alwar">Alwar</option>
+                                        
+<option value="Amalampuram">Amalampuram</option>
+                                        
+<option value="Ambala">Ambala</option>
+                                        
+<option value="Ambur">Ambur</option>
+                                        
+<option value="Amlapuram">Amlapuram</option>
+                                        
+<option value="Amravati">Amravati</option>
+                                        
+<option value="Amritsar">Amritsar</option>
+                                        
+<option value="Anakapalli">Anakapalli</option>
+                                        
+<option value="Anand">Anand</option>
+                                        
+<option value="Anantapur">Anantapur</option>
+                                        
+<option value="Ankleshwar">Ankleshwar</option>
+                                        
+<option value="Ariyalur">Ariyalur</option>
+                                        
+<option value="Aurangabad">Aurangabad</option>
+                                        
+<option value="Baghalkot">Baghalkot</option>
+                                        
+<option value="Baghpat">Baghpat</option>
+                                        
+<option value="Bangalore">Bangalore</option>
+                                        
+<option value="Bantwal">Bantwal</option>
+                                        
+<option value="Barasat">Barasat</option>
+                                        
+<option value="Barauipur">Barauipur</option>
+                                        
+<option value="Baraut">Baraut</option>
+                                        
+<option value="Bardez">Bardez</option>
+                                        
+<option value="Bareilly">Bareilly</option>
+                                        
+<option value="Barnala">Barnala</option>
+                                        
+<option value="Baroda">Baroda</option>
+                                        
+<option value="Barrackpore">Barrackpore</option>
+                                        
+<option value="Batala">Batala</option>
+                                        
+<option value="Behrampur">Behrampur</option>
+                                        
+<option value="Belapur Road">Belapur Road</option>
+                                        
+<option value="Belgaum">Belgaum</option>
+                                        
+<option value="Bellary">Bellary</option>
+                                        
+<option value="Berhampur">Berhampur</option>
+                                        
+<option value="Bhadrawati">Bhadrawati</option>
+                                        
+<option value="Bhagalpur">Bhagalpur</option>
+                                        
+<option value="Bharuch">Bharuch</option>
+                                        
+<option value="Bhatinda">Bhatinda</option>
+                                        
+<option value="Bhavani">Bhavani</option>
+                                        
+<option value="Bhavnagar">Bhavnagar</option>
+                                        
+<option value="Bhilai">Bhilai</option>
+                                        
+<option value="Bhimavaram">Bhimavaram</option>
+                                        
+<option value="Bhiwadi">Bhiwadi</option>
+                                        
+<option value="Bhiwani">Bhiwani</option>
+                                        
+<option value="Bhopal">Bhopal</option>
+                                        
+<option value="Bhubaneswar">Bhubaneswar</option>
+                                        
+<option value="Bhuj">Bhuj</option>
+                                        
+<option value="Bhusawal">Bhusawal</option>
+                                        
+<option value="Bijapur">Bijapur</option>
+                                        
+<option value="Bijnor">Bijnor</option>
+                                        
+<option value="Bikaner">Bikaner</option>
+                                        
+<option value="Bilaspur">Bilaspur</option>
+                                        
+<option value="Billimora">Billimora</option>
+                                        
+<option value="Bokaro">Bokaro</option>
+                                        
+<option value="Bolpur">Bolpur</option>
+                                        
+<option value="Bolpur">Bolpur</option>
+                                        
+<option value="Bombay">Bombay</option>
+                                        
+<option value="Bulandsher">Bulandsher</option>
+                                        
+<option value="Calcutta">Calcutta</option>
+                                        
+<option value="Calicut">Calicut</option>
+                                        
+<option value="Chandigarh">Chandigarh</option>
+                                        
+<option value="Chandrapur">Chandrapur</option>
+                                        
+<option value="Chavara">Chavara</option>
+                                        
+<option value="Chengalpattu">Chengalpattu</option>
+                                        
+<option value="Chenganacherry">Chenganacherry</option>
+                                        
+<option value="Chennai">Chennai</option>
+                                        
+<option value="Cheyar">Cheyar</option>
+                                        
+<option value="Chickmagalur">Chickmagalur</option>
+                                        
+<option value="Chidambaram">Chidambaram</option>
+                                        
+<option value="Chinchwad">Chinchwad</option>
+                                        
+<option value="Chirala">Chirala</option>
+                                        
+<option value="Chittoor">Chittoor</option>
+                                        
+<option value="Cochin">Cochin</option>
+                                        
+<option value="Coimbatore">Coimbatore</option>
+                                        
+<option value="Coochbehar">Coochbehar</option>
+                                        
+<option value="Coonoor">Coonoor</option>
+                                        
+<option value="Courtallam">Courtallam</option>
+                                        
+<option value="Cuddalore">Cuddalore</option>
+                                        
+<option value="Cuddapah">Cuddapah</option>
+                                        
+<option value="Cuttack">Cuttack</option>
+                                        
+<option value="Danapur">Danapur</option>
+                                        
+<option value="Daurala">Daurala</option>
+                                        
+<option value="Dehradun">Dehradun</option>
+                                        
+<option value="Delhi">Delhi</option>
+                                        
+<option value="Devangere">Devangere</option>
+                                        
+<option value="Devlali">Devlali</option>
+                                        
+<option value="Dhanbad">Dhanbad</option>
+                                        
+<option value="Dharagdhara">Dharagdhara</option>
+                                        
+<option value="Dharapuram">Dharapuram</option>
+                                        
+<option value="Dharward">Dharward</option>
+                                        
+<option value="Dhoraji">Dhoraji</option>
+                                        
+<option value="Digboi">Digboi</option>
+                                        
+<option value="Dilsukhnagar">Dilsukhnagar</option>
+                                        
+<option value="Dimapur">Dimapur</option>
+                                        
+<option value="Dinahata">Dinahata</option>
+                                        
+<option value="Dindigul">Dindigul</option>
+                                        
+<option value="Dingucha">Dingucha</option>
+                                        
+<option value="Dispur">Dispur</option>
+                                        
+<option value="Dombvilli">Dombvilli</option>
+                                        
+<option value="Domlur">Domlur</option>
+                                        
+<option value="Doom Dooma">Doom Dooma</option>
+                                        
+<option value="Durg">Durg</option>
+                                        
+<option value="Eluru">Eluru</option>
+                                        
+<option value="Ernakulam">Ernakulam</option>
+                                        
+<option value="Erode">Erode</option>
+                                        
+<option value="Faridabad">Faridabad</option>
+                                        
+<option value="Gadag">Gadag</option>
+                                        
+<option value="Gadchandur">Gadchandur</option>
+                                        
+<option value="Gadchirali">Gadchirali</option>
+
+                                        
+<option value="Gajraula">Gajraula</option>
+                                        
+<option value="Gandhinagar">Gandhinagar</option>
+                                        
+<option value="Garia">Garia</option>
+                                        
+<option value="Garmukteshwar">Garmukteshwar</option>
+                                        
+<option value="Ghaziabad">Ghaziabad</option>
+                                        
+<option value="Ghuggus">Ghuggus</option>
+                                        
+<option value="Goa">Goa</option>
+                                        
+<option value="Gobi">Gobi</option>
+                                        
+<option value="Gopi">Gopi</option>
+                                        
+<option value="Gorakhpur">Gorakhpur</option>
+                                        
+<option value="Goraya">Goraya</option>
+                                        
+<option value="Gudivada">Gudivada</option>
+                                        
+<option value="Gulbarga">Gulbarga</option>
+                                        
+<option value="Gulbarga">Gulbarga</option>
+                                        
+<option value="Guntur">Guntur</option>
+                                        
+<option value="Gurdaspur">Gurdaspur</option>
+                                        
+<option value="Gurgaon">Gurgaon</option>
+                                        
+<option value="Guruvayoor">Guruvayoor</option>
+                                        
+<option value="Guwahati">Guwahati</option>
+                                        
+<option value="Gwalior">Gwalior</option>
+                                        
+<option value="Hanamkonda">Hanamkonda</option>
+                                        
+<option value="Hapur">Hapur</option>
+                                        
+<option value="Haridwar">Haridwar</option>
+                                        
+<option value="Hassan">Hassan</option>
+                                        
+<option value="Hastnapur">Hastnapur</option>
+                                        
+<option value="Haveri">Haveri</option>
+                                        
+<option value="Hazira">Hazira</option>
+                                        
+<option value="Hazira">Hazira</option>
+                                        
+<option value="Hissar">Hissar</option>
+                                        
+<option value="Hissar">Hissar</option>
+                                        
+<option value="Hoshiarpur">Hoshiarpur</option>
+                                        
+<option value="Hosur">Hosur</option>
+                                        
+<option value="Howrah">Howrah</option>
+                                        
+<option value="Hubli">Hubli</option>
+                                        
+<option value="Hyderabad">Hyderabad</option>
+                                        
+<option value="Ichalkaranji">Ichalkaranji</option>
+                                        
+<option value="Indore">Indore</option>
+                                        
+<option value="Jabalpur">Jabalpur</option>
+                                        
+<option value="Jaipur">Jaipur</option>
+                                        
+<option value="Jaisalmer">Jaisalmer</option>
+                                        
+<option value="Jalandhar">Jalandhar</option>
+                                        
+<option value="Jalgaon">Jalgaon</option>
+                                        
+<option value="Jalna">Jalna</option>
+                                        
+<option value="Jammu">Jammu</option>
+                                        
+<option value="Jamnagar">Jamnagar</option>
+                                        
+<option value="Jamshedpur">Jamshedpur</option>
+                                        
+<option value="Jhansi">Jhansi</option>
+                                        
+<option value="Jind">Jind</option>
+                                        
+<option value="Jodhpur">Jodhpur</option>
+                                        
+<option value="Kaithal">Kaithal</option>
+                                        
+<option value="Kaithal">Kaithal</option>
+                                        
+<option value="Kakinada">Kakinada</option>
+                                        
+<option value="Kanchikacherla">Kanchikacherla</option>
+                                        
+<option value="Kanchipuram">Kanchipuram</option>
+                                        
+<option value="Kannur">Kannur</option>
+                                        
+<option value="Kanpur">Kanpur</option>
+                                        
+<option value="Kapurthala">Kapurthala</option>
+                                        
+<option value="Karaikal">Karaikal</option>
+                                        
+<option value="Karaikudi">Karaikudi</option>
+                                        
+<option value="Karimnagar">Karimnagar</option>
+                                        
+<option value="Karnal">Karnal</option>
+                                        
+<option value="Karur">Karur</option>
+                                        
+<option value="Kasargoud">Kasargoud</option>
+                                        
+<option value="Khammam">Khammam</option>
+                                        
+<option value="Khandala">Khandala</option>
+                                        
+<option value="Kochi">Kochi</option>
+                                        
+<option value="Kodad">Kodad</option>
+                                        
+<option value="Kodaikanal">Kodaikanal</option>
+                                        
+<option value="Kolar">Kolar</option>
+                                        
+<option value="Kolhapur">Kolhapur</option>
+                                        
+<option value="Kolkata">Kolkata</option>
+                                        
+<option value="Kota">Kota</option>
+                                        
+<option value="Kottakkal">Kottakkal</option>
+                                        
+<option value="Kottayam">Kottayam</option>
+                                        
+<option value="Kozencherry">Kozencherry</option>
+                                        
+<option value="Kozhikhode">Kozhikhode</option>
+                                        
+<option value="Kozhikode">Kozhikode</option>
+                                        
+<option value="Krishnagiri">Krishnagiri</option>
+                                        
+<option value="Kumbakonam">Kumbakonam</option>
+                                        
+<option value="Kurnool">Kurnool</option>
+                                        
+<option value="Kurukshetra">Kurukshetra</option>
+                                        
+<option value="Lucknow">Lucknow</option>
+                                        
+<option value="Ludhiana">Ludhiana</option>
+                                        
+<option value="Madanpalli">Madanpalli</option>
+                                        
+<option value="Madhyamgram">Madhyamgram</option>
+                                        
+<option value="Madikeri">Madikeri</option>
+                                        
+<option value="Madurai">Madurai</option>
+                                        
+<!--<option value="Malda">Malda</option> -->
+                                        
+<option value="Mandia">Mandia</option>
+                                        
+<option value="Mandya">Mandya</option>
+                                        
+<option value="Mangalore">Mangalore</option>
+                                        
+<option value="Manipal">Manipal</option>
+                                        
+<option value="Manjeri">Manjeri</option>
+                                        
+<option value="Mannar">Mannar</option>
+                                        
+<option value="Mapusa">Mapusa</option>
+                                        
+<option value="Maradu">Maradu</option>
+                                        
+<option value="Margao">Margao</option>
+                                        
+<option value="Mathura">Mathura</option>
+                                        
+<option value="Medak">Medak</option>
+                                        
+<option value="Meerut">Meerut</option>
+                                        
+<option value="Mehsana">Mehsana</option>
+                                        
+<option value="Mettupalayam">Mettupalayam</option>
+                                        
+<option value="Mhow">Mhow</option>
+                                        
+<option value="Miraz">Miraz</option>
+                                        
+<option value="Miraz">Miraz</option>
+                                        
+<option value="Mirzapur">Mirzapur</option>
+                                        
+<option value="Mirzapur">Mirzapur</option>
+                                        
+<option value="Modinagar">Modinagar</option>
+                                        
+<option value="Moga">Moga</option>
+                                        
+<option value="Mohali">Mohali</option>
+                                        
+<option value="Moradabad">Moradabad</option>
+                                        
+<option value="Morbi">Morbi</option>
+                                        
+<option value="Mul">Mul</option>
+                                        
+<option value="Mumbai">Mumbai</option>
+                                        
+<option value="Mussourie">Mussourie</option>
+                                        
+<option value="Muzzafarnagar">Muzzafarnagar</option>
+                                        
+<option value="Mysore">Mysore</option>
+                                        
+<option value="Nadiad">Nadiad</option>
+                                        
+<option value="Nagari">Nagari</option>
+                                        
+<option value="Nagpur">Nagpur</option>
+                                        
+<option value="Nakoda">Nakoda</option>
+                                        
+<option value="Nakoda">Nakoda</option>
+                                        
+<option value="Nakodar">Nakodar</option>
+                                        
+<option value="Namakkal">Namakkal</option>
+                                        
+<option value="Nanded">Nanded</option>
+                                        
+<option value="Nanjangud">Nanjangud</option>
+                                        
+<option value="Narendrapur">Narendrapur</option>
+                                        
+<option value="Nashik">Nashik</option>
+                                        
+<option value="Navi Mumbai">Navi Mumbai</option>
+                                        
+<option value="Navsari">Navsari</option>
+                                        
+<option value="Nawashahar">Nawashahar</option>
+                                        
+<option value="Nellore">Nellore</option>
+                                        
+<option value="Nerul">Nerul</option>
+                                        
+<option value="New Barrackpur">New Barrackpur</option>
+                                        
+<option value="New Bombay">New Bombay</option>
+                                        
+<option value="New Delhi">New Delhi</option>
+                                        
+<option value="Nizamabad">Nizamabad</option>
+                                        
+<option value="Noida">Noida</option>
+                                        
+<option value="Ongole">Ongole</option>
+                                        
+<option value="Ooty">Ooty</option>
+                                        
+<option value="Palakkad">Palakkad</option>
+                                        
+<option value="Palamaer">Palamaer</option>
+                                        
+<option value="Palampur">Palampur</option>
+                                        
+<option value="Palayamkottai">Palayamkottai</option>
+                                        
+<option value="Palghat">Palghat</option>
+                                        
+<option value="Pallakad">Pallakad</option>
+                                        
+<option value="Panaji">Panaji</option>
+                                        
+<option value="Panaji">Panaji</option>
+                                        
+<option value="Panchkula">Panchkula</option>
+                                        
+<option value="Panipat">Panipat</option>
+                                        
+<option value="Panipat">Panipat</option>
+                                        
+<option value="Panjim">Panjim</option>
+                                        
+<option value="Panvel">Panvel</option>
+                                        
+<option value="Pathanamthitta">Pathanamthitta</option>
+                                        
+<option value="Patiala">Patiala</option>
+                                        
+<option value="Patiala">Patiala</option>
+                                        
+<option value="Patna">Patna</option>
+                                        
+<option value="Peenya">Peenya</option>
+                                        
+<option value="Perambalur">Perambalur</option>
+                                        
+<option value="Phagwara">Phagwara</option>
+                                        
+<option value="Piler">Piler</option>
+                                        
+<option value="Pimpri">Pimpri</option>
+                                        
+<option value="Pondicherry">Pondicherry</option>
+                                        
+<option value="Proddutur">Proddutur</option>
+                                        
+<option value="Pudukkottai">Pudukkottai</option>
+                                        
+<option value="Pudukottai">Pudukottai</option>
+                                        
+<option value="Pune">Pune</option>
+                                        
+<option value="Puri">Puri</option>
+                                        
+<option value="Puttur">Puttur</option>
+                                        
+<option value="Quilon">Quilon</option>
+                                        
+<option value="Raichur">Raichur</option>
+                                        
+<option value="Raipur">Raipur</option>
+                                        
+<option value="Rajamundry">Rajamundry</option>
+                                        
+<option value="Rajkot">Rajkot</option>
+                                        
+<option value="Rajpura">Rajpura</option>
+                                        
+<option value="Ramanathapuram">Ramanathapuram</option>
+                                        
+<option value="Ramgarh">Ramgarh</option>
+                                        
+<option value="Ramgarh">Ramgarh</option>
+                                        
+<option value="Ranchi">Ranchi</option>
+                                        
+<option value="Renigunta">Renigunta</option>
+                                        
+<option value="Rishikesh">Rishikesh</option>
+                                        
+<option value="Rishra">Rishra</option>
+                                        
+<option value="Rohtak">Rohtak</option>
+                                        
+<option value="Rohtak">Rohtak</option>
+                                        
+<option value="Roorkee">Roorkee</option>
+                                        
+<option value="Ropar">Ropar</option>
+                                        
+<option value="Rourkella">Rourkella</option>
+                                        
+<option value="Saharanpur">Saharanpur</option>
+                                        
+<option value="Salem">Salem</option>
+                                        
+<option value="Sambhalpur">Sambhalpur</option>
+                                        
+<option value="Sangli">Sangli</option>
+                                        
+<option value="Sankeshwar">Sankeshwar</option>
+                                        
+<option value="Satna">Satna</option>
+                                        
+<option value="Secunderabad">Secunderabad</option>
+                                        
+<option value="Shantiniketan">Shantiniketan</option>
+                                        
+<option value="Shencottah">Shencottah</option>
+                                        
+<option value="Shillong">Shillong</option>
+                                        
+<option value="Shimla">Shimla</option>
+                                        
+<option value="Shimoga">Shimoga</option>
+                                        
+<option value="Siliguri">Siliguri</option>
+                                        
+<option value="Silvassa">Silvassa</option>
+                                        
+<option value="Sirsi">Sirsi</option>
+                                        
+<option value="Sivakashi">Sivakashi</option>
+                                        
+<option value="Sodepur">Sodepur</option>
+                                        
+<option value="Solan">Solan</option>
+                                        
+<option value="Solapur">Solapur</option>
+                                        
+<option value="Sonarpur">Sonarpur</option>
+                                        
+<option value="Sonepat">Sonepat</option>
+                                        
+<option value="Sonipat">Sonipat</option>
+                                        
+<option value="Srikakulam">Srikakulam</option>
+                                        
+<option value="Srikalhasti">Srikalhasti</option>
+                                        
+<option value="Srinagar">Srinagar</option>
+                                        
+<option value="Srinagar">Srinagar</option>
+                                        
+<option value="Surat">Surat</option>
+                                        
+<option value="Tanjore">Tanjore</option>
+                                        
+<option value="Taran">Taran</option>
+                                        
+<option value="Taran Taran">Taran Taran</option>
+                                        
+<option value="Tatanagar">Tatanagar</option>
+                                        
+<option value="Tellicherri">Tellicherri</option>
+                                        
+<option value="Tellicherry">Tellicherry</option>
+                                        
+<option value="Tenali">Tenali</option>
+                                        
+<option value="Tenkasi">Tenkasi</option>
+                                        
+<option value="Thane">Thane</option>
+                                        
+<option value="Thanjavur">Thanjavur</option>
+                                        
+<option value="Thirualla">Thirualla</option>
+                                        
+<option value="Thiruvalla">Thiruvalla</option>
+                                        
+<option value="Thiruvananthapuram">Thiruvananthapuram</option>
+                                        
+<option value="Thrissur">Thrissur</option>
+                                        
+<option value="Tiruchirapalli">Tiruchirapalli</option>
+                                        
+<option value="Tirumala">Tirumala</option>
+                                        
+<option value="Tirunelveli">Tirunelveli</option>
+                                        
+<option value="Tirupati">Tirupati</option>
+                                        
+<option value="Tirupattur">Tirupattur</option>
+                                        
+<option value="Tirupur">Tirupur</option>
+                                        
+<option value="Tiruvallur">Tiruvallur</option>
+                                        
+<option value="Tiruvananthapuram">Tiruvananthapuram</option>
+                                        
+<option value="Tiruvannamalai">Tiruvannamalai</option>
+                                        
+<option value="Trichur">Trichur</option>
+                                        
+<option value="Trichy">Trichy</option>
+                                        
+<option value="Tripunithara">Tripunithara</option>
+                                        
+<option value="Trivandrum">Trivandrum</option>
+                                        
+<option value="Tumkur">Tumkur</option>
+                                        
+<option value="Tuticorin">Tuticorin</option>
+                                        
+<option value="Udaipur">Udaipur</option>
+                                        
+<option value="Udipi">Udipi</option>
+                                        
+<option value="Udumelpet">Udumelpet</option>
+                                        
+<option value="Ujjain">Ujjain</option>
+                                        
+<option value="Ulhasnagar">Ulhasnagar</option>
+                                        
+<option value="Vadakara">Vadakara</option>
+                                        
+<option value="Vadodara">Vadodara</option>
+                                        
+<option value="Valsad">Valsad</option>
+                                        
+<option value="Vapi">Vapi</option>
+                                        
+<option value="Varanasi">Varanasi</option>
+                                        
+<option value="Varkala">Varkala</option>
+                                        
+<option value="Vasco">Vasco</option>
+                                        
+<option value="Vashi">Vashi</option>
+                                        
+<option value="Vellore">Vellore</option>
+                                        
+<option value="Vellore">Vellore</option>
+                                        
+<option value="Vijayawada">Vijayawada</option>
+                                        
+<option value="Villupuram">Villupuram</option>
+                                        
+<option value="Virudhunagar">Virudhunagar</option>
+                                        
+<option value="Virudhunagar">Virudhunagar</option>
+                                        
+<option value="Viruthunager">Viruthunager</option>
+                                        
+<option value="Vishakhapatnam">Vishakhapatnam</option>
+                                        
+<option value="Vizag">Vizag</option>
+                                        
+<option value="Vizianagaram">Vizianagaram</option>
+                                        
+<option value="Wani">Wani</option>
+                                        
+<option value="Warangal">Warangal</option>
+                                        
+<option value="YamunaNagar">YamunaNagar</option>
+									  </select>
+									</td>
+									
+									<td align="center" width="13%"><img onclick="Select_City1()" src="siteimages/go_button.jpg"/></td>
+								  </tr>
+								</tbody></table>
+
+							</td>
+						  </tr>
+						  <tr>
+							<td align="center" class="b_txt1">Could Not Find Your delivery Location in <br/>
+						    Above Drop Down Menu:<br/><br/>
+						  We also deliver many gifts <br/>
+						      <strong>ALL OVER INDIA</strong> </td>
+						  </tr>
+						  <tr>
+							<td align="center" class="red_txt1" height="20"><a class="red_txt1" href="Locations.asp">Click Here for complete Options</a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				  <tr>
+					<td height="5"></td>
+				  </tr>
+				  <tr>
+					<td bgcolor="#f7f6f8" class="bdr1" height="174" style="padding-top:2px" valign="top" width="253">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+						  <tbody><tr>
+							<td align="center" class="bbold_txt1" height="14">Join Our Network</td>
+						  </tr>
+						  <tr>
+							<td a="" class="b_txt1">
+							If you are a florist anywhere in India, 
+							you may join our network.Any order 
+							received for your location 
+							(as per City Pincodes)  
+							will be passed on to you.<br/>
+							<a class="red_txt1" href="join_network.asp">Click here</a> for more details.
+							</td>
+						  </tr>
+						  <tr>
+							<td align="center" class="bbold_txt1" height="25">Florist Login</td>
+						  </tr>
+						  <tr>
+							<td>
+								<table border="0" cellpadding="0" cellspacing="0" width="100%">
+								  <tbody><tr>
+									<td align="right" class="bbold_txt1" height="23" style="padding-right:5px" width="32%">ID </td>
+									<td width="68%"><input id="t1" name="t1" size="15" type="text"/></td>
+								  </tr>
+								</tbody></table>
+							</td>
+						  </tr>
+						  <tr>
+							<td>
+								<table border="0" cellpadding="0" cellspacing="0" width="100%">
+								  <tbody><tr>
+									<td align="right" class="bbold_txt1" height="23" style="padding-right:5px" width="32%">Password </td>
+									<td width="68%"><input id="t2" name="t2" size="15" type="password"/></td>
+								  </tr>
+								</tbody></table>
+							</td>
+						  </tr>
+						  <tr>
+						  	<td align="center" height="22" style=" padding-left:30px"><img onclick="javascript:save1()" src="siteimages/go_button.jpg" style="cursor:pointer"/></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				  <tr>
+					<td height="5"></td>
+				  </tr>
+				  <tr>
+					<td height="78" width="255"><a href="Gifts_To_USA.asp" title="Send Gifts to USA"><img border="0" src="siteimages/giftusa_banner.gif"/></a></td>
+				  </tr>
+				  <tr>
+					<td height="5"></td>
+				  </tr>
+				  <tr>
+					<td height="39" width="255"><img border="0" onclick="CreateBookmarkLink()" src="siteimages/bookmarkus2.jpg" style="cursor:pointer"/></td>
+				  </tr>
+				</tbody></table>
+
+			</td>
+		  </tr>
+		</tbody></table>
+
+	</td>
+  </tr>
+  <tr>
+    <td height="5" width="1001"></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#e2e2e2" height="36" style="font:bold 14px Arial; color:#000000" width="1001"><!--Send Flowers to India - Send Cakes to India - Send Gifts to India -->Send Gift of Flowers and Cakes to India – Free Delivery</td>
+  </tr>
+  <tr>
+    <td class="bdr1" width="1001">
+		
+        <link href="ifn_style.css" rel="stylesheet" type="text/css"/>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1001">
+		  <tbody><tr>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Flowers"><img border="0" height="120" src="siteimages/flowers.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Flowers</strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    <!--Flowers ! Flowers ! Flowers ! 
+								Can there be a better gift ? 
+								Send Flowers to India to your 
+								loved ones. -->
+								Can there be a better gift than Flowers ? Send Flowers to India to your loved ones. 
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Same Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a alt"more="" class="bbold_txt1" flowers"="" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Flowers"><u>More Flowers</u></a></td>
+						  </tr>
+						</tbody></table>					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Cakes"><img border="0" height="120" src="siteimages/cake.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Cakes</strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Lipsmacking Cakes - A Birthday 
+								can't be celebrated without 
+								Cakes. Send cakes to India 
+								today.
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Same Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Cakes"><u>More Cakes</u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Chocolates"><img border="0" height="120" src="siteimages/chocolates.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Chocolates</strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Be it Cadbury's Chocolates or 
+								Imported Chocolates, Gift 
+								Yummy Chocolates to India to 
+								anyone, anytime.
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Same Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Chocolates"><u>More Chocolates</u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+		  </tr>
+		  <tr>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Fresh Fruits"><img border="0" height="120" src="siteimages/fruits.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Fresh Fruits </strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Be it your Mother or Grand Father, there can't be a better gift than sending Fresh Fruits in India.
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Same Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Fresh Fruits"><u>More Fresh Fruits </u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Dry Fruits"><img border="0" height="120" src="siteimages/dryfruits.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Dry Fruits </strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Send a healthy gift to India. Send Dry Fruits to India this Diwali or for any celebration in India. 
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Same Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Dry Fruits"><u>More Dry Fruits </u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Sweets"><img border="0" height="120" src="siteimages/sweets.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Sweets</strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Send Sweets to India. Haldiram's Sweets or Mithai can be sent this Diwali or on any occasion. 
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Same Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Toys &amp; Games"><u>More Sweets</u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+		  </tr>
+		  <tr>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Combo Gifts"><img border="0" height="120" src="siteimages/comboitem.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Combo Gifts </strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Deliver our Combo Gifts to India anytime and thrill your special ones to delight in an outstanding way. 
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Same Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Combo Gifts"><u>More Combo Gifts </u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Apparels"><img border="0" height="120" src="siteimages/apparels.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Apparels</strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Amaze your special ones in India by sending our Fashionable Apparel Gifts and perk up their fiesta.
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Next/Later Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Apparels Gifts"><u>More Apparels Gifts</u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Jewellery"><img border="0" height="120" src="siteimages/jewellery.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Jewellery </strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Send our Attractive Jewellery Gifts to India and dazzle their festive moods in a magnificent way.
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Next/Later Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Jewellery Gifts"><u>More Jewellery Gifts</u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+		  </tr>
+		  <tr>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Watches"><img border="0" height="120" src="siteimages/watch.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Watches</strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Create a treasured memory with your loved ones in India  by delivering our Striking Watch Gifts.
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Next/Later Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Watches"><u>More Watches</u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Electronics"><img border="0" height="120" src="siteimages/camera.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Electronics</strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Send our Electronic Gifts to India, anytime for anybody and turn their event into an ultimate bash.
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Next/Later Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Electronic Gifts"><u>More Electronic Gifts</u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Cosmetics"><img border="0" height="120" src="siteimages/cosmetics.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Cosmetics</strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Lift up their spirit with a bit of style and finesse by sending our Terrific Cosmetic Gifts anytime to India. 
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Next/Later Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Cosmetic Gifts"><u>More Cosmetic Gifts</u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+		  </tr>
+		  <tr>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Handicrafts"><img border="0" height="120" src="siteimages/handicraft.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Handicrafts</strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Smarten the décor of your special ones by sending our Exclusive Handicraft Gifts to India. 
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Next/Later Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Handicraft Gifts"><u>More Handicraft Gifts</u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Kitchenware"><img border="0" height="120" src="siteimages/kitchenware.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Kitchenware</strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Send our Fantastic Kitchenware Gifts to India and add an exclusive touch to their kitchens anytime. 
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Next/Later Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Kitchenware"><u>More Kitchenware</u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Home Appliances"><img border="0" height="120" src="siteimages/iron.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Home Appliances </strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Spruce up their décor in a stunning way by delivering our Remarkable Home Appliance Gifts to India. 							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Next/Later Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Home Appliances"><u>More Home Appliances </u></a></td>
+						  </tr>
+						</tbody></table>
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+		  </tr>
+		  <tr>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Leather Items"><img border="0" height="120" src="siteimages/leatheritem.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Leather Items </strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Surprise your special ones in a unique way by sending our Exotic Leather Gifts to India. 
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Next/Later Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Leather Items"><u>More Leather Items </u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Puja Items"><img border="0" height="120" src="siteimages/pujaitem.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Puja Items </strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Brighten their festive occasions by delivering our Remarkable Puja Gift Items anytime in India. 
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Next/Later Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Puja Items"><u>More Puja Items </u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+			<td style="padding-top:10px; padding-bottom:10px" valign="top" width="333">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="bdr100" width="327">
+				  <tbody><tr>
+					<td valign="middle" width="124"><a href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="Toys &amp; Games"><img border="0" height="120" src="siteimages/cycle.jpg" width="120"/></a></td>
+					<td width="3"></td>
+					<td width="200">
+						<table border="0" cellpadding="0" cellspacing="0" width="200">
+						  <tbody><tr>
+							<td class="cityitem_product_title" height="30"><strong>Toys &amp; Games</strong></td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_desc" height="70" valign="top">
+							    Fill up their room with amusement and excitement by sending our Toys &amp; Game Gifts anytime to India.
+							</td>
+						  </tr>
+						  <tr>
+							<td class="cityitem_product_title" height="25"><u>Next/Later Day Delivery</u></td>
+						  </tr>
+						  <tr>
+							<td class="bbold_txt1" height="25"><a class="bbold_txt1" href="javascript:openInlineWindow(500);" onclick="openInline('pr_SelectCity_index', '?pcat=1&amp;pcid=1');" title="More Toys &amp; Games"><u>More Toys &amp; Games </u></a></td>
+						  </tr>
+						</tbody></table>
+
+					</td>
+				  </tr>
+				</tbody></table>
+
+
+			</td>
+		  </tr>
+		  		  
+		</tbody></table>
+	</td>
+  </tr>
+  <tr>
+    <td height="12" width="1001"></td>
+  </tr>
+  <tr>
+    <td valign="top" width="1001">
+		<table border="0" cellpadding="0" cellspacing="0" width="1001">
+		  <tbody><tr>
+			<td class="bdr1" style="padding-left:10px; padding-right:10px" valign="top" width="601">
+			<p align="left" class="blue_writeup"> <a class="blue_writeup" href="Locations.asp">Deliver to 900 more Cities and Towns Indiawide.Click Here for Complete List</a></p>
+			<p align="left" class="cityindex_writeup-bottom"><strong id="red">Quick Links to Important Cities :</strong></p>
+			<p class="cityindex_writeup-bottom" style="padding-left:15px">
+			<!--<a href="http://www.indiafloristnetwork.com/agra/default.asp">Send Flowers Cakes Gifts to Agra</a> , <a href="http://www.indiafloristnetwork.com/ahmedabad/default.asp">Send Flowers Cakes Gifts to Ahmedabad</a> , 
+			<a href="http://www.indiafloristnetwork.com/Bangalore/default.asp">Send Flowers Cakes Gifts to Bangalore</a> , <a href="http://www.indiafloristnetwork.com/Bhubaneswar/default.asp">Send Flowers Cakes Gifts to Bhubaneswar</a> ,
+			<a href="http://www.indiafloristnetwork.com/Chennai/default.asp">Send Flowers Cakes Gifts to Chennai</a>  , <a href="http://www.indiafloristnetwork.com/Coimbatire/default.asp">Send Flowers Cakes Gifts to Coimbatore</a> ,
+			<a href="http://www.indiafloristnetwork.com/Delhi/default.asp">Send Flowers Cakes Gifts to Delhi</a> , <a href="http://www.indiafloristnetwork.com/Gurgaon/default.asp">Send Flowers Cakes Gifts to Gurgaon</a> ,
+			<a href="http://www.indiafloristnetwork.com/Ghaziabad/default.asp">Send Flowers Cakes Gifts to Ghaziabad</a> , <a href="http://www.indiafloristnetwork.com/Goa/default.asp">Send Flowers Cakes Gifts to Goa</a> ,
+			<a href="http://www.indiafloristnetwork.com/Hyderabad/default.asp">Send Flowers Cakes Gifts to Hyderabad</a> , <a href="http://www.indiafloristnetwork.com/Jaipur/default.asp">Send Flowers Cakes Gifts to Jaipur</a> , 
+			<a href="http://www.indiafloristnetwork.com/Kolkata/default.asp">Send Flowers Cakes Gifts to Kolkata</a> , <a href="http://www.indiafloristnetwork.com/Cochin/default.asp">Send Flowers Cakes Gifts to Cochin</a> ,
+			<a href="http://www.indiafloristnetwork.com/Kanpur/default.asp">Send Flowers Cakes Gifts to Kanpur</a> , <a href="http://www.indiafloristnetwork.com/Lucknow/default.asp">Send Flowers Cakes Gifts to Lucknow</a> ,
+			<a href="http://www.indiafloristnetwork.com/Mumbai/default.asp">Send Flowers Cakes Gifts to Mumbai</a> , <a href="http://www.indiafloristnetwork.com/Mysore/default.asp">Send Flowers Cakes Gifts to Mysore</a> ,
+			<a href="http://www.indiafloristnetwork.com/Nagpur/default.asp">Send Flowers Cakes Gifts to Nagpur</a> , <a href="http://www.indiafloristnetwork.com/Noida/default.asp">Send Flowers Cakes Gifts to Noida</a> , 
+			<a href="http://www.indiafloristnetwork.com/Pune/default.asp">Send Flowers Cakes Gifts to Pune</a> , <a href="http://www.indiafloristnetwork.com/Ranchi/default.asp">Send Flowers Cakes Gifts to Ranchi</a> , 
+			<a href="http://www.indiafloristnetwork.com/Thiruvananthapuram/default.asp">Send Flowers Cakes Gifts to Thiruvananthapuram</a> , 
+			<a href="http://www.indiafloristnetwork.com/Varanasi/default.asp">Send Flowers Cakes Gifts to Varanasi</a> , <a href="http://www.indiafloristnetwork.com/Visakhapatnam/default.asp">Send Flowers Cakes Gifts to Visakhapatnam</a> --> 
+			
+			
+			<!--BKUP 29.10.2013
+			<a href="http://www.indiafloristnetwork.com/agra/default.asp">Send Flowers to Agra</a>, 
+			<a href="http://www.indiafloristnetwork.com/ahmedabad/default.asp">Send  Cakes to Ahmedabad</a>, 
+			<a href="http://www.indiafloristnetwork.com/Bangalore/default.asp">Gifts Delivery in Bangalore</a>, 
+			<a href="http://www.indiafloristnetwork.com/Bhubaneswar/default.asp">Online Flower Delivery in Bhubaneswar</a>, 
+			<a href="http://www.indiafloristnetwork.com/Chennai/default.asp">Florist in Chennai</a>, 
+			<a href="http://www.indiafloristnetwork.com/Coimbatire/default.asp">Send Flowers Arrangement to Coimbatore</a>, 
+			<a href="http://www.indiafloristnetwork.com/Delhi/default.asp">Send Gifts to Delhi</a>, 
+			<a href="http://www.indiafloristnetwork.com/Gurgaon/default.asp">Online Cakes to Gurgaon</a>, 
+			<a href="http://www.indiafloristnetwork.com/Ghaziabad/default.asp">Same Day Flowers to Ghaziabad</a>, 
+			<a href="http://www.indiafloristnetwork.com/Goa/default.asp">Birthday Cakes to Goa</a>, 
+			<a href="http://www.indiafloristnetwork.com/Hyderabad/default.asp">Anniversary Gifts Hyderabad</a>, 
+			<a href="http://www.indiafloristnetwork.com/Jaipur/default.asp">Flower Shop in Jaipur</a>, 
+			<a href="http://www.indiafloristnetwork.com/Kolkata/default.asp">Online Florist in Kolkata</a>, 
+			<a href="http://www.indiafloristnetwork.com/Cochin/default.asp">Free Home Delivery Gifts to Cochin</a>, 
+			<a href="http://www.indiafloristnetwork.com/Kanpur/default.asp">Haldiram Sweets to Kanpur</a>, 
+			<a href="http://www.indiafloristnetwork.com/Lucknow/default.asp">Imported Chocolates to Lucknow</a>, 
+			<a href="http://www.indiafloristnetwork.com/Mumbai/default.asp">Gifts to Mumbai</a>, 
+			<a href="http://www.indiafloristnetwork.com/Mysore/default.asp">Local Florist in Mysore</a>, 
+			<a href="http://www.indiafloristnetwork.com/Nagpur/default.asp">Send Unique Gifts to Nagpur</a>, 
+			<a href="http://www.indiafloristnetwork.com/Noida/default.asp">Online Flowers to Noida</a>, 
+			<a href="http://www.indiafloristnetwork.com/Pune/default.asp">Fresh Baked Cake to Pune</a>, 
+			<a href="http://www.indiafloristnetwork.com/Ranchi/default.asp">Fresh Flower Delivery in Ranchi</a>, 
+			<a href="http://www.indiafloristnetwork.com/Thiruvananthapuram/default.asp">Guaranteed Delivery Gifts to Thiruvananthapuram</a>, 
+			<a href="http://www.indiafloristnetwork.com/Varanasi/default.asp">Florists in Varanasi</a>, 
+			<a href="http://www.indiafloristnetwork.com/Visakhapatnam/default.asp">Best Floral Arrangements to Visakhapatnam</a> -->
+			
+			<a href="http://www.indiafloristnetwork.com/agra/default.asp">Agra</a>, 
+			<a href="http://www.indiafloristnetwork.com/ahmedabad/default.asp">Ahmedabad</a>, 
+			<a href="http://www.indiafloristnetwork.com/Bangalore/default.asp">Bangalore</a>, 
+			<a href="http://www.indiafloristnetwork.com/Bhubaneswar/default.asp">Bhubaneswar</a>, 
+			<a href="http://www.indiafloristnetwork.com/Chennai/default.asp">Chennai</a>, 
+			<a href="http://www.indiafloristnetwork.com/Coimbatire/default.asp">Coimbatore</a>, 
+			<a href="http://www.indiafloristnetwork.com/Delhi/default.asp">Delhi</a>, 
+			<a href="http://www.indiafloristnetwork.com/Gurgaon/default.asp">Gurgaon</a>, 
+			<a href="http://www.indiafloristnetwork.com/Ghaziabad/default.asp">Ghaziabad</a>, 
+			<a href="http://www.indiafloristnetwork.com/Goa/default.asp">Goa</a>, 
+			<a href="http://www.indiafloristnetwork.com/Hyderabad/default.asp">Hyderabad</a>, 
+			<a href="http://www.indiafloristnetwork.com/Jaipur/default.asp">Jaipur</a>, 
+			<a href="http://www.indiafloristnetwork.com/Kolkata/default.asp">Kolkata</a>, 
+			<a href="http://www.indiafloristnetwork.com/Cochin/default.asp">Cochin</a>, 
+			<a href="http://www.indiafloristnetwork.com/Kanpur/default.asp">Kanpur</a>, 
+			<a href="http://www.indiafloristnetwork.com/Lucknow/default.asp">Lucknow</a>, 
+			<a href="http://www.indiafloristnetwork.com/Mumbai/default.asp">Mumbai</a>, 
+			<a href="http://www.indiafloristnetwork.com/Mysore/default.asp">Mysore</a>, 
+			<a href="http://www.indiafloristnetwork.com/Nagpur/default.asp">Nagpur</a>, 
+			<a href="http://www.indiafloristnetwork.com/Noida/default.asp">Noida</a>, 
+			<a href="http://www.indiafloristnetwork.com/Pune/default.asp">Pune</a>, 
+			<a href="http://www.indiafloristnetwork.com/Ranchi/default.asp">Ranchi</a>, 
+			<a href="http://www.indiafloristnetwork.com/Thiruvananthapuram/default.asp">Thiruvananthapuram</a>, 
+			<a href="http://www.indiafloristnetwork.com/Varanasi/default.asp">Varanasi</a>, 
+			<a href="http://www.indiafloristnetwork.com/Visakhapatnam/default.asp">Visakhapatnam</a>
+			
+			<a href="http://www.indiafloristnetwork.com/Surat/default.asp">Surat</a>,
+			<a href="http://www.indiafloristnetwork.com/Indore/default.asp">Indore</a>,
+			<a href="http://www.indiafloristnetwork.com/Thane/default.asp">Thane</a>,
+			<a href="http://www.indiafloristnetwork.com/Bhopal/default.asp">Bhopal</a>,
+			<a href="http://www.indiafloristnetwork.com/Patna/default.asp">Patna</a>,
+			<a href="http://www.indiafloristnetwork.com/Vadodara/default.asp">Vadodara</a>,
+			<a href="http://www.indiafloristnetwork.com/Ludhiana/default.asp">Ludhiana</a>,
+			<a href="http://www.indiafloristnetwork.com/Faridabad/default.asp">Faridabad</a>,
+			<a href="http://www.indiafloristnetwork.com/Rajkot/default.asp">Rajkot</a>,
+			<a href="http://www.indiafloristnetwork.com/Amritsar/default.asp">Amritsar</a>,
+			<a href="http://www.indiafloristnetwork.com/Navi Mumbai/default.asp">Navi Mumbai</a>,
+			<a href="http://www.indiafloristnetwork.com/Allahabad/default.asp">Allahabad</a>,
+			<a href="http://www.indiafloristnetwork.com/Jabalpur/default.asp">Jabalpur</a>,
+			<a href="http://www.indiafloristnetwork.com/Guwahati/default.asp">Guwahati</a>,
+			<a href="http://www.indiafloristnetwork.com/Chandigarh/default.asp">Chandigarh</a>,
+			<a href="http://www.indiafloristnetwork.com/Jalandhar/default.asp">Jalandhar</a>,
+			<a href="http://www.indiafloristnetwork.com/Cuttack/default.asp">Cuttack</a>,
+			<a href="http://www.indiafloristnetwork.com/Kochi/default.asp">Kochi</a>,
+			<a href="http://www.indiafloristnetwork.com/Nashik/default.asp">Nashik</a>,
+			<a href="http://www.indiafloristnetwork.com/Vijayawada/default.asp">Vijayawada</a>,
+			<a href="http://www.indiafloristnetwork.com/YamunaNagar/default.asp">YamunaNagar</a>
+			
+			
+			
+			
+			</p>
+			<p align="left" class="cityindex_writeup-bottom"><strong id="red">Quick Links to Important States where we deliver Flowers and Gifts :</strong></p>
+			<p class="cityindex_writeup-bottom" style="padding-left:15px">
+			<!--Send Flowers to <a href="http://www.indiafloristnetwork.com/an/">Andaman and Nicobar Islands</a> , Send Flowers to <a href="http://www.indiafloristnetwork.com/Andhra%20pradesh">Andhra pradesh</a>, 
+			Send Gifts to <a href="http://www.indiafloristnetwork.com/Arunachal%20pradesh">Arunachal Pradesh</a> ,Send Flowers to <a href="http://www.indiafloristnetwork.com/Assam">Assam</a>, Send Gifts to <a href="http://www.indiafloristnetwork.com/Bihar">Bihar</a>, 
+			Send Flowers to <a href="http://www.indiafloristnetwork.com/Chandigarh">Chandigarh</a> , Send Gifts to <a href="http://www.indiafloristnetwork.com/Chhattisgarh">Chhattisgarh</a>, 
+			Send Flowers to <a href="http://www.indiafloristnetwork.com/dnh">Dadra and Nagar Haveli</a> , Send Flowers to <a href="http://www.indiafloristnetwork.com/Daman%20and%20Dieu">Daman and Diu</a>, 
+			Send Gifts to <a href="http://www.indiafloristnetwork.com/Goa1">Goa</a>, Send Gifts to <a href="http://www.indiafloristnetwork.com/Gujarat">Gujarat</a>, Send Flowers to <a href="http://www.indiafloristnetwork.com/Hariyana">Hariyana</a>, 
+			Send Gifts to <a href="http://www.indiafloristnetwork.com/Himachal%20Pradesh">Himachal Pradesh</a>, Send Flowers to <a href="http://www.indiafloristnetwork.com/Jammu%20Kashmir">JammuKashmir</a>, 
+			Send Flowers to <a href="http://www.indiafloristnetwork.com/Jharkhand">Jharkhand</a>, Send Flowers to <a href="http://www.indiafloristnetwork.com/Karnataka">Karnataka</a>, Send Cakes to <a href="http://www.indiafloristnetwork.com/Kerala">Kerala</a>, 
+			Send Gifts to <a href="http://www.indiafloristnetwork.com/Lakshadweep">Lakshadweep</a>, Send Cakes to <a href="http://www.indiafloristnetwork.com/Madhya%20Pradesh">Madhya Pradesh</a>, 
+			Send Flowers to <a href="http://www.indiafloristnetwork.com/Maharashtra">Maharashtra</a>, Send Gifts to <a href="http://www.indiafloristnetwork.com/Manipur">Manipur</a>, Send Cakes to <a href="http://www.indiafloristnetwork.com/Meghalaya">Meghalaya</a>, 
+			Send Flowers to <a href="http://www.indiafloristnetwork.com/Mizoram">Mizoram</a>, Send Flowers to <a href="http://www.indiafloristnetwork.com/Nagaland">Nagaland</a>, 
+			Send Flowers to <a href="http://www.indiafloristnetwork.com/delhi">National Capital Territory of Delhi</a>, Send Flowers to <a href="http://www.indiafloristnetwork.com/Orissa">Orissa</a>, 
+			Send Flowers to <a href="http://www.indiafloristnetwork.com/Pondicherry">Pondicherry</a>, Send Cakes to <a href="http://www.indiafloristnetwork.com/Punjab">Punjab</a>, Send Cakes to <a href="http://www.indiafloristnetwork.com/Rajasthan">Rajasthan</a>, 
+			Send Flowers to <a href="http://www.indiafloristnetwork.com/Sikkim">Sikkim</a>, Send Cakes to <a href="http://www.indiafloristnetwork.com/Tamil%20Nadu">Tamil Nadu</a>, Send Cakes to <a href="http://www.indiafloristnetwork.com/Tripura">Tripura</a>, 
+			Send Cakes to <a href="http://www.indiafloristnetwork.com/Uttar%20Pradesh">Uttar Pradesh</a>, Send Gifts to <a href="http://www.indiafloristnetwork.com/Uttaranchal">Uttaranchal</a>, Send Gifts to<a href="http://www.indiafloristnetwork.com/West%20Bengal"> West Bengal</a>  -->
+			
+			
+			<!--BKUP 29.10.2013
+			<a href="http://www.indiafloristnetwork.com/an/">Send Flowers to Andaman and Nicobar Islands</a>, 
+			<a href="http://www.indiafloristnetwork.com/Andhra%20pradesh">Send Cakes to Andhra pradesh</a>, 
+			<a href="http://www.indiafloristnetwork.com/Arunachal%20pradesh">Send Gifts to Arunachal Pradesh</a>,
+			<a href="http://www.indiafloristnetwork.com/Assam">Sweets to Assam</a>, 
+			<a href="http://www.indiafloristnetwork.com/Bihar">Send Jewellery to Bihar</a>, 
+			<a href="http://www.indiafloristnetwork.com/Chandigarh">Send Sari to Chandigarh</a>, 
+			<a href="http://www.indiafloristnetwork.com/Chhattisgarh">Hampers to Chhattisgarh</a>, 
+			<a href="http://www.indiafloristnetwork.com/dnh">Send Gift Baskets to Dadra and Nagar Haveli</a>, 
+			<a href="http://www.indiafloristnetwork.com/Daman%20and%20Dieu">Chocolates to Daman and Diu</a>, 
+			<a href="http://www.indiafloristnetwork.com/Goa1">Cakes to Goa</a>, 
+			<a href="http://www.indiafloristnetwork.com/Gujarat">Send Watches to Gujarat</a>, 
+			<a href="http://www.indiafloristnetwork.com/Hariyana">Electronic Gifts to Hariyana</a>, 
+			<a href="http://www.indiafloristnetwork.com/Himachal%20Pradesh">Send Fashion Jewelley to Himachal Pradesh</a>, 
+			<a href="http://www.indiafloristnetwork.com/Jammu%20Kashmir">Send Handicrafts to JammuKashmir</a>, 
+			<a href="http://www.indiafloristnetwork.com/Jharkhand">Soft Toys to Jharkhand</a>, 
+			<a href="http://www.indiafloristnetwork.com/Karnataka">Kids Apparels to Karnataka</a>, 
+			<a href="http://www.indiafloristnetwork.com/Kerala">Online Fresh Flowers to Kerala</a>, 
+			<a href="http://www.indiafloristnetwork.com/Lakshadweep">Send Mithai to Lakshadweep</a>, 
+			<a href="http://www.indiafloristnetwork.com/Madhya%20Pradesh">Send Puja Items to Madhya Pradesh</a>, 
+			<a href="http://www.indiafloristnetwork.com/Maharashtra">Online Leather Bags to Maharashtra</a>, 
+			<a href="http://www.indiafloristnetwork.com/Manipur">Online Gifts to Manipur</a>, 
+			<a href="http://www.indiafloristnetwork.com/Meghalaya">Online Chocolates to Meghalaya</a>,
+			<a href="http://www.indiafloristnetwork.com/Mizoram">Fresh Fruits to Mizoram</a>, 
+			<a href="http://www.indiafloristnetwork.com/Nagaland">Send Dry Fruits to Nagaland</a>, 
+			<a href="http://www.indiafloristnetwork.com/delhi">Send Flowers to National Capital Territory of Delhi</a>, 
+			<a href="http://www.indiafloristnetwork.com/Orissa">Send Hampers to Orissa</a>, 
+			<a href="http://www.indiafloristnetwork.com/Pondicherry">Send Gents Apparels to Pondicherry</a>, 
+			<a href="http://www.indiafloristnetwork.com/Punjab">Online Fresh Baked Cake to Punjab</a>, 
+			<a href="http://www.indiafloristnetwork.com/Rajasthan">Leather Items to Rajasthan</a>, 
+			<a href="http://www.indiafloristnetwork.com/Sikkim">Send Chocolates to Sikkim</a>, 
+			<a href="http://www.indiafloristnetwork.com/Tamil%20Nadu">Send Toys & Games to Tamil Nadu</a>, 
+			<a href="http://www.indiafloristnetwork.com/Tripura">Online Jewellery to Tripura</a>, 
+			<a href="http://www.indiafloristnetwork.com/Uttar%20Pradesh">Dry Fruits to Uttar Pradesh</a>, 
+			<a href="http://www.indiafloristnetwork.com/Uttaranchal">Send Cosmetics to Uttaranchal</a>, 
+			<a href="http://www.indiafloristnetwork.com/West%20Bengal">Online Gift Baskets to West Bengal</a> -->
+			
+			<a href="http://www.indiafloristnetwork.com/an/">Andaman and Nicobar Islands</a>, 
+			<a href="http://www.indiafloristnetwork.com/Andhra%20pradesh">Andhra pradesh</a>, 
+			<a href="http://www.indiafloristnetwork.com/Arunachal%20pradesh">Arunachal Pradesh</a>,
+			<a href="http://www.indiafloristnetwork.com/Assam">Assam</a>, 
+			<a href="http://www.indiafloristnetwork.com/Bihar">Bihar</a>, 
+			<a href="http://www.indiafloristnetwork.com/Chandigarh">Chandigarh</a>, 
+			<a href="http://www.indiafloristnetwork.com/Chhattisgarh">Chhattisgarh</a>, 
+			<a href="http://www.indiafloristnetwork.com/dnh">Dadra and Nagar Haveli</a>, 
+			<a href="http://www.indiafloristnetwork.com/Daman%20and%20Dieu">Daman and Diu</a>, 
+			<a href="http://www.indiafloristnetwork.com/Goa1">Goa</a>, 
+			<a href="http://www.indiafloristnetwork.com/Gujarat">Gujarat</a>, 
+			<a href="http://www.indiafloristnetwork.com/Hariyana">Hariyana</a>, 
+			<a href="http://www.indiafloristnetwork.com/Himachal%20Pradesh">Himachal Pradesh</a>, 
+			<a href="http://www.indiafloristnetwork.com/Jammu%20Kashmir">JammuKashmir</a>, 
+			<a href="http://www.indiafloristnetwork.com/Jharkhand">Jharkhand</a>, 
+			<a href="http://www.indiafloristnetwork.com/Karnataka">Karnataka</a>, 
+			<a href="http://www.indiafloristnetwork.com/Kerala">Kerala</a>, 
+			<a href="http://www.indiafloristnetwork.com/Lakshadweep">Lakshadweep</a>, 
+			<a href="http://www.indiafloristnetwork.com/Madhya%20Pradesh">Madhya Pradesh</a>, 
+			<a href="http://www.indiafloristnetwork.com/Maharashtra">Maharashtra</a>, 
+			<a href="http://www.indiafloristnetwork.com/Manipur">Manipur</a>, 
+			<a href="http://www.indiafloristnetwork.com/Meghalaya">Meghalaya</a>,
+			<a href="http://www.indiafloristnetwork.com/Mizoram">Mizoram</a>, 
+			<a href="http://www.indiafloristnetwork.com/Nagaland">Nagaland</a>, 
+			<a href="http://www.indiafloristnetwork.com/delhi">National Capital Territory of Delhi</a>, 
+			<a href="http://www.indiafloristnetwork.com/Orissa">Orissa</a>, 
+			<a href="http://www.indiafloristnetwork.com/Pondicherry">Pondicherry</a>, 
+			<a href="http://www.indiafloristnetwork.com/Punjab">Punjab</a>, 
+			<a href="http://www.indiafloristnetwork.com/Rajasthan">Rajasthan</a>, 
+			<a href="http://www.indiafloristnetwork.com/Sikkim">Sikkim</a>, 
+			<a href="http://www.indiafloristnetwork.com/Tamil%20Nadu">Tamil Nadu</a>, 
+			<a href="http://www.indiafloristnetwork.com/Tripura">Tripura</a>, 
+			<a href="http://www.indiafloristnetwork.com/Uttar%20Pradesh">Uttar Pradesh</a>, 
+			<a href="http://www.indiafloristnetwork.com/Uttaranchal">Uttaranchal</a>, 
+			<a href="http://www.indiafloristnetwork.com/West%20Bengal">West Bengal</a>
+			
+			</p>
+			</td>
+			<td width="10"></td>
+			<td valign="top" width="390">
+				<table border="0" cellpadding="0" cellspacing="0" width="390">
+				  <tbody><tr>
+					<td class="bdr1" style="padding-left:10px; padding-right:10px" valign="top">
+					<p align="left" class="cityindex_writeup-bottom" style="margin:0; padding:0;"><a href="Locations.asp" id="red">Locations We Deliver:</a></p>
+					<p class="cityindex_writeup-bottom" style="margin:4px; padding:4px;">
+					Same Day Hand Delivery of Perishable Items to 200 cities all over India: <a href="Locations.asp" id="black">Click Here</a> <br/><br/>
+					Delivery in 1 days of Perishable Items to 150 cities all over India: <a href="Locations.asp" id="black">Click Here</a><br/><br/>
+					Non-Perishable Items can be delivered all over India in 1-4 days time depending on Location: <a href="Locations.asp" id="black">Click Here</a>
+					</p>
+					</td>
+				  </tr>
+				  <tr>
+					<td height="10"></td>
+				  </tr>
+				  <tr>
+					<td class="bdr1" style="padding-left:10px; padding-right:10px" valign="top">
+					<p align="left" class="cityindex_writeup-bottom" style="margin:0; padding:0;"><a href="privacy_policy.asp" id="red">Privacy Policy</a></p>
+					<p class="cityindex_writeup-bottom">
+					We respect your Privacy. We only know the recipient's 
+					details and your message and not your payment details. 
+					Your online payment is through Secure Payment gateway, 
+					www.ccavenue.com/ Securepg.Fssnet.co.in which is 
+					secured. Also, we do not share your information. This 
+					means that your online transactions are absolutely safe, 
+					secure and confidential.
+					</p>
+					<p class="cityindex_writeup-bottom"><span id="black"><strong>WE ACCEPT </strong></span><br/>
+					  <span class="cityindex_writeup-bottom"><a href="payment.asp" id="red">Master Card / Visa / AMEX and more..  Click Here</a></span><br/>
+					<a href="payment.asp" title="Credit Cards"><img border="0" src="siteimages/card_index.jpg"/></a><br/>
+					<span class="cityindex_writeup-bottom"><a href="payment.asp" id="red">You can also avail our Net Banking options</a></span>, 
+					<span class="cityindex_writeup-bottom"><a href="payment.asp" id="red">ATM-CUM-DEBIT Card options</a></span>, 
+					<span class="cityindex_writeup-bottom"><a href="payment.asp" id="red">Mobile Payment</a></span> <span style="font:12px Verdana; color:#FF0000">and</span> 
+					<span class="cityindex_writeup-bottom"><a href="payment.asp" id="red">Itz cash card Payment</a></span> <span style="font:12px Verdana; color:#FF0000">Options.</span></p>
+					</td>
+				  </tr>
+				</tbody></table>
+
+			</td>
+		  </tr>
+		</tbody></table>
+
+	</td>
+  </tr>
+  <tr>
+    <td height="10" width="1001"></td>
+  </tr>
+  <tr>
+    <td class="cityindex_writeup-bottom" width="1001">
+	
+	
+<!--	<p style="padding-left:10px">
+<span style="font:bold 14px Arial; color:#000000">Celebrate Mother's Day on Sunday, 11 May 2014 :</span><br />
+<br/>
+<span style="font:bold 14px Arial; color:#000000">Send Mother’s Day Gifts to any Corner of India: </span>
+<br />
+Delight your dearest mom by choosing the perfect gift from our vast selection of products that we have put together in our online shopping portal. We have made it easier for you to select the best item for her that will act as the souvenir of your genuine love for her. You can use our services to send gifts to all over in India as we have anchored our strong network all over the country.
+<br />
+<br/>
+<span style="font:bold 14px Arial; color:#000000">Same Day Flower Delivery to Mother in India: </span>
+<br />
+Mother’s Day is the busiest Flower delivery day of the year. Flowers have come to represent this very significant day wrapped up with all your affection for the goddess in your life. Let your mom enjoy the beauty of the special Floral Arrangement made by our experts and show your class of choice.
+<br />
+<br/>
+<span style="font:bold 14px Arial; color:#000000">Delivery of Useful Items for Mom to India: </span>
+<br />
+Conquer the heart of your dear mother by sending her a mixed Flower Bouquet followed by many other attractive gifts such as Kitchen Appliances, Idols of Gods and Goddesses, Jewelries, Electronic Goods and a lot more that will make a perfect celebration for Mother's Day. Make her life brighter and easier with our superb range of useful stuffs and acknowledge her for the journey of motherhood.
+
+
+</p>
+	 -->
+	
+	
+	
+<p style="padding-left:10px">
+	
+<!--<span id="red">Convey your Graceful Feelings of Heart Through Rakhi and Gifts:</span>
+<br />
+This festival of pure affection is celebrated by Brothers and Sisters. In Modern times, if the siblings live far from each other, then they celebrate this festival by sending Gifts through online websites which means they are in touch with the old customs related to Raksha Bhandhan. Send Rakhi Rakhi Gifts like Auspicious Silver Plated Mandir Case with Rakhi, Brown Leather Wallet for Men with Rakhi, Danish Butter Cookies with Rakhi, Gift Set of Laughing Buddhas with Rakhi, Gillette Vector Gift Hamper with Rakhi for your dear Brothers and create magical moments to cherish forever.
+<br /><br />
+<span id="red">Celebrate this Raksha Bandhan with Essence of Rakhi:</span>
+<br />
+The Raksha Bandhan festival falls on the Shravan Purnima which comes generally in the month of August. This year it will be celebrated on 29th August. Send Rakhis like Designer Lumba Rakhi, Bhaiya Bhabhi Rakhi, Ethnic Rakhi Set, Designer Rakhi, Special Siver Rakhi that brings happiness and excitement on Raksha Bandhan.
+<br /><br />
+<span id="red">Bring Joyful Moments on Raksha Bandhan with Rakhi Gifts:</span>
+<br />
+Keep your loving Brother smiling and happy on this Raksha Bandhan by delivering attractive presents best available in this online shopping store. Send Rakhi Gifts like Pooja Thali with Rakhi and Chocolates, Designer Rakhi Thali with Haldiram’s Kaju Katli and Rakhi, Pure Ghee Laddoo from Haldiram with Rakhi, Danish Chocochips Cookies with Rakhi, Cute Teddy and Yummy Chocos and Rakhi, Special Gold Plated Rakhi Thali Hamper etc. and express your best love and affection towards your dear Brothers.
+<br /><br /> -->
+	
+	
+<a href="Locations.asp" id="red">Send Flowers to India :  </a><br/>
+<br/>
+		
+	<!--Orginal -->
+	
+	You can now send flowers to India online with ease and with delivery promise at our website <a href="http://www.indiafloristnetwork.com/">www.IndiaFloristNetowrk.com</a>. Celebrate occasions of your loved ones in India by   sending <a href="http://www.indiafloristnetwork.com/flowers.asp">flowers</a>, <a href="http://www.indiafloristnetwork.com/cakes.asp">cakes</a>, <a href="http://www.indiafloristnetwork.com/sweets.asp">sweets</a>, <a href="http://www.indiafloristnetwork.com/fresh%20fruits.asp">fruits</a> and many   more. We assure you to delight all by delivering fresh flower bouquet, oven   fresh cakes, sweets, fresh fruits and more gifts to India. We are the top online   florist for the delivery of flowers to India for all occasions. Mesmerize your   special ones by sending our beautiful <a href="http://www.indiafloristnetwork.com/flowers.asp">floral gift to India</a>, Eggless Cakes, Friendship Day Gifts, <a href="http://www.indiafloristnetwork.com/diwali.asp">Diwali Sweets</a>, Taj Cakes, <a href="http://www.indiafloristnetwork.com/Birthday.asp">Birthday Cakes</a>, <a href="http://www.indiafloristnetwork.com/valentines%20day.asp">Valentine’s Day Flowers</a>, <a href="http://www.indiafloristnetwork.com/mothers%20day.asp">Mothers day Gifts</a>, Father’s Day Gifts, Women’s Day cosmetics, Anniversary bouquet, New Born Baby gifts, Wedding bouquet, Get Well Soon arrangement, Condolence wreath, New Year Gifts, <a href="http://www.indiafloristnetwork.com/cakes.asp">Christmas Cakes</a> and lots more breathtaking   gifts. Our largest delivery networks all over India ensures same day delivery at over 300 locations all over India.
+	
+<!--<br /><br />	
+<span id="red">Send Valentine’s Day Special Flowers to India:</span>
+<br />
+Enchanting colourful Flowers are the crucial ingredients of Valentine’s Day celebration. Tighten the bonds of your relationship by sending various types of beautiful Flower Arrangements and delightful Flowers like Roses, Tulips, Lilies, Gerberas, Orchids and many more to your loved ones and they will cherish this day throughout their lifetime.
+
+ <br /><br />
+
+<span id="red">Valentine Gifts Delivery in all over India:</span>
+<br />
+Love is the one thing that can overcome so many of the difficult times that we are faced with in life. Valentine’s Day is considered as the day of love. Celebrate this day with your loved ones with amazing collections of Flowers, Chocolates, Dry Fruits, Red Roses, Heart Shaped Cakes, Love Balloons, Teddy Bear and many more Gifts and make the day very special and memorable.
+
+ <br /><br />
+
+<span id="red">Same Day Delivery of Cakes to India for Valentine’s Day:</span>
+<br />
+Cakes are the center of attraction of each and every occasion. Valentine’s Day is one of the most romantic occasions in the world. Express your valuable feelings and wishes with vivid types of flavoured Cakes, Heart Shaped Cakes, Fruit Cakes, Chocolate Cakes, Eggless Cakes and much more as a token of love.
+-->
+	
+	</p> 
+	
+	
+	
+
+	
+	
+	
+	
+	<p id="red" style="padding-left:10px">
+	Customer Testimonials:	</p>
+	<p style="padding-left:10px">
+	
+<strong>1.</strong> "Thanks a lot. I am spellbound with the on time delivery of your flowers to Bangalore, India for my uncle." – <strong>Sam from Australia</strong> <br/><br/>
+
+<strong>2.</strong> “I would like to convey my heartfelt appreciation to you. My order to send flowers to India from USA to you was timely delivered to my friend. The bouquet was remarkably fresh and the birthday cake left a mouthwatering taste."- <strong>Rajbir from USA</strong><br/><br/>
+
+
+<strong>3.</strong> "Thank you very much for making the engagement ceremony of my brother in India even more fabulous with your magnificent flower bouquet and lovely engagement cake. I am delighted with your wonderful service and will again shop with you soon."- <strong>Prasant from UK</strong> <br/><br/>
+
+
+<strong>4.</strong> "Thank you from the bottom of my heart for sending the breathtaking gifts to India on the occasion of Rakhi. My brother was thrilled to get those fantastic presents from indiafloristnetwork.com."- <strong>Nisha from Canada</strong><br/> <br/>
+
+
+<strong>5.</strong> "The orchids flower arrangement and sweets that I got delivered through you to my mother in India on the occasion of Mother’s Day brought tears to her eyes. I owe my gratefulness to you for strengthening the bond with my mother." – <strong>Pallavi from Singapore</strong> <br/><br/>
+
+
+<strong>6.</strong> "Whenever I have ordered gifts from IndiaFloristNetwork.com, you have surpassed my expectations. Thank you." – <strong>Manisha from UAE</strong> 
+
+
+<br/><br/>
+	 </p>
+	
+	</td>
+  </tr>
+  
+   <tr>
+    <td height="5" width="1001"></td>
+  </tr>
+  
+   <tr>
+    <td align="right" height="5" width="1001">
+	<table align="right" width="20%">
+	<tbody><tr>
+	<td width="17%"><a href="https://www.facebook.com/IndiaFloristNetwork" target="_blank" title="Facebook"><img border="0" height="20" src="facebookicon.gif" width="20"/></a></td>
+	<td width="17%"><a href="https://twitter.com/IndiaFloristNet" target="_blank" title="Twitter"><img border="0" height="20" src="twittericon.gif" width="20"/></a></td>
+	<td width="18%"><a href="https://plus.google.com/+IndiaFloristNetworkSendGiftsToIndia" target="_blank" title="Google+"><img border="0" height="20" src="googleplusicon.gif" width="20"/></a></td>
+	<td width="16%"><a href="http://blog.indiafloristnetwork.com" target="_blank" title="Blog"><img border="0" height="20" src="blogicon.gif" width="20"/></a></td>
+	<td width="32%"><a href="https://www.youtube.com/indiafloristnetwork" target="_blank" title="YouTube"><img border="0" height="20" src="utubeicon.gif" width="20"/></a></td>
+	</tr>
+	</tbody></table>
+	
+	</td>
+  </tr>
+  
+  <tr>
+    <td height="5" width="1001"></td>
+  </tr>
+  <tr>
+    <td valign="top" width="1001">
+		
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td align="center" class="bottom_bg">
+	<table border="0" cellpadding="0" cellspacing="0" class="bottom_txt" width="90%">
+      <tbody><tr>
+        <td><a href="default.asp">Home</a></td>
+        <td>|</td>
+        <td><a href="http://www.indiafloristnetwork.com/Affiliation.asp">Affiliation</a></td>
+        <td>|</td>
+        <td><a href="http://www.indiafloristnetwork.com/Member_Login.asp">Address Book</a></td>
+        <td>|</td>
+        <td><a href="http://www.indiafloristnetwork.com/Recommend_Us.asp">Recommend Us</a></td>
+        <td>|</td>
+        <td><a href="http://www.indiafloristnetwork.com/Membership.asp">Membership</a></td>
+        <td>|</td>
+        <td><a href="http://www.indiafloristnetwork.com/Terms_Conditions.asp">Terms &amp; Conditions</a></td>
+        <td>|</td>
+        <td><a href="http://www.indiafloristnetwork.com/Privacy_Policy.asp">Privacy Policy</a></td>
+        <td>|</td>
+        <td><a href="http://www.indiafloristnetwork.com/About_Us.asp">About Us</a></td>
+        <td>|</td>
+        <td><a href="http://www.indiafloristnetwork.com/sitemap.asp">Sitemap</a></td>
+        <td>|</td>
+        <td><a href="http://www.indiafloristnetwork.com/Disclaimer.asp">Disclaimer</a></td>
+      </tr>
+      <tr>
+        <td colspan="19" height="10"> </td>
+      </tr>
+      <tr>
+        <td colspan="19">Copyright © <a href="http://www.indiafloristnetwork.com">www.IndiaFloristNetwork.com</a>, All Rights Reserved. </td>
+        </tr>
+    </tbody></table>
+	</td>
+  </tr>
+</tbody></table>
+
+
+	</td>
+  </tr>
+</tbody></table>
+<div class="popup_block" id="inlineBox">
+			<div id="inlineBoxAjax"></div>
+		</div>
+
+
+
+</div></body></html>

@@ -1,0 +1,1265 @@
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie ie7" lang="en-US"><![endif]--><!--[if IE 8]><html class="ie ie8" lang="en-US"><![endif]--><!--[if IE 9]><html class="ie ie9" lang="en-US"> <![endif]--><!--[if !(IE 7) | !(IE 8) ]><!--><html lang="en-US"><!--<![endif]--><head>
+		<meta charset="utf-8"/>
+
+			<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+	
+	<link href="http://gmpg.org/xfn/11" rel="profile"/>
+	<link href="http://www.pellipoolajada.com/xmlrpc.php" rel="pingback"/>
+	
+			<link href="http://www.pellipoolajada.com/wp-content/uploads/2016/06/favicon.ico" rel="shortcut icon"/>
+
+						<script type="text/javascript">document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
+			<title>Pelli Poola Jada | Pelli Poola Jada</title>
+			<style>
+				.wishlist_table .add_to_cart, a.add_to_wishlist.button.alt { border-radius: 16px; -moz-border-radius: 16px; -webkit-border-radius: 16px; }			</style>
+			<script type="text/javascript">
+				var yith_wcwl_plugin_ajax_web_url = '/wp-admin/admin-ajax.php';
+			</script>
+		
+<!-- All in One SEO Pack 2.3.8 by Michael Torbert of Semper Fi Web Design[799,841] -->
+<meta content="Poolajada, poola jada, pula jeda, puvvula jada, puvvula jeda, pulajeda, poolajeda, poola jeda, Pellipoolajada," itemprop="description" name="description"/>
+
+<link href="http://www.pellipoolajada.com/" rel="canonical"/>
+<!-- /all in one seo pack -->
+<link href="http://www.pellipoolajada.com/feed/" rel="alternate" title="Pelli Poola Jada » Feed" type="application/rss+xml"/>
+<link href="http://www.pellipoolajada.com/comments/feed/" rel="alternate" title="Pelli Poola Jada » Comments Feed" type="application/rss+xml"/>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.pellipoolajada.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="http://www.pellipoolajada.com/wp-content/plugins/woocommerce-ajax-filters/css/widget.css" id="berocket_aapf_widget-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/plugins/woocommerce-ajax-filters/css/scrollbar/Scrollbar.min.css" id="berocket_aapf_widget-scroll-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/plugins/contact-form-7/includes/css/styles.css" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/plugins/foobox-image-lightbox/css/foobox.free.min.css" id="foobox-free-min-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/plugins/revslider/public/assets/css/settings.css" id="rs-plugin-settings-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="rs-plugin-settings-inline-css" type="text/css">
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,700,600);.tp-caption.medium_bg_red a{color:#fff;  text-decoration:none}.tp-caption.medium_bg_red a:hover{color:#fff;  text-decoration:underline}.tp-caption.roundedimage img{-webkit-border-radius:300px;  -moz-border-radius:300px;  border-radius:300px}.tp-bullets.simplebullets.navbar{height:35px;  padding:0px 0px}.tp-bullets.simplebullets .bullet{cursor:pointer;  position:relative !important;  background:rgba(0,0,0,0.5) !important;  -webkit-border-radius:10px;  border-radius:10px;  -webkit-box-shadow:none;  -moz-box-shadow:none;  box-shadow:none;  width:6px !important;  height:6px !important;  border:5px solid rgba(0,0,0,0) !important;  display:inline-block;  margin-right:2px !important;  margin-bottom:14px !important;  -webkit-transition:background-color 0.2s,border-color 0.2s;  -moz-transition:background-color 0.2s,border-color 0.2s;  -o-transition:background-color 0.2s,border-color 0.2s;  -ms-transition:background-color 0.2s,border-color 0.2s;  transition:background-color 0.2s,border-color 0.2s;  float:none !important}.tp-bullets.simplebullets .bullet.last{margin-right:0px}.tp-bullets.simplebullets .bullet:hover,.tp-bullets.simplebullets .bullet.selected{-webkit-box-shadow:none;  -moz-box-shadow:none;  box-shadow:none;background:rgba(255,255,255,1) !important;width:6px !important;  height:6px !important;  border:5px solid rgba(0,0,0,1) !important}.tparrows:before{font-family:'revicons';color:#fff;  font-style:normal;  font-weight:normal;  speak:none;  display:inline-block;  text-decoration:inherit;  margin-right:0;  margin-top:9px;  text-align:center;  width:40px;  font-size:20px}.tparrows{cursor:pointer;  background:rgba(0,0,0,0.5) !important;  -webkit-border-radius:5px;  border-radius:5px;  width:40px !important;  height:40px !important}.tparrows:hover{color:#fff}.tp-leftarrow:before{content:'\e824'}.tp-rightarrow:before{content:'\e825'}.tparrows.tp-rightarrow:before{margin-left:1px}.tparrows:hover{background:rgba(0,0,0,1) !important}
+</style>
+<link href="http://www.pellipoolajada.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css" id="js_composer_front-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/plugins/themesky/css/shortcode.css" id="ts-shortcode-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/themes/gon/css/owl.carousel.css" id="owl.carousel-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/plugins/woocommerce-email-inquiry-cart-options/assets/css/wc_email_inquiry_style.css" id="a3_wc_email_inquiry_style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-admin/admin-ajax.php?action=wc_quick_buy_style" id="wc_quick_buy__plugin_style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.pellipoolajada.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css" id="woocommerce-layout-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.pellipoolajada.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css" id="woocommerce-smallscreen-css" media="only screen and (max-width: 768px)" rel="stylesheet" type="text/css"/>
+<link href="//www.pellipoolajada.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css" id="woocommerce-general-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/plugins/wordpress-social-login/assets/css/style.css" id="wsl-widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.pellipoolajada.com/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css" id="woocommerce_prettyPhoto_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css" id="jquery-selectBox-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css" id="yith-wcwl-main-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.pellipoolajada.com/wp-content/plugins/dc-woocommerce-multi-vendor/assets/frontend/css/product.min.css" id="product_css-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="product_css-inline-css" type="text/css">
+
+                .by-vendor-name-link:hover{
+                        color: #000000 !important;
+                }
+                .by-vendor-name-link{
+                        color: #dd3333 !important;
+                }
+</style>
+<link href="http://www.pellipoolajada.com/wp-content/plugins/jck_woo_deliveryslots/assets/frontend/css/main.min.css" id="jckwds-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.pellipoolajada.com/wp-content/uploads/sass/wc_email_inquiry_cart_options.min.css" id="a3wc_email_inquiry_cart_options-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext" id="gg-lato-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Raleway%3A300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext" id="gg-raleway-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/themes/gon/css/font-awesome.css" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/themes/gon/css/reset.css" id="ts-reset-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/themes/gon/style.css" id="ts-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/themes/gon/css/responsive.css" id="ts-responsive-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/themes/gon/css/prettyPhoto.css" id="prettyPhoto-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/themes/gon/css/select2.css" id="select2-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.pellipoolajada.com/wp-content/uploads/gon.css" id="ts-dynamic-css-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="http://www.pellipoolajada.com/wp-includes/js/jquery/jquery.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-includes/js/jquery/jquery-migrate.min.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-content/plugins/woocommerce-ajax-filters/js/scrollbar/Scrollbar.concat.min.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-content/plugins/woocommerce-quick-buy/includes/js/frontend.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/www.pellipoolajada.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script src="//www.pellipoolajada.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var yotpo_settings = {"app_key":"HiO9KTAL3kvpfn3sdkUoYOy6373yQacaBvNM4UI9"};
+/* ]]> */
+</script>
+<script src="http://www.pellipoolajada.com/wp-content/plugins/yotpo-social-reviews-for-woocommerce/assets/js/headerScript.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-content/plugins/foobox-image-lightbox/js/foobox.free.min.js" type="text/javascript"></script>
+<link href="http://www.pellipoolajada.com/wp-json/" rel="https://api.w.org/"/>
+<link href="http://www.pellipoolajada.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://www.pellipoolajada.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/> 
+<meta content="WordPress 4.4.3" name="generator"/>
+<meta content="WooCommerce 2.5.5" name="generator"/>
+<link href="http://www.pellipoolajada.com/" rel="shortlink"/>
+            <style>
+                body {
+                    -webkit-touch-callout: none;
+                    -webkit-user-select: none;
+                    -khtml-user-select: none;
+                    -moz-user-select: none;
+                    -ms-user-select: none;
+                    user-select: none;
+                }
+            </style>
+
+
+            <script type="text/javascript">
+                //<![CDATA[
+                document.onkeypress = function(event) {
+                    event = (event || window.event);
+                    if (event.keyCode === 123) {
+                        //alert('No F-12');
+                        return false;
+                    }
+                };
+                document.onmousedown = function(event) {
+                    event = (event || window.event);
+                    if (event.keyCode === 123) {
+                        //alert('No F-keys');
+                        return false;
+                    }
+                };
+                document.onkeydown = function(event) {
+                    event = (event || window.event);
+                    if (event.keyCode === 123) {
+                        //alert('No F-keys');
+                        return false;
+                    }
+                };
+
+                function contentprotector() {
+                    return false;
+                }
+                function mousehandler(e) {
+                    var myevent = (isNS) ? e : event;
+                    var eventbutton = (isNS) ? myevent.which : myevent.button;
+                    if ((eventbutton === 2) || (eventbutton === 3))
+                        return false;
+                }
+                document.oncontextmenu = contentprotector;
+                document.onmouseup = contentprotector;
+                var isCtrl = false;
+                window.onkeyup = function(e)
+                {
+                    if (e.which === 17)
+                        isCtrl = false;
+                }
+
+                window.onkeydown = function(e)
+                {
+                    if (e.which === 17)
+                        isCtrl = true;
+                    if (((e.which === 85) || (e.which === 65) || (e.which === 80) || (e.which === 88) || (e.which === 67) || (e.which === 86) || (e.which === 83)) && isCtrl === true)
+                    {
+                        return false;
+                    }
+                }
+                isCtrl = false;
+                document.ondragstart = contentprotector;
+                //]]>
+            </script>
+            <script async="" data-pin-color="red" data-pin-hover="true" defer="" src="http://www.pellipoolajada.com/wp-content/plugins/pinterest-pin-it-button-on-image-hover-and-post/js/pinit.js" type="text/javascript"></script><style data-type="vc_shortcodes-custom-css" type="text/css">.vc_custom_1458043900199{margin-bottom: 40px !important;}.vc_custom_1443112482623{margin-bottom: 0px !important;}.vc_custom_1457949722342{margin-bottom: 15px !important;}.vc_custom_1457343475027{margin-bottom: 0px !important;}.vc_custom_1458043706432{margin-bottom: 0px !important;padding-top: 70px !important;}.vc_custom_1443680655434{margin-top: -20px !important;margin-bottom: 0px !important;background-color: #353535 !important;}.vc_custom_1443680608552{margin-bottom: 0px !important;padding-top: 70px !important;}.vc_custom_1443672451963{margin-bottom: 0px !important;}.vc_custom_1443680669649{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1443680733340{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1443680682193{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1449717110417{margin-bottom: 0px !important;}.vc_custom_1449717117232{margin-bottom: 0px !important;}.vc_custom_1449717129632{margin-bottom: 0px !important;}.vc_custom_1449724962149{margin-bottom: 63px !important;}.vc_custom_1449724971490{margin-bottom: 63px !important;}.vc_custom_1449725166147{margin-bottom: 63px !important;}.vc_custom_1449724999071{margin-bottom: 63px !important;}.vc_custom_1449716980879{margin-bottom: 0px !important;}.vc_custom_1443672482623{margin-bottom: 0px !important;}.vc_custom_1446469833937{margin-bottom: 15px !important;}.vc_custom_1449717228930{margin-bottom: 0px !important;}.vc_custom_1442590565755{margin-bottom: 50px !important;}.vc_custom_1446469884336{margin-bottom: 15px !important;}.vc_custom_1449715831566{margin-bottom: 0px !important;}.vc_custom_1449713852856{margin-bottom: 0px !important;}.vc_custom_1446469897999{margin-bottom: 15px !important;}.vc_custom_1441001606579{margin-bottom: 0px !important;padding-top: 60px !important;}.vc_custom_1444365835882{margin-bottom: 10px !important;}.vc_custom_1438172475601{margin-bottom: 50px !important;}.vc_custom_1446469914313{margin-bottom: 15px !important;}.vc_custom_1449715301396{margin-bottom: 0px !important;}.vc_custom_1446469928881{margin-bottom: 15px !important;}.vc_custom_1449715662631{margin-bottom: 0px !important;}.vc_custom_1449723831811{margin-bottom: 0px !important;padding-top: 45px !important;}.vc_custom_1437920777173{margin-bottom: 10px !important;}.vc_custom_1440908288132{margin-top: -20px !important;margin-bottom: 20px !important;border-bottom-width: 40px !important;padding-top: 20px !important;}.vc_custom_1449712074800{margin-bottom: 20px !important;}.vc_custom_1446469943341{margin-bottom: 15px !important;}.vc_custom_1449710706534{margin-bottom: 0px !important;}.vc_custom_1446469958439{margin-bottom: 15px !important;}.vc_custom_1437921933223{margin-bottom: 0px !important;padding-top: 30px !important;}.vc_custom_1437919967996{margin-bottom: 0px !important;}.vc_custom_1449712541053{margin-bottom: 0px !important;}</style><meta content="Powered by Visual Composer - drag and drop page builder for WordPress." name="generator"/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.pellipoolajada.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.pellipoolajada.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><style>
+    
+        body .jckwds-reserve { background: #FFFFFF; }
+    body .jckwds-reserve td { border-color:  #EAEAEA; }
+    body .jckwds-reserve tbody td a { color:  #B7B7B7; }
+    body .jckwds-reserve tbody td a:hover { color:  #848484; }
+
+        body .jckwds-reserve tr th { background: #ccc; border-color: #2A2A2A; color: #FFFFFF; }
+    body .jckwds-reserve thead tr th .jckwds-prevday, body .jckwds-reserve thead tr th .jckwds-nextday { color: #CCCCCC; }
+    body .jckwds-reserve thead tr th .jckwds-prevday:hover, body .jckwds-reserve thead tr th .jckwds-nextday:hover { color: #FFFFFF; }
+
+        body .jckwds-reserve tbody td.jckwds_full { background: #F7F7F7; }
+
+        body .jckwds-reserve tbody td.jckwds-reserved {  background: #15b374; color: #FFFFFF; }
+    body .jckwds-reserve tbody td.jckwds-reserved strong { border-color: #108556; }
+    body .jckwds-reserve tbody td.jckwds-reserved a { color: #FFFFFF; }
+
+        body .jckwds-reserve-wrap .jckwds_loading { color: #666666; }
+
+        body .jckwds-reserve-wrap .jckwds_loading { color: #666666; }
+</style><style id="custom-background-css" type="text/css">
+body.custom-background { background-color: #f6f6f6; }
+</style>
+<meta content="Powered by Slider Revolution 5.2.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." name="generator"/>
+<style data-type="vc_shortcodes-custom-css" type="text/css">.vc_custom_1467030158647{margin-top: 20px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>    <meta content="hFHwLeJs-64bpeGNWkjDFFyEFI45RtHGT6Q6mnUxuYU" name="google-site-verification"/>
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    
+    fbq('init', '134608313570421');
+    fbq('track', "PageView");</script>
+    <noscript></noscript></head><body class="home page page-id-51592 page-template-default custom-background header-v8 wide ts_desktop wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive"><img height="1" src="https://www.facebook.com/tr?id=134608313570421&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+    <!-- End Facebook Pixel Code -->
+	    <meta content="http://www.pellipoolajada.com/?post_type=page&amp;p=51592" property="og:url"/>
+    <meta content="" property="og:image"/>
+
+
+<div class="hfeed site" id="page">
+
+	
+		<!-- Page Slider -->
+									
+		<header class="ts-header has-sticky">
+			<div class="header-container">
+								<div class="header-template header-v8 show-cart show-search">
+
+					<div class="header-top">
+						<div class="container">
+							<div class="header-top-left">
+
+																<div class="info-desc"><span class="info-email"><i class="fa fa-envelope"></i>pellipoolajada@gmail.com</span><span class="info-phone"><i class="fa fa-phone"></i>+919581576904</span></div>
+								
+							</div>
+							<div class="header-top-right">
+							
+								<span class="ts-mobile-menu-icon-toggle visible-phone"><i class="fa fa-bars"></i></span>
+								
+								<span class="ts-group-meta-icon-toggle visible-phone"><i class="fa fa-cog"></i></span>
+								
+																<div class="shopping-cart-wrapper cart-mobile visible-phone">			<div class="ts-tiny-cart-wrapper">
+				<a class="cart-control" href="http://www.pellipoolajada.com/cart/" title="View your shopping bag">
+					<span class="ic-cart"><span class="ic"></span></span>
+					<span class="cart-total"><span class="amount">Rs 0.00</span></span>
+					<span class="cart-number">0</span>
+				</a>
+				<span class="cart-drop-icon drop-icon"></span>
+				<div class="cart-dropdown-form dropdown-container">
+					<div class="form-content">
+													<label>Your shopping cart is empty</label>
+											</div>
+				</div>
+			</div>
+		</div>
+																
+								<div class="group-meta-header">
+																		
+																		
+																		
+																		<div class="my-account-wrapper">		<div class="ts-tiny-account-wrapper">
+			<div class="account-control">
+									<a class="login" href="http://www.pellipoolajada.com/my-account/" title="Login"><span>Login</span></a>
+					 / 
+					<a class="sign-up" href="http://www.pellipoolajada.com/my-account/" title="Create New Account"><span>Sign up</span></a>
+							</div>
+						<div class="account-dropdown-form dropdown-container">
+				<div class="form-content">	
+					<form action="http://www.pellipoolajada.com/wp-login.php" class="ts-login-form" method="post" name="ts-login-form">
+			
+						<p class="login-username">
+							<label>Username</label>
+							<input autocomplete="off" class="input" name="log" size="20" type="text" value=""/>
+						</p>
+						<p class="login-password">
+							<label>Password</label>
+							<input class="input" name="pwd" size="20" type="password" value=""/>
+						</p>
+						
+						<p class="login-submit">
+							<input class="button-secondary button" name="wp-submit" type="submit" value="Login"/>
+							<input name="redirect_to" type="hidden" value="http://www.pellipoolajada.com/"/>
+						</p>
+						
+					</form>
+		
+					<p class="forgot-pass"><a href="http://www.pellipoolajada.com/my-account/lost-password/" title="Forgot Your Password?">Forgot Your Password?</a></p>
+				</div>
+			</div>
+					</div>
+		
+		</div>
+																		
+																		<div class="search-wrapper hidden-phone">
+										<div class="ts-search-by-category"><form action="http://www.pellipoolajada.com/" id="searchform-340" method="get">
+	<div class="search-table">
+		<div class="search-field search-content">
+			<input autocomplete="off" id="s-340" name="s" placeholder="Search for products" type="text" value=""/>
+						<input name="post_type" type="hidden" value="product"/>
+					</div>
+		<div class="search-button">
+			<input id="searchsubmit-340" type="submit" value="Search"/>
+		</div>
+	</div>
+</form></div>
+									</div>
+																	</div>
+								
+							</div>
+						</div>
+					</div>
+					<div class="mobile-menu-wrapper">
+						<nav class="main-menu mobile-menu"><ul class="menu" id="menu-menu-home-lookbook"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-51592 current_page_item menu-item-51611" id="menu-item-51611"><a href="http://www.pellipoolajada.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8808" id="menu-item-8808"><a href="http://www.pellipoolajada.com/buy-artificial-poola-jada/artificial-venis/">Buy Artificial Poola Jada</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6612" id="menu-item-6612"><a href="http://www.pellipoolajada.com/gallery/">Gallery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7243" id="menu-item-7243"><a href="http://www.pellipoolajada.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6942" id="menu-item-6942"><a href="http://www.pellipoolajada.com/open-a-new-franchise/">Open a New Franchise</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6594" id="menu-item-6594"><a href="http://www.pellipoolajada.com/contact-us/">Contact us</a></li>
+</ul></nav>					</div>
+					<div class="header-middle">
+						<div class="container">
+							<div class="logo-wrapper">
+		<div class="logo">
+
+			<a href="http://www.pellipoolajada.com/">
+
+			<!-- Main logo -->
+
+			
+				<img alt="Pelli Poola Jada" class="normal-logo" src="http://www.pellipoolajada.com/wp-content/uploads/2016/07/logo-new.jpg" title="Pelli Poola Jada"/>
+
+			
+			
+
+			<!-- Main logo on mobile -->
+
+			
+				<img alt="Pelli Poola Jada" class="normal-logo mobile-logo" src="http://www.pellipoolajada.com/wp-content/uploads/2016/07/logo-new.jpg" title="Pelli Poola Jada"/>
+
+			
+			
+
+			<!-- Sticky logo -->
+
+			
+				<img alt="Pelli Poola Jada" class="normal-logo sticky-logo" src="http://www.pellipoolajada.com/wp-content/uploads/2016/07/logo-new.jpg" title="Pelli Poola Jada"/>
+
+			
+			
+
+			<!-- Logo Text -->
+
+			
+			</a>
+
+		</div>
+
+		</div>
+							
+														<div class="content-middle-header">	<div class="vc_row wpb_row vc_row-fluid feature-border-primary vc_custom_1444655361879 ts-row-wide"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="wpb_wrapper">	<div class="ts-feature-wrapper feature-horizontal icon-small">
+		<div class="feature-content">
+		
+							<a class="feature-icon" href="/shipping-policy/" target="_self">
+					<i class="fa fa-bus"></i>
+				</a>
+						
+						
+							<div class="feature-header">
+						
+									<h3 class="feature-title heading-title entry-title">
+						<a href="/shipping-policy/" target="_self">Free shipping</a>
+					</h3>
+								
+									<div class="feature-excerpt">
+						Free for all orders over Rs 10,000					</div>
+							
+							</div>
+					</div>
+	</div>
+	</div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="wpb_wrapper">	<div class="ts-feature-wrapper feature-horizontal icon-small">
+		<div class="feature-content">
+		
+							<a class="feature-icon" href="/faq" target="_self">
+					<i class="fa fa-rocket"></i>
+				</a>
+						
+						
+							<div class="feature-header">
+						
+									<h3 class="feature-title heading-title entry-title">
+						<a href="/faq" target="_self">How to order</a>
+					</h3>
+								
+									<div class="feature-excerpt">
+						General FAQ's to order Online					</div>
+							
+							</div>
+					</div>
+	</div>
+	</div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="wpb_wrapper">	<div class="ts-feature-wrapper feature-horizontal icon-small">
+		<div class="feature-content">
+		
+							<a class="feature-icon" href="/contact-us/" target="_self">
+					<i class="fa fa-support"></i>
+				</a>
+						
+						
+							<div class="feature-header">
+						
+									<h3 class="feature-title heading-title entry-title">
+						<a href="/contact-us/" target="_self">Contact us</a>
+					</h3>
+								
+									<div class="feature-excerpt">
+						Call/ Whats app- Nearest Branch					</div>
+							
+							</div>
+					</div>
+	</div>
+	</div></div></div></div>
+														
+														<div class="search-wrapper visible-phone">
+								<div class="ts-search-by-category"><form action="http://www.pellipoolajada.com/" id="searchform-6" method="get">
+	<div class="search-table">
+		<div class="search-field search-content">
+			<input autocomplete="off" id="s-6" name="s" placeholder="Search for products" type="text" value=""/>
+						<input name="post_type" type="hidden" value="product"/>
+					</div>
+		<div class="search-button">
+			<input id="searchsubmit-6" type="submit" value="Search"/>
+		</div>
+	</div>
+</form></div>
+							</div>
+													</div>
+					</div>
+					<div class="header-bottom header-sticky">
+						<div class="container">
+							<div class="menu-wrapper hidden-phone">				
+								<div class="ts-menu">
+									<nav class="main-menu pc-menu ts-mega-menu-wrapper"><ul class="menu" id="menu-menu-home-lookbook-1"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-51592 current_page_item menu-item-51611 ts-normal-menu">
+	<a href="http://www.pellipoolajada.com/"><span class="menu-label">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8808 ts-normal-menu">
+	<a href="http://www.pellipoolajada.com/buy-artificial-poola-jada/artificial-venis/"><span class="menu-label">Buy Artificial Poola Jada</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6612 ts-normal-menu">
+	<a href="http://www.pellipoolajada.com/gallery/"><span class="menu-label">Gallery</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7243 ts-normal-menu">
+	<a href="http://www.pellipoolajada.com/blog/"><span class="menu-label">Blog</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6942 ts-normal-menu">
+	<a href="http://www.pellipoolajada.com/open-a-new-franchise/"><span class="menu-label">Open a New Franchise</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6594 ts-normal-menu">
+	<a href="http://www.pellipoolajada.com/contact-us/"><span class="menu-label">Contact us</span></a></li>
+</ul></nav>								</div>
+							</div>
+							
+							<div class="group-button-icon-header hidden-phone">
+																<div class="shopping-cart-wrapper">			<div class="ts-tiny-cart-wrapper">
+				<a class="cart-control" href="http://www.pellipoolajada.com/cart/" title="View your shopping bag">
+					<span class="ic-cart"><span class="ic"></span></span>
+					<span class="cart-total"><span class="amount">Rs 0.00</span></span>
+					<span class="cart-number">0</span>
+				</a>
+				<span class="cart-drop-icon drop-icon"></span>
+				<div class="cart-dropdown-form dropdown-container">
+					<div class="form-content">
+													<label>Your shopping cart is empty</label>
+											</div>
+				</div>
+			</div>
+		</div>
+															</div>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+			
+			<div class="mobile-menu hidden-phone">
+				<div class="ic-menu-phone"></div>
+				<div class="mobile-menu-content"></div>
+			</div>
+		</header>
+		
+		
+	
+	<div class="wrapper" id="main"><!-- Page slider -->
+
+<div class="page-container ">
+	
+	<!-- Left Sidebar -->
+		
+	
+	<!-- Main Content -->
+	<div class="ts-col-24" id="main-content">	
+		<div class="site-content" id="primary">
+					<article class="post-51592 page type-page status-publish hentry" id="post-51592">
+				<div class="vc_row wpb_row vc_row-fluid home-drop-down-cont-block ts-row-wide vc_row-no-padding" data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">	<div class="ts-banner ts-banner-1 background-scale responsive-size center-top home-banner-cont">
+		<style scoped="" type="text/css">.ts-banner-1{
+				background-color: #ffffff;
+			}.ts-banner-1.background-scale-opacity-line:before,.ts-banner-1.background-scale-and-line:before,.ts-banner-1.background-dark-and-line:before,.ts-banner-1.background-scale-and-dark-line:before,.ts-banner-1.eff-line:before,.ts-banner-1.background-opacity-and-line:before{
+				border-color: #ffffff;
+			}</style>		
+				
+		<div class="ts-banner-wrapper">
+			<div class="banner-bg">
+			<img alt="bg" class="img" height="800" sizes="(max-width: 1600px) 100vw, 1600px" src="http://www.pellipoolajada.com/wp-content/uploads/2016/08/bg.jpg" srcset="http://www.pellipoolajada.com/wp-content/uploads/2016/08/bg-300x150.jpg 300w, http://www.pellipoolajada.com/wp-content/uploads/2016/08/bg-1024x512.jpg 1024w, http://www.pellipoolajada.com/wp-content/uploads/2016/08/bg-600x300.jpg 600w, http://www.pellipoolajada.com/wp-content/uploads/2016/08/bg.jpg 1600w" width="1600"/>			</div>
+			
+			<div class="banner-content">
+				<p>Buy Fresh Flower Poola Jada<br/>
+</p><form method="post"><div class="vendor_wise_drp_pros"><select id="ven_state" onchange="listofdistricts()"><option value="">Select State</option><option value="state[200]">Telangana</option><option value="state[199]">Andhra Pradesh</option><option value="state[508]">Tamilnadu</option><option value="state[513]">Pondicherry</option><option value="state[509]">Karnataka</option><option value="state[512]">Kerala</option><option value="state[511]">Delhi</option><option value="state[510]">Maharastra</option><option value="state[516]">Singapore</option></select><br/><span id="load_districts" style="display:none;text-align:center;"><img src="http://www.pellipoolajada.com/loading_icon.gif"/></span><select id="ven_district" onchange="listofbranches()"><option value="">Select District</option></select><br/><span id="load_branches" style="display:none;text-align:center;"><img src="http://www.pellipoolajada.com/loading_icon.gif"/></span><select id="ven_branch"><option value="">Select Branch</option></select><br/><select id="ven_product"><option value="">Select Product</option><option value="product[626]">PoolaJada-Freshflowers</option><option value="product[702]">Flower Jewellery-Fresh</option><option value="product[707]">Venis-Freshflower</option><option value="product[699]">Garlands- Fresh flower</option><option value="product[698]">Kobbari-bondam</option><option value="product[700]">Addutera</option><option value="product[705]">Karpuram-Garlands</option><option value="product[703]">Pelli-Butta</option><option value="product[701]">Garigamuntha</option><option value="product[811]">Ungarala Bindi</option><option value="product[830]">Wedding Accessories</option><option value="product[704]">Talambrala- Butta</option></select><br/><input id="update_filter" name="update_filter" type="button" value="Filter Products"/></div></form><p></p>
+			</div>
+		</div>
+	</div>
+	</div></div></div><div class="vc_row-full-width"></div>	<div class="vc_row wpb_row vc_row-fluid ts-row-wide"><div class="our_products_heading wpb_column vc_column_container vc_col-sm-12 vc_custom_1467030158647"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>WHAT’S NEW?</p>
+
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div class="woocommerce columns-5"><div class="products"><section class="product-category product first">
+
+	
+	<img alt="Artificial Poolajada" height="300" src="http://www.pellipoolajada.com/wp-content/uploads/2016/07/Artificial_poolajada-300x225.jpg" width="300"/>	
+	<div class="meta-wrapper">
+				<div class="category-name">
+			<h3 class="heading-title">Artificial Poolajada</h3>
+		</div>
+				<div class="count">1 Product</div>		<div class="button">
+			<a class="button shop-now-button" href="http://www.pellipoolajada.com/product-category/artificial-poolajada/">Shop Now</a>
+		</div>
+	</div>
+	
+	
+	
+</section><section class="product-category product">
+
+	
+	<img alt="Bharatnatyam accessories" height="300" src="http://www.pellipoolajada.com/wp-content/uploads/2016/07/bharatanatyamveni2-300x246.jpg" width="300"/>	
+	<div class="meta-wrapper">
+				<div class="category-name">
+			<h3 class="heading-title">Bharatnatyam accessories</h3>
+		</div>
+				<div class="count">11 Products</div>		<div class="button">
+			<a class="button shop-now-button" href="http://www.pellipoolajada.com/product-category/bharatnatyam-accessories/">Shop Now</a>
+		</div>
+	</div>
+	
+	
+	
+</section></div></div>			<div class="ts-blogs-wrapper ts-shortcode ts-blogs" data-atts='{"title":"","columns":4,"categories":"","per_page":"4","orderby":"date","order":"DESC","style":1,"show_title":"1","show_thumbnail":"1","show_author":"0","show_date":"1","show_comment":"0","show_excerpt":"0","show_readmore":"0","excerpt_words":20,"is_slider":0,"show_nav":"1","auto_play":"1","margin":30,"is_masonry":0,"show_load_more":"0"}'>
+								<div class="content-wrapper">
+					<div class="blogs">
+										<article class="item ts-col-6 first">
+					<div class="thumbnail-content">
+																					<a class="thumbnail " href="http://www.pellipoolajada.com/telugu-brides-who-adored-floral-jewellery-for-nalugu/">
+									<figure>
+									<img alt="pellipoolajada_flowerjewellery5" class="attachment-ts_blog_shortcode_thumb size-ts_blog_shortcode_thumb wp-post-image" height="352" sizes="(max-width: 590px) 100vw, 590px" src="http://www.pellipoolajada.com/wp-content/uploads/2016/10/pellipoolajada_flowerjewellery5-590x352.jpg" srcset="http://www.pellipoolajada.com/wp-content/uploads/2016/10/pellipoolajada_flowerjewellery5-590x352.jpg 590w, http://www.pellipoolajada.com/wp-content/uploads/2016/10/pellipoolajada_flowerjewellery5-1180x704.jpg 1180w" width="590"/>									</figure>
+									<div class="effect-thumbnail"></div>
+								</a>
+								
+								
+													<!-- Blog Date -->
+												<div class="date-time">
+							<span>04</span>
+							<span>Oct</span>
+						</div>
+											</div>
+					
+											
+					<div class="content-meta">
+					
+						<header>
+							<!-- Blog Title -->
+														<h3 class="heading-title blog-title entry-title"><a href="http://www.pellipoolajada.com/telugu-brides-who-adored-floral-jewellery-for-nalugu/">Telugu brides who adored Floral Jewellery for Nalugu</a></h3>
+														
+							<!-- Blog Date Time -->
+													</header>
+						
+												
+												
+						<!-- Blog Author -->
+												
+						<!-- Blog Comment -->
+												
+					</div>
+						
+										
+				</article>
+							<article class="item ts-col-6 ">
+					<div class="thumbnail-content">
+																					<a class="thumbnail " href="http://www.pellipoolajada.com/creative-nalugu-pellikooturu-function/">
+									<figure>
+									<img alt="Real bride stories of Pellipoolajada" class="attachment-ts_blog_shortcode_thumb size-ts_blog_shortcode_thumb wp-post-image" height="352" src="http://www.pellipoolajada.com/wp-content/uploads/2016/09/telugubride_pellipoolajada5-590x352.jpg" width="590"/>									</figure>
+									<div class="effect-thumbnail"></div>
+								</a>
+								
+								
+													<!-- Blog Date -->
+												<div class="date-time">
+							<span>18</span>
+							<span>Sep</span>
+						</div>
+											</div>
+					
+											
+					<div class="content-meta">
+					
+						<header>
+							<!-- Blog Title -->
+														<h3 class="heading-title blog-title entry-title"><a href="http://www.pellipoolajada.com/creative-nalugu-pellikooturu-function/">Creative Nalugu- Pellikooturu Function</a></h3>
+														
+							<!-- Blog Date Time -->
+													</header>
+						
+												
+												
+						<!-- Blog Author -->
+												
+						<!-- Blog Comment -->
+												
+					</div>
+						
+										
+				</article>
+							<article class="item ts-col-6 ">
+					<div class="thumbnail-content">
+																					<a class="thumbnail " href="http://www.pellipoolajada.com/the-destined-fusion-of-telugu-tamil-cultures-wedding-of-vaishnavi-praveen/">
+									<figure>
+									<img alt="Real bride stories of Pellipoolajada" class="attachment-ts_blog_shortcode_thumb size-ts_blog_shortcode_thumb wp-post-image" height="352" src="http://www.pellipoolajada.com/wp-content/uploads/2016/09/tamilbride_pellipoolajada-590x352.jpg" width="590"/>									</figure>
+									<div class="effect-thumbnail"></div>
+								</a>
+								
+								
+													<!-- Blog Date -->
+												<div class="date-time">
+							<span>09</span>
+							<span>Sep</span>
+						</div>
+											</div>
+					
+											
+					<div class="content-meta">
+					
+						<header>
+							<!-- Blog Title -->
+														<h3 class="heading-title blog-title entry-title"><a href="http://www.pellipoolajada.com/the-destined-fusion-of-telugu-tamil-cultures-wedding-of-vaishnavi-praveen/">The destined Fusion: Wedding of Vaishnavi-Praveen</a></h3>
+														
+							<!-- Blog Date Time -->
+													</header>
+						
+												
+												
+						<!-- Blog Author -->
+												
+						<!-- Blog Comment -->
+												
+					</div>
+						
+										
+				</article>
+							<article class="item ts-col-6 last">
+					<div class="thumbnail-content">
+																					<a class="thumbnail " href="http://www.pellipoolajada.com/shimmer-glitter-and-shine-by-smink-up/">
+									<figure>
+									<img alt="Wedding Flower Jadai Designs" class="attachment-ts_blog_shortcode_thumb size-ts_blog_shortcode_thumb wp-post-image" height="352" src="http://www.pellipoolajada.com/wp-content/uploads/2016/08/weddingflowerjadai_sminkup14-001-590x352.jpg" width="590"/>									</figure>
+									<div class="effect-thumbnail"></div>
+								</a>
+								
+								
+													<!-- Blog Date -->
+												<div class="date-time">
+							<span>01</span>
+							<span>Sep</span>
+						</div>
+											</div>
+					
+											
+					<div class="content-meta">
+					
+						<header>
+							<!-- Blog Title -->
+														<h3 class="heading-title blog-title entry-title"><a href="http://www.pellipoolajada.com/shimmer-glitter-and-shine-by-smink-up/">Shimmer-Glitter and Shine by “Smink-Up”</a></h3>
+														
+							<!-- Blog Date Time -->
+													</header>
+						
+												
+												
+						<!-- Blog Author -->
+												
+						<!-- Blog Comment -->
+												
+					</div>
+						
+										
+				</article>
+								</div>
+									</div>
+			</div>
+		</div></div></div>	<div class="vc_row wpb_row vc_row-fluid ts-row-wide"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">			<div class="ts-logo-slider-wrapper ts-slider ts-shortcode style-default content-border has-title loading show-nav" data-auto_play="1" data-break_point="[]" data-item="[]" data-margin="32" data-nav="1">
+								<header class="shortcode-heading-wrapper">
+					<h3 class="heading-title"> FEATURED IN</h3>
+				</header>
+								<div class="content-wrapper">
+					<div class="logos">
+											<div class="item">
+															<a href="http://telugu.yourstory.com/read/e0d4551122/jadalato-popular-floral-chemical-engineer" target="_blank">
+															<img alt="yourstory_pellipoolajada" class="attachment-ts_logo_thumb size-ts_logo_thumb wp-post-image" height="130" src="http://www.pellipoolajada.com/wp-content/uploads/2015/07/yourstory_pellipoolajada-240x130.jpg" width="240"/>															</a>
+													</div>
+											<div class="item">
+															<a href="http://www.newindianexpress.com/cities/hyderabad/Post.-share.-comment.-profit/2016/05/21/article3443315.ece" target="_blank">
+															<img alt="Indianexpress_pellipoolajada" class="attachment-ts_logo_thumb size-ts_logo_thumb wp-post-image" height="130" src="http://www.pellipoolajada.com/wp-content/uploads/2015/07/Indianexpress_pellipoolajada-240x130.jpg" width="240"/>															</a>
+													</div>
+											<div class="item">
+															<a href="http://www.thehindubusinessline.com/specials/india-file/flowers-bloom-a-success-story/article8462224.ece" target="_blank">
+															<img alt="hindu-business-line_pellipoolajada" class="attachment-ts_logo_thumb size-ts_logo_thumb wp-post-image" height="130" src="http://www.pellipoolajada.com/wp-content/uploads/2015/07/hindu-business-line_pellipoolajada-240x130.jpg" width="240"/>															</a>
+													</div>
+											<div class="item">
+															<a href="http://www.deccanchronicle.com/151230/lifestyle-offbeat/article/flower-firm" target="_blank">
+															<img alt="Deccan-Chronicle-pellipoolajada" class="attachment-ts_logo_thumb size-ts_logo_thumb wp-post-image" height="130" src="http://www.pellipoolajada.com/wp-content/uploads/2015/07/Deccan-Chronicle-pellipoolajada-240x130.jpg" width="240"/>															</a>
+													</div>
+											<div class="item">
+															<a href="http://pellipulajada.blogspot.in/2014/11/blog-post.html" target="_blank">
+															<img alt="Eenadu_logo" class="attachment-ts_logo_thumb size-ts_logo_thumb wp-post-image" height="130" src="http://www.pellipoolajada.com/wp-content/uploads/2015/07/Eenadu_logo-240x130.jpg" width="240"/>															</a>
+													</div>
+											<div class="item">
+															<a href="http://www.sakshi.com/news/family/different-types-of-hair-styles-to-ladies-57604" target="_blank">
+															<img alt="sakshi" class="attachment-ts_logo_thumb size-ts_logo_thumb wp-post-image" height="130" src="http://www.pellipoolajada.com/wp-content/uploads/2015/07/sakshi-240x130.jpg" width="240"/>															</a>
+													</div>
+										</div>
+				</div>
+			</div>
+		</div></div></div>
+			</article>
+					</div>
+	</div>
+	
+	<!-- Right Sidebar -->
+		
+</div>
+
+<script src="http://www.pellipoolajada.com/wp-content/themes/gon/js/ofi.browser.js"></script>
+<script>
+//for image clipping
+		objectFitImages(false, {
+			watchMQ: true,
+			skipTest: true
+		});
+</script>        
+<div class="clear"></div>
+</div><!-- #main .wrapper -->
+<div class="clear"></div>
+		<footer id="colophon">
+		<div class="footer-container">
+			<div class="first-footer-area footer-area">
+				<div class="container no-padding">
+					<div class="ts-col-24">
+						<div class="widget-container ts-footer-block" id="ts_footer_block-4">	<div class="vc_row wpb_row vc_row-fluid vc_custom_1437921933223 ts-row-wide"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element vc_custom_1437919967996">
+		<div class="wpb_wrapper">
+			<h3 class="widget-title heading-title">About us</h3>
+<ul class="no-padding info-company">
+<li>Office: <a>Plot No 59, Sri ram Nagar, Mansurabad, LB Nagar, Hyderabad ? 500072<br/>
+Telangana, India</a></li>
+<li>Phone: <a href="tel:+919581576904">+919581576904</a></li>
+<li>Email: <a href="mailto:pellipoolajada@gmail.com" target="_blank">pellipoolajada@gmail.com</a></li>
+</ul>
+
+		</div>
+	</div>
+
+	<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			
+			<section class="widget-container ts-social-icons" id="ts_social_icons-2"><h3 class="widget-title heading-title hidden">Social Icons</h3>			
+			<div class="social-icons style-2">
+								<ul class="list-icons">
+											<li><a class="facebook" href="http://www.facebook.com/PelliPoolaJada/" target="_blank" title=""><i class="fa fa-facebook"></i><span class="ts-tooltip social-tooltip">Facebook</span></a></li>				
+																																																								<li><a class="instagram" href="https://instagram.com/PelliPoolaJada" target="_blank" title=""><i class="fa fa-instagram"></i><span class="ts-tooltip social-tooltip">Instagram</span></a></li>
+														</ul>
+			</div>
+
+			</section><section class="widget-container widget_text" id="text-2">			<div class="textwidget">Copyright © 2016 Pelli Poola Jada.
+All Rights Reserved.</div>
+		</section>
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element vc_custom_1449712541053">
+		<div class="wpb_wrapper">
+			<h3 class="widget-title heading-title">Information</h3>
+<ul class="no-padding">
+<li><a href="http://www.pellipoolajada.com/disclaimer-policy/" title="faq">Disclaimer Policy</a></li>
+<li><a href="/faq" title="faq">FAQ's</a></li>
+<li><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+<li><a href="/return-policy" title="Return Policy">Return Policy</a></li>
+<li><a href="/shipping-policy" title="Shipping Policy">Shipping Policy</a></li>
+<li><a href="/terms-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+<li><a href="/wishlist" title="Wishlist">Wishlist</a></li>
+<li><a href="/track-order" title="Track Order">Track Order</a></li>
+</ul>
+
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="wpb_wrapper">
+	<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			
+			<section class="widget-container ts-instagram-widget" id="ts_instagram-5"><div class="widget-title-wrapper"><a class="block-control" href="javascript:void(0)"></a><h3 class="widget-title heading-title">Instagram</h3></div>
+					<div class="ts-instagram-wrapper columns-3">
+
+						
+						<div class="item first">
+
+							<a href="//instagram.com/p/BLNbBspjvba" target="_blank">
+
+								<img alt="Navratri Day-6 Skandamata #instagram #skandamata #navratri2016 #navratri #durgapuja #durgamaa @theoutput #outputphotography #pellipoolajada" src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.123.1080.1080/14488117_341357739535997_6470865635881517056_n.jpg?ig_cache_key=MTM1NDg1NzkyNjgyNTUzOTI5MA%3D%3D.2.c" title="Navratri Day-6 Skandamata #instagram #skandamata #navratri2016 #navratri #durgapuja #durgamaa @theoutput #outputphotography #pellipoolajada"/>
+
+							</a>
+
+						</div>
+
+						
+						<div class="item ">
+
+							<a href="//instagram.com/p/BLKrxvpBWFw" target="_blank">
+
+								<img alt="Navratri- Day5 #kushmanda puja photography @theoutput #pellipoolajada #instagram #navratri2016 #india #indiantradition #durgapuja #maadurga #durgamaa #flowersforlife #floralnavratri #navratri" src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/14606989_1011741048936861_3407059004566798336_n.jpg?ig_cache_key=MTM1NDA4NzE3MjM4NjY3NzEwNA%3D%3D.2.c" title="Navratri- Day5 #kushmanda puja photography @theoutput #pellipoolajada #instagram #navratri2016 #india #indiantradition #durgapuja #maadurga #durgamaa #flowersforlife #floralnavratri #navratri"/>
+
+							</a>
+
+						</div>
+
+						
+						<div class="item last">
+
+							<a href="//instagram.com/p/BLIP8q8heKE" target="_blank">
+
+								<img alt="Navratri Day-4 Chandraghanta puja Photography @theoutput #instagram #instadaily #navratri #durgapuja #pellipoolajada  #instadaily #navratri #navratri2016 #maadurga #goddessdurga #instapic #photooftheday📷" src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.59.1080.1080/14482063_764668570302416_5243594884421517312_n.jpg?ig_cache_key=MTM1MzQwMTgyODAwMzY2ODYxMg%3D%3D.2.c" title="Navratri Day-4 Chandraghanta puja Photography @theoutput #instagram #instadaily #navratri #durgapuja #pellipoolajada  #instadaily #navratri #navratri2016 #maadurga #goddessdurga #instapic #photooftheday📷"/>
+
+							</a>
+
+						</div>
+
+						
+						<div class="item first">
+
+							<a href="//instagram.com/p/BLFkgpuhT1O" target="_blank">
+
+								<img alt="Happy Navratri. Day 3- Brahmacharini pooja. Photography @theoutput #instagram #instadaily #navratri #durgapuja #pellipoolajada  #instadaily #navratri #navratri2016 #maadurga #goddessdurga #instapic #photooftheday" src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/14448361_352998545040298_5495456748821020672_n.jpg?ig_cache_key=MTM1MjY0NzgzNjU5NjI1NjA3OA%3D%3D.2.c" title="Happy Navratri. Day 3- Brahmacharini pooja. Photography @theoutput #instagram #instadaily #navratri #durgapuja #pellipoolajada  #instadaily #navratri #navratri2016 #maadurga #goddessdurga #instapic #photooftheday"/>
+
+							</a>
+
+						</div>
+
+						
+						<div class="item ">
+
+							<a href="//instagram.com/p/BLCeQ2dB2wY" target="_blank">
+
+								<img alt="Navratri Day-2 : Have a blessed day. Beautiful photography by  @theoutput krishnachaitanya #instagram #navratri #florallife #instadaily #shailaputri #india #hellohyderabad #instadaily #navratri #navratri2016 #maadurga #goddessdurga #instapic #photooftheday" src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.74.852.852/14549946_317582235266398_6247935577425969152_n.jpg?ig_cache_key=MTM1MTc3NTkzNzU0MDYxNTE5Mg%3D%3D.2.c" title="Navratri Day-2 : Have a blessed day. Beautiful photography by  @theoutput krishnachaitanya #instagram #navratri #florallife #instadaily #shailaputri #india #hellohyderabad #instadaily #navratri #navratri2016 #maadurga #goddessdurga #instapic #photooftheday"/>
+
+							</a>
+
+						</div>
+
+						
+						<div class="item last">
+
+							<a href="//instagram.com/p/BLBl6RXhMHN" target="_blank">
+
+								<img alt="Navratri- Day1 .....feeling blessed for opportunity. Thank you @theoutput for beautiful pics.  #instagram #durgapuja #shailaputri #outputphotography #instadaily #navratri #navratri2016 #maadurga #goddessdurga #instapic #photooftheday" src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.90.852.852/14533692_1579300599044958_3049176224652853248_n.jpg?ig_cache_key=MTM1MTUyODA5NTI4NjYwODMzMw%3D%3D.2.c" title="Navratri- Day1 .....feeling blessed for opportunity. Thank you @theoutput for beautiful pics.  #instagram #durgapuja #shailaputri #outputphotography #instadaily #navratri #navratri2016 #maadurga #goddessdurga #instapic #photooftheday"/>
+
+							</a>
+
+						</div>
+
+						
+						<div class="item first">
+
+							<a href="//instagram.com/p/BLAa9OWBeKk" target="_blank">
+
+								<img alt="Fresh flower Poolajada... #pellipoolajada #poojadai #wedmegood #weddingsutra #shaadiography #shaadimagic #weddingbrigade" src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.42.1080.1080/14482750_1431344100214086_213497824942227456_n.jpg?ig_cache_key=MTM1MTE5ODQ0NDcxMDM4ODM4OA%3D%3D.2.c" title="Fresh flower Poolajada... #pellipoolajada #poojadai #wedmegood #weddingsutra #shaadiography #shaadimagic #weddingbrigade"/>
+
+							</a>
+
+						</div>
+
+						
+						<div class="item ">
+
+							<a href="//instagram.com/p/BK_AIjLBGr9" target="_blank">
+
+								<img alt="Divine blessings pic by @rvrpro #pellipoolajada #wedmegood #weddingsutra #rvrpro #indianwedding #india #bride #asianbride #shaadimagic #shaadiography #shaadisaga #telugu #shopzters" src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.123.1080.1080/14374411_1828092570755369_8571626245928779776_n.jpg?ig_cache_key=MTM1MDc5OTAwMDc1NjA1NDc4MQ%3D%3D.2.c" title="Divine blessings pic by @rvrpro #pellipoolajada #wedmegood #weddingsutra #rvrpro #indianwedding #india #bride #asianbride #shaadimagic #shaadiography #shaadisaga #telugu #shopzters"/>
+
+							</a>
+
+						</div>
+
+						
+						<div class="item last">
+
+							<a href="//instagram.com/p/BK-ThwKBG2f" target="_blank">
+
+								<img alt="Gold and florals the ultimate combination #goldjada #freshflowers #pellipoolajada #wedmegood #weddingsutra #vizag #pelli" src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.96.768.768/14547739_583325838537452_7081343899263827968_n.jpg?ig_cache_key=MTM1MDYwMjgyMDU5MTg0MDY3MQ%3D%3D.2.c" title="Gold and florals the ultimate combination #goldjada #freshflowers #pellipoolajada #wedmegood #weddingsutra #vizag #pelli"/>
+
+							</a>
+
+						</div>
+
+						
+					</div>
+
+					</section>
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="wpb_wrapper">
+	<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			
+			<section class="widget-container ts-facebook-page-widget" id="ts_facebook_page-2"><div class="widget-title-wrapper"><a class="block-control" href="javascript:void(0)"></a><h3 class="widget-title heading-title">Find us on Facebook</h3></div>			<div class="ts-facebook-page-wrapper">
+				<div class="fb-page" data-adapt-container-width="true" data-height="250" data-hide-cover="false" data-href="http://www.facebook.com/PelliPoolaJada" data-show-facepile="true" data-show-posts="false" data-small-header="false">
+				</div>
+			</div>
+			
+			<div id="fb-root"></div>
+			<script>(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+			</section>
+		</div>
+	</div>
+</div></div></div></div>					</div>
+				</div>
+			</div>
+
+			<div class="end-footer footer-area">
+				<div class="container no-padding">
+					<div class="ts-col-24">
+											</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	</div><!-- #page -->
+
+<div class="scroll-button" id="to-top">
+	<a class="scroll-button" href="javascript:void(0)" title="Back to Top">Back to Top</a>
+</div>
+<script type="text/javascript">
+	 jQuery('#update_filter').on('click', function() {
+		var ven_state = jQuery('#ven_state').val();
+  		var ven_district = jQuery('#ven_district').val();
+		var ven_branch = jQuery('#ven_branch').val();
+		var ven_product = jQuery('#ven_product').val();
+		
+		if(ven_state == '') {
+			alert('Please select State');
+			return false;
+		}else if(ven_district == '') {
+			alert('Please select District');
+			return false;
+		}else if(ven_branch == '') {
+			alert('Please select Branch');
+			return false;
+		}else if(ven_product == '') {
+			alert('Please select Product');
+			return false;
+		}else {			
+			document.location = 'http://www.pellipoolajada.com/shop?filters='+ven_state+'%7C'+ven_district+'%7C'+ven_branch+'%7C'+ven_product; 
+		}
+	});
+	
+	jQuery(document).ready(function(){
+		var ven_state = jQuery('#ven_state').val();
+		if( ven_state != '' && jQuery.type(ven_state) != "undefined")	
+		{			
+			listofdistricts();
+		}
+		var ven_district = jQuery('#ven_district').val();
+		if( ven_district != '' && jQuery.type(ven_district) != "undefined")	
+		{			
+			listofbranches();
+		}
+	});
+	function listofdistricts(){
+			jQuery("#load_districts").show();
+			jQuery("#ven_district").hide();
+			var state_id = jQuery('#ven_state').val();
+			if(state_id == ''){
+				jQuery("#load_districts").hide();
+				jQuery('#ven_district').html('<option value="">--Select District--</option>');
+				jQuery('#ven_branch').html('<option value="">--Select Branch--</option>');
+				jQuery("#ven_district").show();
+				alert('Please select state');
+				return false;
+			}else{
+			var path = 'http://www.pellipoolajada.com/wp-districts.php';
+			var data = {'state_id':state_id,'pg_url':""};
+				jQuery.ajax({
+					url: path,
+					type: 'POST',
+					data: data,
+					success: function(data){
+						if(data != ''){
+							jQuery('#ven_district').html(data);
+							var ven_district = jQuery('#ven_district').val();
+							if( ven_district != '')	
+							{			
+								listofbranches();
+							}
+						}
+						else{							
+							jQuery('#ven_district').html('<option value="">--Select District--</option>');							
+							alert('No districts found in selected state');
+						}
+						jQuery("#load_districts").hide();
+						jQuery("#ven_district").show();
+					}
+				});
+			}
+		}
+	function listofbranches(){
+			jQuery("#load_branches").show();
+			jQuery("#ven_branch").hide();
+			var district_id = jQuery('#ven_district').val();
+			if(district_id == ''){
+				jQuery("#load_branches").hide();
+				jQuery('#ven_branch').html('<option value="">--Select Branch--</option>');
+				jQuery("#ven_branch").show();
+				alert('Please select district');
+				return false;
+			}else{
+			var path = 'http://www.pellipoolajada.com/wp-branches.php';
+			var data = {'district_id':district_id,'pge_url':""};
+				jQuery.ajax({
+					url: path,
+					type: 'POST',
+					data: data,
+					success: function(data){
+						if(data != ''){
+							jQuery('#ven_branch').html(data);
+						}
+						else{
+							jQuery('#ven_branch').html('<option value="">--Select Branch--</option>');
+							alert('No branches found in selected district');
+						}
+						jQuery("#load_branches").hide();
+						jQuery("#ven_branch").show();
+					}
+				});	
+			}
+		}			
+</script>
+
+
+	<script type="text/javascript">
+
+		
+			var _ts_ajax_uri = '/wp-admin/admin-ajax.php';
+
+		
+		var _ts_enable_sticky_header = 1;
+
+		var _ts_enable_responsive = 1;
+
+		var _ts_enable_smooth_scroll = 1;
+
+		var _ts_enable_ajax_search = 1;
+
+	</script>
+
+	<script src="http://www.pellipoolajada.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.pellipoolajada.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script src="http://www.pellipoolajada.com/wp-content/plugins/contact-form-7/includes/js/scripts.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ts_shortcode_params = {"ajax_uri":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script src="http://www.pellipoolajada.com/wp-content/plugins/themesky/js/shortcode.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-content/themes/gon/js/owl.carousel.min.js" type="text/javascript"></script>
+<script src="//www.pellipoolajada.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script src="//www.pellipoolajada.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js" type="text/javascript"></script>
+<script src="//www.pellipoolajada.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script src="//www.pellipoolajada.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js" type="text/javascript"></script>
+<script src="//www.pellipoolajada.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js" type="text/javascript"></script>
+<script src="//www.pellipoolajada.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.init.min.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var yith_wcwl_l10n = {"ajax_url":"\/wp-admin\/admin-ajax.php","redirect_to_cart":"yes","multi_wishlist":"","hide_add_button":"1","is_user_logged_in":"","ajax_loader_url":"http:\/\/www.pellipoolajada.com\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader.gif","remove_from_wishlist_after_add_to_cart":"yes","labels":{"cookie_disabled":"We are sorry, but this feature is available only if cookies are enabled on your browser.","added_to_cart_message":"<div class=\"woocommerce-message\">Product correctly added to cart<\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","move_to_another_wishlist_action":"move_to_another_wishlsit","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem"}};
+/* ]]> */
+</script>
+<script src="http://www.pellipoolajada.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.js" type="text/javascript"></script>
+<script src="//www.pellipoolajada.com/wp-content/plugins/dc-woocommerce-multi-vendor/assets/frontend/js/frontend.min.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-includes/js/jquery/ui/core.min.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-includes/js/jquery/ui/datepicker.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jckwds_vars = {"settings":{"general_setup_position":"woocommerce_checkout_billing","general_setup_position_priority":"10","general_setup_shipping_methods":["any"],"datesettings_datesettings_setup_mandatory":"1","datesettings_datesettings_setup_show_description":"1","datesettings_datesettings_setup_uitheme":"none","datesettings_datesettings_days":["0","1","2","3","4","5","6"],"datesettings_datesettings_minmaxmethod":"all","datesettings_datesettings_minimum":"3","datesettings_datesettings_maximum":"60","datesettings_datesettings_dateformat":"dd\/mm\/yy","timesettings_timesettings_setup_enable":"1","timesettings_timesettings_setup_mandatory":"1","timesettings_timesettings_setup_show_description":"1","timesettings_timesettings_setup_timeformat":"h:i A","timesettings_timesettings_cutoff":"10","timesettings_timesettings_sameday_cutoff":{"time":""},"timesettings_timesettings_nextday_cutoff":{"time":""},"timesettings_timesettings_timeslots":[{"timefrom":{"time":"02:30"},"timeto":{"time":"23:00"},"lockout":"1000","postcodes":"","fee":"","days":["0","1","2","3","4","5","6"]},{"timefrom":{"time":"01:00"},"timeto":{"time":"23:00"},"lockout":"10","postcodes":"","fee":"","days":["0","1","2","3","4","5","6"]},{"timefrom":{"time":"12:30"},"timeto":{"time":"23:00"},"lockout":"1000","postcodes":"","fee":"","days":["0","1","2","3","4","5","6"]},{"timefrom":{"time":"14:30"},"timeto":{"time":"23:00"},"lockout":"1000","postcodes":"","fee":"","days":["0","1","2","3","4","5","6"]}],"holidays_holidays_holidays":[{"date":{"date":""},"name":""}],"reservations_reservations_expires":"30","reservations_reservations_columns":"3","reservations_reservations_selection_type":"fee","reservations_styling_thbgcol":"#ccc","reservations_styling_thbordercol":"#2A2A2A","reservations_styling_thfontcol":"#FFFFFF","reservations_styling_tharrcol":"#CCCCCC","reservations_styling_tharrhovcol":"#FFFFFF","reservations_styling_reservebgcol":"#FFFFFF","reservations_styling_reservebordercol":"#EAEAEA","reservations_styling_reserveiconcol":"#B7B7B7","reservations_styling_reserveiconhovcol":"#848484","reservations_styling_unavailcell":"#F7F7F7","reservations_styling_reservedbgcol":"#15b374","reservations_styling_reservedbordercol":"#108556","reservations_styling_reservediconcol":"#FFFFFF","reservations_styling_loadingiconcol":"#666666","reservations_styling_lockiconcol":"#666666"},"ajax_url":"http:\/\/www.pellipoolajada.com\/wp-admin\/admin-ajax.php","ajax_nonce":"a91805f914","strings":{"selectslot":"Please select a time slot...","noslots":"Sorry, no slots available...","not_available":"Sorry, the time slot you reserved is not available for your postcode.","loading":"Loading...","days":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"days_short":["Su","Mo","Tu","We","Th","Fr","Sa"],"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"months_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}};
+/* ]]> */
+</script>
+<script src="http://www.pellipoolajada.com/wp-content/plugins/jck_woo_deliveryslots/assets/frontend/js/main.min.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-content/themes/gon/js/include_scripts.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-content/themes/gon/js/main.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-content/themes/gon/js/add-to-cart-variation.min.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-content/themes/gon/js/select2.min.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-includes/js/wp-embed.min.js" type="text/javascript"></script>
+<script src="http://www.pellipoolajada.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+(function($){
+	$(function(){
+		var ajax_url = "/wp-admin/admin-ajax.php";
+		$(document).on("click", ".wc_email_inquiry_popup_button", function(){
+			var product_id = $(this).attr("product_id");
+			var product_name = $(this).attr("product_name");
+		 
+			var popup_wide = 520;
+			if ( ei_getWidth()  <= 568 ) { 
+				popup_wide = '95%'; 
+			}
+			$.fancybox({
+				href: ajax_url+"?action=wc_email_inquiry_popup&product_id="+product_id+"&security=7bd107ee35",
+				centerOnScroll : true,
+				transitionIn : 'none', 
+				transitionOut: 'none',
+				easingIn: 'swing',
+				easingOut: 'swing',
+				speedIn : 300,
+				speedOut : 0,
+				width: popup_wide,
+				autoScale: true,
+				autoDimensions: true,
+				height: 460,
+				margin: 0,
+				maxWidth: "95%",
+				maxHeight: "80%",
+				padding: 10,
+				overlayColor: '#666666',
+				showCloseButton : true,
+				openEffect	: "none",
+				closeEffect	: "none"
+			});
+				});
+		
+		$(document).on("click", ".wc_email_inquiry_form_button", function(){
+			if ( $(this).hasClass('wc_email_inquiry_sending') ) {
+				return false;
+			}
+			$(this).addClass('wc_email_inquiry_sending');
+			
+			var product_id = $(this).attr("product_id");
+			var your_name = $("#your_name_"+product_id).val();
+			var your_email = $("#your_email_"+product_id).val();
+			var your_phone = $("#your_phone_"+product_id).val();
+			var your_message = $("#your_message_"+product_id).val();
+			var your_doe = $("#your_doe_"+product_id).val();
+			var send_copy = 0;
+			
+			var wc_email_inquiry_error = "";
+			var wc_email_inquiry_have_error = false;
+			var filter = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+			
+			if (your_name.replace(/^\s+|\s+$/g, '') == "") {
+				wc_email_inquiry_error += "Please enter your Name\n";
+				wc_email_inquiry_have_error = true;
+			}
+			if (your_email == "" || !filter.test(your_email)) {
+				wc_email_inquiry_error += "Please enter valid Email address\n";
+				wc_email_inquiry_have_error = true;
+			}
+			if (your_phone.replace(/^\s+|\s+$/g, '') == "") {
+				wc_email_inquiry_error += "Please enter your Phone\n";
+				wc_email_inquiry_have_error = true;
+			}
+			if (your_doe == "") {
+				wc_email_inquiry_error += "Please enter Date of event\n";
+				wc_email_inquiry_have_error = true;
+			}
+			if (wc_email_inquiry_have_error) {
+				$(this).removeClass('wc_email_inquiry_sending');
+				alert(wc_email_inquiry_error);
+				return false;
+			}
+			$("#wc_email_inquiry_loading_"+product_id).show();
+			
+			var data = {
+				action: 		"wc_email_inquiry_action",
+				product_id: 	product_id,
+				your_name: 		your_name,
+				your_email: 	your_email,
+				your_phone: 	your_phone,
+				your_message: 	your_message,
+				send_copy:		send_copy,
+				security: 		"b25c7c7b8e",
+				your_doe:       your_doe
+			};
+			$.post( ajax_url, data, function(response) {
+				wc_email_inquiry_response = $.parseJSON( response );
+				$("#wc_email_inquiry_loading_"+product_id).hide();
+				$("#wc_email_inquiry_content_"+product_id).html(wc_email_inquiry_response);
+							});
+		});
+	});
+})(jQuery);
+</script>
+    <script>
+function ei_getWidth() {
+    xWidth = null;
+    if(window.screen != null)
+      xWidth = window.screen.availWidth;
+
+    if(window.innerWidth != null)
+      xWidth = window.innerWidth;
+
+    if(document.body != null)
+      xWidth = document.body.clientWidth;
+
+    return xWidth;
+}
+</script>
+	<script type="text/javascript">/* Run FooBox FREE (v1.0.9) */
+(function( FOOBOX, $, undefined ) {
+  FOOBOX.o = {wordpress: { enabled: true }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }, error: "Could not load the item"};
+  FOOBOX.init = function() {
+    $(".fbx-link").removeClass("fbx-link");
+    $(".foogallery-container.foogallery-lightbox-foobox, .foogallery-container.foogallery-lightbox-foobox-free, .gallery, .wp-caption, a:has(img[class*=wp-image-]), .foobox").foobox(FOOBOX.o);
+  };
+}( window.FOOBOX = window.FOOBOX || {}, jQuery ));
+
+FooBox.ready(function() {
+  //preload the foobox font
+  jQuery("body").append("<span style=\"font-family:'foobox'; color:transparent; position:absolute; top:-1000em;\">f</span>");
+  FOOBOX.init();
+
+});
+</script>
+
+</body></html><!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Object Caching 4647/5058 objects using disk
+
+ Served from: www.pellipoolajada.com @ 2016-10-07 10:00:53 by W3 Total Cache -->

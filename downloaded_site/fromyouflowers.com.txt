@@ -1,0 +1,1077 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+  <link href="http://www.fromyouflowers.com" rel="canonical"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="en" http-equiv="Content-Language"/>
+  <meta content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" name="SKYPE_TOOLBAR"/>
+  <meta content="19a1952e488311682403dbeb7abe4753" name="p:domain_verify"/>
+  <link href="https://plus.google.com/101977487830572787400" rel="publisher"/>
+  <meta content="Same Day Flower Delivery! 20% Off FromYouFlowers®. Flowers Delivered Today, From $23.99. 100% Satisfaction Guaranteed. Send Same Day Flowers!" name="description"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="Flowers" name="apple-mobile-web-app-title"/>
+  <link href="http://fyf.tac-cdn.net/images/layout/touch-icon-iphone.png" rel="apple-touch-icon"/>
+  <link href="http://fyf.tac-cdn.net/images/layout/touch-icon-ipad.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="http://fyf.tac-cdn.net/images/layout/touch-icon-iphone-retina.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="http://fyf.tac-cdn.net/images/layout/touch-icon-ipad-retina.png" rel="apple-touch-icon" sizes="144x144"/>
+  <title>Same Day Flower Delivery | FromYouFlowers®</title>
+  <link href="http://fyf.tac-cdn.net/css/masterPage.css" rel="stylesheet" type="text/css"/>
+  <link href="http://fyf.tac-cdn.net/css/font-stylesheet.css" rel="stylesheet" type="text/css"/>
+  <link href="http://fyf.tac-cdn.net/css/mobile.css" rel="stylesheet" type="text/css"/>
+  <script src="http://fyf.tac-cdn.net/js/jquery-1.4.4.min.js" type="text/javascript"></script>
+  <script src="http://fyf.tac-cdn.net/js/jquery.easing.1.3.js" type="text/javascript"></script>
+  <script src="http://fyf.tac-cdn.net/js/site.js" type="text/javascript"></script>
+  <script src="http://fyf.tac-cdn.net/js/mobile.js" type="text/javascript"></script>
+  <script src="http://fyf.tac-cdn.net/js/jquery.formdefaults-1.0.js" type="text/javascript"></script> 
+ </head>
+ <body class="index" data-refcode="050" data-tel="800-838-8853" data-tel-mobile="">
+  <div class="header">
+   <div class="container_16">
+    <div class="grid_5">
+     <div class="logo">
+      <div class="toolTipWrapper">
+       <a href="http://www.fromyouflowers.com" onclick="exit=false;"><img alt="fromyouflowers.com. Find flowers, plants gifts and more for same day delivery." src="http://fyf.tac-cdn.net/images/layout/logo.png"/><div id="toolLink"></div></a>
+      </div><!--toolTipWrapper-->
+     </div><!--logo-->
+    </div><!--grid_5-->
+    <div id="referrer">
+     <img alt="Sitewide Sale" src="http://fyf.tac-cdn.net/images/referrers/050.png"/>
+    </div><!--grid 7 referrer-->
+    <div class="grid_4">
+     <ul class="links" id="lineOne">
+      <li class="noBullet"><a href="http://www.fromyouflowers.com/ordertracking.htm" onclick="s_objectID='trackmyorder'; exit=false;">Track an Order</a></li>
+      <li><a href="https://www.fromyouflowers.com/account.htm" onclick="s_objectID='myaccount'; exit=false;">My Account</a></li>
+      <li class="logIn"><a href="https://www.fromyouflowers.com/login.htm" onclick="s_objectID='login'; exit=false;">Log In</a></li>
+     </ul>
+     <ul class="links" id="lineTwo">
+      <li class="noBullet"><a href="http://www.fromyouflowers.com/flower-resource" onclick="exit=false;">Flower Resource Guide</a></li>
+      <li><a href="https://www.fromyouflowers.com/cart.htm" onclick="s_objectID='cart'; exit=false;">Cart</a></li>
+     </ul><!--lineTwo-->
+     <ul class="links" id="lineThree">
+      <li class="noBullet"><a class="tvWatchers" href="http://www.fromyouflowers.com/promotional-code.htm" onclick="exit=false;"><img src="http://fyf.tac-cdn.net/images/content/btn_tv.png"/></a></li>
+     </ul><!--lineThree-->
+     <ul class="links" id="lineFour">
+      <li class="noBullet"><span class="phoneNumber">1.800.838.8853</span></li>
+      <li><a href="http://www.fromyouflowers.com/contact.htm" onclick="exit=false;">Contact Us</a></li>
+     </ul><!--lineFour-->
+     <div id="search">
+      <form action="/search.htm" method="get" onsubmit="exit=false;">
+       <input autocomplete="off" class="text" id="sli_search_1" name="key" onfocus="if(this.value=='Enter Keywords') this.value='';" type="text" value="Enter Keywords"/>
+       <input alt="Search" class="button" src="http://fyf.tac-cdn.net/images/content/btn_search.gif" type="image"/>
+      </form>
+     </div><!--search-->
+     <div class="tvWatchersMobile"><a href="http://www.fromyouflowers.com/promotional-code.htm" onclick="exit=false;"><img src="http://fyf.tac-cdn.net/images/content/btn_tv.png"/></a></div>
+    </div><!--grid_4-->
+   </div><!--container_16-->
+  </div><!--header-->
+  <div class="cnbcHeaderWrap">
+   <div class="cnbcHeader">
+    <a href="http://www.fromyouflowers.com/cnbc.htm" onclick="exit=false;">FromYouFlowers.com rated "<span>best overall quality</span> and <span>price</span>!" by <span>CNBC</span></a>
+   </div><!--cnbcHeader-->
+  </div><!--cnbcHeaderWrap-->
+  <div id="menuCont">
+   <div class="container_16">
+    <a href="http://www.fromyouflowers.com/occasion/birthday-flowers-gifts" id="holidayIcon" onclick="exit=false;"></a>
+    <ul id="menu">
+     <li id="menu_1">
+      <a href="http://www.fromyouflowers.com/occasion/birthday-flowers-gifts" onclick="exit=false;">Birthday</a>
+      <ul>
+       <li><a href="http://www.fromyouflowers.com/deliver/same-day-birthday-flowers" onclick="exit=false;" title="Birthday Same Day Flowers">Birthday Same Day Flowers</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/birthday-gift-baskets" onclick="exit=false;" title="Birthday Gift Baskets">Birthday Gift Baskets</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/birthday-chocolate-covered-gifts" onclick="exit=false;">Birthday Chocolate Covered Gifts</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/birthday-plants" onclick="exit=false;" title="Birthday Plants">Birthday Plants</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/birthday-balloons" onclick="exit=false;" title="Birthday Balloons">Birthday Balloons</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/send-birthday-cakes" onclick="exit=false;">Birthday Cakes</a></li>
+      </ul>
+     </li>
+     <li id="menu_2">
+      <a href="#" onclick="return false;">Occasions</a>
+      <ul>
+       <li><a href="http://www.fromyouflowers.com/occasion/birthday-flowers-gifts" onclick="exit=false;" title="Birthday Flowers">Birthday</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/sympathy-floral-gifts" onclick="exit=false;" title="Sympathy">Sympathy</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/love-and-romance-flowers-gifts" onclick="exit=false;" title="Love &amp; Romance">Love &amp; Romance</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/get-well-flowers" onclick="exit=false;" title="Get Well">Get Well</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/funeral-flowers" onclick="exit=false;" title="Funeral">Funeral</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/anniversary-floral" onclick="exit=false;" title="Anniversary">Anniversary</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/bosses-day-flowers-gifts" onclick="exit=false;" title="Boss's Day - 10/16">Boss's Day - 10/16</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/new-baby-flowers-gifts" onclick="exit=false;" title="New Baby">New Baby</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/just-because-flowers" onclick="exit=false;" title="Just Because">Just Because</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/thank-you-flowers-gifts" onclick="exit=false;" title="Thank You">Thank You</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/congratulations-flowers-gifts" onclick="exit=false;" title="Congratulations">Congratulations</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/send-corporate-gift-baskets" onclick="exit=false;" title="Corporate Gifts">Corporate Gifts</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/im-sorry-flowers-gifts" onclick="exit=false;" title="I'm Sorry">I'm Sorry</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/everyday-flowers" onclick="exit=false;" title="Everyday">Everyday</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/housewarming-flowers-gifts" onclick="exit=false;" title="Housewarming">Housewarming</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/value-flower-arrangements" onclick="exit=false;" title="Starting at $29.99">Starting at $29.99</a></li>
+      </ul>
+     </li>
+     <li id="menu_3">
+      <a href="http://www.fromyouflowers.com/occasion/sale-flowers-gifts" onclick="exit=false;">SALE</a>
+      <ul>
+       <li><a href="http://www.fromyouflowers.com/price/under-30-flowers" onclick="exit=false;" title="Under $30">Under $30</a></li>
+       <li><a href="http://www.fromyouflowers.com/price/under-50-flowers" onclick="exit=false;" title="$30-$49.99">$30 - $49.99</a></li>
+       <li><a href="http://www.fromyouflowers.com/price/under-80-flowers" onclick="exit=false;" title="$50 - $79.99">$50 - $79.99</a></li>
+       <li><a href="http://www.fromyouflowers.com/price/over-80-flowers" onclick="exit=false;" title="$80+">$80+</a></li>
+      </ul>
+     </li>
+     <li id="menu_4">
+      <a href="http://www.fromyouflowers.com/occasion/get-well-flowers" onclick="exit=false;">Get Well</a>
+     </li>
+     <li id="menu_5">
+      <a href="http://www.fromyouflowers.com/flower/type" onclick="exit=false;">Flowers</a>
+      <ul>
+       <li><a href="http://www.fromyouflowers.com/flower/send-flowers-best-sellers" onclick="exit=false;">Best Sellers</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/love-and-romance-flowers-gifts" onclick="exit=false;" title="Love &amp; Romance">Love &amp; Romance</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/fall-flowers" onclick="exit=false;" title="Fall Flowers">Fall Flowers</a></li>
+       <li><a href="http://www.fromyouflowers.com/flower/custom-photo-vase" onclick="exit=false;" title="Custom Photo Vases">Custom Photo Vases</a></li>
+       <li><a href="http://www.fromyouflowers.com/flower/send-roses" onclick="exit=false;" title="Roses">Roses</a></li>
+       <li><a href="http://www.fromyouflowers.com/flower/send-lilies" onclick="exit=false;" title="Lilies">Lilies</a></li>
+       <li><a href="http://www.fromyouflowers.com/flower/send-mixed-bouquets" onclick="exit=false;" title="Mixed Bouquets">Mixed Bouquets</a></li>
+       <li><a href="http://www.fromyouflowers.com/flower/sale-roses" onclick="exit=false;" title="50% Off Roses">50% Off Roses</a></li>
+       <li><a href="http://www.fromyouflowers.com/flower/send-orchids" onclick="exit=false;" title="Orchids">Orchids</a></li>
+       <li><a href="http://www.fromyouflowers.com/flower/send-tulips" onclick="exit=false;" title="Tulips">Tulips</a></li>
+       <li><a href="http://www.fromyouflowers.com/flower/send-carnations" onclick="exit=false;" title="Carnations">Carnations</a></li>
+       <li><a href="http://www.fromyouflowers.com/flower/send-daisies" onclick="exit=false;" title="Daisies">Daisies</a></li>
+       <li><a href="http://www.fromyouflowers.com/flower/send-sunflowers" onclick="exit=false;" title="Sunflowers">Sunflowers</a></li>
+       <li><a href="http://www.fromyouflowers.com/flower/send-iris" onclick="exit=false;" title="Iris">Iris</a></li>
+       <li><a href="http://www.fromyouflowers.com/flower/florist-designed" onclick="exit=false;" title="Florist Designed Bouquets">Florist Designed Bouquets</a></li>
+       <li><a href="http://www.fromyouflowers.com/flower/growers-collection" onclick="exit=false;" title="Grower's Collection">Grower's Collection</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/for-the-office" onclick="exit=false;" title="For the Office">For the Office</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/next-day-delivery-flowers-gifts" onclick="exit=false;" title="Next Day Flower Delivery">Next Day Delivery</a></li>
+      </ul>
+     </li>
+     <li id="menu_6">
+      <a href="http://www.fromyouflowers.com/occasion/sympathy-floral-gifts" onclick="exit=false;">Sympathy</a>
+      <ul>
+       <li><a href="http://www.fromyouflowers.com/occasion/sympathy-floral-gifts" onclick="exit=false;">Sympathy Flowers</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/sympathy-plants" onclick="exit=false;">Sympathy Plants</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/sympathy-gift-baskets" onclick="exit=false;">Sympathy Gift Baskets</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/funeral-floral-sprays" onclick="exit=false;" title="Funeral Sprays &amp; Wreaths">Funeral Sprays &amp; Wreaths</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/funeral-flowers" onclick="exit=false;" title="Funeral Flowers">Funeral Flowers</a></li>
+      </ul>
+     </li>
+     <li id="menu_7">
+      <a href="http://www.fromyouflowers.com/plants/plant-delivery" onclick="exit=false;">Plants</a>
+      <ul>
+       <li><a href="http://www.fromyouflowers.com/plants/flowering-plants" onclick="exit=false;" title="Flowering Plants">Flowering Plants</a></li>
+       <li><a href="http://www.fromyouflowers.com/plants/green-plants" onclick="exit=false;" title="Green Plants">Green Plants</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/sympathy-plants" onclick="exit=false;" title="Sympathy Plants">Sympathy Plants</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/funeral-flowers" onclick="exit=false;" title="Funeral Plants">Funeral Plants</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/for-the-office" onclick="exit=false;" title="For The Office">For The Office</a></li>
+      </ul>
+     </li>
+     <li id="menu_8">
+      <a href="http://www.fromyouflowers.com/gifts/send-gift-baskets" onclick="exit=false;">Gift Baskets &amp; Food</a>
+      <ul>
+       <li><a href="http://www.fromyouflowers.com/gifts/same-day-gift-baskets" onclick="exit=false;" title="Same Day Gift Baskets">Same Day Gift Baskets</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/send-fruit-baskets" onclick="exit=false;" title="Fruit Gift Baskets">Fruit Gift Baskets</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/send-balloon-bouquets" onclick="exit=false;" title="Balloon Bouquets">Balloon Bouquets</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/send-corporate-gift-baskets" onclick="exit=false;">Corporate Gifts</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/send-chocolate-gift-baskets" onclick="exit=false;" title="Chocolate Gift Baskets">Chocolate Gift Baskets</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/jewelry" onclick="exit=false;" title="Jewelry">Jewelry</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/chocolate-covered-gifts" onclick="exit=false;" title="Chocolate Covered Gifts">Chocolate Covered Gifts</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/send-birthday-cakes" onclick="exit=false;" title="Birthday Cakes">Birthday Cakes</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/gift-package" onclick="exit=false;" title="Flowers and Gifts">Flowers and Gifts</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/teddy-bear-baskets" onclick="exit=false;" title="Teddy Bears">Teddy Bears</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/baked-goods-delivery" onclick="exit=false;" title="Baked Goods">Baked Goods</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/send-wine" onclick="exit=false;" title="Wine Gift Baskets">Wine Gift Baskets</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/spa-gift-baskets" onclick="exit=false;" title="Spa Gift Baskets">Spa Gift Baskets</a></li>
+      </ul>
+     </li>
+     <li id="menu_9">
+      <a href="http://www.fromyouflowers.com/deliver/same-day" onclick="exit=false;">Same Day</a>
+      <ul>
+       <li><a href="http://www.fromyouflowers.com/deliver/same-day" onclick="exit=false;" title="All Same Day">All Same Day</a></li>
+       <li><a href="http://www.fromyouflowers.com/deliver/same-day-birthday-flowers" onclick="exit=false;" title="Birthday Same Day">Birthday</a></li>
+       <li><a href="http://www.fromyouflowers.com/deliver/same-day-sympathy-flowers" onclick="exit=false;" title="Sympathy Same Day">Sympathy</a></li>
+       <li><a href="http://www.fromyouflowers.com/occasion/love-and-romance-flowers-gifts" onclick="exit=false;" title="Love &amp; Romance">Love &amp; Romance</a></li>
+       <li><a href="http://www.fromyouflowers.com/deliver/same-day-flowers" onclick="exit=false;" title="Flowers Delivered Today">Flowers</a></li>
+       <li><a href="http://www.fromyouflowers.com/deliver/same-day-plants" onclick="exit=false;" title="Online Plants">Plants</a></li>
+       <li><a href="http://www.fromyouflowers.com/gifts/same-day-gift-baskets" onclick="exit=false;" title="Gift Baskets Same Day">Gift Baskets</a></li>
+       <li><a href="http://www.fromyouflowers.com/deliver/same-day-get-well-flowers" onclick="exit=false;" title="Get Well Same Day">Get Well</a></li>
+       <li><a href="http://www.fromyouflowers.com/deliver/same-day-just-because-flowers" onclick="exit=false;" title="Flowers Delivered">Just Because</a></li>
+       <li><a href="http://www.fromyouflowers.com/deliver/same-day-funeral-flowers" onclick="exit=false;" title="Funeral Same Day">Funeral</a></li>
+       <li><a href="http://www.fromyouflowers.com/deliver/same-day-anniversary-flowers" onclick="exit=false;" title="Same Day Anniversary">Anniversary</a></li>
+       <li><a href="http://www.fromyouflowers.com/deliver/same-day-new-baby-flowers" onclick="exit=false;" title="New Baby Same Day">New Baby</a></li>
+      </ul>
+     </li>
+    </ul>
+   </div><!--container_16-->
+  </div><!--menuCont-->
+  <div class="container_16">
+   <div class="sameDayCallout"><a href="http://www.fromyouflowers.com/deliver/same-day" onclick="exit=false;">Flowers Available with Same Day Delivery</a></div>
+   <div class="email-greeting"><div class="email-greeting-inner"><div class="email-greeting-msg"><span class="name">Preferred Customer</span>, take a look below for <span>specials</span> and <span>discounts</span> just for you!</div></div></div>
+  </div><!--container_16-->
+  <div class="container_16 mainBody">
+<link href="http://fyf.tac-cdn.net/css/slider.css" rel="stylesheet" type="text/css"/>
+<link href="http://fyf.tac-cdn.net/css/swiper.min.css" rel="stylesheet" type="text/css"/>
+<script src="http://fyf.tac-cdn.net/js/jquery.cycle.all.min.js" type="text/javascript"></script>
+<script src="http://fyf.tac-cdn.net/js/prototype.js?1174034620" type="text/javascript"></script>
+<script src="http://fyf.tac-cdn.net/js/effects.js?1174034620" type="text/javascript"></script>
+<script src="http://fyf.tac-cdn.net/js/carousel.js" type="text/javascript"></script>
+<script src="http://fyf.tac-cdn.net/js/homepage.js" type="text/javascript"></script>
+<script src="http://fyf.tac-cdn.net/js/swiper.min.js" type="text/javascript"></script>
+<div class="sliderMobile">
+<div class="swiper-container">
+ <div class="swiper-wrapper">
+  <div class="swiper-slide"><a href="/deliver/same-day-flowers"><img src="http://fyf.tac-cdn.net/images/content_320/_homeSlider/one-bg.jpg"/></a></div>
+  <div class="swiper-slide"><a href="/occasion/birthday-flowers-gifts"><img src="http://fyf.tac-cdn.net/images/content_320/_homeSlider/two-bg.jpg"/></a></div>
+  <div class="swiper-slide"><a href="/gifts/same-day-gift-baskets"><img src="http://fyf.tac-cdn.net/images/content_320/_homeSlider/three-bg.jpg"/></a></div>
+  <div class="swiper-slide"><a href="/flower/send-roses"><img src="http://fyf.tac-cdn.net/images/content_320/_homeSlider/four-bg.jpg"/></a></div>
+  <div class="swiper-slide"><a href="/flower/custom-photo-vase"><img src="http://fyf.tac-cdn.net/images/content_320/_homeSlider/five-bg.jpg"/></a></div>
+ </div><!--swiper-wrapper-->
+ <div class="swiper-pagination"></div>
+ <div class="swiper-button-next"></div>
+ <div class="swiper-button-prev"></div>
+</div>
+</div><!--sliderMobile-->
+<div class="slider">
+<dl>
+ <dt class="one active"><a href="http://www.fromyouflowers.com/cnbc.htm">Best in Quality &amp; Price</a></dt>
+ <dd class="one">
+  <a class="primaryButton" href="http://www.fromyouflowers.com/flower/send-flowers-best-sellers">Shop Now »</a>
+  <a href="http://www.fromyouflowers.com/cnbc.htm">Read More »</a>
+  <a class="skuLink" href="http://www.fromyouflowers.com/flower/send-flowers-best-sellers">Shop Our Best Sellers</a>
+ </dd>
+ 
+ <dt class="two"><a href="http://www.fromyouflowers.com/flower/custom-photo-vase">Custom Photo Vases</a></dt>
+ <dd class="two">
+  <a class="primaryButton" href="http://www.fromyouflowers.com/flower/custom-photo-vase">Try it Out!</a>
+  <a class="skuLink" href="http://www.fromyouflowers.com/flower/custom-photo-vase">Shop Same Day Flowers</a>
+ </dd>
+
+ <dt class="three"><a href="http://www.fromyouflowers.com/deliver/same-day">Same Day Flower Delivery</a></dt>
+ <dd class="three">
+  <a class="primaryButton" href="http://www.fromyouflowers.com/deliver/same-day">Shop Now »</a>
+  <a class="skuLink" href="http://www.fromyouflowers.com/deliver/same-day">Shop Same Day Flowers</a>
+ </dd>
+  
+ <dt class="four"><a href="http://www.fromyouflowers.com/occasion/sympathy-floral-gifts">Sympathy Flowers &amp; Gifts</a></dt>
+ <dd class="four">
+  <a class="primaryButton" href="http://www.fromyouflowers.com/occasion/sympathy-floral-gifts">Shop Now »</a>
+  <a class="skuLink" href="http://www.fromyouflowers.com/occasion/sympathy-floral-gifts">Sympathy Flowers &amp; Gifts</a>
+ </dd>
+ 
+ <dt class="five"><a href="http://www.fromyouflowers.com/occasion/birthday-flowers-gifts">Birthday Flowers &amp; Gifts</a></dt>
+ <dd class="five">
+  <a class="primaryButton" href="http://www.fromyouflowers.com/occasion/birthday-flowers-gifts">Shop Now »</a>
+  <a class="skuLink" href="http://www.fromyouflowers.com/occasion/birthday-flowers-gifts">Shop Birthday Flowers &amp; Gifts</a>
+ </dd>
+ 
+</dl>
+</div><!--slider-->
+<div class="featuredSKUs">
+ <div class="grid_4 alpha borderRight">
+  <p>Same Day Delivery</p>
+  </div>
+ <div class="grid_4 alpha borderRight">
+  <p>Just Because</p>
+  </div>
+ <div class="grid_4 alpha borderRight">
+  <p>Flowers On Sale</p>
+ </div>
+ <div class="grid_4 alpha">
+  <p>Birthday</p>
+ </div>
+</div><!--featuredSKUs-->
+<div id="slider">
+ <div id="prevArrow"><img alt="previous" id="prev-arrow" src="http://fyf.tac-cdn.net/images/layout/prev_arrow_d.png"/></div>
+ <div id="nextArrow"><img alt="next" id="next-arrow" src="http://fyf.tac-cdn.net/images/layout/next_arrow.png"/></div>
+ <div class="carouselWrapper">
+  <div class="carousel-component" id="html-carousel">
+   <div class="carousel-clip-region">
+    <ul class="carousel-list">
+     <li data-brand="bn" data-price-disc="33.99" data-sku="BF89-11K">
+      <a href="/products/european_romance_bouquet.htm" onclick="exit=false;"><img alt="Rose &amp; Lily Celebration" height="99" onmouseout="active_prod('1', false);" onmouseover="active_prod('1', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF89-11K.jpg" width="85"/></a>
+      <span class="text"><a href="/products/european_romance_bouquet.htm" id="fprod1" onclick="exit=false;">Rose &amp; Lily Celebration</a></span>
+      <span class="price"><s>$39.99</s> $33.99</span>
+     </li>
+     <li data-brand="bn" data-price-disc="33.99" data-sku="BF216-11KM">
+      <a href="/products/big_bright_blue_skies_bouquet.htm" onclick="exit=false;"><img alt="Yellow roses, blue delphinium and white lilies in a vase" height="99" onmouseout="active_prod('2', false);" onmouseover="active_prod('2', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF216-11KM.jpg" width="85"/></a>
+      <span class="text"><a href="/products/big_bright_blue_skies_bouquet.htm" id="fprod2" onclick="exit=false;">The Bright Blue Skies Bouquet</a></span>
+      <span class="price"><s>$39.99</s> $33.99</span>
+     </li>
+     <li data-brand="bn" data-price-disc="33.99" data-sku="BF52-11KM">
+      <a href="/products/european_garden_bouquet_2.htm" onclick="exit=false;"><img alt="Flower Delivery of Sunflowers &amp; pink tulips" height="99" onmouseout="active_prod('3', false);" onmouseover="active_prod('3', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF52-11KM.jpg" width="85"/></a>
+      <span class="text"><a href="/products/european_garden_bouquet_2.htm" id="fprod3" onclick="exit=false;">Fall Floral Garden</a></span>
+      <span class="price"><s>$39.99</s> $33.99</span>
+     </li>
+     <li data-brand="tf" data-price-disc="29.74" data-sku="T46-1">
+      <a href="/products/how_sweet_it_is.htm" onclick="exit=false;"><img alt="How Sweet It Is: Roses, Asters, Birthday Flowers-FromYouFlowers.com" height="99" onmouseout="active_prod('4', false);" onmouseover="active_prod('4', true);" src="http://fyf.tac-cdn.net/images/products/homepage/T46-1.jpg" width="85"/></a>
+      <span class="text"><a href="/products/how_sweet_it_is.htm" id="fprod4" onclick="exit=false;">How Sweet It Is</a></span>
+      <span class="price"><s>$34.99</s> $29.74</span>
+     </li>
+     <li data-brand="ub" data-price-disc="24.99" data-sku="F-211">
+      <a href="/products/one_dozen_mixed_roses.htm" onclick="exit=false;"><img alt="One dozen mixed cheap roses for delivery" height="99" onmouseout="active_prod('5', false);" onmouseover="active_prod('5', true);" src="http://fyf.tac-cdn.net/images/products/homepage/F-211.jpg" width="85"/></a>
+      <span class="text"><a href="/products/one_dozen_mixed_roses.htm" id="fprod5" onclick="exit=false;">One Dozen Rainbow Roses</a></span>
+      <span class="price"><s>$49.99</s> $24.99</span>
+     </li>
+     <li data-brand="bn" data-price-disc="33.99" data-sku="BF257-11K">
+      <a href="/products/sugar__sweet_bouquet.htm" onclick="exit=false;"><img alt="Pink roses and white alstroemeria in a pink vase" height="99" onmouseout="active_prod('6', false);" onmouseover="active_prod('6', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF257-11K.jpg" width="85"/></a>
+      <span class="text"><a href="/products/sugar__sweet_bouquet.htm" id="fprod6" onclick="exit=false;">Sugar and Sweet</a></span>
+      <span class="price"><s>$39.99</s> $33.99</span>
+     </li>
+     <li data-brand="bn" data-price-disc="33.99" data-sku="BF264-11K">
+      <a href="/products/ruby_romance.htm" onclick="exit=false;"><img alt="Red roses and blue irises" height="99" onmouseout="active_prod('7', false);" onmouseover="active_prod('7', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF264-11K.jpg" width="85"/></a>
+      <span class="text"><a href="/products/ruby_romance.htm" id="fprod7" onclick="exit=false;">Ruby Rose Bouquet</a></span>
+      <span class="price"><s>$39.99</s> $33.99</span>
+     </li>
+     <li data-brand="bn" data-price-disc="25.49" data-sku="BF224-11K">
+      <a href="/products/best_wishes_bouquet.htm" onclick="exit=false;"><img alt="Best Wishes Bouquet" height="99" onmouseout="active_prod('8', false);" onmouseover="active_prod('8', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF224-11K.jpg" width="85"/></a>
+      <span class="text"><a href="/products/best_wishes_bouquet.htm" id="fprod8" onclick="exit=false;">Best Wishes Bouquet</a></span>
+      <span class="price"><s>$29.99</s> $25.49</span>
+     </li>
+     <li data-brand="bn" data-price-disc="42.49" data-sku="BF116-11KM">
+      <a href="/products/youre_in_my_heart_3.htm" onclick="exit=false;"><img alt="Red roses and carnations in glass vase " height="99" onmouseout="active_prod('9', false);" onmouseover="active_prod('9', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF116-11KM.jpg" width="85"/></a>
+      <span class="text"><a href="/products/youre_in_my_heart_3.htm" id="fprod9" onclick="exit=false;">You're In My Heart</a></span>
+      <span class="price"><s>$49.99</s> $42.49</span>
+     </li>
+     <li data-brand="bn" data-price-disc="33.99" data-sku="BF296-11K">
+      <a href="/products/our_valentines_romance.htm" onclick="exit=false;"><img alt="Red roses and pink stargazer bouquet" height="99" onmouseout="active_prod('10', false);" onmouseover="active_prod('10', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF296-11K.jpg" width="85"/></a>
+      <span class="text"><a href="/products/our_valentines_romance.htm" id="fprod10" onclick="exit=false;">Stunning Beauty</a></span>
+      <span class="price"><s>$39.99</s> $33.99</span>
+     </li>
+     <li data-brand="ftd" data-price-disc="33.99" data-sku="FTD-C12-4792">
+      <a href="/products/stunning_surprise_bouquet.htm" onclick="exit=false;"><img alt="Stunning Surprise Bouquet" height="99" onmouseout="active_prod('11', false);" onmouseover="active_prod('11', true);" src="http://fyf.tac-cdn.net/images/products/homepage/FTD-C12-4792.jpg" width="85"/></a>
+      <span class="text"><a href="/products/stunning_surprise_bouquet.htm" id="fprod11" onclick="exit=false;">Stunning Surprise Bouquet</a></span>
+      <span class="price"><s>$39.99</s> $33.99</span>
+     </li>
+     <li data-brand="bn" data-price-disc="33.99" data-sku="BF172-11KM">
+      <a href="/products/just_because_2.htm" onclick="exit=false;"><img alt="Yellow roses, hot pink roses and asters for delivery" height="99" onmouseout="active_prod('12', false);" onmouseover="active_prod('12', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF172-11KM.jpg" width="85"/></a>
+      <span class="text"><a href="/products/just_because_2.htm" id="fprod12" onclick="exit=false;">The Summer Sunrise Bouquet</a></span>
+      <span class="price"><s>$39.99</s> $33.99</span>
+     </li>
+     <li data-brand="bn" data-price-disc="29.74" data-sku="BF215-11KM">
+      <a href="/products/baby_girl_bouquet.htm" onclick="exit=false;"><img alt="Pink spray roses, white lilies and pink wax flower " height="99" onmouseout="active_prod('13', false);" onmouseover="active_prod('13', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF215-11KM.jpg" width="85"/></a>
+      <span class="text"><a href="/products/baby_girl_bouquet.htm" id="fprod13" onclick="exit=false;">Delightfully Pink</a></span>
+      <span class="price"><s>$34.99</s> $29.74</span>
+     </li>
+     <li data-brand="bn" data-price-disc="29.74" data-sku="BF7-11K-2">
+      <a href="/products/lily_and_rose_spring_bouquet.htm" onclick="exit=false;"><img alt="Rose and Lily Lemonade Bouquet" height="99" onmouseout="active_prod('14', false);" onmouseover="active_prod('14', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF7-11K-2.jpg" width="85"/></a>
+      <span class="text"><a href="/products/lily_and_rose_spring_bouquet.htm" id="fprod14" onclick="exit=false;">Rose and Lily Lemonade Bouquet</a></span>
+      <span class="price"><s>$34.99</s> $29.74</span>
+     </li>
+     <li data-brand="bn" data-price-disc="38.24" data-sku="BF104-11K">
+      <a href="/products/my_rosy_valentine_2.htm" onclick="exit=false;"><img alt="Love Is In The Air with Red Roses" height="99" onmouseout="active_prod('15', false);" onmouseover="active_prod('15', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF104-11K.jpg" width="85"/></a>
+      <span class="text"><a href="/products/my_rosy_valentine_2.htm" id="fprod15" onclick="exit=false;">Love Is In The Air</a></span>
+      <span class="price"><s>$44.99</s> $38.24</span>
+     </li>
+     <li data-brand="bn" data-price-disc="29.74" data-sku="BF63-11KM-CL">
+      <a href="/products/orange_sherbet_bouquet.htm" onclick="exit=false;"><img alt="Fall Harvest Celebration" height="99" onmouseout="active_prod('16', false);" onmouseover="active_prod('16', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF63-11KM-CL.jpg" width="85"/></a>
+      <span class="text"><a href="/products/orange_sherbet_bouquet.htm" id="fprod16" onclick="exit=false;">Fall Harvest Celebration</a></span>
+      <span class="price"><s>$34.99</s> $29.74</span>
+     </li>
+     <li data-brand="bn" data-price-disc="29.74" data-sku="BF375-11KM">
+      <a href="/products/flower_fields_mason_jar.htm" onclick="exit=false;"><img alt="Flower Fields Mason Jar" height="99" onmouseout="active_prod('17', false);" onmouseover="active_prod('17', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF375-11KM.jpg" width="85"/></a>
+      <span class="text"><a href="/products/flower_fields_mason_jar.htm" id="fprod17" onclick="exit=false;">Flower Fields Mason Jar</a></span>
+      <span class="price"><s>$34.99</s> $29.74</span>
+     </li>
+     <li data-brand="bn" data-price-disc="29.74" data-sku="BF273-11K-CL">
+      <a href="/products/having_a_fiesta_bouquet.htm" onclick="exit=false;"><img alt="Simply Stunning" height="99" onmouseout="active_prod('18', false);" onmouseover="active_prod('18', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF273-11K-CL.jpg" width="85"/></a>
+      <span class="text"><a href="/products/having_a_fiesta_bouquet.htm" id="fprod18" onclick="exit=false;">Simply Stunning</a></span>
+      <span class="price"><s>$34.99</s> $29.74</span>
+     </li>
+     <li data-brand="bn" data-price-disc="38.24" data-sku="BF302-11K">
+      <a href="/products/forever_yours_3.htm" onclick="exit=false;"><img alt="Forever Yours" height="99" onmouseout="active_prod('19', false);" onmouseover="active_prod('19', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF302-11K.jpg" width="85"/></a>
+      <span class="text"><a href="/products/forever_yours_3.htm" id="fprod19" onclick="exit=false;">Forever Yours</a></span>
+      <span class="price"><s>$44.99</s> $38.24</span>
+     </li>
+     <li data-brand="ftd" data-price-disc="42.49" data-sku="FTD-14-M6">
+      <a href="/products/the_ftd_sweet_devotion_bouquet_by_better_homes_and_gardens_3.htm" onclick="exit=false;"><img alt="Purple roses and stock in glass vase" height="99" onmouseout="active_prod('20', false);" onmouseover="active_prod('20', true);" src="http://fyf.tac-cdn.net/images/products/homepage/FTD-14-M6.jpg" width="85"/></a>
+      <span class="text"><a href="/products/the_ftd_sweet_devotion_bouquet_by_better_homes_and_gardens_3.htm" id="fprod20" onclick="exit=false;">Sweet Devotion</a></span>
+      <span class="price"><s>$49.99</s> $42.49</span>
+     </li>
+     <li data-brand="bn" data-price-disc="29.74" data-sku="BF335-11KM-2">
+      <a href="/products/the_first_roses_of_spring.htm" onclick="exit=false;"><img alt="Sweetheart Rose Bouquet" height="99" onmouseout="active_prod('21', false);" onmouseover="active_prod('21', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF335-11KM-2.jpg" width="85"/></a>
+      <span class="text"><a href="/products/the_first_roses_of_spring.htm" id="fprod21" onclick="exit=false;">Sweetheart Rose Bouquet</a></span>
+      <span class="price"><s>$34.99</s> $29.74</span>
+     </li>
+     <li data-brand="bn" data-price-disc="33.99" data-sku="BF107-11K">
+      <a href="/products/pink_delight_bouquet_2.htm" onclick="exit=false;"><img alt="Gerbera Daisy Celebration" height="99" onmouseout="active_prod('22', false);" onmouseover="active_prod('22', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF107-11K.jpg" width="85"/></a>
+      <span class="text"><a href="/products/pink_delight_bouquet_2.htm" id="fprod22" onclick="exit=false;">Gerbera Daisy Celebration</a></span>
+      <span class="price"><s>$39.99</s> $33.99</span>
+     </li>
+     <li data-brand="bn" data-price-disc="33.99" data-sku="BF144-11KM">
+      <a href="/products/simple_sophisticated_bouquet.htm" onclick="exit=false;"><img alt="Purple roses, white lilies and purple astroemeria delivered by a florist" height="99" onmouseout="active_prod('23', false);" onmouseover="active_prod('23', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF144-11KM.jpg" width="85"/></a>
+      <span class="text"><a href="/products/simple_sophisticated_bouquet.htm" id="fprod23" onclick="exit=false;">Lavender Rose and Lily Blooms</a></span>
+      <span class="price"><s>$39.99</s> $33.99</span>
+     </li>
+     <li data-brand="bn" data-price-disc="33.99" data-sku="BF112-11K">
+      <a href="/products/classic_bud_vase_roses_2.htm" onclick="exit=false;"><img alt="Red roses delivered with teddy bear" height="99" onmouseout="active_prod('24', false);" onmouseover="active_prod('24', true);" src="http://fyf.tac-cdn.net/images/products/homepage/BF112-11K.jpg" width="85"/></a>
+      <span class="text"><a href="/products/classic_bud_vase_roses_2.htm" id="fprod24" onclick="exit=false;">Classic Bud Vase Roses with Bear</a></span>
+      <span class="price"><s>$39.99</s> $33.99</span>
+     </li>
+    </ul>
+   </div><!--carousel-clip-region-->
+  </div><!--carousel-component-->
+ </div><!--carouselWrapper-->
+<br class="clear"/>
+</div><!--slider-->
+<div class="bestSelling">
+<div class="doubleDots"></div>
+<p>Shop <span>Best Selling</span> Flowers &amp; Gifts</p>
+<div class="doubleDots"></div>
+<ul class="productsFive">
+<li data-brand="bn" data-price-disc="33.99" data-sku="BF405-11K-2">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/pink_perfection.htm" onclick="exit=false;">
+    <img alt="Pink Perfection" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF405-11K-2.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/pink_perfection.htm" onclick="exit=false;">Pink Perfection</a></span>
+   <span class="price">
+    From  
+    <s>$39.99</s>
+    <b>$33.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="29.74" data-sku="BF411-11KM">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/its_a_fine_day_bouquet.htm" onclick="exit=false;">
+    <img alt="It's a Fine Day Bouquet" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF411-11KM.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/its_a_fine_day_bouquet.htm" onclick="exit=false;">It's a Fine Day Bouquet</a></span>
+   <span class="price">
+    From  
+    <s>$34.99</s>
+    <b>$29.74</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="33.99" data-sku="BF510-11KM">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/bursting_with_joy.htm" onclick="exit=false;">
+    <img alt="The Brightest Days Bouquet" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF510-11KM.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/bursting_with_joy.htm" onclick="exit=false;">The Brightest Days Bouquet</a></span>
+   <span class="price">
+    From  
+    <s>$39.99</s>
+    <b>$33.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="38.24" data-sku="BF84-11K">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/pink_petals_bouquet.htm" onclick="exit=false;">
+    <img alt="Pink carnations, pink spray roses and pink lilies in pink vase" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF84-11K.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/pink_petals_bouquet.htm" onclick="exit=false;">Pink Petals Bouquet</a></span>
+   <span class="price">
+    From  
+    <s>$44.99</s>
+    <b>$38.24</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="tf" data-price-disc="29.74" data-sku="TEV12-4">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/pretty_please.htm" onclick="exit=false;">
+    <img alt="Pretty Please Bouquet: New Baby Flowers, Mother's Day Flowers-FromYouFlowers.com" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/TEV12-4.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/pretty_please.htm" onclick="exit=false;">Pretty Please</a></span>
+   <span class="price">
+    From  
+    <s>$34.99</s>
+    <b>$29.74</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="33.99" data-sku="BF167-11KM">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/sunflower_surprise.htm" onclick="exit=false;">
+    <img alt="Sunflower bouquet by a florist with green poms" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF167-11KM.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/sunflower_surprise.htm" onclick="exit=false;">Sunflower Surprise</a></span>
+   <span class="price">
+    From  
+    <s>$39.99</s>
+    <b>$33.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="33.99" data-sku="BF80-11K">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/lily__iris_surprise.htm" onclick="exit=false;">
+    <img alt="Stunning Lily and Iris Bouquet" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF80-11K.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/lily__iris_surprise.htm" onclick="exit=false;">Stunning Lily and Iris Bouquet</a></span>
+   <span class="price">
+    From  
+    <s>$39.99</s>
+    <b>$33.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="ub" data-price-disc="24.99" data-sku="F-208">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/one_dozen_red_roses.htm" onclick="exit=false;">
+    <img alt="One Dozen Red Roses" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/F-208.jpg" width="170px"/>
+   </a>
+   <img alt="next day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image-nextDay.gif"/>
+   <span class="item"><a href="/products/one_dozen_red_roses.htm" onclick="exit=false;">One Dozen Long Stemmed Red Roses</a></span>
+   <span class="price">
+    From  
+    <s>$49.99</s>
+    <b>$24.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="ftd" data-price-disc="33.99" data-sku="FTD-S22-4298">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/the_ftd_pink_lily_bouquet.htm" onclick="exit=false;">
+    <img alt="The Shining Stargazer Bouquet" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/FTD-S22-4298.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/the_ftd_pink_lily_bouquet.htm" onclick="exit=false;">The Shining Stargazer Bouquet</a></span>
+   <span class="price">
+    From  
+    <s>$39.99</s>
+    <b>$33.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="ub" data-price-disc="33.99" data-sku="F-667">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/the_spring_lily_bouquet.htm" onclick="exit=false;">
+    <img alt="Stunning Lily Bouquet" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/F-667.jpg" width="170px"/>
+   </a>
+   <img alt="next day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image-nextDay.gif"/>
+   <span class="item"><a href="/products/the_spring_lily_bouquet.htm" onclick="exit=false;">Stunning Lily Bouquet</a></span>
+   <span class="price">
+    From  
+    <s>$39.99</s>
+    <b>$33.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="33.99" data-sku="BF31-11K-CL">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/a_day_in_the_sun_3.htm" onclick="exit=false;">
+    <img alt="Orange roses, hot pink roses and yellow alstroemeria in glass vase" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF31-11K-CL.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/a_day_in_the_sun_3.htm" onclick="exit=false;">A Walk in the Sun</a></span>
+   <span class="price">
+    From  
+    <s>$39.99</s>
+    <b>$33.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="50.99" data-sku="BF231-11KS">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/1_dozen_roses_-_red.htm" onclick="exit=false;">
+    <img alt="One dozen red roses delivered in glass vase with bow" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF231-11KS.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/1_dozen_roses_-_red.htm" onclick="exit=false;">Luxury Red Roses</a></span>
+   <span class="price">
+    From  
+    <s>$59.99</s>
+    <b>$50.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="38.24" data-sku="BF173-11KM">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/pinkn_pretty_bouquet.htm" onclick="exit=false;">
+    <img alt="Pink and White online flowers delivered in a modern vase." class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF173-11KM.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/pinkn_pretty_bouquet.htm" onclick="exit=false;">Pink'n Pretty Bouquet</a></span>
+   <span class="price">
+    From  
+    <s>$44.99</s>
+    <b>$38.24</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="29.74" data-sku="BF72-11K-CL">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/loving_lily__rose_bouquet.htm" onclick="exit=false;">
+    <img alt="Loving Lily &amp; Rose Bouquet" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF72-11K-CL.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/loving_lily__rose_bouquet.htm" onclick="exit=false;">Loving Lily &amp; Rose Bouquet</a></span>
+   <span class="price">
+    From  
+    <s>$34.99</s>
+    <b>$29.74</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="33.99" data-sku="BF253-11K">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/loving_lavender_wishes.htm" onclick="exit=false;">
+    <img alt="Loving Lavender Wishes" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF253-11K.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/loving_lavender_wishes.htm" onclick="exit=false;">Loving Lavender Wishes</a></span>
+   <span class="price">
+    From  
+    <s>$39.99</s>
+    <b>$33.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="ftd" data-price-disc="33.99" data-sku="FTD-CDL">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/purple_pop_bouquet.htm" onclick="exit=false;">
+    <img alt="The Lavender Burst Bouquet" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/FTD-CDL.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/purple_pop_bouquet.htm" onclick="exit=false;">The Lavender Burst Bouquet</a></span>
+   <span class="price">
+    From  
+    <s>$39.99</s>
+    <b>$33.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="33.99" data-sku="BF82-11K">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/european_garden_bouquet_3.htm" onclick="exit=false;">
+    <img alt="Sunflowers, yellow lilies and red alstroemeria" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF82-11K.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/european_garden_bouquet_3.htm" onclick="exit=false;">European Garden Bouquet</a></span>
+   <span class="price">
+    From  
+    <s>$39.99</s>
+    <b>$33.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="33.99" data-sku="BF329-11K">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/white_tribute_arrangement.htm" onclick="exit=false;">
+    <img alt="Eternal Love" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF329-11K.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/white_tribute_arrangement.htm" onclick="exit=false;">Eternal Love</a></span>
+   <span class="price">
+    From  
+    <s>$39.99</s>
+    <b>$33.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="33.99" data-sku="BF515-11K">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/vibrant_beauty_bouquet.htm" onclick="exit=false;">
+    <img alt="Vibrant Beauty Bouquet" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF515-11K.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/vibrant_beauty_bouquet.htm" onclick="exit=false;">Vibrant Beauty Bouquet</a></span>
+   <span class="price">
+    From  
+    <s>$39.99</s>
+    <b>$33.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+<li data-brand="bn" data-price-disc="33.99" data-sku="BF182-11KM">
+ <div class="prodCell">
+  <div class="details">
+   <a href="/products/daisy_delight_3.htm" onclick="exit=false;">
+    <img alt="Daisy Delight" class="item" height="199px" src="http://fyf.tac-cdn.net/images/products/small/BF182-11KM.jpg" width="170px"/>
+   </a>
+   <img alt="same day flower delivery" class="sameDay" src="http://fyf.tac-cdn.net/images/layout/below_image.gif"/>
+   <span class="item"><a href="/products/daisy_delight_3.htm" onclick="exit=false;">Daisy Delight</a></span>
+   <span class="price">
+    From  
+    <s>$39.99</s>
+    <b>$33.99</b> 
+   </span><!--price--> 
+  </div><!--details--> 
+ </div><!--prodCell--> 
+</li><!--prodGrid--> 
+</ul>
+</div><!--bestSelling-->
+<br class="clear"/>
+<div class="featuredPods">
+ <div class="grid_4 alpha">
+  <a href="/occasion/birthday-flowers-gifts" onclick="exit=false;"><img alt="Birthday Flowers and Gifts" src="http://fyf.tac-cdn.net/images/content/pod1.jpg"/></a>
+ </div>
+ <div class="grid_4">
+  <a href="/flower/custom-photo-vase" onclick="exit=false;"><img alt="" src="http://fyf.tac-cdn.net/images/content/pod2.jpg"/></a>
+ </div>
+ <div class="grid_4">
+  <a href="/occasion/sympathy-floral-gifts" onclick="exit=false;"><img alt="Sympathy Flowers" src="http://fyf.tac-cdn.net/images/content/pod3.jpg"/></a>
+ </div>
+ <div class="grid_4 omega">
+  <a href="/deliver/same-day" onclick="exit=false;"><img alt="Same Day Delivery" src="http://fyf.tac-cdn.net/images/content/pod4.jpg"/></a>
+ </div>
+</div>
+<br class="clear"/>
+<div class="grid_8 alpha" id="newsletter">
+ <h3>Get Insider Access</h3>
+  <form action="http://www.fromyouflowers.com/mailing_list.htm" method="post" name="mailing" onsubmit="exit=false;">
+   <span>Share your email to get fantastic offers for special occasions and daily discounts:</span>
+   <input class="text" name="email" onfocus="if(this.value=='Enter Email Address') this.value='';" type="text" value="Enter Email Address"/>
+   <input class="primaryButton" id="signUp" src="http://fyf.tac-cdn.net/images/layout/btn_emailHome.png" type="image"/>
+  </form>
+ </div><!--newsletter-->
+<div class="grid_8 omega" id="socialWidgetsHome">
+ <h3>Let's Be Friends:</h3>
+ <ul>
+  <li id="facebookHome">
+   <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ffromyouflowers&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=35&amp;appId=349967941752739" style="border:none; overflow:hidden; width:450px; height:25px;"></iframe>
+  </li>
+  <li id="twitterHome">
+   <a class="twitter-follow-button" data-show-count="true" href="https://twitter.com/fromyouflowers">Follow @fromyouflowers</a>
+   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </li>
+  <li id="googleHome">
+   <div class="g-plusone" data-href="http://www.fromyouflowers.com" data-size="medium"></div>
+   <script type="text/javascript">
+    (function() {
+     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+     po.src = 'https://apis.google.com/js/plusone.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+   </script>
+  </li>
+ </ul>
+</div><!--social-->
+<br class="clear"/>
+<div class="doubleDots"></div>
+<p id="valueProp">Flowers with <strong>Same Day Delivery</strong>, We <strong>Guarantee</strong> the Florist Arranged Flowers Will Be Delivered Today</p>
+<div class="doubleDots"></div>
+<div class="homeTestimonials">
+ <h3>What Our Customers Are Saying</h3>
+ <div class="grid_4 alpha">
+  <div class="backgroundTestimonial">
+   <p>"Thank You for your speedy delivery and beautiful flowers to my daughter, I will be using your business again and will recommend your business to my friends. Thank you!"</p>
+  </div><!--backgroundTestimonial-->
+  <span>Nancy R.</span>
+ </div><!--grid_4-->
+ <div class="grid_4">
+  <div class="backgroundTestimonial">
+   <p>"Thank you very much for a speedy delivery, and best of all, a full arrangement of fresh BEAUTIFUL flowers. I was very impressed, and will definitely be using your services again. Thanks again."</p>
+  </div><!--backgroundTestimonial-->
+  <span>Brittney</span>
+ </div><!--grid_4-->
+ <div class="grid_4">
+  <div class="backgroundTestimonial">
+   <p>"Ordered flowers serveral times from here and they lasted for at least 10 days or longer. Most beautiful arrangments that I have come across in my flower experience."</p>
+  </div><!--backgroundTestimonial-->
+  <span>Kayla M.</span>
+ </div><!--grid_4-->
+ <div class="grid_4 omega">
+  <div class="backgroundTestimonial">
+   <p>"I ordered flowers and chocolate last minute for my daughter at FSU, they were on her doorstep within 3 hours. Thanks for the speedy delivery I will definitely use your services again."</p>
+  </div><!--backgroundTestimonial-->
+  <span>Cindy</span>
+ </div><!--grid_4-->
+ <a href="http://www.fromyouflowers.com/testimonials.htm" id="readMore" onclick="exit=false;">Read More Testimonials »</a>
+</div><!--testimonials-->
+<br class="clear"/>
+<div class="mag">
+ <div class="doubleDots"></div>
+ <span><b>Bonus Offer:</b> Included with your purchase of $50.00 or more get a subscription to People Magazine (15 issues - $30.00 value).</span>
+ <div class="doubleDots"></div>
+</div><!--mag-->
+<!-- BEGIN: Google Knowledge graph information -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "http://www.fromyouflowers.com",
+  "logo": "http://fyf.tac-cdn.net/images/content/google-logo.png",
+  "contactPoint": [{
+    "@type" : "ContactPoint",
+    "telephone": "+1-800-838-8853",
+    "contactType": "customer service"
+  }],
+  "sameAs" : [
+    "https://www.pinterest.com/fromyouflowers/",
+    "https://www.facebook.com/fromyouflowers",
+    "https://plus.google.com/+FromYouFlowers/posts",
+    "https://twitter.com/fromyouflowers",
+    "https://www.youtube.com/channel/UCLYkJp6Zr5a0rUa1TTwW1BQ",
+    "https://www.linkedin.com/company/from-you-flowers"
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+	"url": "http://www.fromyouflowers.com",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "http://search.fromyouflowers.com/search?w={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<!-- END: Google Knowledge graph information -->
+<style type="text/css">
+.mobile.index .mainBody {
+  display: block;
+}
+</style>
+   <div class="clear"></div>
+  </div><!--container_16-body-->
+  <div class="cnbcFooterWrap">
+   <div class="cnbcFooterSocial">
+    <a href="http://www.fromyouflowers.com/cnbc.htm" id="semiCenter">FromYouFlowers.com rated "<span>best overall quality</span> and <span>price</span>!" by <span>CNBC</span></a>
+    <ul>
+     <li><a href="https://plus.google.com/101977487830572787400" id="googleIcon" target="_blank"></a></li>
+     <li><a href="http://twitter.com/fromyouflowers" id="twitterIcon" target="_blank"></a></li>
+     <li><a href="http://facebook.com/fromyouflowers" id="facebookIcon" target="_blank"></a></li>
+    </ul>
+   </div><!--cnbcFooterSocial-->
+  </div><!--cnbcFooterWrap-->
+  <div class="cnbcHeaderWrapBottom">
+   <div class="cnbcHeaderBottom">
+    <a href="http://www.fromyouflowers.com/cnbc.htm" onclick="exit=false;">FromYouFlowers.com rated "<span>best overall quality</span> and <span>price</span>!" by <span>CNBC</span></a>
+   </div><!--cnbcHeaderBottom-->
+  </div><!--cnbcHeaderWrapBottom-->
+  <div class="shadow"></div>
+  <div class="footer">
+   <div class="container_16">
+    <div class="doubleLine"></div><div class="clear"></div>
+    <p class="threeMillion">Join Over <span>5 Million</span> Satisfied Customers</p>
+    <div class="heading">
+     <h1>Same Day Flower Delivery</h1><p>, We Guarantee the Florist Arranged Flowers will be Delivered Today!</p>
+    </div><!--heading-->
+    <div class="doubleLine"></div><div class="clear"></div>
+    <div class="footerLinks">
+     <ul>
+      <li class="group">
+       <h3>About FYF</h3>
+       <ul>
+        <li><a href="http://www.fromyouflowers.com/about.htm" onclick="exit=false;">Company Information</a></li>
+        <li><a href="http://www.fromyouflowers.com/corporate/" onclick="exit=false;">Corporate Services</a></li>
+        <li><a href="http://www.fromyouflowers.com/affiliates.htm" onclick="exit=false;">Become an Affiliate</a></li>
+        <li><a href="http://www.fromyouflowers.com/flower-resource/" onclick="exit=false;">Flower Resource Guide</a></li>
+        <li><a href="http://www.fromyouflowers.com/careers.htm" onclick="exit=false;">Careers</a></li>
+       </ul>
+      </li>
+      <li class="group">
+       <h3>Shop FYF</h3>
+       <ul>
+        <li><a href="http://www.fromyouflowers.com/ordertracking.htm" onclick="exit=false;">Track My Order</a></li>
+        <li><a href="https://www.fromyouflowers.com/account.htm" onclick="exit=false;">My Account</a></li>
+        <li><a href="http://www.fromyouflowers.com/international.htm" onclick="exit=false;">International Delivery</a></li>
+        <li><a href="http://www.fromyouflowers.com/guarantee.htm" onclick="exit=false;">FYF Guarantee</a></li>
+        <li><a href="http://www.fromyouflowers.com/deliver-by-state.htm" onclick="exit=false;">Flowers by State</a></li>
+       </ul>
+      </li>
+      <li class="group">
+       <h3>FYF Help</h3>
+       <ul>
+        <li><a href="http://www.fromyouflowers.com/customer-service.htm" onclick="exit=false;">Customer Service</a></li>
+        <li><a href="http://www.fromyouflowers.com/contact.htm" onclick="exit=false;">Contact FYF</a></li>
+        <li><a href="http://www.fromyouflowers.com/secpriv.htm" onclick="exit=false;">Security &amp; Privacy</a></li>
+        <li><a href="http://blog.fromyouflowers.com" onclick="exit=false;" target="_blank">FYF Blog</a></li>
+        <li><a href="http://www.fromyouflowers.com/sitemap.htm" onclick="exit=false;">Site Map</a></li>
+       </ul>
+      </li>
+      <li class="group">
+       <h3>Recent Searches</h3>
+       <ul>
+        <li><a href="http://www.fromyouflowers.com/price/under-30-flowers" onclick="exit=false;">Cheap</a></li>
+        <li><a href="http://www.fromyouflowers.com/occasion/funeral-flowers" onclick="exit=false;">Funeral</a></li>
+        <li><a href="http://www.fromyouflowers.com/gifts/send-balloon-bouquets" onclick="exit=false;">Balloons</a></li>
+        <li><a href="http://www.fromyouflowers.com/gifts/send-fruit-baskets" onclick="exit=false;">Fruit Baskets</a></li>
+       </ul>
+      </li>
+      <li class="group" id="flowers">
+       <h3>Flowers</h3>
+       <ul>
+        <li><a href="http://www.fromyouflowers.com/flower/send-sunflowers" onclick="exit=false;">Sunflowers</a></li>
+        <li><a href="http://www.fromyouflowers.com/deliver/same-day" onclick="exit=false;">Same Day</a></li>
+        <li><a href="http://www.fromyouflowers.com/flower/florist-designed" onclick="exit=false;">Florist Arranged</a></li>
+        <li><a href="http://www.fromyouflowers.com/" onclick="exit=false;">Flower Delivery</a></li>
+       </ul>
+      </li>
+      <li class="group">
+       <h3>Top Holidays</h3>
+       <ul>
+        <li><a href="http://www.fromyouflowers.com/occasion/halloween-flowers-gifts" onclick="exit=false;">Halloween Flowers</a></li>
+        <li><a href="http://www.fromyouflowers.com/occasion/christmas-gift-baskets" onclick="exit=false;">Christmas Baskets</a></li>
+        <li><a href="http://www.fromyouflowers.com/occasion/christmas-flowers" onclick="exit=false;">Christmas Flowers</a></li>
+        <li><a href="http://www.fromyouflowers.com/occasion/birthday-gifts-for-kids" onclick="exit=false;">Gift Baskets for Kids</a></li>
+       </ul>
+      </li>
+     </ul>
+    </div><!--footerLinks-->
+    <div class="doubleLine"></div><div class="clear"></div>
+    <div class="secureIcons">
+     <ul>
+      <li class="paymentMethods"><img alt="VISA, MasterCard, American Express, Discover and PayPal" border="0" height="76" src="http://fyf.tac-cdn.net/images/layout/payment-methods.gif" width="121"/></li>
+      <li><a href="#" onclick="window.open('https://seal.godaddy.com:443/verifySeal?sealID=m9rvuXoR1GGzLDRaaTDqlF8gJeIexitqNBxWe8dHQXQDVF3EBNVZZhoNDcjJ','_blank','location=yes,status=yes,resizable=yes,scrollbars=yes,width=600,height=740,top=0,left=0'); return false;"><img alt="Safe and Secure Guaranteed" class="verisign" src="http://fyf.tac-cdn.net/images/layout/safe-secure-bottom.png"/></a></li>
+     </ul>
+    </div><!--secureIcons-->
+    <p class="copyright">Copyright © 2016 From You Flowers, LLC - Old Saybrook, CT - New York, NY. All rights reserved.</p>
+    <div class="doubleLine"></div><div class="clear"></div>
+    <div class="sameDay">
+     <h2>Same Day Flower Delivery</h2>
+     <p>Celebrate today's special occasion with a flower delivery! From You Flowers offers beautiful flower arrangements for same day delivery by a local florist. Whether you need to send flowers to New York, Texas, or California, FromYouFlowers.com offers USA flower delivery from coast to coast. Want to make it a one-of-a-kind gift? Add a teddy bear, chocolates or a balloon bouquet to your online flower order. We are the same day delivery experts; if you need flowers delivered today there is no better choice than From You Flowers!</p>
+    </div><!--sameDay-->
+    <div class="doubleLine"></div><div class="clear"></div>
+    <div id="bottomInfo">
+     <h3><b>Flower Delivery</b></h3>
+<p>From You Flowers specializes in helping you find the perfect gift to send for every occasion, from birthday gifts to same day baskets and get well balloons. We offer a large selection of floral arrangements, gifts baskets, plants and balloons so that you can easily find the ideal present to send to a friend, your Mom or family member. Each bouquet from our online flower shop can be delivered in the USA. The flowers and gifts are delivered with a free personalized card message so that you can express your birthday wishes or holiday greetings. If you need flowers delivery we offer a selection of hand arranged bouquets created by a local florist available for same day delivery from NYC all the way to CA.  </p>
+
+<h3> <b>FROM YOU FLOWERS </b></h3>
+<p>  From You Flowers, LLC is the largest privately owned online flower company in the United States. We strive to make your experience order flowers online with us unforgettable. Our online store offers a collection of unique gifts including teddy bear and balloon delivery, for same day delivery flowers or next day delivery.  We know that when you <b>send flowers</b> online it comes from the heart, so we work hard to ensure your bouquets are fresh, beautiful and delivered on time to celebrate every occasion. </p> 
+    </div><!--bottomInfo-->
+   </div><!--container_16-->
+  </div><!--footer-->
+  <script language="javascript" type="text/javascript">
+   var sli_rac_code = '050';
+   var sliJsHost = (("https:" == document.location.protocol) ? "https://" : "http://" );
+   var sliJsPath  = '/rac/sli-rac.config.js';
+   var sliCssPath = '/rac/sli-latest-rac.css';
+   if (/\bmobile\b/.test(document.body.className)) {
+     sliJsPath  = '/sli-rac.mobile.config.js';
+     sliCssPath = '/sli-rac-mobile.css';
+   }
+   document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'assets.resultspage.com/js/rac/sli-rac.1.2.css" /%3E'));
+   document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'fromyouflowers.resultspage.com' + sliCssPath + '" /%3E'));
+   document.write(unescape('%3Cscript src="' + sliJsHost + 'fromyouflowers.resultspage.com' + sliJsPath + '" type="text/javascript"%3E%3C/script%3E'));
+  </script>
+  <div style="color: #adadad;">B - 8</div>
+<script type="text/javascript">var coupon_code = '050';</script>
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-3452651-1', 'auto');
+ga('set', {
+ 'dimension1': '050',
+ 'dimension2': 'Guest' 
+});
+ga('send', 'pageview');
+ga('require', 'ec');
+</script>
+<!-- PLEASE INCLUDE THIS COMMENT ON THE WEB PAGE WITH THE TAG
+Remarketing tags may not be associated with personally identifiable
+information or placed on pages related to sensitive categories. -->
+<script type="text/javascript">
+ var google_tag_params = {
+  prodid: '',
+  pagetype: 'home',
+  pname: '',
+  pcat: '',
+  value: '' 
+ };
+</script>
+<script type="text/javascript">
+ /* <![CDATA[ */
+ var google_conversion_id = 1068207877;
+ var google_conversion_label = "8ewkCJO7ngIQhZ6u_QM";
+ var google_custom_params = window.google_tag_params;
+ var google_remarketing_only = true;
+ /* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript"></script>
+<noscript><div style="display:inline;"><img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/XXXXXXXXXXX/?value=0&amp;label=5gHYCMz5jQIasdfiu_AM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/></div></noscript>
+<!-- Advertiser 'From You Flowers LLC',  Include user in segment 'From You Flowers-retargeting Pixel' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+<img height="1" src="https://ad.yieldmanager.com/pixel?id=2346316&amp;t=2" width="1"/>
+<!-- End of segment tag -->
+<script async="true" src="//static.criteo.net/js/ld/ld.js" type="text/javascript"></script>
+<script type="text/javascript">
+ window.criteo_q = window.criteo_q || [];
+ window.criteo_q.push(
+  { event: "setAccount", account: 13880},
+  { event: "setSiteType", type: "d"},
+  { event: 'viewHome'} 
+ );
+</script>
+<!-- BEGIN: Google Trusted Stores -->
+<script type="text/javascript">
+  var gts = gts || [];
+
+  gts.push(["id", "25938"]);
+  gts.push(["badge_position", "BOTTOM_RIGHT"]);
+  gts.push(["locale", "en_US"]);
+
+  (function() {
+    var gts = document.createElement("script");
+    gts.type = "text/javascript";
+    gts.async = true;
+    gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(gts, s);
+  })();
+</script>
+<!-- END: Google Trusted Stores -->
+<script>
+// BE CLA 3
+(function() {
+var bec = document.createElement('script');
+bec.type = 'text/javascript';
+bec.async = true;
+bec.setAttribute("data-id", "bec");
+bec.setAttribute("org-id", "25727");
+bec.setAttribute("domain", ".fromyouflowers.com");
+bec.setAttribute("timeout", 10 * 31 * 24 * 60 * 60 * 1000);
+bec.src = document.location.protocol + '//ccdn.brightedge.com/conv_v3.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bec, s);
+})(); </script>
+  <!-- B - 8 -->
+  <!-- SiteUptime Check -->
+ <script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
+
+
+</body></html><!-- TPT 0.014019966125488 -->

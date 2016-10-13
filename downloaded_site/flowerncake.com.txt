@@ -1,0 +1,1948 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en"><head>
+
+       <meta content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0" name="viewport"/>
+        <meta content="yes" name="apple-mobile-web-app-capable"/>
+
+        <meta charset="utf-8"/>
+        <title>All type of Flower and Cake Delivery Online at Midnight, Same Day in hole over the India</title>
+        <base href="https://www.flowerncake.com/"/>
+                    <meta content="Flower N Cake is a leading online Flower and cake delivery shop offering delicious cakes for all occasions. Browse our wide selection of cakes for fast delivery." name="description"/>
+                            <meta content="Online Flower Same Day Midnight Cake Delivery in Delhi, Send cake to, Flowers, Florist, online flowers, send flower to, flower delivery, online cake delivery, best bakery, Online gift, send gift to, Valentines flower, Local florist in Mumbai, Pune, Delhi, Gurgaon, Panchkula, Chandigarh, Bangalore, Hyderabad, Chennai" name="keywords"/>
+                            <link href="https://www.flowerncake.com/image/data/Fevicon.png" rel="icon"/>
+                
+        
+        <link href="catalog/view/theme/fncake/css/widget.css" media="all" rel="stylesheet" type="text/css"/>
+        <link href="catalog/view/theme/fncake/css/product.css" media="all" rel="stylesheet" type="text/css"/>
+        <link href="catalog/view/theme/fncake/css/style.css" media="all" rel="stylesheet" type="text/css"/>
+        <link href="catalog/view/theme/fncake/css/customer.css" media="all" rel="stylesheet" type="text/css"/>
+        <link href="catalog/view/theme/fncake/dpdwn/bootstrap.min.css" media="all" rel="stylesheet" type="text/css"/>
+
+        
+                    <script src="catalog/view/theme/fncake/js/slider.js" type="text/javascript"></script>
+    <!--            <script type="text/javascript" src="catalog/view/theme/fncake/js/jquery-2.1.1.min"></script>-->
+            <script src="catalog/view/theme/fncake/js/next-prev.js" type="text/javascript"></script> 
+            <script src="catalog/view/theme/fncake/js/responsive.js" type="text/javascript"></script> 
+        
+
+                    <script async="" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+            <link href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css" rel="stylesheet" type="text/css"/>
+
+                                <script src="catalog/view/javascript/jquery/jquery.cycle.js" type="text/javascript"></script>
+        
+        <script async="" src="catalog/view/javascript/common.js" type="text/javascript"></script>    
+
+
+
+
+        <!--[if IE 7]> 
+        <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie7.css" />
+        <![endif]-->
+        <!--[if lt IE 7]>
+        <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie6.css" />
+        <script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+        <script type="text/javascript">
+        DD_belatedPNG.fix('#logo img');
+        </script>
+        <![endif]-->
+                <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-78421328-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+        <style>
+            .top-nav-head{
+                background: #b568c2 !important;
+            }
+            /*                header .nav{
+                               
+                            }*/
+            .navbar-nav > li > a {
+                padding-bottom: 10px;
+                padding-top: 10px;
+                color: #fff
+            }
+            .navbar {                
+                margin-bottom: 0px;
+                min-height: 42px !important;                
+            }
+            .nav .caret {
+                border-bottom-color: #fff;
+                border-top-color: #fff;
+            }
+            .dropdown:hover .dropdown-menu {
+                display: block;
+            }
+            .icon-bar{
+                background: #000;
+            }
+            .navbar-toggle{
+                border: 1px solid;
+            }
+            .full-mnu{
+                width: 100%;
+                margin: 0 !important;
+                float: none !important;
+            }
+            .nav > li {
+                border-bottom: 1px solid #fff;
+            }
+        </style>
+
+    </head>
+    <body>
+        <div id="body_wrapper"> 
+            <header id="page_header">
+                <div class="nav" id="top_bar">
+                    <div class="container">
+                        <div class="row"> 
+                            <nav class="clearfix">
+                                
+                                <div class="header_user_info clearfix" id="header_user_info"> 
+                                    <a href="/blog" target="_blank" title="Blog">Blog</a>
+                                    <a href="https://www.flowerncake.com/account/wishlist" id="wishlist-total" title="Wish List (0)">Wish List (0)</a>
+                                    <a href="http://www.flowerncake.com/checkout/cart" title="Shopping Cart">Shopping Cart</a>
+                                    <a href="https://www.flowerncake.com/checkout/checkout" title="Checkout">Checkout</a>
+                                                                            <a href="https://www.flowerncake.com/account/login">Login</a> <a href="https://www.flowerncake.com/account/register">Register</a>                                                                    </div>
+
+                            </nav>
+                        </div>
+                    </div>
+                </div> 
+
+                <section class="header-top" id="header">
+                    <div class="wide_container">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-4 col-md-4" id="logo_wrapper">
+                                    <div id="header_logo_inner">
+                                                                                    
+                                            <a href="http://www.flowerncake.com/" id="header_logo">
+                                                <img alt="Flower N Cake" class="logo replace-2x" src="https://www.flowerncake.com/image/data/Logo New.png" title="Flower N Cake"/>
+                                            </a>                                            
+                                                                               
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-sm-3 col-md-3 text-center mtop">
+                                    <b class="fnt">care@flowerncake.com</b><br/>
+                                    <b class="fnt">+91 82849-82838</b><br/>
+                                    <!--                                    (9:00AM - 11:00PM)-->
+                                </div>
+                                <div class="col-xs-12 col-sm-5 col-md-5 text-right" id="header_right">
+                                    <div class="clearfix" id="header_right_inner">
+                                        <div class="lft" id="search_block_top">
+                                            <div class="input-group" id="search">
+                                                <input class="search_query form-control" id="search_query_top" name="search" placeholder="Search" type="text" value=""/>
+                                                <div class="input-group-btn">
+                                                    <button class="btn icon_wrap button-search" type="button"><i class="icon-search-1 icon-0x"></i><span class="icon_text">Search</span></button>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="top-cart-contain">
+    <div class="mini-cart">
+        <div id="cart">  
+            <div class="heading">
+                <a class="shopping_cart " id="shopping_cart">
+                    <div class="ajax_cart_left icon_wrap"> <i class="icon-basket icon-0x"></i> <span class="icon_text">Cart</span> </div>
+                    <span class="ajax_cart_total ajax_cart_right" id="cart-total">0 items <br/> INR 0.00</span>
+                </a>
+            </div>
+            <div class="content top-cart-content">
+                                    <div class="empty">Your shopping cart is empty!</div>
+                            </div>
+        </div>
+    </div>
+</div>       
+                                        <div class="layer_cart_overlay layer_overlay"></div>
+                                    </div>                                        
+                                </div>
+                            </div>                                
+                        </div>
+                    </div> 
+                </section> 
+                <div class="container">
+                    <nav class="navbar top-nav-head ">
+                        <div class="container-fluid">
+                            <div class="navbar-header">
+                               <button aria-controls="navbar" aria-expanded="false" class="navbar-toggle collapsed full-mnu " data-target="#menu" data-toggle="collapse" type="button">
+                                    <span class="">Menu</span>
+<!--                                    <span class="icon-bar"></span>-->
+<!--                                    <span class="icon-bar"></span>-->
+<!--                                    <span class="icon-bar"></span>-->
+                                </button>                              
+                            </div>
+                            <div class="navbar-collapse collapse " id="menu">
+                                <ul class="nav navbar-nav cusnav">
+                                    <li class="active"><a href="http://www.flowerncake.com/"><i class="icon-home"></i></a></li>
+                                                                                                                        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.flowerncake.com/product/category&amp;path=63">BOUQUET<span class="caret"></span></a>
+                                                <div class="dropdown-menu list_drop">
+                                                    <div class="dropdown-inner">
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/chocolate-and-teddy-bouquet-delivery">Chocolate and Teddy Bouquet</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-flower">Flower Bouquet</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/Flower-delivery">Special One</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-flower-arrangements">Basket Arrangements</a></li>
+                                                                                                                            </ul>
+                                                                                                            </div>
+                                                 <!--<a href="" class="see-all"> </a>--> 
+                                                </div>
+
+                                            </li>
+                                                                                                                                                                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.flowerncake.com/product/category&amp;path=64">CAKE<span class="caret"></span></a>
+                                                <div class="dropdown-menu list_drop">
+                                                    <div class="dropdown-inner">
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/egg-less-cake-delivery">Egg Less Cake</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-half-kg-cakes">Half Kg Cakes</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/1kg-cakes-delivery">1 Kg Cakes</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-cakes">Standard Cakes</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-designer-cake-delivery">Designer Cakes</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-3-star-cakes">3-Star Cakes</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-5-star-cake-delivery">5-Star Cakes</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-fresh-special-cakes-delivery">Special Cakes</a></li>
+                                                                                                                            </ul>
+                                                                                                            </div>
+                                                 <!--<a href="" class="see-all"> </a>--> 
+                                                </div>
+
+                                            </li>
+                                                                                                                                                                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.flowerncake.com/product/category&amp;path=65">COMBOS<span class="caret"></span></a>
+                                                <div class="dropdown-menu list_drop">
+                                                    <div class="dropdown-inner">
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-flowers-and-cake-delivery-Compact-combos">Compact Combos</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/flower-and-cake-delivery">Special Combos</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-flowers-and-cake-delivery-Standard-combos">Standard Combos</a></li>
+                                                                                                                            </ul>
+                                                                                                            </div>
+                                                 <!--<a href="" class="see-all"> </a>--> 
+                                                </div>
+
+                                            </li>
+                                                                                                                                                                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.flowerncake.com/product/category&amp;path=66">BY OCCASION<span class="caret"></span></a>
+                                                <div class="dropdown-menu list_drop">
+                                                    <div class="dropdown-inner">
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/bhai-dooj-gifts-sweets">Bhai Dooj </a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-christmas-flower-and-cake">Christmas</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-diwali-gifts-online">Diwali</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-gifts-on-friendship-day">Friendship Day</a></li>
+                                                                                                                            </ul>
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/karwa-chauth-flowers-gift">Karwa Chauth</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/mothers-fathers-day-flowers-and-cake-delivery">Mothers Day</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-new-year-flower-and-cake">New Year</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-birthday-flowers-and-cakes">Birthday</a></li>
+                                                                                                                            </ul>
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-anniversary-flowers">Anniversary</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-flowers-and-gifts-congratulations">Congratulations</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-flowers-and-cake-delivery">Love &amp; Romance</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-get-well-soon-flowers">Get Well Soon</a></li>
+                                                                                                                            </ul>
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-gifts-delivery-to-friends">Friends</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-flowers-and-gifts-i-am-sorry">I Am Sorry</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-gifts-for-new-born-baby">New Born</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-flowers-and-gifts-to-say-thank-you">Thank You</a></li>
+                                                                                                                            </ul>
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-gifts-for-wedding">Wedding</a></li>
+                                                                                                                            </ul>
+                                                                                                            </div>
+                                                 <!--<a href="" class="see-all"> </a>--> 
+                                                </div>
+
+                                            </li>
+                                                                                                                                                                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.flowerncake.com/product/category&amp;path=67">BY FLOWERS<span class="caret"></span></a>
+                                                <div class="dropdown-menu list_drop">
+                                                    <div class="dropdown-inner">
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-rose-flowers-to-india">Rose</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-carnation-flowers">Carnations</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-gerbera-flowers">Gerbera</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-orchid-flowers">Orchids</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-fresh-lily-flowers-to-india">Lily</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-mixed-flowers">Mixed Flowers</a></li>
+                                                                                                                            </ul>
+                                                                                                            </div>
+                                                 <!--<a href="" class="see-all"> </a>--> 
+                                                </div>
+
+                                            </li>
+                                                                                                                                                                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.flowerncake.com/product/category&amp;path=68">BY PRICE<span class="caret"></span></a>
+                                                <div class="dropdown-menu list_drop">
+                                                    <div class="dropdown-inner">
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-flower-by-price-less-than-599">Less than 599</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-flowers-and-cake-by-price-600-999">600-999</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-flowers-and-cake-delivery-by-price-1000-1999">1000-1999</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-flowers-by-price-2000-3999">2000-3999</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-flowers-and-cake-by-price-4000-9999">4000-9999</a></li>
+                                                                                                                            </ul>
+                                                                                                            </div>
+                                                 <!--<a href="" class="see-all"> </a>--> 
+                                                </div>
+
+                                            </li>
+                                                                                                                                                                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://www.flowerncake.com/product/category&amp;path=70">DELIVERY CITIES<span class="caret"></span></a>
+                                                <div class="dropdown-menu list_drop">
+                                                    <div class="dropdown-inner">
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-flowers-to-agra">Agra</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-flowers-delivery-in-ahmedabad">Ahmedabad</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/flower-delivery-in-amritsar">Amritsar</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-bangalore">Bangalore</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-chandigarh">Chandigarh</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-flowers-and-cake-delivery-to-Chennai">Chennai</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-delivery-to-dehradun">Dehradun</a></li>
+                                                                                                                            </ul>
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-delhi">Delhi</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-Faridabad">Faridabad</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-goa">Goa</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-Gurgaon">Gurgaon</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-Hyderabad">Hyderabad</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-indore">Indore</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-flowers-and-cake-delivery-to-Jaipur">Jaipur</a></li>
+                                                                                                                            </ul>
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-Jalandhar">Jalandhar</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-Jammu">Jammu</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-flower-and-cake-in-kanpur">Kanpur</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-flowers-to-kolkata">Kolkata</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/flower-delivery-in-lucknow">Lucknow</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-Ludhiana">Ludhiana</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/online-flowers-and-cake-delivery-to-mohali">Mohali</a></li>
+                                                                                                                            </ul>
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-mumbai">Mumbai</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-Nagpur">Nagpur</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-nasik">Nasik</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-Navi-Mumbai">Navi Mumbai</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-Noida">Noida</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-cake-to-panchkula">Panchkula</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-panipat">Panipat</a></li>
+                                                                                                                            </ul>
+                                                                                                                    <ul class="list-unstyled" role="menu">
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-Pune">Pune</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-flower-and-cake-in-ranchi">Ranchi</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-shimla">Shimla</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-solan">Solan</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-surat">Surat</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-vadodra">Vadodra</a></li>
+                                                                                                                                    <li><a href="http://www.flowerncake.com/send-online-flowers-and-cake-to-Vijayvada">Vijayvada</a></li>
+                                                                                                                            </ul>
+                                                                                                            </div>
+                                                 <!--<a href="" class="see-all"> </a>--> 
+                                                </div>
+
+                                            </li>
+                                                                                                                                                                <li><a href="http://www.flowerncake.com/same-day-and-midnight-flowers-delivery">SAME DAY DELIVERY</a></li>
+                                                                                                            </ul>                            
+                            </div><!--/.nav-collapse -->
+                        </div><!--/.container-fluid -->
+                    </nav>
+                </div>
+            </header> 
+<div id="content"><div class="main_content_area_top">
+    <div class="wide_container"></div>                        
+</div>
+<div class="containerOuter_center_background iosSlider_tb20 " id="iosSlider_containerOuter_2">
+    <div class="container_center_background">
+        <div class="iosSlider_container_center_background">
+            <div class="iosSlider center_background" id="iosSlider_2">
+                <div class="slider clearfix">
+                                            <div class="iosSlideritem" id="iosSliderBanner_3" style="height:300px;">
+                            <div class="iosSlideritem_inner">
+                                <div class="iosSliderBanner_image" style="background-image:url(https://www.flowerncake.com/image/cache/data/slider/flowerncake-banner-1349x400.JPG);"></div>
+                                <div class="iosSliderBanner_image_overlay"></div>
+                                <div class="iosSlider_text animated iosSlider_center_center text-center" data-animate="flipInY" style="width:40%;left:30%;right:30%;">                               
+                                </div>                                
+                            </div>                            
+                        </div>
+                                            <div class="iosSlideritem" id="iosSliderBanner_3" style="height:300px;">
+                            <div class="iosSlideritem_inner">
+                                <div class="iosSliderBanner_image" style="background-image:url(https://www.flowerncake.com/image/cache/data/slider/flowerncake-fnc-1349x400.jpg);"></div>
+                                <div class="iosSliderBanner_image_overlay"></div>
+                                <div class="iosSlider_text animated iosSlider_center_center text-center" data-animate="flipInY" style="width:40%;left:30%;right:30%;">                               
+                                </div>                                
+                            </div>                            
+                        </div>
+                                            <div class="iosSlideritem" id="iosSliderBanner_3" style="height:300px;">
+                            <div class="iosSlideritem_inner">
+                                <div class="iosSliderBanner_image" style="background-image:url(https://www.flowerncake.com/image/cache/data/slider/flower-ncake-1349x400.jpg);"></div>
+                                <div class="iosSliderBanner_image_overlay"></div>
+                                <div class="iosSlider_text animated iosSlider_center_center text-center" data-animate="flipInY" style="width:40%;left:30%;right:30%;">                               
+                                </div>                                
+                            </div>                            
+                        </div>
+                                            <div class="iosSlideritem" id="iosSliderBanner_3" style="height:300px;">
+                            <div class="iosSlideritem_inner">
+                                <div class="iosSliderBanner_image" style="background-image:url(https://www.flowerncake.com/image/cache/data/Onlinefd-1349x400.png);"></div>
+                                <div class="iosSliderBanner_image_overlay"></div>
+                                <div class="iosSlider_text animated iosSlider_center_center text-center" data-animate="flipInY" style="width:40%;left:30%;right:30%;">                               
+                                </div>                                
+                            </div>                            
+                        </div>
+                                            <div class="iosSlideritem" id="iosSliderBanner_3" style="height:300px;">
+                            <div class="iosSlideritem_inner">
+                                <div class="iosSliderBanner_image" style="background-image:url(https://www.flowerncake.com/image/cache/data/slider/flower-n-cake-1349x400.jpg);"></div>
+                                <div class="iosSliderBanner_image_overlay"></div>
+                                <div class="iosSlider_text animated iosSlider_center_center text-center" data-animate="flipInY" style="width:40%;left:30%;right:30%;">                               
+                                </div>                                
+                            </div>                            
+                        </div>
+                                            <div class="iosSlideritem" id="iosSliderBanner_3" style="height:300px;">
+                            <div class="iosSlideritem_inner">
+                                <div class="iosSliderBanner_image" style="background-image:url(https://www.flowerncake.com/image/cache/data/slider/slider-01-1349x400.jpg);"></div>
+                                <div class="iosSliderBanner_image_overlay"></div>
+                                <div class="iosSlider_text animated iosSlider_center_center text-center" data-animate="flipInY" style="width:40%;left:30%;right:30%;">                               
+                                </div>                                
+                            </div>                            
+                        </div>
+                                            <div class="iosSlideritem" id="iosSliderBanner_3" style="height:300px;">
+                            <div class="iosSlideritem_inner">
+                                <div class="iosSliderBanner_image" style="background-image:url(https://www.flowerncake.com/image/cache/data/Banners/fnc-1349x400.jpg);"></div>
+                                <div class="iosSliderBanner_image_overlay"></div>
+                                <div class="iosSlider_text animated iosSlider_center_center text-center" data-animate="flipInY" style="width:40%;left:30%;right:30%;">                               
+                                </div>                                
+                            </div>                            
+                        </div>
+                             
+                </div>
+               <!--                <div id="iosSliderPrev_2" class="iosSlider_prev none "><i class="icon-angle-left"></i></div>
+                <div id="iosSliderNext_2" class="iosSlider_next none "><i class="icon-angle-right"></i></div>-->
+<!--                <div id="iosSlider_selectors_2" class="iosSlider_selectors iosSlider_selectors_square hidden-xs "> 
+                    <a class="selectoritem first selected" href="javascript:;"><span></span></a>
+                    <a class="selectoritem" href="javascript:;"><span></span></a>
+                    <a class="selectoritem" href="javascript:;"><span></span></a>
+                    <a class="selectoritem" href="javascript:;"><span></span></a>
+                    <a class="selectoritem" href="javascript:;"><span></span></a>
+                </div>-->
+                <div class="css3loader css3loader-3"></div>
+            </div>                
+        </div>            
+    </div>        
+</div>
+
+
+<!--<div id="slideshow').owlCarousel({
+        items: 6,
+        autoPlay: 3000,
+        singleItem: true,
+        navigation: true,
+        navigationText: ['<i class="fa fa-chevron-left fa-5x"></i>', '<i class="fa fa-chevron-right fa-5x"></i>'],
+        pagination: true
+    });
+</script>--><div class="columns-container wide_container">
+    <div class="container" id="columns">
+        <div class="row">
+            <div class="center_column col-xs-12 col-sm-12 col-md-12" id="center_column"> 
+
+
+       
+                <section class="block products_block section" id="featured_products_sldier_block_center">
+                    <h4 class="title_block mar_b1"><span>Featured Products</span></h4>
+                    <div class="flexslider" id="featured-itemslider">
+                        <div class="nav_top_right"></div>
+                        <div class="sliderwrap products_slider">
+                            <ul class="slides">
+                                                                    <li class="ajax_block_product item">
+                                        <div class="pro_first_box"> 
+                                            <a class="product_image" href="http://www.flowerncake.com/chocolate-cake-delivery">
+                                                <img alt="Chocolate Ca" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Choco-cake-Teddy-150x150.jpg"/> 
+                                            </a>
+
+                                            <div class="hover_fly fly_3 clearfix fturd">
+
+                                                <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/chocolate-cake-delivery'" type="button">
+                                                    <i class="icon-basket icon-0x icon-mar-lr2"></i> 
+                                                    <span>Add to Cart</span>
+                                                </button>
+    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>--> 
+                                            </div>
+                                        </div>
+                                        <div class="pro_second_box">
+                                            <p class="s_title_block ">
+                                                <a href="http://www.flowerncake.com/chocolate-cake-delivery">Choco Cake N Teddy </a>
+                                            </p>
+                                                                                            <p class="price_container">
+                                                                                                            <span class="price">INR 1,199.00</span>
+                                                                                                                                                        </p>
+                                                                                        
+                                        </div>
+                                    </li>
+                                                                    <li class="ajax_block_product item">
+                                        <div class="pro_first_box"> 
+                                            <a class="product_image" href="http://www.flowerncake.com/send-online-gerbera-flowers-cake-and-teddy">
+                                                <img alt="10 Mixed Ger" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/COMSTAD00021-150x150.jpg"/> 
+                                            </a>
+
+                                            <div class="hover_fly fly_3 clearfix fturd">
+
+                                                <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/send-online-gerbera-flowers-cake-and-teddy'" type="button">
+                                                    <i class="icon-basket icon-0x icon-mar-lr2"></i> 
+                                                    <span>Add to Cart</span>
+                                                </button>
+    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>--> 
+                                            </div>
+                                        </div>
+                                        <div class="pro_second_box">
+                                            <p class="s_title_block ">
+                                                <a href="http://www.flowerncake.com/send-online-gerbera-flowers-cake-and-teddy">Choco Delight</a>
+                                            </p>
+                                                                                            <p class="price_container">
+                                                                                                            <span class="price">INR 1,299.00</span>
+                                                                                                                                                        </p>
+                                                                                        
+                                        </div>
+                                    </li>
+                                                                    <li class="ajax_block_product item">
+                                        <div class="pro_first_box"> 
+                                            <a class="product_image" href="http://www.flowerncake.com/sendflowers-orchid-cake-teddy">
+                                                <img alt="Flower and c" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/seller/something-special-150x150.jpg"/> 
+                                            </a>
+
+                                            <div class="hover_fly fly_3 clearfix fturd">
+
+                                                <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/sendflowers-orchid-cake-teddy'" type="button">
+                                                    <i class="icon-basket icon-0x icon-mar-lr2"></i> 
+                                                    <span>Add to Cart</span>
+                                                </button>
+    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>--> 
+                                            </div>
+                                        </div>
+                                        <div class="pro_second_box">
+                                            <p class="s_title_block ">
+                                                <a href="http://www.flowerncake.com/sendflowers-orchid-cake-teddy">Something Special</a>
+                                            </p>
+                                                                                            <p class="price_container">
+                                                                                                            <span class="price">INR 1,399.00</span>
+                                                                                                                                                        </p>
+                                                                                        
+                                        </div>
+                                    </li>
+                                                                    <li class="ajax_block_product item">
+                                        <div class="pro_first_box"> 
+                                            <a class="product_image" href="http://www.flowerncake.com/online-flower-cake-wine-delivery">
+                                                <img alt="Birthday flo" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Combo/Glory-Love-150x150.jpg"/> 
+                                            </a>
+
+                                            <div class="hover_fly fly_3 clearfix fturd">
+
+                                                <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/online-flower-cake-wine-delivery'" type="button">
+                                                    <i class="icon-basket icon-0x icon-mar-lr2"></i> 
+                                                    <span>Add to Cart</span>
+                                                </button>
+    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>--> 
+                                            </div>
+                                        </div>
+                                        <div class="pro_second_box">
+                                            <p class="s_title_block ">
+                                                <a href="http://www.flowerncake.com/online-flower-cake-wine-delivery">Glory Love</a>
+                                            </p>
+                                                                                            <p class="price_container">
+                                                                                                            <span class="price">INR 1,999.00</span>
+                                                                                                                                                        </p>
+                                                                                        
+                                        </div>
+                                    </li>
+                                                                    <li class="ajax_block_product item">
+                                        <div class="pro_first_box"> 
+                                            <a class="product_image" href="http://www.flowerncake.com/red-rose-and-blackforest-cake-combo-delivery">
+                                                <img alt="Rose flower " class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Rose-and-cake-150x150.jpg"/> 
+                                            </a>
+
+                                            <div class="hover_fly fly_3 clearfix fturd">
+
+                                                <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/red-rose-and-blackforest-cake-combo-delivery'" type="button">
+                                                    <i class="icon-basket icon-0x icon-mar-lr2"></i> 
+                                                    <span>Add to Cart</span>
+                                                </button>
+    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>--> 
+                                            </div>
+                                        </div>
+                                        <div class="pro_second_box">
+                                            <p class="s_title_block ">
+                                                <a href="http://www.flowerncake.com/red-rose-and-blackforest-cake-combo-delivery">Rose and Cake</a>
+                                            </p>
+                                                                                            <p class="price_container">
+                                                                                                            <span class="price">INR 1,399.00</span>
+                                                                                                                                                        </p>
+                                                                                        
+                                        </div>
+                                    </li>
+                                                                    <li class="ajax_block_product item">
+                                        <div class="pro_first_box"> 
+                                            <a class="product_image" href="http://www.flowerncake.com/online-flower-congratulations">
+                                                <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Combo/Congratulations-150x150.jpg"/> 
+                                            </a>
+
+                                            <div class="hover_fly fly_3 clearfix fturd">
+
+                                                <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/online-flower-congratulations'" type="button">
+                                                    <i class="icon-basket icon-0x icon-mar-lr2"></i> 
+                                                    <span>Add to Cart</span>
+                                                </button>
+    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>--> 
+                                            </div>
+                                        </div>
+                                        <div class="pro_second_box">
+                                            <p class="s_title_block ">
+                                                <a href="http://www.flowerncake.com/online-flower-congratulations">Congratulations &amp; Celebrations</a>
+                                            </p>
+                                                                                            <p class="price_container">
+                                                                                                            <span class="price">INR 1,499.00</span>
+                                                                                                                                                        </p>
+                                                                                        
+                                        </div>
+                                    </li>
+                                                                    <li class="ajax_block_product item">
+                                        <div class="pro_first_box"> 
+                                            <a class="product_image" href="http://www.flowerncake.com/always-mine">
+                                                <img alt="red rose and" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Precious-wishes -150x150.jpg"/> 
+                                            </a>
+
+                                            <div class="hover_fly fly_3 clearfix fturd">
+
+                                                <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/always-mine'" type="button">
+                                                    <i class="icon-basket icon-0x icon-mar-lr2"></i> 
+                                                    <span>Add to Cart</span>
+                                                </button>
+    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>--> 
+                                            </div>
+                                        </div>
+                                        <div class="pro_second_box">
+                                            <p class="s_title_block ">
+                                                <a href="http://www.flowerncake.com/always-mine">Always Mine</a>
+                                            </p>
+                                                                                            <p class="price_container">
+                                                                                                            <span class="price">INR 1,299.00</span>
+                                                                                                                                                        </p>
+                                                                                        
+                                        </div>
+                                    </li>
+                                                                    <li class="ajax_block_product item">
+                                        <div class="pro_first_box"> 
+                                            <a class="product_image" href="http://www.flowerncake.com/flower-and-cake-delivery-sunshine-moment-combo">
+                                                <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Combo/Sunshine-moments-150x150.jpg"/> 
+                                            </a>
+
+                                            <div class="hover_fly fly_3 clearfix fturd">
+
+                                                <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/flower-and-cake-delivery-sunshine-moment-combo'" type="button">
+                                                    <i class="icon-basket icon-0x icon-mar-lr2"></i> 
+                                                    <span>Add to Cart</span>
+                                                </button>
+    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>--> 
+                                            </div>
+                                        </div>
+                                        <div class="pro_second_box">
+                                            <p class="s_title_block ">
+                                                <a href="http://www.flowerncake.com/flower-and-cake-delivery-sunshine-moment-combo">Sunshine Moments</a>
+                                            </p>
+                                                                                            <p class="price_container">
+                                                                                                            <span class="price">INR 1,299.00</span>
+                                                                                                                                                        </p>
+                                                                                        
+                                        </div>
+                                    </li>
+                                                                    <li class="ajax_block_product item">
+                                        <div class="pro_first_box"> 
+                                            <a class="product_image" href="http://www.flowerncake.com/send-flowers-and-cake">
+                                                <img alt="Flower and c" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Combo/Full-of-love-150x150.jpg"/> 
+                                            </a>
+
+                                            <div class="hover_fly fly_3 clearfix fturd">
+
+                                                <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/send-flowers-and-cake'" type="button">
+                                                    <i class="icon-basket icon-0x icon-mar-lr2"></i> 
+                                                    <span>Add to Cart</span>
+                                                </button>
+    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>--> 
+                                            </div>
+                                        </div>
+                                        <div class="pro_second_box">
+                                            <p class="s_title_block ">
+                                                <a href="http://www.flowerncake.com/send-flowers-and-cake">Aura of Chocolate</a>
+                                            </p>
+                                                                                            <p class="price_container">
+                                                                                                            <span class="price">INR 999.00</span>
+                                                                                                                                                        </p>
+                                                                                        
+                                        </div>
+                                    </li>
+                                                                    <li class="ajax_block_product item">
+                                        <div class="pro_first_box"> 
+                                            <a class="product_image" href="http://www.flowerncake.com/online-flower-and-champagne-delivery-classic-champagne">
+                                                <img alt="online-flowe" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Combo/classic-champagne-150x150.jpg"/> 
+                                            </a>
+
+                                            <div class="hover_fly fly_3 clearfix fturd">
+
+                                                <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/online-flower-and-champagne-delivery-classic-champagne'" type="button">
+                                                    <i class="icon-basket icon-0x icon-mar-lr2"></i> 
+                                                    <span>Add to Cart</span>
+                                                </button>
+    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>--> 
+                                            </div>
+                                        </div>
+                                        <div class="pro_second_box">
+                                            <p class="s_title_block ">
+                                                <a href="http://www.flowerncake.com/online-flower-and-champagne-delivery-classic-champagne">Classic Champagne</a>
+                                            </p>
+                                                                                            <p class="price_container">
+                                                                                                            <span class="price">INR 1,599.00</span>
+                                                                                                                                                        </p>
+                                                                                        
+                                        </div>
+                                    </li>
+                                                                    <li class="ajax_block_product item">
+                                        <div class="pro_first_box"> 
+                                            <a class="product_image" href="http://www.flowerncake.com/online-flowers-and-cake-delivery-romantic-love">
+                                                <img alt="flower and c" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Combo/Romantic-love-150x150.jpg"/> 
+                                            </a>
+
+                                            <div class="hover_fly fly_3 clearfix fturd">
+
+                                                <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/online-flowers-and-cake-delivery-romantic-love'" type="button">
+                                                    <i class="icon-basket icon-0x icon-mar-lr2"></i> 
+                                                    <span>Add to Cart</span>
+                                                </button>
+    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>--> 
+                                            </div>
+                                        </div>
+                                        <div class="pro_second_box">
+                                            <p class="s_title_block ">
+                                                <a href="http://www.flowerncake.com/online-flowers-and-cake-delivery-romantic-love">Romantic Love</a>
+                                            </p>
+                                                                                            <p class="price_container">
+                                                                                                            <span class="price">INR 1,199.00</span>
+                                                                                                                                                        </p>
+                                                                                        
+                                        </div>
+                                    </li>
+                                                                    <li class="ajax_block_product item">
+                                        <div class="pro_first_box"> 
+                                            <a class="product_image" href="http://www.flowerncake.com/25red-rose-and-blackforest-cake-delivery">
+                                                <img alt="Flower deliv" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Ultimate Combo-150x150.jpg"/> 
+                                            </a>
+
+                                            <div class="hover_fly fly_3 clearfix fturd">
+
+                                                <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/25red-rose-and-blackforest-cake-delivery'" type="button">
+                                                    <i class="icon-basket icon-0x icon-mar-lr2"></i> 
+                                                    <span>Add to Cart</span>
+                                                </button>
+    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>--> 
+                                            </div>
+                                        </div>
+                                        <div class="pro_second_box">
+                                            <p class="s_title_block ">
+                                                <a href="http://www.flowerncake.com/25red-rose-and-blackforest-cake-delivery">Ultimate Combo</a>
+                                            </p>
+                                                                                            <p class="price_container">
+                                                                                                            <span class="price">INR 1,599.00</span>
+                                                                                                                                                        </p>
+                                                                                        
+                                        </div>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </section>
+
+<div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12" id="home_tertiary_left">                 
+        <section class="block products_block section" id="best-sellers_block_center">
+            <h4 class="title_block"><a title="Latest Product">Latest Product</a></h4>
+            <div class="flexslider" id="bestsellers-itemslider">
+                <div class="nav_top_right"></div>
+                <div class="sliderwrap products_slider">
+                    <ul class="slides">
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/Flower-Delivery">
+                                        <img alt="online flowe" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Special one/11-Carnations-flowers-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/Flower-Delivery'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/Flower-Delivery">Eleven Carnation</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 549.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/Send-flower">
+                                        <img alt="send-flower" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/flowers-bouquet-cake-and-champagne-online-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/Send-flower'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/Send-flower">Rose N Lily</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 2,699.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/online-flower-delivery">
+                                        <img alt="send_flower" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Heart-shape-bouquet-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/online-flower-delivery'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/online-flower-delivery">Flowers in Heart</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 1,499.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/Send-flowers-to-india">
+                                        <img alt="Rose flowers" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Flower_Online_sweets-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/Send-flowers-to-india'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/Send-flowers-to-india">Rose Burfi</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 1,199.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/flower-bunch-online-rose">
+                                        <img alt="rose flower" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Rose_flower_basket-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/flower-bunch-online-rose'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/flower-bunch-online-rose">Love Basket</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 5,999.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/fresh-online-flower-and-cake">
+                                        <img alt="Flower and c" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/cake-flower-with-vase-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/fresh-online-flower-and-cake'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/fresh-online-flower-and-cake">Colourful Feeling</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 2,099.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/online-flower-delivery">
+                                        <img alt="cake-flower-" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/cake_flower_delivery_to_delhi-150x150.png"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/online-flower-delivery'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/online-flower-delivery">Grand Love</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 2,599.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/Flower-cake-online">
+                                        <img alt="cake deliver" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/pink_rose_cake-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/Flower-cake-online'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/Flower-cake-online">Pink Rose and Cake</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 1,199.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/Designer-Cake-Online-Delivery">
+                                        <img alt="Jack Daniel" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Cakes/Jack Daniel Cake-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/Designer-Cake-Online-Delivery'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/Designer-Cake-Online-Delivery">Jack Daniel Cake</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 2,599.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/valentine-day-flower-online">
+                                        <img alt="send valenti" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Pure Love – Roses and Chocolates-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/valentine-day-flower-online'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/valentine-day-flower-online">Valentine  Combo</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 1,099.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/colorful-rose">
+                                        <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/New Product/colorful-rose-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/colorful-rose'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/colorful-rose">Bunch of colors</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 499.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/Christmas-cake-delivery">
+                                        <img alt="Christmas Ca" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Christmas40_DV-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/Christmas-cake-delivery'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/Christmas-cake-delivery">Christmas Truffle egg less </a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 749.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/flower-from-heart">
+                                        <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/New Product/From-my-heart-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/flower-from-heart'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/flower-from-heart">From Heart</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 1,099.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/chocolate-cake">
+                                        <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/New Combo/Choco-basket-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/chocolate-cake'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/chocolate-cake">Chocolaty Treat</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 1,199.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/rosey-champagne">
+                                        <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/New Combo/rosey-Champagne-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/rosey-champagne'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/rosey-champagne">Rosey Champagne</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 2,199.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/fruits-and-sweets">
+                                        <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/New Combo/fruit-with-sweets-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/fruits-and-sweets'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/fruits-and-sweets">Fruits and Sweets</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 2,599.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/rasgulla-combo">
+                                        <img alt="Diwali gifts" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/New Combo/rasgulla-combo-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/rasgulla-combo'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/rasgulla-combo">Rasgulla Combo</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 1,299.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/cute-smile">
+                                        <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/New Combo/cute-smile-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/cute-smile'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/cute-smile">Cute Smile</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 1,299.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/sunny-smile">
+                                        <img alt="flower and c" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/New Combo/sunny-smile-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/sunny-smile'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/sunny-smile">Sunny Smile</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 1,449.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                                    <li class="ajax_block_product first_item">
+                                <div class="pro_first_box"> 
+                                    <a class="product_image" href="http://www.flowerncake.com/sweet-love">
+                                        <img alt="carnation fl" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/New Combo/sweet-love-150x150.jpg"/> 
+                                    </a>
+                                    <div class="hover_fly fly_3 clearfix fturd">
+
+                                        <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/sweet-love'" type="button">
+                                            <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                            <span>Add to Cart</span>
+                                        </button>
+                                        <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                    </div>
+
+                                </div>
+                                <div class="pro_second_box">
+                                    <p class="s_title_block">
+                                        <a href="http://www.flowerncake.com/sweet-love">Sweet Love</a></p>
+                                                                            <p class="price_container">
+                                                                                            <span class="price">INR 1,499.00</span>
+                                                                                                                                </p>
+                                         
+                                </div>
+                            </li>
+                                            </ul>
+                </div></div>
+        </section>
+    </div>
+<div class="col-xs-12 col-sm-12 col-md-12" id="home_tertiary_right"> 
+    <section class="block products_block section " id="special-products_block_center">
+        <h4 class="title_block">
+            <a title="Bestsellers">Bestsellers Products</a>
+        </h4>
+        <div class="flexslider" id="special-itemslider">
+            <div class="nav_top_right"></div>
+            <div class="sliderwrap products_slider">
+                <ul class="slides">
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/Lovely-Wishes">
+                                    <img alt="online-flowe" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/seller/lovely-wishes-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/Lovely-Wishes'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/Lovely-Wishes">Lovely Wishes</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 899.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/red-rose-and-blackforest-cake-combo-delivery">
+                                    <img alt="Rose flower " class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Rose-and-cake-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/red-rose-and-blackforest-cake-combo-delivery'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/red-rose-and-blackforest-cake-combo-delivery">Rose and Cake</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 1,399.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/orchid-flowers-and-chocolatetruffle-cake-delivery">
+                                    <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Choco Orchid-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/orchid-flowers-and-chocolatetruffle-cake-delivery'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/orchid-flowers-and-chocolatetruffle-cake-delivery">Choco Orchid</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 1,099.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/online-flower-and-cake-delivery">
+                                    <img alt="Flower and c" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Combo/Anniversary-celebrations-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/online-flower-and-cake-delivery'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/online-flower-and-cake-delivery">Simply Pink</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 999.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/Blackforest-Cake-delivery">
+                                    <img alt="Black forest" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Half-kg-blackforest-cake-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/Blackforest-Cake-delivery'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/Blackforest-Cake-delivery">Half Kg Blackforest Cake</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 699.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/best-value">
+                                    <img alt="Flower and c" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/New Combo/best-value-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/best-value'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/best-value">Chocolaty Treat</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 945.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/rose-gerbera-and-pineapple-cake-delivery">
+                                    <img alt="rose-gerbera" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Romantic Tickle-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/rose-gerbera-and-pineapple-cake-delivery'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/rose-gerbera-and-pineapple-cake-delivery"> Romantic Tickle </a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 1,149.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/send-flowers-and-cake">
+                                    <img alt="Flower and c" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Combo/Full-of-love-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/send-flowers-and-cake'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/send-flowers-and-cake">Aura of Chocolate</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 999.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/online-flower-cake-and-teddy-delivery-cute-proposal">
+                                    <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Combo/Cute-proposal-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/online-flower-cake-and-teddy-delivery-cute-proposal'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/online-flower-cake-and-teddy-delivery-cute-proposal">Love Confession</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 1,149.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/send-online-flower-and-cake-fresh-carnation">
+                                    <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Combo/Fresh-carnation-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/send-online-flower-and-cake-fresh-carnation'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/send-online-flower-and-cake-fresh-carnation">A dash of color</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 999.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/always-yours">
+                                    <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Combo/Always-yours-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/always-yours'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/always-yours">Grace &amp; Gesture</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 1,099.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/Chocolate-Truffle-Cake-delivery">
+                                    <img alt="chocolate ca" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Half-kg-chocolatetruffle-cake-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/Chocolate-Truffle-Cake-delivery'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/Chocolate-Truffle-Cake-delivery">Half Kg Chocolate Truffle Cake.</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 699.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/send-online-gerbera-flowers-cake-and-teddy">
+                                    <img alt="10 Mixed Ger" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/COMSTAD00021-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/send-online-gerbera-flowers-cake-and-teddy'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/send-online-gerbera-flowers-cake-and-teddy">Choco Delight</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 1,299.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/Butter-scotch-cake-delivery">
+                                    <img alt="Butter scotc" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Half-Kg-Butter-scotch-cake-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/Butter-scotch-cake-delivery'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/Butter-scotch-cake-delivery">Half Kg Butter Scotch Cake</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 699.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/online-flowers-and-cake-delivery-love-with-flowers">
+                                    <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Combo/Love-with-flower-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/online-flowers-and-cake-delivery-love-with-flowers'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/online-flowers-and-cake-delivery-love-with-flowers">Love With Flowers</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 1,199.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/always-you">
+                                    <img alt="Online flowe" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/New Combo/touch-me-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/always-you'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/always-you">Love Fantasy</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 959.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/love-for-mom">
+                                    <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Mothers day/Love-for-mom-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/love-for-mom'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/love-for-mom">Love For Mom</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 499.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/chocolate-cake">
+                                    <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/New Combo/Choco-basket-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/chocolate-cake'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/chocolate-cake">Chocolaty Treat</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 1,199.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/chocolate-cake-delivery">
+                                    <img alt="Chocolate Ca" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Choco-cake-Teddy-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/chocolate-cake-delivery'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/chocolate-cake-delivery">Choco Cake N Teddy </a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 1,199.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                            <li class="ajax_block_product first_item">
+                            <div class="pro_first_box"> 
+                                <a class="product_image" href="http://www.flowerncake.com/eggless-chocolate-cake">
+                                    <img alt="" class="replace-2x img-responsive front-image" src="https://www.flowerncake.com/image/cache/data/Egg Less Cakes/Egg-less-chocolate-cake-150x150.jpg"/>
+                                </a>
+                                <div class="hover_fly fly_3 clearfix fturd">
+
+                                    <button class="btn cus-btn" onclick="location.href='http://www.flowerncake.com/eggless-chocolate-cake'" type="button">
+                                        <i class="icon-basket icon-0x icon-mar-lr2"></i>
+                                        <span>Add to Cart</span>
+                                    </button>
+                                    <!--                                                        <i class="icon-basket icon-0x icon-mar-lr2"></i><span>Order Now</span>-->
+                                </div>
+                            </div>
+                            <div class="pro_second_box">
+                                <p class="s_title_block">
+                                    <a href="http://www.flowerncake.com/eggless-chocolate-cake">Half Kg Chocolate Truffle Cake (Egg Less)</a></p>
+                                                                    <p class="price_container">
+                                                                                    <span class="price">INR 799.00</span>
+                                                                                                                    </p>
+                                     
+                            </div>
+                        </li>
+                                    </ul>
+            </div></div>
+    </section>
+</div>
+</div>
+<div class="row st_banner_block mar_b2 hidden-xs " id="banner_8">
+    <div class="col-xs-12"> 
+        <div class="welcome-side pull-left">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+<h2>                   Send Flower Online, Cake Delivery in INDIA</h2>
+
+<p><strong>Order online flower and Cake Delivery for your Loved Ones</strong></p>
+
+<p>Understanding the importance of <strong>gifts and flowers</strong> on special occasions like as in an individual’s life we at <strong>Flowerncake.com</strong> provide the fresh blossoms of flowers in variety of floral arrangements to our customers. We are the best trusted <strong>online florist</strong> partner in India that provides the delivery of <strong>Delicious cakes</strong> and exquisite flowers to our clients in the cities of <strong>Delhi, Chennai, Hyderabad, Mumbai and Pune etc.</strong><br/>
+Having an experienced delivery team with all our  employees  being well trained in carrying out the delivery on time and as per our customers requirement, one can easily send online gifts  to their loved ones through us as we are one of the best suppliers of cakes as well as flowers. </p>
+
+<p><span>We also offer facilities like</span><strong> same day flowers delivery</strong><span> to our clients so that their love can transfer to their loved ones in a short span of time thus bringing happiness to our customer’s life. We have special kinds of cakes in different tastes, shapes, colours and flavours so that the customer can have a versatility of options while choosing a cake for their special ones.</span></p>
+
+<p>So if you planning a gift for any special occasion like <strong>Birthday, Anniversary, Valentines Day, Mothers day, Love days. Christmas, Diwali and New year</strong> etc. we are the best option for <strong>online flower and cake delivery</strong> with the numerous options of <strong>midnight delivery Fix time delivery, same day delivery and customized delivery.</strong></p>
+</div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="main_content_area_footer">
+    <div class="wide_container"></div>                        
+</div>                    
+</div> 
+
+<!--<div>
+  <h2></h2>
+</div>-->
+<h1 class="hdng">All type of Flower and Cake Delivery Online at Midnight, Same Day in hole over the India</h1>
+</div>
+<footer class="footer-container" id="footer"> 
+            <section id="footer-top">
+            <div class="wide_container">
+                <div class="container">
+                    <div class="row">
+                        <section class=" easycontent col-xs-12 col-sm-3 col-md-3 block" id="easycontent_2">
+                            <a class="opener visible-xs" href="javascript:;"> </a>
+                            <h4 class="title_block"> About us</h4>
+
+                            <div class="footer_block_content">
+
+                                <p>
+                                    Flower delivery is done by Flower N Cake florists working with network of online
+                                    flower delivery shops and florist throughout INDIA including <strong>Banglore,
+                                        Delhi, Gurgaon, Mumbai, Kolkata, Pune, Chennai and Hyderabad</strong>.<br/>
+                                    Flower N Cake's professional and friendly florists are on hand to help you create
+                                    the perfect gift, with flowers delivered on time and in great condition.
+                                </p>
+                            </div>
+                        </section>
+
+                        <section class=" easycontent col-xs-12 col-sm-3 col-md-3 block" id="easycontent_3">
+                            <a class="opener visible-xs" href="javascript:;"> </a>
+                            <h4 class="title_block"> Contact Us</h4>
+
+                            <div class="footer_block_content ">
+                                <div class="mar_b4"><strong>Call Us:</strong> +91 82849-82838</div>
+                                <div class="mar_b4"><strong>E-mail:</strong> care@flowerncake.com</div>
+                                <!--<div class="mar_b4"><strong>Regd Office:</strong> Sector 19, Panchkula, Haryana - 134109
+                                </div>-->
+                            </div>
+                            <br/>
+                            <img alt="payment" src="catalog/view/theme/fncake/images/images.jpg"/>
+                        </section>
+
+                        <section class="col-xs-12 col-sm-3 block" id="facebook_like_box_footer">
+                            <a class="opener visible-xs" href="javascript:;"> </a>
+                            <h4 class="title_block">Facebook</h4>
+
+                            <div class="footer_block_content fb_like_box_warp">
+                                <div class="fb-like-box">
+                                    <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fflowerncake&amp;width&amp;height=210&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" style="border:none; overflow:hidden; width:100%; height:210px;"></iframe>
+                                </div>
+                                <div id="fb-root"></div>
+                            </div>
+                        </section>
+
+                        <section class="block col-xs-12 col-sm-3 col-md-3" id="st_blog_recent_article-footer">
+                            <a class="opener visible-xs" href="javascript:;"> </a>
+                            <h4 class="title_block">Coupons</h4>
+
+                            <div class="footer_block_content">
+                                <ul class="">
+                                    <li class="clearfix">
+                                        <a href="discount-coupon" target="_blank"><img alt="blog" src="catalog/view/theme/fncake/images/dis.jpg"/></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="footer-primary">
+        <div class="wide_container">
+            <div class="container">
+                <div class="row">
+                                            <section class="stlinkgroups_links_footer col-xs-12 col-sm-3 block " id="multilink_3">
+                            <a class="opener visible-xs" href="javascript:;"> </a>
+                            <h4 class="title_block"> Information</h4>
+                            <ul class="footer_block_content bullet">
+                                                                    <li><a href="http://www.flowerncake.com/about-us" title="About Us">About Us</a></li>
+                                                                    <li><a href="http://www.flowerncake.com/delivery-or-shipping-information" title="Delivery or Shipping Information">Delivery or Shipping Information</a></li>
+                                                                    <li><a href="http://www.flowerncake.com/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+                                                                    <li><a href="http://www.flowerncake.com/Terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+                                                                    <li><a href="http://www.flowerncake.com/cancellation-and-refund-policy" title="Cancellation &amp; Refund Policy">Cancellation &amp; Refund Policy</a></li>
+                                                                    <li><a href="http://www.flowerncake.com/Disclaimer" title="Disclaimer">Disclaimer</a></li>
+                                                                    <li><a href="http://www.flowerncake.com/discount-coupon" title="Discount Coupon">Discount Coupon</a></li>
+                                                            </ul>
+                        </section>
+                                        <section class="stlinkgroups_links_footer col-xs-12 col-sm-3 block " id="multilink_4">
+                        <a class="opener visible-xs" href="javascript:;"> </a>
+                        <h4 class="title_block"> Customer Service</h4>
+                        <ul class="footer_block_content bullet">
+                            <li><a href="http://www.flowerncake.com/information/contact">Contact Us </a></li>
+                            <!--                            <li><a href="https://www.flowerncake.com/account/return/insert" ></a></li>-->
+                            <li><a href="https://www.flowerncake.com/account/newsletter">Newsletter</a>
+                            </li>
+                            <li><a href="http://www.flowerncake.com/information/sitemap">Site Map</a></li>
+                        </ul>
+                    </section>
+
+                    <section class="block col-xs-12 col-sm-3" id="newsletter_block_left">
+                        <a class="opener visible-xs" href="javascript:;"> </a>
+                        <h4 class="title_block">My Account</h4>
+                        <ul class="footer_block_content bullet">
+                            <li><a href="https://www.flowerncake.com/account/account">My Account</a></li>
+                            <li><a href="https://www.flowerncake.com/account/order">Order History</a></li>
+                            <li><a href="https://www.flowerncake.com/account/wishlist">Wish List</a></li>
+                        </ul>
+                    </section>
+
+                    <section class="block col-xs-12 col-sm-3 col-md-3" id="social_networking_block">
+                        <a class="opener visible-xs" href="javascript:;"> </a>
+                        <h4 class="title_block">Get Social</h4>
+
+                        <div class="footer_block_content">
+                            <ul class="stsocial_list clearfix li_fl">
+                                <li><a href="https://www.facebook.com/flowerncake" id="stsocial_facebook" target="_blank" title="Facebook">
+                                        <i class="icon-facebook icon-large fb"></i>
+                                    </a></li>
+                                <li><a href="https://twitter.com/flowerncake" id="stsocial_twitter" target="_blank" title="Twitter">
+                                        <i class="icon-twitter icon-large twtr"></i>
+                                    </a></li>
+                                <li><a href="https://www.youtube.com/channel/UCrYjvq8OaiQLEzHGxrA0FPg" id="stsocial_youtube" target="_blank" title="Youtube">
+                                        <i class="icon-youtube icon-large yu"></i>
+                                    </a></li>
+                                <li><a href="https://plus.google.com/+FlowerNCakeindia/posts" id="stsocial_youtube" target="_blank" title="Google +">
+                                        <i class="icon-google icon-large ggl"></i>
+                                    </a>
+                                </li>
+                                <li><a href="https://in.pinterest.com/flowerncake/" id="stsocial_youtube" target="_blank" title="Pinterest">
+                                        <i class="icon-pinterest icon-large pin"></i>
+                                    </a></li>
+                                <li><a href="https://www.linkedin.com/company/flower-n-cake?trk=nav_account_sub_nav_company_admin" id="stsocial_youtube" target="_blank" title="LinkedIn">
+                                        <i class="icon-linkedin icon-large lnkd"></i></a>
+                                </li>
+                            </ul>
+                            <p class="clr"></p>
+                            <img alt="ssl" src="catalog/view/theme/fncake/image/ssl.jpg"/>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="bottom-footer" id="footer_info">
+        <div class="wide_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 clearfix">
+                        <aside class="pull-left" id="copyright_text">© 2014 Powered by Flower N Cake. All Rights
+                            Reserved
+                        </aside>
+                        <!--<aside id="paymants_logos" class="pull-right"> <img src="images/payment-options.png" alt="" /> </aside>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<div class="" id="rightbar">
+    <div class="clearfix rightbar_2" id="rightbar_inner">
+        <!--<div id="rightbar_cart" class="rightbar_wrap"> 
+        <a id="rightbar-shopping_cart" href="" class="rightbar_tri icon_wrap" title="View my shopping cart"> 
+        <i class="icon-basket icon-0x"></i> 
+        <span class="icon_text">Cart</span> <span class="ajax_cart_quantity amount_circle simple_hidden ">0</span> 
+        </a></div>-->
+        <div id="to_top_wrap">
+            <div id="to_top">
+                <a class="icon_wrap disabled" href="#top_bar" title="Back to top">
+                    <i class="icon-up-open-2 icon-0x"></i><span class="icon_text">Top</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+
+$.src='//v2.zopim.com/?1ZveaJKM6zptjTtTxR7G2J4Dn6Xmly0P';z.t=+new Date;$.
+
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+
+</script>
+
+<!--End of Zopim Live Chat Script-->
+
+</body></html>

@@ -1,0 +1,1831 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <meta content="florist in Hyderabad, online florist in Hyderabad, florist shops in Hyderabad, flowers in Hyderabad, online gifts Hyderabad, Hyderabad florist, send flowers in Hyderabad, flowers to Hyderabad, Hyderabad online florists, flower delivery Hyderabad, bouquet delivery in Hyderabad, cakes delivery in Hyderabad, online cake delivery Hyderabad" name="keywords"/>
+    <meta content="Send Flowers to Hyderabad, Order Cakes Online and Gifts to Hyderabad, India with the same day delivery. Online florist Shop for flower bouquet, soft toys and sweet cakes from Hyderabad Flora." name="description"/>
+    <title>
+        Hyderabad Flora - Send Flowers, Hyderabad Florist, Online Fresh Flower Delivery India</title>
+    <meta content="yes" name="allow-search"/>
+    <meta content="General" name="Rating"/>
+    <meta content="global" name="distribution"/>
+    <link href="http://www.hyderabadflora.in" rel="canonical"/>
+    <script language="JavaScript">
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+function right(e) {
+var msg = "Sorry, you don't have permission to right-click.";
+if (navigator.appName == 'Netscape' && e.which == 3) {
+alert(msg);
+return false;
+}
+if (navigator.appName == 'Microsoft Internet Explorer' && event.button==2) {
+alert(msg);
+return false;
+}
+else return true;
+}
+
+function trap() 
+  {
+  if(document.images)
+    {
+    for(i=0;i<document.images.length;i++)
+      {
+      document.images[i].onmousedown = right;
+      document.images[i].onmouseup = right;
+      }
+    }
+  }
+// End -->
+    </script>
+    <link href="css/hyderabadflora.css" rel="stylesheet" type="text/css"/>
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+        $(function () {
+            $('.slide-out-div').tabSlideOut({
+                tabHandle: '.handle',                              //class of the element that will be your tab
+                pathToTabImage: 'images/feedback.gif',          //path to the image for the tab (optionaly can be set using css)
+                imageHeight: '94px',                               //height of tab image
+                imageWidth: '30px',                               //width of tab image    
+                tabLocation: 'left',                               //side of screen where tab lives, top, right, bottom, or left
+                speed: 300,                                        //speed of animation
+                action: 'click',                                   //options: 'click' or 'hover', action to trigger animation
+                topPos: '200px',                                   //position from the top
+                fixedPosition: false                        //options: true makes it stick(fixed position) on scroll
+            });
+        });
+
+        $(function () {
+            $('.slide-out-div1').tabSlideOut1({
+                tabHandle: '.handle1',                              //class of the element that will be your tab
+                pathToTabImage: 'images/testimonial.gif',          //path to the image for the tab (optionaly can be set using css)
+                imageHeight: '94px',                               //height of tab image
+                imageWidth: '30px',                               //width of tab image    
+                tabLocation: 'right',                               //side of screen where tab lives, top, right, bottom, or left
+                speed: 300,                                        //speed of animation
+                action: 'click',                                   //options: 'click' or 'hover', action to trigger animation
+                topPos: '200px',                                   //position from the top
+                fixedPosition: false                        //options: true makes it stick(fixed position) on scroll
+            });
+        });
+		 
+
+    </script>
+    <link href="css/jqueryslidemenu.css" rel="stylesheet" type="text/css"/>
+    <script src="js/jqueryslidemenu.js" type="text/javascript"></script>
+    <script src="js/Common.js" type="text/javascript"></script>
+    <script src="js/jquery.tabSlideOut.v1.3.js"></script>
+    <script type="text/javascript">
+        function FeedbackCheck() {
+            var name = (document.getElementById("txtFeedName").value);
+            if (name == null || name == "") {
+                document.getElementById("txtFeedName").focus();
+                alert("Please enter your Name");
+                return false;
+            }
+            var mobile = (document.getElementById("txtFeedMobile").value);
+            if (mobile == null || mobile == "") {
+                document.getElementById("txtFeedMobile").focus();
+                alert("Please enter your Mobile");
+                return false;
+            }
+            var email = (document.getElementById("txtFeedEmail").value);
+            if (email == null || email == "") {
+                document.getElementById("txtFeedEmail").focus();
+                alert("Please enter your Email");
+                return false;
+            }
+            var atpos = email.indexOf("@");
+            var dotpos = email.lastIndexOf(".");
+            if (atpos < 1 || dotpos < atpos + 2 || dotpos + 2 >= email.length) {
+                document.getElementById("txtFeedEmail").focus();
+                alert("Not a valid e-mail address");
+                return false;
+            }
+            var msg = (document.getElementById("txtFeedMsg").value);
+            if (msg == null || msg == "") {
+                document.getElementById("txtFeedMsg").focus();
+                alert("Please enter your Feedback");
+                return false;
+            }
+
+            return true;
+        }
+    </script>
+    <script type="text/javascript">
+        function TestimonialCheck() {
+            var name = (document.getElementById("txtTName").value);
+            if (name == null || name == "") {
+                document.getElementById("txtTName").focus();
+                alert("Please enter your Name");
+                return false;
+            }
+            var mobile = (document.getElementById("txtTMobile").value);
+            if (mobile == null || mobile == "") {
+                document.getElementById("txtTMobile").focus();
+                alert("Please enter your Mobile");
+                return false;
+            }
+
+            var msg = (document.getElementById("txtTMsg").value);
+            if (msg == null || msg == "") {
+                document.getElementById("txtTMsg").focus();
+                alert("Please enter your Message");
+                return false;
+            }
+
+            return true;
+        }
+    </script>
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-20358445-11']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+    <!--Start of Zopim Live Chat Script
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//cdn.zopim.com/?XCXxB5FzQkvx1vkWLLdEpq0MzqLt8glN';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+End of Zopim Live Chat Script-->
+</head>
+<body onload="trap()">
+    <form action="/" id="form1" method="post">
+<div class="aspNetHidden">
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="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"/>
+</div>
+
+<div class="aspNetHidden">
+
+	<input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="CA0B0334"/>
+	<input id="__VIEWSTATEENCRYPTED" name="__VIEWSTATEENCRYPTED" type="hidden" value=""/>
+	<input id="__PREVIOUSPAGE" name="__PREVIOUSPAGE" type="hidden" value="bECvcAbWrCS8jDoXb2zjyLcgnQRrxNv4jfPGJZiCQZqDv8NhICNQaYF9Vhgs_K-d06igZAhsC1oSiE2fYgKiIzLlGqY4Cxg-mYGLzE5x7VA1"/>
+	<input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="IiBALUTYRLlhs72VIpGRAR/OflyJPUGlBi9HiZzJuoiLh4KR4AJn2me05CQ5fXt0uZyg7NjytMu3V+4eTUM4DYs/nPTqrTJXnuk4YAFSltIywNlHdKQ/eGsAdMinok9WkBF1T0UKxS7Rsza7e6LCO1jEnvF7r2HRil4hINJwrdfPGHOTLeFZR/YN/0DHpCPgy0AfBZD/xAooKQ0lMqtZuNn1HOo265pV9E71LJWO1rm4H1Vpno2cJ+H/T2fLyEVixfWYXW0rb2a7HPyQL6L6gAnZcoHEV2yBT4HlA5otDcEimmV/uTxfPfE6CVFKxDUyBBqQ+nH2SiPc+Hwz3PM9c/K/hi9+RxJrAGP0gYM0VPxX9LWQ+XJCFAO5I4mITiXFTzz24JxULH1XWjdW5HXKu0vWkAKBLSNSFaSCs99qXHF8/Jp0XzjQaI7IBtN1vuDDO4fT9Z/0O/YdiyBMEwKwQ6wVy+DsxozgkgCzjyXlTmMmjvxz4MsngXfCTcL1CE/k2wwYp4rXcGnN41itMGDOENbhpZbONCy3cot1cvx7YwSghulqXyiSYTUBbf9qdXHlYKZE5ai4ohcxiO8SLH3k+kj2a+TznxdEun2ndH66sTzjDF5mxAQLMC1m4gyGFPTQLwPft72tVXneOlGLZ26TPA=="/>
+</div>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" width="990">
+        <tbody><tr>
+            <td align="left" style="background: #ffffff;" valign="top">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody><tr>
+                        <td align="left" style="background: url(images/top-bg.gif) repeat-x;" valign="top">
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="960">
+                                <tbody><tr>
+                                    <td align="center" valign="top">
+                                        
+
+<link href="images/favicon.ico" rel="shortcut icon"/>
+<!--<link rel="icon" href="animated_favicon.gif" type="image/gif" />-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31591660-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+         
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="960">
+    <tbody><tr>
+        <td align="left" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody><tr>
+                    <td align="left" valign="top" width="229">
+                        <a href="http://www.hyderabadflora.in">
+                            <img border="0" height="64" src="images/logo.gif" width="229"/></a>
+                    </td>
+                    <td align="left" valign="top" width="18"> 
+                        
+                    </td>
+                    <td align="left" style="padding-top:0px;" valign="top" width="350">
+                    <div class="hey1">For assistance, call us +91 98189 38263 </div>
+                    <div>
+                        <span class="hey">Frantic Friday  &gt; </span><span class="hey1">Fantastic Friday !</span></div>
+                    </td>
+                    
+                    <td align="left" valign="top">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tbody><tr>
+                                <td align="right" class="top" valign="top">
+                                    <a class="top-link" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("header$lnkAccount", "", false, "", "userdashboard", false, true))' id="header_lnkAccount">My Account |</a>
+                                    <a class="top-link" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("header$lnkTrackOrder", "", false, "", "trackorder", false, true))' id="header_lnkTrackOrder">Track Order |</a>
+                                    <a class="top-link" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("header$lnkCustomerService", "", false, "", "cutomorder", false, true))' id="header_lnkCustomerService">Custom Order |</a>
+                                    <a class="top-link" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("header$lnkSignin", "", false, "", "signin", false, true))' id="header_lnkSignin">Sign in </a>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" valign="top">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                        <tbody><tr>
+                                            <td align="left" style="padding-top: 5px;" valign="top" width="35"><a href="https://plus.google.com/u/0/107293428156496307839/about" target="_blank"></a></td>
+                                            <td align="left" style="padding-top: 5px;" valign="top" width="35"><a href="http://www.facebook.com/onlineflowershop" target="_blank"></a></td>
+                                            <td align="left" style="padding-top: 5px;" valign="top"><a href="https://twitter.com/#!/hyderabadflora1" target="_blank"></a></td>
+                                            <td align="left" height="46" valign="top" width="248">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <tbody><tr>
+                                                        <td align="left" height="5" valign="top"><img height="5" src="images/search-top.gif" width="248"/></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" style="background: url(images/search-bg.gif) repeat-y;" valign="top">
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                <tbody><tr>
+                                                                    <td align="left" valign="top" width="15"> 
+                                                                        
+                                                                    </td>
+                                                                    <td align="left" valign="top" width="65"><a href="ReviewCart"><img border="0" height="34" src="images/cart.gif" width="65"/></a></td>
+                                                                    <td align="center" class="item" valign="top">
+                                                                        <span id="header_lblItm">0</span>
+                                                                        item(s) : INR. <span id="header_lblAmt">0</span>
+                                                                    </td>
+                                                                    <td align="left" style="padding-top: 10px;" valign="top" width="20"><a href="ReviewCart"><img height="20" src="images/checkout-icon.gif" width="20"/></a></td>
+                                                                    <td align="left" valign="top" width="9"> 
+                                                                        
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td align="left" height="6" valign="top">
+                                                                    </td>
+                                                                    <td align="left" valign="top">
+                                                                    </td>
+                                                                    <td align="left" valign="top">
+                                                                    </td>
+                                                                    <td align="left" valign="top">
+                                                                    </td>
+                                                                    <td align="left" valign="top">
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" style="background: url(images/search-bg.gif) repeat-y;" valign="top">
+                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="246">
+                                                                <tbody><tr>
+                                                                    <td align="left" height="2" style="background: url(images/search-line.gif) repeat-x;" valign="top">
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr>
+        <td align="left" height="48" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" height="48" width="100%">
+                <tbody><tr>
+                    <td align="left" valign="bottom">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tbody><tr>
+                                <td align="left" valign="top">
+                                    <div class="jqueryslidemenu" id="myslidemenu">
+                                        <ul>
+                                            <li>
+                                                
+                                            </li>
+                                            
+                                            <li><a href="detail-flowers" style="border-right: 2px solid #FFFFFF;">Flowers</a>
+                                                <ul>
+                                                    
+                                                            <li><a href="floral-bunches-collection">
+                                                                Floral Bunches</a> </li>
+                                                        
+                                                            <li><a href="floral-arrangements-collection">
+                                                                Floral Arrangements</a> </li>
+                                                        
+                                                            <li><a href="floral-pots-collection">
+                                                                Floral Pots</a> </li>
+                                                        
+                                                </ul>
+                                            </li>
+                                            
+                                            <li><a href="detail-combos" style="border-right: 2px solid #FFFFFF;">Combo</a>
+                                                <ul>
+                                                    
+                                                            <li><a href="flowers-with-soft-toys-collection">
+                                                                Flowers with Soft Toys</a> </li>
+                                                        
+                                                            <li><a href="flowers-with-cakes-collection">
+                                                                Flowers with Cakes</a> </li>
+                                                        
+                                                            <li><a href="flowers-with-chocolates-collection">
+                                                                Flowers with Chocolates</a> </li>
+                                                        
+                                                            <li><a href="flowers-with-cakes-n-teddy-collection">
+                                                                Flowers with Cakes N Teddy</a> </li>
+                                                        
+                                                            <li><a href="flowers-with-chocolate-n-teddy-collection">
+                                                                Flowers with Chocolate N Teddy</a> </li>
+                                                        
+                                                            <li><a href="flowers-chocolate-cake-n-teddy-collection">
+                                                                Flowers Chocolate Cake N Teddy</a> </li>
+                                                        
+                                                </ul>
+                                            </li>
+                                            
+                                            <li><a href="detail-cakes" style="border-right: 2px solid #FFFFFF;">Cakes</a>
+                                                <ul>
+                                                    
+                                                            <li><a href="egg-cake-collection">
+                                                                Egg Cake</a> </li>
+                                                        
+                                                            <li><a href="eggless-cake-collection">
+                                                                Eggless Cake</a> </li>
+                                                        
+                                                </ul>
+                                            </li>
+                                            
+                                            <li><a href="detail-plants" style="border-right: 2px solid #FFFFFF;">Plants</a>
+                                                <ul>
+                                                    
+                                                            <li><a href="lucky-bamboo-collection">
+                                                                Lucky Bamboo</a> </li>
+                                                        
+                                                </ul>
+                                            </li>
+                                            
+                                            <li><a href="detail-special-day" style="border-right: 2px solid #FFFFFF;">Special Days</a>
+                                                <ul>
+                                                    
+                                                </ul>
+                                            </li>
+                                            
+                                            <li><a href="detail-gift-items">Gift items</a>
+                                                <ul>
+                                                    
+                                                            <li><a href="chocolates-collection">
+                                                                Chocolates</a> </li>
+                                                        
+                                                            <li><a href="sweets-collection">
+                                                                Sweets</a> </li>
+                                                        
+                                                            <li><a href="rakhi-collection">
+                                                                Rakhi</a> </li>
+                                                        
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                    <td align="left" valign="top" width="2"> 
+                        
+                    </td>
+                    <td align="left" valign="top" width="248">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tbody><tr>
+                                <td align="left" style="background: url(images/search-bg.gif) repeat-y;" valign="top">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                        <tbody><tr>
+                                            <td align="left" height="16" valign="top">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="left" valign="top">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <tbody><tr>
+                                                        <td align="left" valign="top" width="10"> 
+                                                            
+                                                        </td>
+                                                        <td align="left" valign="bottom" width="95">
+                                                            <select class="select-drop" id="header_ddlPrice" name="header$ddlPrice">
+	<option value="0">By Price</option>
+	<option value="1">Below Rs. 500</option>
+	<option value="2">Rs. 500 To 1000</option>
+	<option value="3">Rs. 1000 To 1500</option>
+	<option value="4">Rs. 1500 To 2000</option>
+	<option value="5">Above Rs. 2000</option>
+
+</select>
+                                                        </td>
+                                                        <td align="left" valign="top" width="5"> 
+                                                            
+                                                        </td>
+                                                        <td align="left" valign="bottom" width="95">
+                                                            <select class="select-drop" id="header_ddlCategory" name="header$ddlCategory">
+	<option value="0">By Category</option>
+	<option value="1">Flowers</option>
+	<option value="2">Combo</option>
+	<option value="3">Cakes</option>
+	<option value="4">Special Days</option>
+
+</select>
+                                                        </td>
+                                                        <td align="left" style="padding-left: 10px;" valign="top">
+                                                        <input id="header_btnSearch" name="header$btnSearch" src="images/search-icon.gif" type="image"/>
+                                                            
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" height="5" valign="top"><img height="5" src="images/search-bottom.gif" width="248"/></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr>
+        <td align="left" height="10" valign="top">
+        </td>
+    </tr>
+</tbody></table>
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" valign="top">
+                                        
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="960">
+<tbody><tr><td align="center" valign="top">
+<img alt="Banner" border="0" height="253" src="banner/birthday-banner.jpg" width="975"/>
+
+</td></tr></tbody></table>
+                                        
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" valign="top">
+                                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                            <tbody><tr>
+                                                <td align="left" valign="top" width="220">
+                                                    
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr>
+        <td align="left" height="8" valign="top">
+        </td>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                
+                <tbody><tr>
+                    <td align="left" valign="top">
+                        <a class="left-menu" href="occassion-anniversary">Anniversary</a>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td align="left" valign="top">
+                        <a class="left-menu" href="occassion-birthday">Birthday</a>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td align="left" valign="top">
+                        <a class="left-menu" href="occassion-romance">Romance</a>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td align="left" valign="top">
+                        <a class="left-menu" href="occassion-get well">Get Well</a>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td align="left" valign="top">
+                        <a class="left-menu" href="occassion-missing you">Missing You</a>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td align="left" valign="top">
+                        <a class="left-menu" href="occassion-thanks">Thanks</a>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td align="left" valign="top">
+                        <a class="left-menu" href="occassion-wedding">Wedding</a>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td align="left" valign="top">
+                        <a class="left-menu" href="occassion-sorry">Sorry</a>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td align="left" valign="top">
+                        <a class="left-menu" href="occassion-new arrival">New Arrival</a>
+                    </td>
+                </tr>
+                
+                
+            </tbody></table>
+        </td>
+    </tr>
+    
+     
+    <tr>
+        <td align="left" height="25" valign="top"> 
+            
+        </td>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
+        
+                    
+             
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                          <tbody><tr>
+                            <td align="left" valign="top">
+							<div id="calenderBox">
+								<!--<div class="title">Forthcoming Occasion</div>-->
+								<div class="bottom">
+									
+									
+									
+									
+								</div>
+							</div>
+							
+							
+							</td>
+                          </tr>
+                          
+                        </tbody></table>
+         
+                
+        </td>
+    </tr>
+    <tr>
+        <td align="left" height="25" valign="top"> 
+            
+        </td>
+    </tr>
+    <tr>
+        <td align="left" style="background: url(images/guarentee-bg.gif) repeat-x #FFBC57;" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody><tr>
+                    <td align="left" valign="top" width="14">                     </td>
+                </tr>
+                <tr>
+                    <td align="left" valign="top">                     </td>
+                </tr>
+                <tr>
+                    <td align="left" valign="top">                     </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+                                                </td>
+                                                <td align="left" valign="top" width="22">
+                                                     
+                                                </td>
+                                                <td align="left" valign="top">
+                                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody><tr>
+                                                            <td align="left" valign="top">
+                                                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                    <tbody><tr>
+                                                                        <td align="left" class="product-head-purple" valign="top">
+                                                                            Special Day <a class="view-all" href="Detail-Special Day">( view all )</a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="left" height="1" valign="top">
+                                                                            <img height="1" src="images/line-top.gif" width="718"/>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="left" valign="top">
+                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                <tbody><tr>
+                                                                                    <td align="left" colspan="6" height="8" valign="top">
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>
+                                                                                        <table cellspacing="0" id="dlSpecial" style="border-collapse:collapse;">
+	<tbody><tr>
+		<td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Lovingly,-Yours">
+                                                                                                                            <img border="0" height="193" src="Gallery/20111109102848_thumb_12_red_roses_bunch2.jpg" title="Lovingly, Yours" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Lovingly, Yours
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    479.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $7.68
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="Product-lovingly,-yours">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td><td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Dewdrops">
+                                                                                                                            <img border="0" height="193" src="Gallery/20111109104126_thumb_12roses_6lilies[1700].jpg" title="Dewdrops" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Dewdrops
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    999.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $16.02
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="Product-dewdrops">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td><td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Roses-Lovers">
+                                                                                                                            <img border="0" height="193" src="Gallery/20150205051207_thumb_bouquet_of_red_roses.jpg" title="Roses Lovers" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Roses Lovers
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    569.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $9.12
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="Product-roses-lovers">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td><td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Teddy-Chocolate-Flowers-Arrangment">
+                                                                                                                            <img border="0" height="193" src="Gallery/20150205091713_thumb_Heart_shape_with_chocolate_and_teddy.jpg" title="Teddy Chocolate Flowers Arrangment" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Teddy Chocolate Flowers Arrangment
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    2159.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $34.62
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="Product-teddy-chocolate-flowers-arrangment">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td>
+	</tr>
+</tbody></table>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody></table>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="left" height="1" valign="top">
+                                                                            <img height="1" src="images/line-bottom.gif" width="718"/>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left" height="15" valign="top">
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left" valign="top">
+                                                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                    <tbody><tr>
+                                                                        <td align="left" class="product-head-brown" valign="top">
+                                                                            Flower <a class="view-all2" href="Detail-Flowers">( view all )</a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="left" height="1" valign="top">
+                                                                            <img height="1" src="images/line-brown-top.gif" width="718"/>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="left" valign="top">
+                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                <tbody><tr>
+                                                                                    <td align="left" colspan="6" height="8" valign="top">
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>
+                                                                                        <table cellspacing="0" id="dlFlowers" style="border-collapse:collapse;">
+	<tbody><tr>
+		<td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Gone-With-The-Wind">
+                                                                                                                            <img border="0" height="193" src="Gallery/20111109112925_thumb_flv075a1.jpg" title="Gone With The Wind" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Gone With The Wind
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    469.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $7.52
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="Product-gone-with-the-wind">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td><td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-The-Odyssey-of-Love">
+                                                                                                                            <img border="0" height="193" src="Gallery/20111109114118_thumb_mix_roses_bunch.jpg" title="The Odyssey of Love" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        The Odyssey of Love
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    479.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $7.68
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="Product-the-odyssey-of-love">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td><td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Bouquet-of-Roses">
+                                                                                                                            <img border="0" height="193" src="Gallery/20150204092342_thumb_Bouquet_of_24_Red_Roses.jpg" title="Bouquet of Roses" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Bouquet of Roses
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    1199.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $19.23
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="Product-bouquet-of-roses">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td><td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Red-Poise">
+                                                                                                                            <img border="0" height="193" src="Gallery/20150204093337_thumb_Beauty_of_Love.jpg" title="Red Poise" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Red Poise
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    719.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $11.53
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="Product-red-poise">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td>
+	</tr>
+</tbody></table>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody></table>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="left" height="1" valign="top">
+                                                                            <img height="1" src="images/line-brown-bottom.gif" width="718"/>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left" height="20" valign="top">
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left" valign="top">
+                                                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                    <tbody><tr>
+                                                                        <td align="left" class="product-head-purple" valign="top">
+                                                                            Combo <a class="view-all" href="Detail-Combos">( view all )</a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="left" height="1" valign="top">
+                                                                            <img height="1" src="images/line-top.gif" width="718"/>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="left" valign="top">
+                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                <tbody><tr>
+                                                                                    <td align="left" colspan="6" height="8" valign="top">
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>
+                                                                                        <table cellspacing="0" id="dlCombo" style="border-collapse:collapse;">
+	<tbody><tr>
+		<td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Love-Forever-(C)">
+                                                                                                                            <img border="0" height="193" src="Gallery/20111109050452_thumb_03.jpg" title="Love Forever (C)" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Love Forever (C)
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    1099.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $17.62
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="Product-love-forever-(c)">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td><td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Love-Forever-(Choc)">
+                                                                                                                            <img border="0" height="193" src="Gallery/20111109052525_thumb_red_c.jpg" title="Love Forever (Choc)" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Love Forever (Choc)
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    1149.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $18.43
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="Product-love-forever-(choc)">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td><td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Love-Forever-(S)">
+                                                                                                                            <img border="0" height="193" src="Gallery/20111109050027_thumb_08.jpg" title="Love Forever (S)" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Love Forever (S)
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    699.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $11.21
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="Product-love-forever-(s)">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td><td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Love-Forever">
+                                                                                                                            <img border="0" height="193" src="Gallery/20120928011026_thumb_CF331.jpg" title="Love Forever" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Love Forever
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    649.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $10.41
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="Product-love-forever">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td>
+	</tr>
+</tbody></table>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody></table>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="left" height="1" valign="top">
+                                                                            <img height="1" src="images/line-bottom.gif" width="718"/>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left" height="20" valign="top">
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left" valign="top">
+                                                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                    <tbody><tr>
+                                                                        <td align="left" class="product-head-brown" valign="top">
+                                                                            Cake <a class="view-all2" href="Detail-Cakes">( view all )</a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="left" height="1" valign="top">
+                                                                            <img height="1" src="images/line-brown-top.gif" width="718"/>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="left" valign="top">
+                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                <tbody><tr>
+                                                                                    <td align="left" colspan="6" height="8" valign="top">
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>
+                                                                                        <table cellspacing="0" id="dlCake" style="border-collapse:collapse;">
+	<tbody><tr>
+		<td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Brown-Velvet">
+                                                                                                                            <img border="0" height="193" src="Gallery/20111109023209_thumb_cake2.jpg" title="Brown Velvet" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Brown Velvet
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    1299.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $20.83
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="product-brown-velvet">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td><td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Poles-Apart">
+                                                                                                                            <img border="0" height="193" src="Gallery/20111109032625_thumb_Oct07_4.jpg" title="Poles Apart" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Poles Apart
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    949.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $15.22
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="product-poles-apart">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td><td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Ingenuity">
+                                                                                                                            <img border="0" height="193" src="Gallery/20111109033305_thumb_cake8.jpg" title="Ingenuity" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Ingenuity
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    899.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $14.42
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="product-ingenuity">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td><td>
+                                                                                                <table width="178">
+                                                                                                    <tbody><tr>
+                                                                                                        <td align="left" valign="top" width="175">
+                                                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                                                <tbody><tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <a href="Product-Valentine-Special">
+                                                                                                                            <img border="0" height="193" src="Gallery/20150205085807_thumb_vanilla_cake.jpg" title="Valentine Special" width="175"/></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" class="product-name" valign="top">
+                                                                                                                        Valentine Special
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" valign="top">
+                                                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                                                                            <tbody><tr>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    INR
+                                                                                                                                    1199.00
+                                                                                                                                </td>
+                                                                                                                                <td align="center" class="product-txt" valign="top">
+                                                                                                                                    |
+                                                                                                                                </td>
+                                                                                                                                <td align="center" valign="top">
+                                                                                                                                    $19.23
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" colspan="3">
+                                                                                                                                    <a class="product-buy" href="product-valentine-special">Buy
+                                                                                                                                        Now</a>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody></table>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </tbody></table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td>
+	</tr>
+</tbody></table>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody></table>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="left" height="1" valign="top">
+                                                                            <img height="1" src="images/line-brown-bottom.gif" width="718"/>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="30" valign="top">
+                                         
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" valign="top">
+                                        
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody><tr>
+                    <td align="left" height="1" style="background:url(images/line.gif) repeat-x;" valign="top"></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="180">
+                      <tbody><tr>
+                        <td align="left" valign="top" width="8"><img height="22" src="images/shop-left.gif" width="8"/></td>
+                        <td align="left" class="shop-txt" style="background:url(images/shop-bg.gif) repeat-x;" valign="top">Recently ordered products</td>
+                        <td align="left" valign="top" width="8"><img height="22" src="images/shop-right.gif" width="8"/></td>
+                      </tr>
+                    </tbody></table></td>
+                  </tr>
+                  <tr>
+                    <td align="left" height="5" valign="top"></td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="top">
+    <table cellspacing="0" id="marquee_rptProducts" style="border-collapse:collapse;">
+	<tbody><tr>
+		<td>
+<div style="padding-left:20px;padding-right:20px;text-align:center;">
+
+<a href="Product-Love, Forever" title="Love, Forever"><img alt="Love, Forever" border="0" height="100" src="Gallery/20111109102540_thumb_4.jpg" title="Love Forever" width="100"/></a><br/>
+<span class="shop-product-name"><strong>Love, Forever</strong></span>
+</div>
+</td><td>
+<div style="padding-left:20px;padding-right:20px;text-align:center;">
+
+<a href="Product-Enchantment" title="Enchantment"><img alt="Enchantment" border="0" height="100" src="Gallery/20111109052216_thumb_cm265_f.jpg" title="Enchantment" width="100"/></a><br/>
+<span class="shop-product-name"><strong>Enchantment</strong></span>
+</div>
+</td><td>
+<div style="padding-left:20px;padding-right:20px;text-align:center;">
+
+<a href="Product-Sumptuous Berry" title="Sumptuous Berry"><img alt="Sumptuous Berry" border="0" height="100" src="Gallery/20111109033043_thumb_Oct07_2.jpg" title="Sumptous-Berry" width="100"/></a><br/>
+<span class="shop-product-name"><strong>Sumptuous Berry</strong></span>
+</div>
+</td><td>
+<div style="padding-left:20px;padding-right:20px;text-align:center;">
+
+<a href="Product-The Odyssey of Love" title="The Odyssey of Love"><img alt="The Odyssey of Love" border="0" height="100" src="Gallery/20111109114118_thumb_mix_roses_bunch.jpg" title="The Odyssey Of Love" width="100"/></a><br/>
+<span class="shop-product-name"><strong>The Odyssey of Love</strong></span>
+</div>
+</td><td>
+<div style="padding-left:20px;padding-right:20px;text-align:center;">
+
+<a href="Product-Red Carnation !" title="Red Carnation !"><img alt="Red Carnation !" border="0" height="100" src="Gallery/20121118102846_thumb_BF0184.jpg" title="Red Carnation !" width="100"/></a><br/>
+<span class="shop-product-name"><strong>Red Carnation !</strong></span>
+</div>
+</td><td>
+<div style="padding-left:20px;padding-right:20px;text-align:center;">
+
+<a href="Product-Roses Lovers" title="Roses Lovers"><img alt="Roses Lovers" border="0" height="100" src="Gallery/20150205051207_thumb_bouquet_of_red_roses.jpg" title="roses-lovers" width="100"/></a><br/>
+<span class="shop-product-name"><strong>Roses Lovers</strong></span>
+</div>
+</td>
+	</tr>
+</tbody></table>
+
+
+
+</td>
+                  </tr>
+				  <tr>
+                    <td align="left" height="8" valign="top"></td>
+                  </tr>
+                </tbody></table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" valign="top">
+                                        
+
+</td></tr><tr>
+    <td align="left" bgcolor="#F8F8F8" valign="top">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr>
+                <td align="left" height="2" style="background: url(images/footer-line-hori.gif) repeat-x;" valign="top">
+                </td>
+            </tr>
+            <tr>
+                <td align="left" height="4" valign="top">
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="top">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody><tr>
+                            <td align="left" class="txt" valign="top" width="657">
+                                <div><span class="footer_heading">Send Flowers, Gifts &amp; Cakes to Hyderabad</span></div>
+                                 <div><p align="justify">Welcome to Hyderabad  Flora – Your ultimate choice for a premium <strong>florist in Hyderabad</strong>.<br/>
+  <br/>
+  Planning a delightful  surprise for that special person in your life this <strong>Valentine’s Day</strong>? The  best birthday gift for your loved one? Or a special treat on your 1st marriage  anniversary? We, at Hyderabad Flora, provides the best <strong>gift</strong> idea that will enchant, engage, and enhance  the happiness and glory of any occasion, touching the heart of your special  ones in the most beautiful manner.<br/>
+  <br/>
+  With beautiful and  sincere social expressions being an important part of life, Hyderabad Flora  have added a touch of charm and glory to it, pioneering the concept of online  flower <strong><em>bouquet  delivery in Hyderabad</em></strong>.  Now, you can conveniently send flowers to Hyderabad from any corner of the  world, anytime, adding to the happiness and joy of your loved ones on any  special occasion. We are a top notch Hyderabad florist, having a huge network  of local flower growers and premium flowers shops in Hyderabad, which help us  to guarantee prompt delivery of fresh flowers and delicious <strong><u><a href="http://www.hyderabadflora.in/detail-cakes">cakes</a></u></strong> without any compromise with the quality.<br/>
+  <br/>
+  <strong>Our  Services:</strong> <br/>
+  Over 5 years of  industry experience in floral gifting, Hyderabad Flora have beautifully carved  out a niche amongst florists shops in Hyderabad, offering dedicated services  and a comprehensive range of exquisite flower Hyderabad for any occasion, any  time. With rapid technology advancements, we have taken the concept of floral  gifting online, making the impossible happen!! Now, you can sit in any corner  of the world and send flowers to Hyderabad in the most convenient manner  online. Simply visit our website and pick from an exclusive collection of  floral arrangements and bouquets, and we guarantee prompt delivery right at  your doorstep.  <br/>
+      <br/>
+  At the same time, we also help you send gifts to Hyderabad, offering a huge  collection of lovely gift items, exotic plants, and mouth-watering cakes that  add to the joy and merriment of any occasion. Even if it is impossible for you  to be a part of the occasion, your small token of love and warm wishes convey  that you remember the special day, no matter wherever you are. Our dedicated  and prompt service <strong>flower bouquet delivery in Hyderabad</strong>, with the guarantee of same day delivery,  makes us a preferred choice in florist Hyderabad.<br/>
+  <br/>
+  <strong>How  we are Different?</strong> <br/>
+Hyderabad Flora is a  renowned name in online florist Hyderabad, offering unparalleled services and  umpteen choices that has helped us stand out in the competition. The rationales  behind choosing us as your preferred flowers shop in Hyderabad are:</p>
+<div align="justify">
+  <ul>
+    <li>Prompt and reliable  delivery</li>
+    <li>Exclusive collection  of beautiful flower Hyderabad</li>
+    <li>A wide range of gift  items and delicious cakes for any occasion</li>
+    <li>Simple online shopping  with easy to use, intuitive interface</li>
+    <li>100% customer  satisfaction</li>
+    <li>Competitive prices</li>
+    <li>Free home delivery</li>
+    <li>Same day delivery</li>
+  </ul>
+</div>
+<p align="justify"><strong>Contact  Us:</strong> </p>
+<div align="justify">For prompt and reliable <strong><u><a href="http://www.hyderabadflora.in/">flowers delivery in Hyderabad</a></u></strong>, contact Hyderabad Flora  today on +91-9818938263. You can also email us at <a href="mailto:contact@hyderabadflora.in">contact@hyderabadflora.in</a> for further information. </div></div>
+                              
+                            </td>
+                            <td align="left" style="background: url(images/footer-line-verti.gif) repeat-y;" valign="top" width="1">
+                            </td>
+                            <td align="left" valign="top">
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody><tr>
+                                        <td align="left" class="customer" colspan="2" valign="top">
+                                            Customer Testimonials
+                                                                                    </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="left" class="txt" colspan="2" valign="top">
+                                            <iframe frameborder="0" height="130" hspace="0" id="tickermain" marginheight="0" marginwidth="0" scrolling="no" src="exfile.aspx" vspace="0" width="250"></iframe>                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2" height="60">                                         </td>
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td align="center"></td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" height="5" valign="top">
+                </td>
+            </tr>
+            <tr>
+                <td align="left" height="1" style="background: url(images/line.gif) repeat-x;" valign="top">
+                </td>
+            </tr>
+            <tr>
+                <td align="left" height="5" valign="top">
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="top">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody><tr>
+                            <td align="left" valign="top" width="687">
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody><tr>
+                                        <td align="left" class="important" valign="top">
+                                            Important Links
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="left" height="15" valign="top"><!-- Start of StatCounter Code for Dreamweaver -->
+<script type="text/javascript">
+var sc_project=10360351; 
+var sc_invisible=1; 
+var sc_security="78553bcc"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a href="http://statcounter.com/" target="_blank" title="website
+statistics"><img alt="website statistics" class="statcounter" src="http://c.statcounter.com/10360351/0/78553bcc/1/"/></a></div></noscript>
+<!-- End of StatCounter Code for Dreamweaver -->
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="left" class="footer" valign="top">
+                                            <a class="footer-link" href="http://www.hyderabadflora.in">Home</a>   |
+                                               <a class="footer-link" href="AboutUs">About Us</a>   |   <a class="footer-link" href="FAQ's">FAQ's</a>   |   <a class="footer-link" href="ContactUs">Contact Us</a>   |   <a class="footer-link" href="TermsandCondition">Terms &amp; Conditions</a>   |
+                                              <a class="footer-link" href="SubstitutionPolicy">Substitution Policy</a>  
+                                            |   <a class="footer-link" href="SafeShopping">Safe Shopping Policy</a>  
+                                            |   <a class="footer-link" href="DeliveryInformation">Delivery Information</a>  
+                                            |   <a class="footer-link" href="CutomOrder">Custom Orders</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="left" style="background: url(images/footer-line-verti.gif) repeat-y;" valign="top" width="1">
+                            </td>
+                            <td align="left" valign="top">
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody><tr>
+                                        <td align="left" class="customer" valign="top">
+                                            Customer Support
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="left" valign="top">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+                                                <tbody><tr>
+                                                    <td align="left" class="contact-bold" valign="top" width="48">
+                                                        Phone
+                                                    </td>
+                                                    <td align="center" class="contact-collon" valign="middle" width="10">
+                                                        :
+                                                    </td>
+                                                    <td align="left" class="contact-txt" valign="top">
+                                                        +91-98189 38263                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="left" class="contact-bold" valign="top">
+                                                        Email
+                                                    </td>
+                                                    <td align="left" class="contact-collon" valign="top">
+                                                        :
+                                                    </td>
+                                                    <td align="left" class="contact-txt" valign="top">
+                                                        <a class="email" href="mailto:contact@hyderabadflora.in">contact@hyderabadflora.in</a>
+                                                    </td>
+                                                </tr>
+                                               
+                                               
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" height="4" valign="top">
+                </td>
+            </tr>
+            <tr>
+                <td align="left" height="2" style="background: url(images/footer-line-hori1.gif) repeat-x;" valign="top">
+                </td>
+            </tr>
+        </tbody></table>
+    </td>
+</tr>
+<tr>
+    <td height="5" valign="top">
+    </td>
+</tr>
+<tr>
+                <td valign="top">
+				<div id="footer2">
+				    <div class="thumb">
+                        
+					</div>
+					
+					
+					<div class="clr"></div>
+				</div>
+				</td>
+              </tr>
+			  <tr>
+                <td height="5" valign="top"></td>
+              </tr>
+
+
+                                    
+                                
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+    <div class="slide-out-div">
+        <a class="handle" href="#">Content</a> <span class="testi_1">Want us to incorporate
+            your ideas? Please let us know</span><br/>
+        <br/>
+        <span class="testi">Name :</span><br/>
+        <input class="tex" id="txtFeedName" name="txtFeedName" type="text"/>
+        <br/>
+        <span class="testi">Mobile :</span><br/>
+        <input class="tex" id="txtFeedMobile" name="txtFeedMobile" onkeypress="return isNumeric(event,this,'N','N')" type="text"/>
+        <br/>
+        <span class="testi">Email :</span><br/>
+        <input class="tex" id="txtFeedEmail" name="txtFeedEmail" type="text"/>
+        <br/>
+        <span class="testi">Feedback :</span><br/>
+        <textarea class="tex_1" cols="20" id="txtFeedMsg" name="txtFeedMsg" rows="5"></textarea>
+        <br/>
+        <input id="btnFeedSubmit" name="btnFeedSubmit" onclick="return FeedbackCheck();" src="images/Sub.gif" style="height:32px;width:81px;" type="image"/>
+    </div>
+    <div class="slide-out-div1">
+        <a class="handle1" href="#">Content</a> <span class="testi_1">Loved our work? Please
+            let us know</span><br/>
+        <span class="testi">Name :</span><br/>
+        <input class="tex" id="txtTName" name="txtTName" type="text"/>
+        <br/>
+        <span class="testi">Mobile :</span><br/>
+        <input class="tex" id="txtTMobile" name="txtTMobile" onkeypress="return isNumeric(event,this,'N','N')" type="text"/>
+        <br/>
+        <span class="testi">Message :</span><br/>
+        <textarea class="tex_1" cols="20" id="txtTMsg" name="txtTMsg" rows="5"></textarea>
+        <br/>
+        <input id="btnTestiSubmit" name="btnTestiSubmit" onclick="return TestimonialCheck();" src="images/Sub.gif" style="height:32px;width:81px;" type="image"/>
+    </div>
+    </form>
+
+
+</body></html>

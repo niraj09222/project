@@ -1,0 +1,2142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><link href="favicon.ico" rel="icon" type="image/x-icon"/><link href="favicon.ico" rel="shortcut icon" type="image/x-icon"/><link href="css/style.css" rel="stylesheet" type="text/css"/><link href="css/global.css" rel="stylesheet" type="text/css"/><link href="css/button.css" rel="stylesheet" type="text/css"/>
+    <script src="Scripts/AC_RunActiveContent.js" type="text/javascript"> </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js" type="text/javascript"></script>
+    <script src="js/slides.min.jquery.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('#slides').slides({
+                preload: true,
+                preloadImage: 'img/loading.gif',
+                play: 5000,
+                pause: 2500,
+                hoverPause: true
+               
+            });
+        });
+
+        $(function () {
+
+            change_color_on();
+
+
+            // $(".ani_color").animate({ color: "#000000", background: "#ff9900" }, 1000);
+            //alert("show");
+            //$(".ani_color").animate({"width": "50px"}, "slow");
+            function change_color_on() {
+                $(".instapay").animate({ color: "#999999" }, 10, function () { change_color_on_hold() });
+
+            }
+
+            function change_color_on_hold() {
+                $(".instapay").animate({ color: "#999999" }, 700, function () { change_color_ff() });
+
+            }
+
+            function change_color_ff() {
+                $(".instapay").animate({ color: "#c10000" }, 10, function () { change_color_hold() });
+
+            }
+
+            function change_color_hold() {
+                $(".instapay").animate({ color: "#c10000" }, 700, function () { change_color_on() });
+
+            }
+
+
+
+
+
+
+        });
+
+
+    </script>
+    <title>
+	
+Send Flowers to India, Cake to India, Online Flower Delivery to New Delhi, Mumbai, Bangalore, Chennai, Hyderabad Same Day Delivery
+
+</title>
+      <style type="text/css">
+        #progressBackgroundFilter
+        {
+            position: fixed;
+            top: 0px;
+            bottom: 0px;
+            left: 0px;
+            right: 0px;
+            overflow: hidden;
+            padding: 0;
+            margin: 0;
+            background-color: #000;
+            filter: alpha(opacity=50);
+            opacity: 0.5;
+            z-index: 1000;
+        }
+        #processMessage
+        {
+            position: fixed;
+            top: 50%;
+            left: 47.7%;
+            padding: 10px;
+            width: 5%;
+            z-index: 1001;
+            background-color: Transparent;
+        }
+    </style>
+<meta content="Send Flowers to India, Send Cake to India, Gifts to India, Flower to India, Cakes to India, Online delivery of flowers, teddy, Flower Bouquet to India, chocolates, cakes, red roses, sweets, dry fruits, Florists, Same day delivery, Birthday, Anniversary, Wedding, New Delhi, Bangalore, Mumbai, Hyderabad, Kolkata, Chennai, Gurgaon" name="keywords"/><meta content="Send Flowers to India, Flower Bouquet to India, Roses to India, Send Cake to India, gifts to India, Flowers delivery in India, Sweets delivery in India, Online Florists, Sweets delivery, Cakes, Teddy, Sweets, Flowers, Chocolates" name="classification"/><meta content="Send Flowers to India  Best place to Send Cakes to India, Flowers to India, Online Florists, Gifts, chocolates, teddy on birthday, wedding, anniversary. Get online delivery of flowers to Delhi, Bangalore, Mumbai, Hyderabad, Kolkata, Chennai at affordable price." name="description"/></head>
+<body>
+    <form action="./" id="aspnetForm" method="post" name="aspnetForm">
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="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Dw8WAh8CBQ9PcmNoaWRzIG9mIExpZmVkZAIMDxUBBjg2OS4wMGQCDQ8PFgIfCQUEMTQ5NGRkAg8PFgIfBQUbcHJvZHVjdGRldGFpbHMuYXNweD9pZD0xNDk0ZAITD2QWEgIBDxYCHwUFG3Byb2R1Y3RkZXRhaWxzLmFzcHg/aWQ9MTQ5NRYCAgEPFgQfBgUTT3JjaGlkcyBvZiBMaWZlICEhIR8HBSRpbWFnZXMvdXBsb2Fkcy9TbWFsbFByb2R1Y3QvMTQ5NS5qcGdkAgMPDxYCHwIFBDE0OTVkZAIFDw8WAh8CBQExZGQCBw8PFgIfAgUHRkxPV0VSU2RkAgkPDxYCHwIFE09yY2hpZHMgb2YgTGlmZSAhISFkZAILDw8WAh8CBRNPcmNoaWRzIG9mIExpZmUgISEhZGQCDA8VAQY4NjkuMDBkAg0PDxYCHwkFBDE0OTVkZAIPDxYCHwUFG3Byb2R1Y3RkZXRhaWxzLmFzcHg/aWQ9MTQ5NWQCCA8WAh8IBZoKTWFrZSB5b3VyIGRhcmxpbmcgZmVlbCBtb3JlIHNwZWNpYWwgd2l0aCBiZWF1dGlmdWxseSBjcmVhdGVkIGFycmFuZ2VtZW50cyB0aGF0IHNpZ25pZnkgeW91ciBzaW5jZXJlIGxvdmUgYW5kIHNlbnRpbWVudHMgaW4gYW4gaW1wcmVzc2l2ZSB3YXkuIEZsb3dlcnNob3AxOCBwcmVzZW50cyBzcGVjaWFsbHkgY3JlYXRlZCBhcnJhbmdlbWVudHNqdXN0IGZvciB5b3UhISBTZW5kIGV4b3RpYyBhbmQgcHJpc3RpbmUgZmxvcmFsIGJvdXF1ZXRzIGFuZCBhcnJhbmdlbWVudHMgYWNyb3NzIEluZGlhIGFuZCBvdmVyc2VhcywgYW5kIGV4cHJlc3MgeW91ciBsb3ZlIGFuZCBkZXZvdGlvbiBpbiBhIGJyaWxsaWFudCB3YXkuIFdlIGFyZSB0aGUgcHJlbWl1bSBvbmxpbmUgZmxvcmlzdCBpbiBJbmRpYSwgcHJvdmlkaW5nIGEgZmFudGFzdGljIG9wcG9ydHVuaXR5IHRvIHNlbmQgZmxvd2VycyB0byB5b3VyIGxvdmVkIG9uZXMsIGFueXdoZXJlLCBhbnl0aW1lLiBGbG93ZXJzaG9wMTggU2VuZGVycyB0aGUgZmluZXN0IGNvbGxlY3Rpb24gb2YgZXhxdWlzaXRlIGZsb3JhbCBhcnJhbmdlbWVudHMsIGNvbXBsZW1lbnRlZCB3aXRoIGRlbGljaW91cyBjYWtlcywgY2hvY29sYXRlcywgZHJ5IGZydWl0cywgYW5kIHNvZnQgdG95cyB0byBtYWtlIHlvdXIgR2lmdCBvZiBMb3ZlIG1vcmUgc3BlY2lhbCBhbmQgZW5jaGFudGluZy4gRmxvd2Vyc2hvcDE4IGlzIHRoZSBvbmUtc3RvcCBkZXN0aW5hdGlvbiBmb3Igc3BlY3RhY3VsYXIgZmxvcmFsIGFycmFuZ2VtZW50cyBhbmQgbG92ZWx5IGdpZnRzLCBtYWtpbmcgeW91ciBvY2Nhc2lvbnMgdW5mb3JnZXR0YWJsZSBhbmQgcmV3YXJkaW5nLiBDb252ZXkgdGhlIG1lc3NhZ2Ugb2YgbG92ZSwgd2FybXRoIGFuZCBhZG9yYXRpb24sIHdpdGggc3BlY2lhbGx5IGNyYWZ0ZWQgYXJyYW5nZW1lbnRzIGZvciBhbiBldGVybmFsIGltcHJlc3Npb24uICAgICBXaXRoIGEgdmFzdCBuZXR3b3JrIGFuZCBleHBlcnQgcHJvZmVzc2lvbmFscywgd2Ugb2ZmZXIgcHJvbXB0IGFuZCByZWxpYWJsZSBmbG93ZXIgZGVsaXZlcnkgaW4gSW5kaWEsIFUuSy4sIFUuUy4sIEV1cm9wZS0gYW55d2hlcmUsIGFueXRpbWUhIEZsb3dlcnNob3AxOCBvZmZlcnMgdGhlIGJlc3Qgc2VsZWN0aW9uIG9mIGV4cXVpc2l0ZSBmbG93ZXJzIGFuZCB0aG91Z2h0ZnVsIGdpZnRzIHRoYXQgd2lsbCBtYWtlIHlvdXIgb2NjYXNpb25zIHZhbHVhYmxlIGFuZCBtZW1vcmFibGUuIENvbWU7IGV4cGVyaWVuY2UgdGhlIGJlc3QgZmxvd2VyIHNob3BwaW5nIGV4cGVyaWVuY2Ugd2l0aCBGbG93ZXJzaG9wMTgsIHRvZGF5ISEhIGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFDGN0bDAwJGlidG5Hb9yvArHVgI0isH0tbMueREKQdb6T4ELTLAKSHQdNZoXD"/>
+
+
+<script src="/ScriptResource.axd?d=Air7JMHSuODrVn_jFuSiz3wd02dhQIK9DfZ7Ob7iDifiSLVSCKce5yYbBu7D5KWm4fQflAvXAhY8TICNEJZRXu2Rs6Jg5cqqKj4hl2-_v6DuPBWueH-4aP5tuoCQ3XbjjgWEuMrD2mYTiU1_IW9eu66rLoiVTMsHl0UR88GXnfX3DSbvYFYpFbWQlMlR58DG0&amp;t=72e85ccd" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="CA0B0334"/>
+<input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="/wEdAAU5oIQpCfRrNW3pxxyZdBEtXmdtszFHUGWLqtJ0irAq2WZHbbfiIMLpkssPS40dbz7j7dallA1vzavOzYqdPeuHHTM60j4uo1eqgKNFaomWnraRBsuCc0BLEEfnCCKyY1A+hN/b+XEneiZI7fcFAs0j"/>
+    
+ 
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="1120">
+   <tbody><tr>
+     <td align="left" valign="top" width="156"><a href="default.aspx"><img border="0" height="138" src="images/logo_1.png" width="156"/></a></td>
+     
+     <td align="right" height="33" valign="top">
+       <table border="0" cellpadding="0" cellspacing="0" class="top_links" width="100%">
+         <tbody><tr>
+           <td align="right" valign="top" width="20"><img height="1" src="site-image/dot-pix.gif" width="1"/></td>
+           <td width="30"><img height="33" src="images/national-delivery-icon.gif" width="25"/></td>
+           <td width="170">National Delivery <span class="highlight">550 Cities</span></td>
+           <td width="30"><img height="33" src="images/cart-icon.gif" width="24"/></td>
+           <td><div id="ctl00_UPCartList">
+	shopping basket<span class="highlight"><a href="viewcart.aspx">
+		   </a><a href="javascript:__doPostBack('ctl00$lblItemCount','')" id="ctl00_lblItemCount">0 Items</a> </span>
+              
+</div></td>
+   		    <td align="right" width="237"><script type="text/javascript">
+tday  =new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+tmonth=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+
+function GetClock(){
+d = new Date();
+nday   = d.getDay();
+nmonth = d.getMonth();
+ndate  = d.getDate();
+nyear = d.getYear();
+nhour  = d.getHours();
+nmin   = d.getMinutes();
+nsec   = d.getSeconds();
+
+if(nyear<1000) nyear=nyear+1900;
+
+     if(nhour ==  0) {ap = " AM";nhour = 12;} 
+else if(nhour <= 11) {ap = " AM";} 
+else if(nhour == 12) {ap = " PM";} 
+else if(nhour >= 13) {ap = " PM";nhour -= 12;}
+
+if(nmin <= 9) {nmin = "0" +nmin;}
+if(nsec <= 9) {nsec = "0" +nsec;}
+
+
+document.getElementById('clockbox').innerHTML=""+tday[nday]+", "+tmonth[nmonth]+" "+ndate+", "+nyear+"<b> "+nhour+":"+nmin+":"+nsec+ap+"</b>";
+setTimeout("GetClock()", 1000);
+}
+window.onload=GetClock;
+</script>
+<div id="clockbox"></div>
+</td>
+<td align="right" width="270"><span class="top_links"><a class="pro1" href="javascript:__doPostBack('ctl00$aSignin','')" id="ctl00_aSignin">Sign In</a>  / <a class="instapay" href="instapay.aspx">
+                                    Insta Pay</a> / <a href="orderstatus.aspx">Track Order</a></span></td>
+         </tr>
+       </tbody></table>
+       <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tbody><tr>
+           <td><a href="occasion-flowers-delivery-india-4.aspx"><img height="75" hspace="20" src="images/sameday-delivery-banner2016.jpg" width="436"/></a></td>
+           <td width="169"><img height="105" src="images/satisfaction-guranteed.gif" width="169"/></td>
+           <td align="right" class="timing" height="80" width="279">We’re here to help! All Days : 9 AM to 12 AM<br/>
+           <span class="call">+91 92136-92137</span>
+		   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td align="right"><input class="serchbox" id="ctl00_txtSearch" name="ctl00$txtSearch" type="text"/></td>
+    <td align="right" valign="bottom" width="40"><input border="0" id="ctl00_ibtnGo" name="ctl00$ibtnGo" src="images/search-icon.gif" type="image"/></td>
+  </tr>
+</tbody></table>
+</td>
+         </tr>
+       </tbody></table></td>
+     <td align="left" valign="top" width="15"><img height="1" src="site-image/dot-pix.gif" width="1"/></td>
+   </tr>
+ </tbody></table>
+   <table align="center" border="0" cellpadding="0" cellspacing="0" width="1120">
+            <tbody><tr>
+                <td>
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="1120">
+                        <tbody><tr>
+                            <td class="occasionmin_links" width="139">
+							 	<a href="occasion-flowers-delivery-india-4.aspx">Happy Birthday</a>
+                            </td>
+                           <td width="1px"></td>
+                            <td class="min_links" width="129">
+                                <a href="flower-delivery-india-1.aspx">Best Sellers</a>
+                            </td>
+                            <td width="1px"></td>
+                            <td class="min_links" width="110">
+                                <a href="cake-delivery-india-2.aspx">Cakes</a>
+                            </td>
+							<td width="1px"></td>
+                            <td class="min_links" width="119">
+                                <a href="fruits-delivery-india-8.aspx">Fruits</a>
+                            </td>
+							<td width="1px"></td>
+                            <td class="min_links" width="167">
+                                <a href="rose-bouquet-delivery-india-9.aspx">Unique Bouquets</a>
+                            </td>
+                            <td width="1px"></td>
+							 <td class="min_links" width="170">
+                                <a href="gift-delivery-india-3.aspx">Customized Gifts</a>
+                            </td>
+                            <td width="1px"></td>
+                            <td class="min_links" width="167">
+                                <a href="special-flower-delivery-india-5.aspx">Special Hampers</a>
+                            </td>
+                            <td width="1px"></td>
+                            <td class="min_links" width="139">
+                                <a href="combo-flowers-delivery-india-38.aspx">Combo Offers</a>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td>
+
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody><tr>
+                            <td valign="top">
+                                <div align="left">
+                                  
+                                    <table align="left" bgcolor="#CCCCCC" border="0" cellpadding="0" cellspacing="0" width="258">
+                                        <tbody><tr>
+                                            <td bgcolor="#FFFFFF">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="258">
+                                                    <tbody><tr>
+                                                        <td class="top-left-link">
+                                                            <a href="flower-delivery-india-1.aspx">Flowers</a>
+                                                        </td>
+                                                    </tr>
+                                                    
+                                                    <tr>
+                                                        <td class="top-left-link">
+                                                            <a href="cake-delivery-india-2.aspx">Cakes</a>
+                                                        </td>
+                                                    </tr>
+                                                   
+                                                    <tr>
+                                                        <td class="top-left-link">
+                                                            <a href="chocolate-delivery-india-7.aspx">Chocolates</a>
+                                                        </td>
+                                                    </tr>
+                                                   
+                                                    <tr>
+                                                        <td class="top-left-link">
+                                                            <a href="fruits-delivery-india-8.aspx">Fruits</a>
+                                                        </td>
+                                                    </tr>
+                                                    
+                                                    <tr>
+                                                        <td class="top-left-link">
+                                                            <a href="rose-bouquet-delivery-india-9.aspx">Rose Bouquet</a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </div>
+                            </td>
+                            <td>
+                                <div id="example">
+                                    <div id="slides">
+                                        <div class="slides_container">
+                                            <div class="slide">
+                                                <a href="gift-delivery-india-3.aspx">
+                                                    <img alt="Slide 1" height="280" src="images/banner1-2016.jpg" width="860"/></a>
+                                               
+                                            </div>
+                                            <div class="slide">
+                                                <a href="gift-delivery-india-3.aspx">
+                                                    <img alt="Slide 1" height="280" src="images/banner2.jpg" width="860"/></a>
+                                                
+                                            </div>
+                                           <div class="slide">
+                                                <a href="birthday-flowers-delivery-india-30.aspx">
+                                                    <img alt="Slide 1" height="280" src="images/banner3-2016.jpg" width="860"/></a>
+                                                
+                                            </div>
+                                           <!--  <div class="slide">
+                                                <a href="occasional-flowers-delivery-india-4.aspx" title="Hot Offers">
+                                                    <img src="images/hot-offer.jpg" width="860" height="280" alt="Slide 1" /></a>
+                                               
+                                            </div>-->
+											<!--<div class="slide">
+                                                <a href="cake-delivery-india-2.aspx" title="Diwali Gifts Online">
+                                                    <img src="images/diwali-baner2.jpg" width="860" height="280" alt="Slide 1" /></a>
+                                               
+                                            </div>-->
+											
+                                        </div>
+                                        <a class="prev" href="#">
+                                            <img alt="Arrow Prev" height="43" src="images/arrow-prev.png" width="24"/></a>
+                                        <a class="next" href="#">
+                                            <img alt="Arrow Next" height="43" src="images/arrow-next.png" width="24"/></a>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+			<!--<tr>
+                <td height="5" bgcolor="#FFFFFF">
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7E652">
+                    <marquee class="int" scrollamount="2" direction="left" scrollamount="3" direction="left">Free Shipping !! Same Day Delivery In Metro Cities</marquee>
+                </td>
+            </tr>
+            <tr>
+                <td height="5" bgcolor="#FFFFFF">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td>
+                                <div align="left">
+                                    <a href="gift-delivery-india-3.aspx">
+                                        <img src="images/midnightdelivary.jpg" width="372" height="130" alt="" />
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <a href="gift-delivery-india-3.aspx">
+                                    <img src="images/chocolate.jpg" width="372" height="130" alt="" />
+                                </a>
+                            </td>
+                            <td>
+                                <div align="right">
+                                    <a href="gift-delivery-india-3.aspx">
+                                        <img src="images/anversaryy.jpg" width="372" height="130" alt="" />
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>-->
+            <tr>
+                <td bgcolor="#FFFFFF" height="5">
+                </td>
+            </tr>
+
+
+
+            <tr>
+                <td>
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody><tr>
+                            <td valign="top" width="20%">
+                                <table bgcolor="#e01a2b" border="0" cellpadding="0" cellspacing="1" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#FFFFFF">
+                                            <table border="0" cellpadding="0" cellspacing="0" width="230">
+                                                <tbody><tr>
+                                                    <td height="5">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div align="center">
+                                                            <img alt="" height="45" src="images/head_categories.jpg" width="221"/></div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="" height="10">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="left_links">
+                                                        <a href="	-flowers-delivery-india-30.aspx">Birthday </a>
+                                                    </td>
+                                                </tr>
+												<tr>
+                                                    <td class="left_links">
+                                                        <a href="anniversary-flowers-delivery-india-36.aspx">Anniversary </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="left_links">
+                                                        <a href="for-her-flowers-delivery-india-32.aspx">For Her </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="left_links">
+                                                        <a href="for-him-flowers-delivery-india-33.aspx">For Him</a>
+                                                    </td>
+                                                </tr>
+												<tr>
+                                                    <td class="left_links">
+                                                        <a href="wedding-flowers-delivery-india-37.aspx">Wedding </a>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td class="left_links">
+                                                        <a href="love-and-romance-flowers-delivery-india-31.aspx">Love and Romance </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="left_links">
+                                                        <a href="get-well-soon-flowers-delivery-india-34.aspx">Get Well Soon</a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="left_links">
+                                                        <a href="new-baby-flowers-delivery-india-35.aspx">New Baby </a>
+                                                    </td>
+                                                </tr>
+												
+                                                                                                <tr>
+                                                    <td height="10">
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td bgcolor="#FFFFFF">
+                                            <table border="0" cellpadding="0" cellspacing="0" width="230">
+                                                <tbody><tr>
+                                                    <td height="5">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div align="center">
+                                                            <img alt="" height="45" src="images/price-range.jpg" width="221"/></div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="" height="10">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="left_links">
+                                                        <a href="product.aspx?cid=90&amp;pr=0-750">Above Rs 750</a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="left_links">
+                                                        <a href="product.aspx?cid=90&amp;pr=750-1250">Rs 750 - Rs 1250</a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="left_links">
+                                                        <a href="product.aspx?cid=90&amp;pr=750-1250">Rs 1250 - Rs 2000</a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="left_links">
+                                                        <a href="product.aspx?cid=90&amp;pr=2000-10000">Above Rs 2000</a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td height="10">
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td bgcolor="#FFFFFF">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="230">
+                                                <tbody><tr>
+                                                    <td height="5">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div align="center">
+                                                            <img alt="" height="45" src="images/head_best-sellers.jpg" width="221"/></div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <table border="0" cellspacing="8" id="ctl00_dlBestProduct" width="100%">
+	<tbody><tr>
+		<td align="left">
+                                                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                                                    <tbody><tr>
+                                                                        <td bgcolor="#ffffff">
+                                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                <tbody><tr>
+                                                                                    <td align="center" height="120" width="120">
+                                                                                        <a href="productdetails.aspx?id=12" id="ctl00_dlBestProduct_ctl00_aImage">
+                                                                                            <img alt="My Emotions" border="0" height="110" id="ctl00_dlBestProduct_ctl00_imgProduct" src="images/uploads/SmallProduct/12.jpg" width="120"/></a>
+                                                                                        
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        <span class="link" id="ctl00_dlBestProduct_ctl00_lblProductName">My Emotions</span>
+                                                                                        
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td align="center" class="pro_rs">
+                                                                                        <img alt="" height="15" src="images/rs.jpg" width="12"/><b>549.00</b>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody></table>
+                                                                        </td>
+                                                                    </tr>
+                                                                    
+                                                                </tbody></table>
+                                                            </td>
+	</tr><tr>
+		<td align="left">
+                                                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                                                    <tbody><tr>
+                                                                        <td bgcolor="#ffffff">
+                                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                <tbody><tr>
+                                                                                    <td align="center" height="120" width="120">
+                                                                                        <a href="productdetails.aspx?id=14" id="ctl00_dlBestProduct_ctl01_aImage">
+                                                                                            <img alt="Charming Splendor" border="0" height="110" id="ctl00_dlBestProduct_ctl01_imgProduct" src="images/uploads/SmallProduct/14.jpg" width="120"/></a>
+                                                                                        
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        <span class="link" id="ctl00_dlBestProduct_ctl01_lblProductName">Charming Splendor</span>
+                                                                                        
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td align="center" class="pro_rs">
+                                                                                        <img alt="" height="15" src="images/rs.jpg" width="12"/><b>749.00</b>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody></table>
+                                                                        </td>
+                                                                    </tr>
+                                                                    
+                                                                </tbody></table>
+                                                            </td>
+	</tr><tr>
+		<td align="left">
+                                                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                                                    <tbody><tr>
+                                                                        <td bgcolor="#ffffff">
+                                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                <tbody><tr>
+                                                                                    <td align="center" height="120" width="120">
+                                                                                        <a href="productdetails.aspx?id=1417" id="ctl00_dlBestProduct_ctl02_aImage">
+                                                                                            <img alt="Kid Joy Treats" border="0" height="110" id="ctl00_dlBestProduct_ctl02_imgProduct" src="images/uploads/SmallProduct/1417.jpg" width="120"/></a>
+                                                                                        
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        <span class="link" id="ctl00_dlBestProduct_ctl02_lblProductName">Kid Joy Treats</span>
+                                                                                        
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td align="center" class="pro_rs">
+                                                                                        <img alt="" height="15" src="images/rs.jpg" width="12"/><b>989.00</b>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody></table>
+                                                                        </td>
+                                                                    </tr>
+                                                                    
+                                                                </tbody></table>
+                                                            </td>
+	</tr>
+</tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td valign="top" width="80%">
+                                <table align="right" border="0" cellpadding="0" cellspacing="0" width="99%">
+                                    <tbody><tr>
+                                        <td>
+                                            
+    <div id="ctl00_ContentPlaceHolder1_UpdatePanel">
+	
+            <table border="0" cellpadding="0" cellspacing="0" width="98%">
+               
+               <tbody><tr id="ctl00_ContentPlaceHolder1_trPageHeaderContent">
+		<td>
+                                            <table width="100%">
+                                                <tbody><tr>
+                                                    <td class="link" id="ctl00_ContentPlaceHolder1_tdPageHeaderContent">Flowershop18 is the way you can find flowers, cake and gifts.You can send Flower, Cake and Gift Item to your special one. Send flower and cake through Flowershop18 and make some one happy.</td>
+		
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+	</tr>
+	
+               
+                <tr>
+                    <td>
+                        <table cellpadding="0" cellspacing="0" width="100%">
+                            <tbody><tr><td class="head_special" width="100%">
+                                     <b><span class="pro5" id="ctl00_ContentPlaceHolder1_lblBreadcum">New Arrival</span></b>
+                                </td>
+                            </tr>
+                        </tbody></table><h1>
+                                
+                                </h1>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <table border="0" cellspacing="8" id="ctl00_ContentPlaceHolder1_dlProduct" width="100%">
+		<tbody><tr>
+			<td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1" id="ctl00_ContentPlaceHolder1_dlProduct_ctl00_aImage">
+                                                            <img alt="My Emotions" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl00_imgProduct" src="images/uploads/SmallProduct/1.JPG" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl00_lblProductName">My Emotions</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>399.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1" id="ctl00_ContentPlaceHolder1_dlProduct_ctl00_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=12" id="ctl00_ContentPlaceHolder1_dlProduct_ctl01_aImage">
+                                                            <img alt="My Emotions" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl01_imgProduct" src="images/uploads/SmallProduct/12.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl01_lblProductName">My Emotions</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>549.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=12" id="ctl00_ContentPlaceHolder1_dlProduct_ctl01_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=14" id="ctl00_ContentPlaceHolder1_dlProduct_ctl02_aImage">
+                                                            <img alt="Charming Splendor" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl02_imgProduct" src="images/uploads/SmallProduct/14.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl02_lblProductName">Charming Splendor</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>749.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=14" id="ctl00_ContentPlaceHolder1_dlProduct_ctl02_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1479" id="ctl00_ContentPlaceHolder1_dlProduct_ctl03_aImage">
+                                                            <img alt="Love Emotions" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl03_imgProduct" src="images/uploads/SmallProduct/1479.gif" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl03_lblProductName">Love Emotions</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>689.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1479" id="ctl00_ContentPlaceHolder1_dlProduct_ctl03_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1480" id="ctl00_ContentPlaceHolder1_dlProduct_ctl04_aImage">
+                                                            <img alt="Mixed Roses" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl04_imgProduct" src="images/uploads/SmallProduct/1480.gif" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl04_lblProductName">Mixed Roses</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>549.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1480" id="ctl00_ContentPlaceHolder1_dlProduct_ctl04_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+		</tr><tr>
+			<td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1481" id="ctl00_ContentPlaceHolder1_dlProduct_ctl05_aImage">
+                                                            <img alt="Sweet Surprise" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl05_imgProduct" src="images/uploads/SmallProduct/1481.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl05_lblProductName">Sweet Surprise</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>639.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1481" id="ctl00_ContentPlaceHolder1_dlProduct_ctl05_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1482" id="ctl00_ContentPlaceHolder1_dlProduct_ctl06_aImage">
+                                                            <img alt="Perfect Love" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl06_imgProduct" src="images/uploads/SmallProduct/1482.gif" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl06_lblProductName">Perfect Love</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>659.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1482" id="ctl00_ContentPlaceHolder1_dlProduct_ctl06_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1483" id="ctl00_ContentPlaceHolder1_dlProduct_ctl07_aImage">
+                                                            <img alt="Charming Beauty" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl07_imgProduct" src="images/uploads/SmallProduct/1483.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl07_lblProductName">Charming Beauty</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>789.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1483" id="ctl00_ContentPlaceHolder1_dlProduct_ctl07_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1484" id="ctl00_ContentPlaceHolder1_dlProduct_ctl08_aImage">
+                                                            <img alt="Bunch of Yellow Roses" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl08_imgProduct" src="images/uploads/SmallProduct/1484.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl08_lblProductName">Bunch of Yellow Roses</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>739.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1484" id="ctl00_ContentPlaceHolder1_dlProduct_ctl08_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1485" id="ctl00_ContentPlaceHolder1_dlProduct_ctl09_aImage">
+                                                            <img alt="Poignant Pink" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl09_imgProduct" src="images/uploads/SmallProduct/1485.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl09_lblProductName">Poignant Pink</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>739.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1485" id="ctl00_ContentPlaceHolder1_dlProduct_ctl09_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+		</tr><tr>
+			<td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1486" id="ctl00_ContentPlaceHolder1_dlProduct_ctl10_aImage">
+                                                            <img alt="Charming Beauty" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl10_imgProduct" src="images/uploads/SmallProduct/1486.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl10_lblProductName">Charming Beauty</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>689.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1486" id="ctl00_ContentPlaceHolder1_dlProduct_ctl10_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1487" id="ctl00_ContentPlaceHolder1_dlProduct_ctl11_aImage">
+                                                            <img alt="Vibrant and Vivid" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl11_imgProduct" src="images/uploads/SmallProduct/1487.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl11_lblProductName">Vibrant and Vivid</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>739.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1487" id="ctl00_ContentPlaceHolder1_dlProduct_ctl11_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1488" id="ctl00_ContentPlaceHolder1_dlProduct_ctl12_aImage">
+                                                            <img alt="Charming Splendor" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl12_imgProduct" src="images/uploads/SmallProduct/1488.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl12_lblProductName">Charming Splendor</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>699.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1488" id="ctl00_ContentPlaceHolder1_dlProduct_ctl12_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1489" id="ctl00_ContentPlaceHolder1_dlProduct_ctl13_aImage">
+                                                            <img alt="Delicate Beauty" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl13_imgProduct" src="images/uploads/SmallProduct/1489.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl13_lblProductName">Delicate Beauty</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>689.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1489" id="ctl00_ContentPlaceHolder1_dlProduct_ctl13_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1490" id="ctl00_ContentPlaceHolder1_dlProduct_ctl14_aImage">
+                                                            <img alt="Perfect Love" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl14_imgProduct" src="images/uploads/SmallProduct/1490.gif" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl14_lblProductName">Perfect Love</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>849.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1490" id="ctl00_ContentPlaceHolder1_dlProduct_ctl14_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+		</tr><tr>
+			<td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1491" id="ctl00_ContentPlaceHolder1_dlProduct_ctl15_aImage">
+                                                            <img alt="Dewdrops" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl15_imgProduct" src="images/uploads/SmallProduct/1491.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl15_lblProductName">Dewdrops</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>679.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1491" id="ctl00_ContentPlaceHolder1_dlProduct_ctl15_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1492" id="ctl00_ContentPlaceHolder1_dlProduct_ctl16_aImage">
+                                                            <img alt="In Love" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl16_imgProduct" src="images/uploads/SmallProduct/1492.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl16_lblProductName">In Love</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>1049.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1492" id="ctl00_ContentPlaceHolder1_dlProduct_ctl16_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1493" id="ctl00_ContentPlaceHolder1_dlProduct_ctl17_aImage">
+                                                            <img alt="Perfect Red" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl17_imgProduct" src="images/uploads/SmallProduct/1493.gif" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl17_lblProductName">Perfect Red</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>749.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1493" id="ctl00_ContentPlaceHolder1_dlProduct_ctl17_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1494" id="ctl00_ContentPlaceHolder1_dlProduct_ctl18_aImage">
+                                                            <img alt="Orchids of Life" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl18_imgProduct" src="images/uploads/SmallProduct/1494.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl18_lblProductName">Orchids of Life</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>869.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1494" id="ctl00_ContentPlaceHolder1_dlProduct_ctl18_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td><td align="left">
+                                <table align="center" cellpadding="0" cellspacing="1" style="border: solid 1px #e1e1e1;" width="100%">
+                                    <tbody><tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td align="center" height="120" width="120">
+                                                        <a href="productdetails.aspx?id=1495" id="ctl00_ContentPlaceHolder1_dlProduct_ctl19_aImage">
+                                                            <img alt="Orchids of Life !!!" border="0" height="160" id="ctl00_ContentPlaceHolder1_dlProduct_ctl19_imgProduct" src="images/uploads/SmallProduct/1495.jpg" width="160"/></a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro3" style="height: 30px;">
+                                                        
+                                                        
+                                                        
+                                                        <span class="link" id="ctl00_ContentPlaceHolder1_dlProduct_ctl19_lblProductName">Orchids of Life !!!</span>
+                                                         
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="pro_rs">
+                                                         <img alt="" height="15" src="images/rs.jpg" width="12"/><b>869.00</b>
+                                                        </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td background="images/bg-pro.jpg" bgcolor="#ffffff" height="1">
+                                        </td>
+                                    </tr>
+                                    <tr>
+
+
+                                        <td align="center" bgcolor="#e4e4e4" class="red" height="15">
+                                            <img alt="" height="3" src="images/dot1.jpg" width="3"/> 
+                                             <a class="addtocart" href="productdetails.aspx?id=1495" id="ctl00_ContentPlaceHolder1_dlProduct_ctl19_hrefDetails">Buy Now</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+		</tr>
+	</tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="height: 30px;">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tbody><tr>
+                                <td>
+                                    <div id="ctl00_ContentPlaceHolder1_UpdateProgress1" style="display:none;">
+		
+                                            <div id="progressBackgroundFilter">
+                                            </div>
+                                            <div id="processMessage">
+                                                <img alt="" border="0" src="images/page_loader.gif"/>
+                                            </div>
+                                        
+	</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="right">
+                                    <div align="right" class="pro3" id="ctl00_ContentPlaceHolder1_pnlPager">
+
+	</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center">
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left">
+                                    <b>
+                                        <span class="pro3" id="ctl00_ContentPlaceHolder1_lblCount"></span></b>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+               
+            </tbody></table>
+        
+</div>
+
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFFFFF" height="5">
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F98E00"> 
+                    
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFFFFF" height="5">
+                </td>
+            </tr>
+            <tr>
+                <td background="images/base-bg.jpg" class="call" height="60">
+                       FLOWERS, CAKES, GIFTS &amp; MORE ...
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody><tr>
+                            <td valign="top" width="20%">
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody><tr>
+                                        <td>
+                                            <img alt="" height="223" src="images/secure.jpg" width="223"/>
+                                        </td>
+
+
+
+
+                                    </tr>
+                                    <tr>
+                                        <td height="5">
+                                        </td>
+                                    </tr>
+                                                                     
+                                    <tr>
+                                        <td>
+                                            <table align="center" bgcolor="#cccccc" border="0" cellpadding="1" cellspacing="1" width="100%">
+                                                <tbody><tr>
+                                                    <td bgcolor="#FFFFFF">
+                                                        <div align="center">
+                                                            <span class="social">Follow us on:
+                                                             <a href="https://plus.google.com/+SendFlowersDelhiOnlineNewDelhi/about">   <img alt="" height="24" src="images/googleplus.png" width="25"/> </a>
+															 <a href="https://www.facebook.com/Flowershop18">   <img alt="" height="24" src="images/facebook.png" width="25"/> </a>
+                                                               <a href="https://twitter.com/flowershop_18">  <img alt="" height="24" src="images/twitter.png" width="25"/> </a>
+                                                              <a href="http://www.pinterest.com/flowershop18">   <img alt="" height="24" src="images/pinterest.png" width="25"/> </a>
+                                                              <a href="http://www.youtube.com/flowershop18">   <img alt="" height="24" src="images/youtube.png" width="25"/> </a></span></div> 
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td valign="top" width="80%">
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="98%">
+                                    <tbody><tr>
+                                        <td> 
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="call">
+                                            Specially created arrangements.. Just for you ...
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height="10">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="link" id="ctl00_tdPagefooterContent" width="94%">Make your darling feel more special with beautifully created arrangements that signify your sincere love and sentiments in an impressive way. Flowershop18 presents specially created arrangementsjust for you!! Send exotic and pristine floral bouquets and arrangements across India and overseas, and express your love and devotion in a brilliant way. We are the premium online florist in India, providing a fantastic opportunity to send flowers to your loved ones, anywhere, anytime. Flowershop18 Senders the finest collection of exquisite floral arrangements, complemented with delicious cakes, chocolates, dry fruits, and soft toys to make your Gift of Love more special and enchanting. Flowershop18 is the one-stop destination for spectacular floral arrangements and lovely gifts, making your occasions unforgettable and rewarding. Convey the message of love, warmth and adoration, with specially crafted arrangements for an eternal impression.     With a vast network and expert professionals, we offer prompt and reliable flower delivery in India, U.K., U.S., Europe- anywhere, anytime! Flowershop18 offers the best selection of exquisite flowers and thoughtful gifts that will make your occasions valuable and memorable. Come; experience the best flower shopping experience with Flowershop18, today!!! </td>
+
+                                    </tr>
+                                    <tr>
+                                        <td> 
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div align="center">
+                                                <img alt="" height="141" src="images/bank-logo.jpg" width="855"/></div>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+        </tbody></table>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr>
+                <td bgcolor="#C00111" height="4">
+                    <img alt="" height="4" src="images/bg-red.jpg" width="5"/>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFFFFF" height="6">
+                </td>
+            </tr>
+        </tbody></table>
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="1120">
+            <tbody><tr>
+                <td class="footer_text">
+                    <table align="center" border="0" cellpadding="3" cellspacing="2" width="98%">
+                        <tbody><tr>
+                            <td bgcolor="#f2f2f2" class="footer_head" width="23%">
+                                <strong>   Information</strong>
+                            </td>
+                            <td bgcolor="#f2f2f2" class="footer_head" width="26%">
+                                <strong>  Policy</strong>
+                            </td>
+                            <td bgcolor="#f2f2f2" class="footer_head" width="27%">
+                                <strong>  Ordering</strong>
+                            </td>
+                            <td bgcolor="#f2f2f2" class="footer_head" width="24%">
+                                <strong>  Florist</strong>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="footer_text">
+                                -  <a href="aboutus.aspx">About Us </a>
+                            </td>
+                            <td class="footer_text">
+                                -  <a href="privacypolicy.aspx">Privacy Policy </a>
+                            </td>
+                            <td class="footer_text">
+                                -  <a href="orderstatus.aspx">Order Tracking </a>
+                            </td>
+                            <td class="footer_text">
+                                -  <a href="vendor/floristlogin.aspx">Florist Login</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="footer_text">
+                                -  <a href="faq.aspx">FAQs </a>
+                            </td>
+                            <td class="footer_text">
+                                -  <a href="refundpolicy.aspx">Refund Policy</a>
+                            </td>
+                            <td class="footer_text">
+                                -  <a href="instapay.aspx">Insta Pay </a>
+                            </td>
+                            <td class="footer_text">
+                                -  <a href="vendor/floristsignup.aspx">Florist Signup
+                            </a></td>
+                        </tr>
+                        <tr>
+                            <td class="footer_text">
+                                -  <a href="contactus.aspx">Contact Us </a>
+                            </td>
+                            <td class="footer_text">
+                                -  <a href="termsandcondition.aspx">Terms and Conditions </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                -  <a href="deliverycity.aspx">Delivery City </a>
+                            </td>
+                            <td>
+                                -  <a href="disclaimer.aspx">Disclaimer </a>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td class="footer_text">
+                    <div align="center">
+                        - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                        - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                        - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                        - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tbody><tr>
+                            <td class="footer_text" width="20%"> 
+                                
+                            </td>
+                            <td class="footer_text" width="20%"> 
+                                
+                            </td>
+                            <td class="footer_text" width="20%"> 
+                                
+                            </td>
+                            <td class="footer_text" width="20%"> 
+                                
+                            </td>
+                            <td class="footer_text" width="20%"> 
+                                
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-ghaziabad.aspx">Flowers to Ghaziabad </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-delhi.aspx">Flowers to Delhi </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-jalandhar.aspx">Flowers to Jalandhar </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-noida.aspx">Flowers to Noida </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-faridabad.aspx">Flowers to Faridabad </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-gurgaon.aspx">Flowers to gurgaon </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-ahmedabad.aspx">Flowers to Ahmedabad </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-bangalore.aspx">Flowers to Bangalore </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-patna.aspx">Flowers to Patna </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-hyderabad.aspx">Flowers to Hyderabad </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-ajmer.aspx">Flowers to Ajmer </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-mumbai.aspx">Flowers to Mumbai </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-lucknow.aspx">Flowers to Lucknow </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-pune.aspx">Flowers to Pune </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-kolkata.aspx">Flowers to Kolkata </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-varanasi.aspx">Flowers to Varanasi </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-ranchi.aspx">Flowers to Ranchi </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-agra.aspx">Flowers to Agra </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-allahabad.aspx">Flowers to Allahabad </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-kanpur.aspx">Flowers to Kanpur </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-chennai.aspx">Flowers to Chennai </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-jaipur.aspx">Flowers to Jaipur </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-guwahati.aspx">Flowers to Guwahati </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-dehradun.aspx">Flowers to Dehradun </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-chandigarh.aspx">Flowers to Chandigarh </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-asansol.aspx">Flowers to Asansol </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-amritsar.aspx">Flowers to Amritsar </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-bhopal.aspx">Flowers to Bhopal </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-bhubaneswar.aspx">Flowers to Bhubaneswar </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-gandhinagar.aspx">Flowers to Gandhinagar</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-greater-noida.aspx">Flowers to Greater Noida </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-indore.aspx">Flowers to Indore </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-surat.aspx">Flowers to Surat </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-navi-mumbai.aspx">Flowers to Navi Mumbai </a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-thane.aspx">Flowers to Thane </a>
+                            </td>
+                        </tr>
+                        
+                         <tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-karnal.aspx">Flowers to Karnal</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-patiala.aspx">Flowers to Patiala</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-muradabad.aspx">Flowers to Muradabad</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-meerut.aspx">Flowers to Meerut</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="cake-delivery-india-2.aspx">Online Cake Delivery</a>
+                            </td>
+                        </tr>
+						
+						<tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-siliguri.aspx">Flowers to Siliguri</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-baroda.aspx">Flowers to Baroda</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-vadodara.aspx">Flowers to Vadodara</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-jalgaon.aspx">Flowers to Jalgaon</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-jalpaiguri.aspx">Flowers to Jalpaiguri</a>
+                            </td>
+                        </tr>
+						
+						<tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-yamunanagar.aspx">Flowers to Yamunanagar</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-jhansi.aspx">Flowers to Jhansi</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-madurai.aspx">Flowers to Madurai</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-zirakpur.aspx">Flowers to Zirakpur</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-panchkula.aspx">Flowers to Panchkula</a>
+                            </td>
+                        </tr>
+						
+						<tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-modinagar.aspx">Flowers to Modinagar</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-nagpur.aspx">Flowers to Nagpur</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-nashik.aspx">Flowers to Nashik</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-bhilai.aspx">Flowers to Bhilai</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-coimbatore.aspx">Flowers to Coimbatore</a>
+                            </td>
+                        </tr>
+						
+						<tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-hapur.aspx">Flowers to Hapur</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-haldwani.aspx">Flowers to Haldwani</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-warangal.aspx">Flowers to Warangal</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-ujjain.aspx">Flowers to Ujjain</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-saharanpur.aspx">Flowers to saharanpur</a>
+                            </td>
+                        </tr>
+						
+						<tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-roorkee.aspx">Flowers to Roorkee</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-visakhapatnam.aspx">Flowers to Visakhapatnam</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-mathura.aspx">Flowers to Mathura</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="same-day-flowers-delivery.aspx">Same Day Flowers Delivery</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-rampur.aspx">Flowers to Rampur</a>
+                            </td>
+                        </tr>
+
+                         <tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-gorakhpur.aspx">Flowers to Gorakhpur</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-gwalior.aspx">Flowers to Gwalior</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-haridwar.aspx">Flowers to Haridwar</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-jabalpur.aspx">Flowers to Jabalpur</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-jammu.aspx">Flowers to Jammu</a>
+                            </td>
+                        </tr>
+
+                         <tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-jodhpur.aspx">Flowers to Jodhpur</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-mohali.aspx">Flowers to Mohali</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-mysore.aspx">Flowers to Mysore</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-new-delhi.aspx">Flowers to New Delhi</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="valentine-day-gifts-delivery-in-india.aspx">Valentine Day Gifts</a>
+                            </td>
+                        </tr>
+
+                         <tr>
+                            <td class="footer_link">
+                                <a href="flowers-to-valentine-day.aspx">Flowers to Valentine Day</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-new-year.aspx">Flowers to New Year</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="mothers-day.aspx">Flowers to Mothers Day</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-rose-day.aspx">Flowers to Rose Day</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="chocolate-delivery-india-7.aspx">Online Chocolates Delivery</a>
+                            </td>
+                        </tr>
+
+                         <tr>
+                            <td class="footer_link">
+                                <a href="valentine-day-cake-delivery-2.aspx">Valentine Day Cake</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="propose-day-flowers-to-india.aspx">Propose Day Flowers to India</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="birthday-cake-delivery-in-india-2.aspx">Birthday Cake deliver India</a>
+                            </td>
+                            <td class="footer_link">
+
+                                <a href="friendship-day.aspx">Friendship Day</a>
+                            </td>
+                            <td class="footer_link">
+                                 <a href="rose-in-india.aspx">Rose in India</a>
+
+                            </td>
+                        </tr>
+
+                         <tr>
+                            <td class="footer_link">
+                                <a href="diwali-gift-4.aspx">Diwali Gifts to India</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="bhai-dooj-gifts-4.aspx">Bhai Dooj gifts</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="teachers-day.aspx">Flowers to Teachers Day</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="christmas-gifts-5.aspx">Christmas Day Gifts</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="fathers-day.aspx">Flowers to Fathers Day</a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                           
+                            <td class="footer_link">
+                                <a href="flowers-to-secunderabad.aspx">Flowers to Secunderabad</a>
+                            </td>
+                            <td class="footer_link">
+                                <a href="flowers-to-ludhiana.aspx">Flowers to Ludhiana</a>
+                            </td>
+                             <td class="footer_link">
+                                <a href="flowers-to-trivandrum.aspx">Flowers to Trivandrum</a>
+                            </td>
+							<td class="footer_link">
+                                <a href="flowers-to-moradabad.aspx">Flowers to Moradabad</a>
+                            </td>
+							<td class="footer_link">
+                                <a href="flowers-to-raipur.aspx">Flowers to Raipur</a>
+                            </td>
+                        </tr>
+
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td> 
+                    
+                </td>
+            </tr>
+            <tr>
+                <td class="footer_text">
+                    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                </td>
+            </tr>
+            <tr>
+                <td class="footer_text"> 
+                    
+                </td>
+            </tr>
+            <tr>
+                <td width="50%">
+                    <table width="100%">
+                        <tbody><tr>
+                            <td align="left" width="50%">
+                                <span class="copyright">Powered By Flowershop18  2012-2015</span>
+                            </td>
+                           
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td class="footer_text"> 
+                    
+                </td>
+            </tr>
+        </tbody></table>
+    </form>
+     <script>
+         (function (i, s, o, g, r, a, m) {
+             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                 (i[r].q = i[r].q || []).push(arguments)
+             }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+         ga('create', 'UA-49243970-1', 'flowershop18.in');
+         ga('send', 'pageview');
+
+</script>
+
+
+</body></html>

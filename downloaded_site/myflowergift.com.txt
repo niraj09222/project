@@ -1,0 +1,1409 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Send flowers to India-Flowers delivery in India MyFlowerGift</title>
+<meta content="Buy Online Unique and Fresh Flowers, Cakes, Chocolates for any occasion, Order on My Flower Gift best Online Shop India, corporate,personalized gifting." name="description"/>
+<meta content="Flowers, florist, florist flowers, online gifts, flower delivery,online flowers shops, send flowers, online flowers, flowers and gifts, online flowers delivery, online florist, send flowers online, florists India, flower delivery shops, cakes, online cakes, online cakes shop, send cakes, send online cakes, cakes with flowers, send cakes in India, cakes delivery shop" name="keywords"/>
+<meta content="INDEX,FOLLOW" name="robots"/>
+<meta content="width=device-width, minimum-scale=1, maximum-scale=1" name="viewport"/>
+<link href="http://www.myflowergift.com/media/favicon/default/mfg_flower_logo.png" rel="icon" type="image/x-icon"/>
+<link href="http://www.myflowergift.com/media/favicon/default/mfg_flower_logo.png" rel="shortcut icon" type="image/x-icon"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/css/styles.css3.php?url=http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/" media="all" rel="stylesheet" type="text/css"/>
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.myflowergift.com/js/blank.html';
+    var BLANK_IMG = 'http://www.myflowergift.com/js/spacer.gif';
+//]]>
+</script>
+
+<![endif]-->
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/css/bootstrap.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/css/bootstrap-theme.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/css/styles.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/base/default/css/widgets.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/css/custom.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/magentothem/fancybox/jquery.fancybox.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/magentothem/ajaxcartsuper/ajax_cart_super.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/magentothem/css/ma.bestsellervertscroller.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/magentothem/css/custommenu.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/layerednavigationajax/jquery-ui.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/magentothem/css/ma.upsellslider.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/magentothem/css/ma.verticalmenu.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/magentothem/bannersequence/css/bannersequence.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/magentothem/css/ma.bxslider.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/magentothem/css/ma.newslider.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+<script src="http://www.myflowergift.com/js/prototype/prototype.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/lib/ccard.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/prototype/validation.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/scriptaculous/builder.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/scriptaculous/effects.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/scriptaculous/dragdrop.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/scriptaculous/controls.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/scriptaculous/slider.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/varien/js.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/varien/form.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/varien/menu.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/mage/translate.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/mage/cookies.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/magentothem/ma.jq.slide.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/bootstrap/bootstrap.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/magentothem/jquery-ui.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/bootstrap/bootstrap-tooltip.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/magentothem/ma.mobilemenu.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/magentothem/ma.menu.effect.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/magentothem/backtotop.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/magentothem/ajax_cart_super.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/magentothem/fancybox/jquery.fancybox.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/magentothem/ma.script.vert.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/magentothem/custommenu/custommenu.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/magentothem/ma.bxslider.min.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/magentothem/verticalmenu/ma.dropdown.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/magentothem/verticalmenu/ma.accordion.js" type="text/javascript"></script>
+<script src="http://www.myflowergift.com/js/magentothem/bannersequence/jquery.sequence-min.js" type="text/javascript"></script>
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/css/styles-ie8.css" media="all" />
+<script type="text/javascript" src="http://www.myflowergift.com/js/magentothem/html5shiv.js"></script>
+<script type="text/javascript" src="http://www.myflowergift.com/js/magentothem/respond.min.js"></script>
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.myflowergift.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.myflowergift.com/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.myflowergift.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["IN"];
+//]]>
+</script>
+<!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<script type="text/javascript">
+//<![CDATA[
+    var _gaq = _gaq || [];
+    
+_gaq.push(['_setAccount', 'UA-56335379-1']);
+
+_gaq.push(['_trackPageview']);
+    
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><meta content="io9Ok-WTJIRkkCZ55e-NOgXLhmC7FIkmTd324tdI71Y" name="google-site-verification"/>
+<meta content="F57ADA5B1A5F30CAD35E4DE84BA64EF2" name="msvalidate.01"/></head>
+<body class=" cms-index-index cms-home">
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br/>
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        
+<div class="header-container">
+    <div class="header-top"></div>
+    <!--<div class="top-link">
+                
+                <div class="col-xs-12 col-sm-4">
+                    <p class="welcome-msg"> </p>
+                </div>
+    </div>-->
+    <div class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-4">
+                                                <h1 class="logo"><strong>My Flower Gift</strong><a class="logo" href="http://www.myflowergift.com/" title="My Flower Gift"><img alt="My Flower Gift" src="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers/images/logo2.png"/></a></h1>
+                                            </div>
+                    <div class="col-xs-12 col-sm-8">
+                            <div class="header-box">
+					
+                                <ul class="links">
+                        <li class="first"><a href="http://www.myflowergift.com/customer/account/" title="My Account">My Account</a></li>
+                                                                <li><a class="top-link-cart" href="http://www.myflowergift.com/checkout/cart/" title="My Cart">My Cart</a></li>
+                                <li><a class="top-link" href="http://www.myflowergift.com/onestepcheckout/" title="Checkout">Checkout</a></li>
+                                <li><a href="http://www.myflowergift.com/ordertracking/" title="Track Order">Track Order</a></li>
+                                <li><a href="http://www.myflowergift.com/testimonial/" title="Testimonial">Testimonial</a></li>
+                                <li class=" last"><a href="http://www.myflowergift.com/customer/account/login/referer/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLz9fX19TSUQ9VQ,,/" title="Log In">Log In</a></li>
+            </ul>
+                             <div class="currency-language">
+                                                                                                        </div> 
+                                <div class="search-cart">
+                                    <div class="search-container">
+                                    <form action="http://www.myflowergift.com/catalogsearch/result/" id="search_mini_form" method="get">
+    <div class="form-search">
+        <label for="search">Search:</label>
+        <input class="input-text" id="search" maxlength="" name="q" type="text" value=""/>
+        <button class="button" title="Search" type="submit"><span><span>Search</span></span></button>
+        <div class="search-autocomplete" id="search_autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+            searchForm.initAutocomplete('http://www.myflowergift.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+    </div>
+</form>
+                                    </div>
+                                    <div class="top-cart-wrapper">
+                                        <div class="top-cart-contain">
+                                            <script type="text/javascript">
+    $jq(document).ready(function(){
+         var enable_module = $jq('#enable_module').val();
+         if(enable_module==0) return false;
+    })
+
+</script>
+<div id="mini_cart_block">
+    <div class="block-cart mini_cart_ajax">
+            <div class="block-cart">
+                                <div class="top-cart-title">
+                  <!--  <span><span> </span> - </span>-->
+                </div>
+                <div class="top-cart-content">
+                                                                <p class="empty">You have no items in your shopping cart.</p>
+                                        <div class="top-subtotal">Subtotal: <span class="price">Rs0.00</span></div>
+                                    </div>
+            </div>
+
+    </div>
+</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="header-static">
+<div class="col header-call">
+<h2 style="text-align: left;"><span style="font-size: large; color: #000000;"><strong>Call us now - 09886722619 </strong></span><strong style="color: #000000; font-size: large; text-align: right;"></strong></h2>
+</div>
+</div>                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+    <div class="ma-nav-mobile-container visible-xs">
+		<div class="navbar">
+			<div class="navbar-inner navbar-inactive" id="navbar-inner">
+                                <div class="menu-mobile">
+                                    <a class="btn btn-navbar navbar-toggle">
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                    </a>
+                                    <span class="brand navbar-brand">Categories</span>
+                                </div>
+				<ul class="mobilemenu nav-collapse collapse" id="ma-mobilemenu">
+					<li class="level0 nav-1 level-top first parent">
+<a class="level-top" href="http://www.myflowergift.com/anniversary.html">
+<span>Anniversary</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-1-1 first">
+<a href="http://www.myflowergift.com/anniversary/anniversary-flowers.html">
+<span>Anniversary Flowers</span>
+</a>
+</li><li class="level1 nav-1-2">
+<a href="http://www.myflowergift.com/anniversary/anniversary-cakes.html">
+<span>Anniversary Cakes </span>
+</a>
+</li><li class="level1 nav-1-3 last">
+<a href="http://www.myflowergift.com/anniversary/anniversary-combo.html">
+<span>Anniversary combo</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-2 level-top parent">
+<a class="level-top" href="http://www.myflowergift.com/birthday.html">
+<span>Birthday</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-2-1 first">
+<a href="http://www.myflowergift.com/birthday/birthday-flowers.html">
+<span>Birthday Flowers</span>
+</a>
+</li><li class="level1 nav-2-2">
+<a href="http://www.myflowergift.com/birthday/birthday-cake.html">
+<span>Birthday Cakes</span>
+</a>
+</li><li class="level1 nav-2-3 last">
+<a href="http://www.myflowergift.com/birthday/birthday-combo.html">
+<span>Birthday Combo</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-3 level-top parent">
+<a class="level-top" href="http://www.myflowergift.com/best-sellers.html">
+<span>PRODUCTS</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-3-1 first">
+<a href="http://www.myflowergift.com/best-sellers/cakes.html">
+<span>Cakes</span>
+</a>
+</li><li class="level1 nav-3-2">
+<a href="http://www.myflowergift.com/best-sellers/chocolates.html">
+<span>Chocolates</span>
+</a>
+</li><li class="level1 nav-3-3">
+<a href="http://www.myflowergift.com/best-sellers/flower-baskets.html">
+<span>Flower Baskets</span>
+</a>
+</li><li class="level1 nav-3-4">
+<a href="http://www.myflowergift.com/best-sellers/bunches.html">
+<span>Bunches</span>
+</a>
+</li><li class="level1 nav-3-5">
+<a href="http://www.myflowergift.com/best-sellers/mix-fruit-basket.html">
+<span>Mix Fruit Basket</span>
+</a>
+</li><li class="level1 nav-3-6">
+<a href="http://www.myflowergift.com/best-sellers/exclusive-arrangement.html">
+<span>Exclusive Arrangement</span>
+</a>
+</li><li class="level1 nav-3-7">
+<a href="http://www.myflowergift.com/best-sellers/vase.html">
+<span>Vase</span>
+</a>
+</li><li class="level1 nav-3-8">
+<a href="http://www.myflowergift.com/best-sellers/dry-fruits.html">
+<span>Dry Fruits</span>
+</a>
+</li><li class="level1 nav-3-9 last">
+<a href="http://www.myflowergift.com/best-sellers/teddy-bear.html">
+<span>Teddy Bear</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-4 level-top parent">
+<a class="level-top" href="http://www.myflowergift.com/send-flower-to-india.html">
+<span>Combos</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-4-1 first">
+<a href="http://www.myflowergift.com/send-flower-to-india/flower-cake.html">
+<span>Flowers&amp;cakes</span>
+</a>
+</li><li class="level1 nav-4-2">
+<a href="http://www.myflowergift.com/send-flower-to-india/flower-chocolate.html">
+<span>flowers&amp;chocolates</span>
+</a>
+</li><li class="level1 nav-4-3">
+<a href="http://www.myflowergift.com/send-flower-to-india/flower-dryfruits.html">
+<span>flowers&amp;dryfruits</span>
+</a>
+</li><li class="level1 nav-4-4">
+<a href="http://www.myflowergift.com/send-flower-to-india/flower-cake-chocolate.html">
+<span>Flowers,cakes&amp;chocolates</span>
+</a>
+</li><li class="level1 nav-4-5">
+<a href="http://www.myflowergift.com/send-flower-to-india/cake-chocolate.html">
+<span>cake&amp;chocolates</span>
+</a>
+</li><li class="level1 nav-4-6">
+<a href="http://www.myflowergift.com/send-flower-to-india/flower-champegne.html">
+<span>Flower&amp;champegne</span>
+</a>
+</li><li class="level1 nav-4-7">
+<a href="http://www.myflowergift.com/send-flower-to-india/flower-cake-balloons.html">
+<span>Flower,cake&amp;balloons </span>
+</a>
+</li><li class="level1 nav-4-8">
+<a href="http://www.myflowergift.com/send-flower-to-india/cake-wine.html">
+<span>cake&amp;wine </span>
+</a>
+</li><li class="level1 nav-4-9">
+<a href="http://www.myflowergift.com/send-flower-to-india/cake-teddybear.html">
+<span>cake&amp;teddy bear</span>
+</a>
+</li><li class="level1 nav-4-10">
+<a href="http://www.myflowergift.com/send-flower-to-india/flower-sweets.html">
+<span>Flower&amp;sweets</span>
+</a>
+</li><li class="level1 nav-4-11">
+<a href="http://www.myflowergift.com/send-flower-to-india/cake-teddybear-chocolates.html">
+<span>cake,teddybear&amp;chocolates</span>
+</a>
+</li><li class="level1 nav-4-12">
+<a href="http://www.myflowergift.com/send-flower-to-india/flower-cake-wine.html">
+<span>flower,cake&amp;wine</span>
+</a>
+</li><li class="level1 nav-4-13 last">
+<a href="http://www.myflowergift.com/send-flower-to-india/flower-cake-teddybear.html">
+<span>Flowers, cake and teddybear</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-5 level-top parent">
+<a class="level-top" href="http://www.myflowergift.com/flowers.html">
+<span>Flowers</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-5-1 first parent">
+<a href="http://www.myflowergift.com/flowers/by-varieties.html">
+<span>By Varieties</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-5-1-1 first">
+<a href="http://www.myflowergift.com/flowers/by-varieties/roses.html">
+<span>Roses</span>
+</a>
+</li><li class="level2 nav-5-1-2">
+<a href="http://www.myflowergift.com/flowers/by-varieties/lillies.html">
+<span>Lillies</span>
+</a>
+</li><li class="level2 nav-5-1-3">
+<a href="http://www.myflowergift.com/flowers/by-varieties/gerber.html">
+<span>Gerbera</span>
+</a>
+</li><li class="level2 nav-5-1-4">
+<a href="http://www.myflowergift.com/flowers/by-varieties/carnations.html">
+<span>Carnations</span>
+</a>
+</li><li class="level2 nav-5-1-5 last">
+<a href="http://www.myflowergift.com/flowers/by-varieties/orchids.html">
+<span>Orchids</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-5-2 last parent">
+<a href="http://www.myflowergift.com/flowers/by-ocassions.html">
+<span>By Ocassions</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-5-2-6 first">
+<a href="http://www.myflowergift.com/flowers/by-ocassions/birthday.html">
+<span>Birthday</span>
+</a>
+</li><li class="level2 nav-5-2-7">
+<a href="http://www.myflowergift.com/flowers/by-ocassions/anniversary.html">
+<span>Anniversary</span>
+</a>
+</li><li class="level2 nav-5-2-8">
+<a href="http://www.myflowergift.com/flowers/by-ocassions/thank-you.html">
+<span>Thank You</span>
+</a>
+</li><li class="level2 nav-5-2-9">
+<a href="http://www.myflowergift.com/flowers/by-ocassions/condolence.html">
+<span>Condolence</span>
+</a>
+</li><li class="level2 nav-5-2-10">
+<a href="http://www.myflowergift.com/flowers/by-ocassions/romance.html">
+<span>Romance</span>
+</a>
+</li><li class="level2 nav-5-2-11">
+<a href="http://www.myflowergift.com/flowers/by-ocassions/get-well-soon.html">
+<span>Get Well Soon</span>
+</a>
+</li><li class="level2 nav-5-2-12">
+<a href="http://www.myflowergift.com/flowers/by-ocassions/new-born.html">
+<span>New Born</span>
+</a>
+</li><li class="level2 nav-5-2-13">
+<a href="http://www.myflowergift.com/flowers/by-ocassions/sorry.html">
+<span>Sorry</span>
+</a>
+</li><li class="level2 nav-5-2-14">
+<a href="http://www.myflowergift.com/flowers/by-ocassions/wedding.html">
+<span>Wedding</span>
+</a>
+</li><li class="level2 nav-5-2-15">
+<a href="http://www.myflowergift.com/flowers/by-ocassions/congratulation.html">
+<span>Congratulation</span>
+</a>
+</li><li class="level2 nav-5-2-16 last">
+<a href="http://www.myflowergift.com/flowers/by-ocassions/warming-ceremony.html">
+<span>Warming Ceremony</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="level0 nav-6 level-top last parent">
+<a class="level-top" href="http://www.myflowergift.com/online-cake-india.html">
+<span>Cake</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-6-1 first">
+<a href="http://www.myflowergift.com/online-cake-india/eggless-cakes.html">
+<span>Eggless Cakes</span>
+</a>
+</li><li class="level1 nav-6-2">
+<a href="http://www.myflowergift.com/online-cake-india/regular-cakes.html">
+<span>Regular Cakes</span>
+</a>
+</li><li class="level1 nav-6-3">
+<a href="http://www.myflowergift.com/online-cake-india/5star-cake.html">
+<span>5star Cake</span>
+</a>
+</li><li class="level1 nav-6-4">
+<a href="http://www.myflowergift.com/online-cake-india/kids-cake.html">
+<span>Kids Cake</span>
+</a>
+</li><li class="level1 nav-6-5">
+<a href="http://www.myflowergift.com/online-cake-india/photo-cake.html">
+<span>Photo Cakes</span>
+</a>
+</li><li class="level1 nav-6-6">
+<a href="http://www.myflowergift.com/online-cake-india/birthday-cake.html">
+<span>Birthday Cake</span>
+</a>
+</li><li class="level1 nav-6-7 last">
+<a href="http://www.myflowergift.com/online-cake-india/wedding-cake.html">
+<span>Wedding Cake</span>
+</a>
+</li>
+</ul>
+</li>				</ul>
+			</div>
+		</div>
+</div>
+
+<div class="nav-container visible-lg visible-md">
+    <div class="container">
+        <div class="pt_custommenu" id="pt_custommenu">
+        <div class="pt_menu" id="pt_menu_home">
+<div class="parentMenu">
+<a href="http://www.myflowergift.com/">
+<span>Home</span>
+</a>
+</div>
+</div>            <div class="pt_menu nav-1" id="pt_menu13">
+<div class="parentMenu">
+<a href="http://www.myflowergift.com/anniversary.html">
+<span>Anniversary</span>
+</a>
+</div>
+<div class="popup" id="popup13" style="display: none; width: 1228px;">
+<div class="block1" id="block113">
+<div class="column last col1"><div class="itemMenu level1"><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/anniversary/anniversary-flowers.html"><span>Anniversary Flowers</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/anniversary/anniversary-cakes.html"><span>Anniversary Cakes </span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/anniversary/anniversary-combo.html"><span>Anniversary combo</span></a></div></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>                    <div class="pt_menu nav-2" id="pt_menu35">
+<div class="parentMenu">
+<a href="http://www.myflowergift.com/birthday.html">
+<span>Birthday</span>
+</a>
+</div>
+<div class="popup" id="popup35" style="display: none; width: 1228px;">
+<div class="block1" id="block135">
+<div class="column last col1"><div class="itemMenu level1"><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/birthday/birthday-flowers.html"><span>Birthday Flowers</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/birthday/birthday-cake.html"><span>Birthday Cakes</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/birthday/birthday-combo.html"><span>Birthday Combo</span></a></div></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>                    <div class="pt_menu nav-3" id="pt_menu18">
+<div class="parentMenu">
+<a href="http://www.myflowergift.com/best-sellers.html">
+<span>PRODUCTS</span>
+</a>
+</div>
+<div class="popup" id="popup18" style="display: none; width: 1228px;">
+<div class="block1" id="block118">
+<div class="column last col1"><div class="itemMenu level1"><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/best-sellers/cakes.html"><span>Cakes</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/best-sellers/chocolates.html"><span>Chocolates</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/best-sellers/flower-baskets.html"><span>Flower Baskets</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/best-sellers/bunches.html"><span>Bunches</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/best-sellers/mix-fruit-basket.html"><span>Mix Fruit Basket</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/best-sellers/exclusive-arrangement.html"><span>Exclusive Arrangement</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/best-sellers/vase.html"><span>Vase</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/best-sellers/dry-fruits.html"><span>Dry Fruits</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/best-sellers/teddy-bear.html"><span>Teddy Bear</span></a></div></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>                    <div class="pt_menu nav-4" id="pt_menu36">
+<div class="parentMenu">
+<a href="http://www.myflowergift.com/send-flower-to-india.html">
+<span>Combos</span>
+</a>
+</div>
+<div class="popup" id="popup36" style="display: none; width: 1228px;">
+<div class="block1" id="block136">
+<div class="column last col1"><div class="itemMenu level1"><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/send-flower-to-india/flower-cake.html"><span>Flowers&amp;cakes</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/send-flower-to-india/flower-chocolate.html"><span>flowers&amp;chocolates</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/send-flower-to-india/flower-dryfruits.html"><span>flowers&amp;dryfruits</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/send-flower-to-india/flower-cake-chocolate.html"><span>Flowers,cakes&amp;chocolates</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/send-flower-to-india/cake-chocolate.html"><span>cake&amp;chocolates</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/send-flower-to-india/flower-champegne.html"><span>Flower&amp;champegne</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/send-flower-to-india/flower-cake-balloons.html"><span>Flower,cake&amp;balloons </span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/send-flower-to-india/cake-wine.html"><span>cake&amp;wine </span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/send-flower-to-india/cake-teddybear.html"><span>cake&amp;teddy bear</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/send-flower-to-india/flower-sweets.html"><span>Flower&amp;sweets</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/send-flower-to-india/cake-teddybear-chocolates.html"><span>cake,teddybear&amp;chocolates</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/send-flower-to-india/flower-cake-wine.html"><span>flower,cake&amp;wine</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/send-flower-to-india/flower-cake-teddybear.html"><span>Flowers, cake and teddybear</span></a></div></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>                    <div class="pt_menu nav-5" id="pt_menu20">
+<div class="parentMenu">
+<a href="http://www.myflowergift.com/flowers.html">
+<span>Flowers</span>
+</a>
+</div>
+<div class="popup" id="popup20" style="display: none; width: 1228px;">
+<div class="block1" id="block120">
+<div class="column first col1"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.myflowergift.com/flowers/by-varieties.html"><span>By Varieties</span></a><div class="itemSubMenu level1"><div class="itemMenu level2"><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-varieties/roses.html"><span>Roses</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-varieties/lillies.html"><span>Lillies</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-varieties/gerber.html"><span>Gerbera</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-varieties/carnations.html"><span>Carnations</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-varieties/orchids.html"><span>Orchids</span></a></div></div></div></div><div class="column last col2"><div class="itemMenu level1"><a class="itemMenuName level1" href="http://www.myflowergift.com/flowers/by-ocassions.html"><span>By Ocassions</span></a><div class="itemSubMenu level1"><div class="itemMenu level2"><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-ocassions/birthday.html"><span>Birthday</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-ocassions/anniversary.html"><span>Anniversary</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-ocassions/thank-you.html"><span>Thank You</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-ocassions/condolence.html"><span>Condolence</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-ocassions/romance.html"><span>Romance</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-ocassions/get-well-soon.html"><span>Get Well Soon</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-ocassions/new-born.html"><span>New Born</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-ocassions/sorry.html"><span>Sorry</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-ocassions/wedding.html"><span>Wedding</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-ocassions/congratulation.html"><span>Congratulation</span></a><a class="itemMenuName level2" href="http://www.myflowergift.com/flowers/by-ocassions/warming-ceremony.html"><span>Warming Ceremony</span></a></div></div></div></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>                    <div class="pt_menu nav-6" id="pt_menu41">
+<div class="parentMenu">
+<a href="http://www.myflowergift.com/online-cake-india.html">
+<span>Cake</span>
+</a>
+</div>
+<div class="popup" id="popup41" style="display: none; width: 1228px;">
+<div class="block1" id="block141">
+<div class="column last col1"><div class="itemMenu level1"><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/online-cake-india/eggless-cakes.html"><span>Eggless Cakes</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/online-cake-india/regular-cakes.html"><span>Regular Cakes</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/online-cake-india/5star-cake.html"><span>5star Cake</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/online-cake-india/kids-cake.html"><span>Kids Cake</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/online-cake-india/photo-cake.html"><span>Photo Cakes</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/online-cake-india/birthday-cake.html"><span>Birthday Cake</span></a><a class="itemMenuName level1 nochild" href="http://www.myflowergift.com/online-cake-india/wedding-cake.html"><span>Wedding Cake</span></a></div></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>        
+<div class="pt_menu nav-15 pt_menu_no_child" id="pt_menu170">
+<div class="parentMenu">
+<a href="http://www.myflowergift.com/custom-order/custom-order.html/">
+<span>Custom Order</span>
+</a>
+</div>
+</div>
+                
+        <div class="clearBoth"></div>
+    </div>
+    </div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var CUSTOMMENU_POPUP_EFFECT = 0;
+var CUSTOMMENU_POPUP_TOP_OFFSET = 48;
+//]]>
+</script>
+
+    <div class="header-bottom"></div>
+</div>
+
+
+        
+<div id="sequence-theme">
+    <div id="sequence">
+                <ul class="controls">
+            <li><a class="sequence-prev">Prev</a></li>
+            <li><a class="sequence-next">Next</a></li>
+        </ul>
+        
+              
+        <ul class="sequence-canvas">
+                                                    <li class="animate-in">
+                            <h2 class="title">ANNIVERSARY SPECIAL</h2>
+                            <div class="intro subtitle">
+                                Best collection of fresh flowers, cakes , and anniversary gifts                            </div>
+														
+								<img alt="Image" class="slider-bg" src="http://www.myflowergift.com/media/anniversary-ban-3.jpg"/>
+																					                                                            <div class="link subtitle">
+                                    <a href="http://www.myflowergift.com/anniversary.html">Shop now</a>
+                                </div>
+                                                    </li>
+                                                            <li class="animate-out">
+                            <h2 class="title">EXCLUSIVE BIRTHDAY COLLECTIONS</h2>
+                            <div class="intro subtitle">
+                                Exclusive Birthday gifts collection                            </div>
+														
+								<img alt="Image" class="slider-bg" src="http://www.myflowergift.com/media/bdy-ban-3.jpg"/>
+																					                                                            <div class="link subtitle">
+                                    <a href="http://www.myflowergift.com/birthday.html">Shop now</a>
+                                </div>
+                                                    </li>
+                            </ul>
+            </div>
+</div>
+
+<script type="text/javascript">
+
+    //<![CDATA[
+    $jq(document).ready(function(){
+        //$jqstatus = $jq(".status");
+        var options = {
+            autoPlay: true,
+            autoPlayDelay: 3000,
+            pauseOnHover: false, 
+            hidePreloaderDelay: 500,
+            nextButton: true,
+            prevButton: true,
+            pauseButton: true,
+            preloader: true,
+            pagination:true,
+            hidePreloaderUsingCSS: false,                   
+            animateStartingFrameIn: true,    
+            navigationSkipThreshold: 750,
+            preventDelayWhenReversingAnimations: true,
+            customKeyEvents: {
+                80: "pause"
+            }
+        };
+
+        var sequence = $jq("#sequence").sequence(options).data("sequence");
+
+           
+    });
+    //]]>
+
+</script><div class="banner-static-contain">
+<div class="home-banner-static row">
+<div class="banner-box banner-box1 col-sm-3 col-md-3 col-sms-10">
+<div class="banner-col">
+<h2>              </h2>
+<h2>                   Flowers</h2>
+<p><a href="http://www.myflowergift.com/best-sellers/flower-baskets.html" target="_self"><img alt="" height="80" src="http://www.myflowergift.com/media/wysiwyg/flowersopt-min.jpg" style="float: left;" width="80"/></a></p>
+<p><span>  Fresh flowers for all occassion,</span>  <span style="color: #ff0000;"><strong><a href="http://www.myflowergift.com/best-sellers/flower-baskets.html" target="_self"><span style="color: #ff0000;">CLICK HERE</span></a></strong></span></p>
+</div>
+</div>
+<div class="banner-box banner-box2 col-sm-3 col-md-3 col-sms-10">
+<div class="banner-col1">
+<h2> </h2>
+<h2>                  Cakes</h2>
+<p><a href="http://www.myflowergift.com/online-cake-india/birthday-cake.html" target="_self"><img alt="" height="80" src="http://www.myflowergift.com/media/wysiwyg/cakeopt-min.jpg" style="float: left;" width="80"/></a></p>
+<p><span>Delicious and Scrumptious Fresh cakes , For more information,</span> <span style="color: #ff0000;"><strong><a href="http://www.myflowergift.com/online-cake-india/regular-cakes.html" target="_self"><span style="color: #ff0000;">CLICK HERE</span></a></strong></span></p>
+</div>
+</div>
+<div class="banner-box banner-box3 col-sm-3 col-md-3 col-sms-10">
+<div class="banner-col2">
+<h2> </h2>
+<h2>         Flower&amp;Cake</h2>
+<p><a href="http://www.myflowergift.com/send-flower-to-india.html"><img alt="" height="80" src="http://www.myflowergift.com/media/wysiwyg/flowerswithcakeopt-min.jpg" style="float: left;" width="80"/></a></p>
+<p><span>Exotic and beautiful combinations of  gifts ,For more informtion,</span>  <span style="color: #ff0000;"><strong><a href="http://www.myflowergift.com/send-flower-to-india.html" target="_self"><span style="color: #ff0000;">CLICK HERE</span></a></strong></span></p>
+</div>
+</div>
+<div class="banner-box banner-box3 col-sm-3 col-md-3 col-sms-10">
+<div class="banner-col3">
+<h2> </h2>
+<h2>           Bestsellers</h2>
+<p><a href="http://www.myflowergift.com/best-sellers/exclusive-arrangement.html" target="_self"><img alt="" height="80" src="http://www.myflowergift.com/media/wysiwyg/bestopt01.jpg" style="float: left;" width="80"/></a></p>
+<p>Fast moving  products , suitable for all occassion, For more information  <span style="color: #ff0000;"><strong><a href="http://www.myflowergift.com/best-sellers/exclusive-arrangement.html" target="_self"><span style="color: #ff0000;">CLICK HERE</span></a></strong></span></p>
+</div>
+</div>
+</div>
+</div>        <div class="main-container col1-layout">
+            <div class="container">
+                <div class="container-inner">
+                    <div class="main">
+                                                <div class="col-main">
+                                                        <div class="std"><div class="home-content">			<div class="ma-featuredproductslider-container">
+							<div class="ma-featured-sldier-title"><h2>Featured Products</h2></div>
+								<ul class="bxslider">
+																<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/10-yellow-lillies-exotic-flower-bouquet.html" title="10  YELLOW lillies exotic flower bouquet"><img alt="10  YELLOW lillies exotic flower bouquet" src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/6/3/631684b410c8ccee3c5f60f9c25ad06a.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/10-yellow-lillies-exotic-flower-bouquet.html" title="10  YELLOW lillies exotic flower bouquet">10  YELLOW lillies exotic flower bouquet</a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1119">
+                                            <span class="price">Rs2,000</span>                    					<span class="price">($32.6)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1119/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/20-orchids-in-glass-vase.html" title="20 orchids in glass vase"><img alt="20 orchids in glass vase" src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/1/4/1405064898-12.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/20-orchids-in-glass-vase.html" title="20 orchids in glass vase">20 orchids in glass vase</a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1124">
+                                            <span class="price">Rs1,950</span>                    					<span class="price">($31.79)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1124/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/50-yellow-roses-basket.html" title="50 yellow roses basket"><img alt="50 yellow roses basket" src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/1/0/100_yellow_roses_basket_arrangement_2.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/50-yellow-roses-basket.html" title="50 yellow roses basket">50 yellow roses basket</a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1126">
+                                            <span class="price">Rs1,850</span>                    					<span class="price">($30.16)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1126/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/100-red-roses-arrangement-with-2ft-heightrs.html" title="100 red roses arrangement with 2ft heightrs"><img alt="100 red roses arrangement with 2ft heightrs" src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/1/0/100_red_roses_arrangement_with_2ft_heightrs_3050.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/100-red-roses-arrangement-with-2ft-heightrs.html" title="100 red roses arrangement with 2ft heightrs">100 red roses arrangement with 2ft heightrs</a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1127">
+                                            <span class="price">Rs3,850</span>                    					<span class="price">($62.76)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1127/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/arrangement-of-lilies-n-orchids.html" title="Arrangement of lilies n orchids"><img alt="Arrangement of lilies n orchids" src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/a/r/arrangement_of_lilies_n_orchids_rs_2150.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/arrangement-of-lilies-n-orchids.html" title="Arrangement of lilies n orchids">Arrangement of lilies n orchids</a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1128">
+                                            <span class="price">Rs2,150</span>                    					<span class="price">($35.05)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1128/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/half-kg-black-forest.html" title="Half Kg Black Forest cake"><img alt="Half Kg Black Forest cake" src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/1/_/1_kg_black_forest_fresh_cream_cake_1049_3.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/half-kg-black-forest.html" title="Half Kg Black Forest cake">Half Kg Black Forest cake</a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1130">
+                                            <span class="price">Rs649</span>                    					<span class="price">($10.58)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1130/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/white-gerbas-arrangement.html" title="Assorted Dry Fruits Basket "><img alt="Assorted Dry Fruits Basket " src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/d/r/dryfruits-8_2.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/white-gerbas-arrangement.html" title="Assorted Dry Fruits Basket ">Assorted Dry Fruits Basket </a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1131">
+                                            <span class="price">Rs1,350</span>                    					<span class="price">($22.01)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1131/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/pink-lilies-bunch.html" title="Pink lilies bunch"><img alt="Pink lilies bunch" src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/h/e/heartylily.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/pink-lilies-bunch.html" title="Pink lilies bunch">Pink lilies bunch</a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1132">
+                                            <span class="price">Rs2,000</span>                    					<span class="price">($32.6)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1132/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/orchids-in-glass-vase-with-1-kg-gulab-jamun.html" title="Orchids in glass vase with 1 kg gulab jamun "><img alt="Orchids in glass vase with 1 kg gulab jamun " src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/o/r/orchids_in_glass_vase_with_1kg_gulabjamun_rs1450.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/orchids-in-glass-vase-with-1-kg-gulab-jamun.html" title="Orchids in glass vase with 1 kg gulab jamun ">Orchids in glass vase with 1 kg gulab jamun </a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1133">
+                                            <span class="price">Rs1,850</span>                    					<span class="price">($30.16)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1133/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/mix-flower-arrangement.html" title="Mix flower arrangement "><img alt="Mix flower arrangement " src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/6/5/65.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/mix-flower-arrangement.html" title="Mix flower arrangement ">Mix flower arrangement </a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1134">
+                                            <span class="price">Rs7,000</span>                    					<span class="price">($114.1)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1134/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/2-kg-mix-fruit-cake.html" title="2 Kg Mix fruit Basket"><img alt="2 Kg Mix fruit Basket" src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/f/u/full_of_freshness.._2_kg_assorted_fruit_basket_900_1.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/2-kg-mix-fruit-cake.html" title="2 Kg Mix fruit Basket">2 Kg Mix fruit Basket</a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1135">
+                                            <span class="price">Rs1,100</span>                    					<span class="price">($17.93)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1135/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/basket-of-ferero-rocher-with-roses.html" title="basket of ferero rocher with roses"><img alt="basket of ferero rocher with roses" src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/b/a/basket_of_ferero_rocher_with_roses_rs_1550.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/basket-of-ferero-rocher-with-roses.html" title="basket of ferero rocher with roses">basket of ferero rocher with roses</a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1136">
+                                            <span class="price">Rs2,350</span>                    					<span class="price">($38.31)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1136/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/bed-of-150-pink-roses.html" title="Bed of 100 pink roses"><img alt="Bed of 100 pink roses" src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/b/e/bed_of_150_pink_roses_rs3550.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/bed-of-150-pink-roses.html" title="Bed of 100 pink roses">Bed of 100 pink roses</a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1137">
+                                            <span class="price">Rs3,550</span>                    					<span class="price">($57.87)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1137/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/bunch-of-15-carnation-with-fruit-basket.html" title="Bunch of 15 carnation with fruit basket"><img alt="Bunch of 15 carnation with fruit basket" src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/n/a/naren-20may-3-500x500_1.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/bunch-of-15-carnation-with-fruit-basket.html" title="Bunch of 15 carnation with fruit basket">Bunch of 15 carnation with fruit basket</a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1140">
+                                            <span class="price">Rs1,750</span>                    					<span class="price">($28.53)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1140/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/bunch-of-mix-flowers-with-assorted-dryfruits.html" title="bunch of mix flowers with assorted dryfruits"><img alt="bunch of mix flowers with assorted dryfruits" src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/f/i/fit-and-fine-beautiful-bouquet-of-mix-flowers-including-roses-carnationsand-lilies-with-beautiful-tissue-packing-and-1-kg-assorted-dry-fruits2300-630x552.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/bunch-of-mix-flowers-with-assorted-dryfruits.html" title="bunch of mix flowers with assorted dryfruits">bunch of mix flowers with assorted dryfruits</a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1143">
+                                            <span class="price">Rs2,450</span>                    					<span class="price">($39.94)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1143/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+											<li class="featuredproductslider-item">
+						
+												<div class="item-inner">
+							<div class="box-item">
+                                    <a class="product-image" href="http://www.myflowergift.com/bunch-of-orchids-with-fruit-basket.html" title="30 red roses with 1 Pound black forest cake with teddy bear"><img alt="30 red roses with 1 Pound black forest cake with teddy bear" src="http://www.myflowergift.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/s/p/splendid_choice_..30_red_roses_basket_arrangement_with_1_pound_black_forest_cake_with_cute_6_inch_teddy_bear_1700.jpg"/></a>
+					<h2 class="product-name"><a href="http://www.myflowergift.com/bunch-of-orchids-with-fruit-basket.html" title="30 red roses with 1 Pound black forest cake with teddy bear">30 red roses with 1 Pound black forest cake with teddy bear</a></h2>
+                                    <div class="review-price">
+										   
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1144">
+                                            <span class="price">Rs2,150</span>                    					<span class="price">($35.05)</span>                </span>
+                        
+        </div>
+
+										
+									    </div>
+				                                        
+                                    <div class="actions">
+					<div class="cart-content">
+																					    <button class="button btn-cart" onclick="setLocation('http://www.myflowergift.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5teWZsb3dlcmdpZnQuY29tLw,,/product/1144/form_key/09zBBXLimExbw689/')" title="Add to Cart" type="button"><span><span>Add to Cart</span></span></button>
+													    	
+					
+                                        					</div>
+					</div>
+                                    
+												</div>
+						</div>
+						</li>                    
+									</ul>
+
+<script type="text/javascript">
+	$jq(document).ready(function(){
+	  $jq('.ma-featuredproductslider-container .bxslider').bxSlider(
+		{
+				  speed: 3000,
+		  pause: 600,			  
+		  minSlides: 1,
+		  infiniteLoop:false,
+		  maxSlides: 20,
+		  slideWidth: 200,
+		  slideMargin:6,
+				  pager: true,
+							controls: true,
+				}
+	  );
+	});
+</script>
+			
+			</div> 
+
+
+<div class="banner-home-content">
+<div class="banner-content row">
+<div class="banner-box banner-box1 col-xs-12 col-sm-4"><a href="http://www.myflowergift.com/send-flower-to-india.html" target="_blank"><img alt="" src="http://www.myflowergift.com/media/wysiwyg/comboopt-min.jpg"/></a></div>
+<div class="banner-box banner-box2 col-xs-12 col-sm-4"><a href="http://www.myflowergift.com/anniversary.html" target="_blank"><img alt="" src="http://www.myflowergift.com/media/wysiwyg/anniopt.jpg"/></a></div>
+<div class="banner-box banner-box3 col-xs-12 col-sm-4"><a href="http://www.myflowergift.com/birthday.html" target="_blank"><img alt="" src="http://www.myflowergift.com/media/wysiwyg/birthopt-min.jpg"/></a></div>
+</div>
+</div>			<div class="ma-newproductslider-container">
+							<div class="ma-newproductslider-title"><h2>New Products</h2></div>
+				 
+			<div class="ma-newproductslider">	
+				<p class="note-msg">There are no products matching the selection.</p>
+			</div>
+		 
+	</div> 
+
+
+
+
+</div>
+<div class="home-content"> </div>
+
+<div class="home-content">
+<p> </p>
+</div></div>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="footer-top-container">
+    <div class="container">
+        <div class="footer-static-top row">
+            <p><br/><br/></p>
+<div class="f-top col-sm-4 col-md-4 col-sms-12">
+<div class="footer-top-title">
+<h3>ABOUT US</h3>
+</div>
+<div class="footer-top-content col">
+<p>myflowergift brings smiles on millions of people by delivering cakes, gifts and flower bouquets to their door.</p>
+<div class="f-content">
+<div class="footer-box">
+<h2>FREE SHIPPING</h2>
+</div>
+</div>
+</div>
+</div>
+<div class="f-top col-sm-4 col-md-4 col-sms-12">
+<div class="footer-top-title">
+<h3>CONNECT WITH US</h3>
+</div>
+<div class="footer-top-content col1">
+<div class="footer-icon">
+<div class="facebook"><a href="#">facebook</a></div>
+<div class="google"><a href="#">google</a></div>
+<div class="twiter"><a href="#">twiter</a></div>
+<div class="pinterest"><a href="#">pinterest</a></div>
+<div class="tumblr"><a href="#">tumblr</a></div>
+<div class="skype"><a href="#">skype</a></div>
+<div class="behance"><a href="#">behance</a></div>
+</div>
+<div class="f-content">
+<div class="footer-box">
+<h2>Call 09886722619</h2>
+</div>
+</div>
+</div>
+</div>
+<div class="f-top col-sm-4 col-md-4 col-sms-12">
+<div class="footer-top-title">
+<h3>SUBSCRIBE US</h3>
+</div>
+<div class="footer-top-content col2">
+<div class="footer-newsleter"><div class="block block-subscribe">
+    <div class="subscribe-title footer-static-title">
+        <h3>Newsletter</h3>
+    </div>
+    <form action="http://www.myflowergift.com/newsletter/subscriber/new/" id="newsletter-validate-detail" method="post">
+        <div class="block-content">
+            <div class="form-subscribe-header">
+                <label for="newsletter">Sign Up for Our Newsletter:</label>
+            </div>
+            <div class="input-box">
+               <input class="input-text required-entry validate-email" id="newsletter" name="email" title="Sign up for our newsletter" type="text"/>
+            </div>
+            <div class="actions">
+                <button class="button" title="Subscribe" type="submit"><span><span>Subscribe</span></span></button>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+</div>
+<div class="f-content">
+<div class="footer-box">
+<h2>100% satisfaction</h2>
+</div>
+</div>
+</div>
+</div>        </div>
+    </div>
+</div>
+<div class="footer-top-container">
+    <div class="container">
+        <div class="footer-static-top row">
+            <div class="home-content">
+<p><em>To commemorate happy occasions and sending amazing gifts are the two main goal that we consider seriously at – Myflowergift. We have been in this business from last 4years, initially we used to deliver flowers but now we have taken our website to a new platform with delivery of cake, chocolates, varieties of  sweets and other gift items, you name it we have it. Our website also consists of superior personalized gifts along with fresh and large arrangements of flowers. We are currently one of the largest flower and gift delivering website in India with 100% delivery across all the major cities and towns of India.</em> Along with the wide range of distribution network, with these services along with our online facilities makes us the excellent choice to deliver flowers &amp; gifts across India. The extraordinary distribution network and the abrupt number of stores across India is something which separates us from other online flowers and gifts delivery websites. And hence we take care of the quality of service and perseverance of <span style="text-decoration: underline;">service delivery across India</span>, thus making <strong><a href="http://www.myflowergift.com/">Myflowergift</a> </strong>one of largest gift delivery site among many satisfied customers across India. We have formulated each emotions, affection and happiness together to indicate the best gifts for all happy occasions.</p>
+<p>Many people have used our websites having satisfied with our service and also inspired us to get better each day. We keep on updating each and every gifts for almost all emotion, occasion and celebration i.e <a href="http://www.myflowergift.com/birthday.html">gifts for Birthdays</a>, Anniversaries, Mother’s Day, Valentine’s Day, Rakhi and many more. We are trying our best to keep our customers always smiling with delivering each products to their doorsteps to make any occasion a special one. You can send gifts to Mumbai, <a href="http://www.myflowergift.com/send-flowers-to-delhi.html">Delhi</a>, <strong><a href="http://www.myflowergift.com/online-cakes-in-bangalore.html">Bangalore</a></strong>, Kolkata and many more.</p>
+<p>Myflowergift provides online flower and cake delivery service all across India. If you are looking for a fresh flower delivery in India, or if want a same day delivery of flowers to Hyderabad, Delhi, Mumbai, Bangalore, and any other part of India , then you have to visit Myflowergift.com. You can send cakes, <a href="http://www.myflowergift.com/best-sellers/dry-fruits.html">Dry Fruit </a>and other gifts items to India for any occasions including birthdays, <strong><a href="http://www.myflowergift.com/anniversary.html">anniversaries</a> </strong>and festivals like Diwali, Christmas, Dasara etc. With our services, you can also <span style="text-decoration: underline;">send flowers and gifts to India</span> from UK, DUBAI,USA, Australia, Canada and other parts of the world within a short time and with only a few simple steps from our website. We deliver flowers, <a href="http://www.myflowergift.com/best-sellers/cakes.html">cakes</a> and other gifts items on the exact date and time mentioned by you. We also have custom delivery services such as midnight cake delivery for birthdays, and also provide fixed time delivery, same day delivery of flowers, gifts and cakes, <a href="http://www.myflowergift.com/best-sellers/teddy-bear.html">Teddy Bear</a> for any occasions.</p>
+
+</div>        </div>
+    </div>
+</div>
+<div class="footer-static-container">
+    <div class="container">
+        <div class="footer-static row">
+            <div class="f-col col-sm-6 col-md-3 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>CONTACT US</h3>
+</div>
+<div class="footer-static-content">
+<div class="address">
+<p>Info@myflowergift.com</p>
+</div>
+<div class="phone">
+<p>Call us now:</p>
+<h2><span><span>09886722619</span></span></h2>
+</div>
+<div class="mail">
+<p>Customer Support:</p>
+<span>admin@myflowergift.com</span></div>
+</div>
+</div>
+<div class="f-col f-col2 col-sm-6 col-md-3 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>INFORMATION</h3>
+</div>
+<div class="footer-static-content row-fluid">
+<ul>
+<li class="first"><a href="#" title="About Us">About Us</a></li>
+<li><a href="http://www.myflowergift.com/terms-condition/" title="Terms and Conditions">Terms &amp; Condition</a></li>
+<li><a href="#" title="Privacy Policy">Privacy Policy</a></li>
+<li class="last"><a href="http://www.myflowergift.com/contacts">Contact Us</a></li>
+<li><a href="http://www.myflowergift.com/delivery-locations/" title="Delivery Locations">Delivery Locations</a></li>
+</ul>
+</div>
+</div>
+<div class="f-col f-col3 col-sm-6 col-md-3 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>My Account</h3>
+</div>
+<div class="footer-static-content">
+<ul>
+<li class="first"><a href="http://www.myflowergift.com/customer/account/">My Account</a></li>
+<li><a href="http://www.myflowergift.com/contacts">Order History</a></li>
+<li class="last"><a href="http://www.myflowergift.com/catalog/seo_sitemap/category">Site Map</a></li>
+</ul>
+</div>
+</div>
+<div class="f-col f-col4 col-sm-6 col-md-3 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>WHY BUY FROM US</h3>
+</div>
+<div class="footer-static-content">
+<ul>
+<li class="first"><a href="#" target="_blank">Fast Delivery</a></li>
+<li><a href="#" target="_blank">Delivery Information</a></li>
+<li><a href="#" target="_blank">Mid Night Delivery</a></li>
+<li><a href="#" target="_blank">Special Occasion</a></li>
+<li><a href="http://www.myflowergift.com/custom-order/custom-order.html/?SID=4698f740cc870de6587085f112d58290" target="_blank">Custom Order</a></li>
+<li class="last"><a href="#" target="_blank">100% Satisfaction</a></li>
+</ul>
+</div>
+</div>        </div>
+    </div>
+</div>
+<div class="ma-footer-container">
+    <div class="container">
+        <div class="footer">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6">
+                    <address>© 2012 Myflowergift. All Rights Reserved.</address>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="box-footer">
+                                        <div class="f-images">
+                    <img alt="Payment" class="payment_footer" src="http://www.myflowergift.com/skin/frontend/default/ma_pisces_flowers//images/payment.png" style=""/>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            <div class="hidden-xs" id="back-top"></div>
+        </div>
+    </div>
+</div>
+                
+
+    </div>
+</div>
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?s4mb5skyTRDXwrhA6cTpG5DfJTmpC7tr";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zopim Live Chat Script-->
+
+</body></html>

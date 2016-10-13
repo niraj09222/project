@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="e394a4c024b19e5e9c7b076aee38111e" name="p:domain_verify"/>
+<title>Send flowers, cake, chocolate &amp; Personalized gifts to INDIA , Online flowers &amp; Gift Store in MUMBAI - Gift Darbar.</title>
+<base href="http://giftdarbar.com/"/>
+<meta content="Gift Darbar.com is an online flowers &amp; gift store enable you to buy or send 
+Fresh flowers, cake, chocolate, soft toys , fresh swits &amp; personalized gifts such as Mugs , Pillow , T Shirts , frames , Clock , keychain , tiles with frames to your love onces across the MUMBAI &amp; India." name="description"/>
+<link href="http://giftdarbar.com/image/data/cart.png" rel="icon"/>
+<link href="catalog/view/theme/default/stylesheet/stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="catalog/view/theme/default/stylesheet/slideshow.css" media="screen" rel="stylesheet" type="text/css"/>
+
+
+		<script src="catalog/view/javascript/crawler.js" type="text/javascript"></script>
+		
+<script src="catalog/view/javascript/jquery/jquery-1.7.1.min.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+<link href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css" rel="stylesheet" type="text/css"/>
+<script src="catalog/view/javascript/jquery/ui/external/jquery.cookie.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/jquery/colorbox/jquery.colorbox.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/jquery/crawler.js" type="text/javascript"></script>
+
+<link href="catalog/view/javascript/jquery/colorbox/colorbox.css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="catalog/view/javascript/jquery/tabs.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/common.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/jquery-blink.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+
+$(document).ready(function()
+{
+	$('.blink').blink();
+});
+
+</script>
+<script charset="utf-8" src="catalog/view/javascript/v_mega_menu.js" type="text/javascript"></script>
+            <link href="catalog/view/theme/default/stylesheet/V_mega_menu.css" rel="stylesheet" type="text/css"/>
+
+<script src="catalog/view/javascript/jquery/jquery.cycle.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/jquery/nivo-slider/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+<script type="text/javascript">
+// <![CDATA[
+var colour="#666666";
+var sparkles=40;
+
+
+var x=ox=400;
+var y=oy=300;
+var swide=800;
+var shigh=600;
+var sleft=sdown=0;
+var tiny=new Array();
+var star=new Array();
+var starv=new Array();
+var starx=new Array();
+var stary=new Array();
+var tinyx=new Array();
+var tinyy=new Array();
+var tinyv=new Array();
+window.onload=function() { if (document.getElementById) {
+var i, rats, rlef, rdow;
+for (var i=0; i<sparkles; i++) {
+var rats=createDiv(3, 3);
+rats.style.visibility="hidden";
+document.body.appendChild(tiny[i]=rats);
+starv[i]=0;
+tinyv[i]=0;
+var rats=createDiv(5, 5);
+rats.style.backgroundColor="transparent";
+rats.style.visibility="hidden";
+var rlef=createDiv(1, 5);
+var rdow=createDiv(5, 1);
+rats.appendChild(rlef);
+rats.appendChild(rdow);
+rlef.style.top="2px";
+rlef.style.left="0px";
+rdow.style.top="0px";
+rdow.style.left="2px";
+document.body.appendChild(star[i]=rats);
+}
+set_width();
+sparkle();
+}}
+function sparkle() {
+var c;
+if (x!=ox || y!=oy) {
+ox=x;
+oy=y;
+for (c=0; c<sparkles; c++) if (!starv[c]) {
+star[c].style.left=(starx[c]=x)+"px";
+star[c].style.top=(stary[c]=y)+"px";
+star[c].style.clip="rect(0px, 5px, 5px, 0px)";
+star[c].style.visibility="visible";
+starv[c]=50;
+break;
+}
+}
+for (c=0; c<sparkles; c++) {
+if (starv[c]) update_star(c);
+if (tinyv[c]) update_tiny(c);
+}
+setTimeout("sparkle()", 40);
+}
+function update_star(i) {
+if (--starv[i]==25) star[i].style.clip="rect(1px, 4px, 4px, 1px)";
+if (starv[i]) {
+stary[i]+=1+Math.random()*3;
+if (stary[i]<shigh+sdown) {
+star[i].style.top=stary[i]+"px";
+starx[i]+=(i%5-2)/5;
+star[i].style.left=starx[i]+"px";
+}
+else {
+star[i].style.visibility="hidden";
+starv[i]=0;
+return;
+}
+}
+else {
+tinyv[i]=50;
+tiny[i].style.top=(tinyy[i]=stary[i])+"px";
+tiny[i].style.left=(tinyx[i]=starx[i])+"px";
+tiny[i].style.width="2px";
+tiny[i].style.height="2px";
+star[i].style.visibility="hidden";
+tiny[i].style.visibility="visible"
+}
+}
+function update_tiny(i) {
+if (--tinyv[i]==25) {
+tiny[i].style.width="1px";
+tiny[i].style.height="1px";
+}
+if (tinyv[i]) {
+tinyy[i]+=1+Math.random()*3;
+if (tinyy[i]<shigh+sdown) {
+tiny[i].style.top=tinyy[i]+"px";
+tinyx[i]+=(i%5-2)/5;
+tiny[i].style.left=tinyx[i]+"px";
+}
+else {
+tiny[i].style.visibility="hidden";
+tinyv[i]=0;
+return;
+}
+}
+else tiny[i].style.visibility="hidden";
+}
+document.onmousemove=mouse;
+function mouse(e) {
+set_scroll();
+y=(e)?e.pageY:event.y+sdown;
+x=(e)?e.pageX:event.x+sleft;
+}
+function set_scroll() {
+if (typeof(self.pageYOffset)=="number") {
+sdown=self.pageYOffset;
+sleft=self.pageXOffset;
+}
+else if (document.body.scrollTop || document.body.scrollLeft) {
+sdown=document.body.scrollTop;
+sleft=document.body.scrollLeft;
+}
+else if (document.documentElement && (document.documentElement.scrollTop || document.documentElement.scrollLeft)) {
+sleft=document.documentElement.scrollLeft;
+sdown=document.documentElement.scrollTop;
+}
+else {
+sdown=0;
+sleft=0;
+}
+}
+window.onresize=set_width;
+function set_width() {
+if (typeof(self.innerWidth)=="number") {
+swide=self.innerWidth;
+shigh=self.innerHeight;
+}
+else if (document.documentElement && document.documentElement.clientWidth) {
+swide=document.documentElement.clientWidth;
+shigh=document.documentElement.clientHeight;
+}
+else if (document.body.clientWidth) {
+swide=document.body.clientWidth;
+shigh=document.body.clientHeight;
+}
+}
+function createDiv(height, width) {
+var div=document.createElement("div");
+div.style.position="absolute";
+div.style.height=height+"px";
+div.style.width=width+"px";
+div.style.overflow="hidden";
+div.style.backgroundColor=colour;
+return (div);
+}
+// ]]>
+</script>
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie7.css" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie6.css" />
+<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('#logo img');
+</script>
+<![endif]-->
+<link href="catalog/view/theme/default/stylesheet/livesearch.css" rel="stylesheet" type="text/css"/>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37470746-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></head>
+<body>
+
+<div id="container">
+<div id="header">
+    <div id="logo"><a href="http://giftdarbar.com/index.php?route=common/home"><img alt="Gift Darbar" src="http://giftdarbar.com/image/data/logo.png" title="Gift Darbar"/></a></div>
+    
+  <div id="cart">
+  <div class="heading">
+    <h4>My Cart    <a><span id="cart-total">0</span></a></h4></div>
+  <div class="content">
+        <div class="empty">Your shopping cart is empty!</div>
+      </div>
+</div><div id="search">
+ <!--   <div class="button-search"></div>-->
+        <input name="filter_name" onclick="this.value = '';" onkeydown="this.style.color = '#000000';" type="text" value="Search"/>
+      </div>
+  <div id="refer"><a href="index.php?route=information/information&amp;information_id=10"><img src="catalog/view/theme/default/image/crown.png"/><span class="blink">Refer &amp; Earn</span></a></div>
+  <div id="welcome">
+  <img src="catalog/view/theme/default/image/crown.png"/>
+        <a href="http://giftdarbar.com/index.php?route=account/login">Sign In </a> / <a href="http://giftdarbar.com/index.php?route=account/register">Up</a>.      </div>
+  <div class="links"><a href="http://giftdarbar.com/index.php?route=common/home">Home</a><!--<a href="http://giftdarbar.com/index.php?route=account/wishlist" id="wishlist-total">Wish List (0)</a>--><a href="http://giftdarbar.com/index.php?route=account/account">My Account</a><!--<a href="http://giftdarbar.com/index.php?route=checkout/cart">My Cart</a>--><a href="http://giftdarbar.com/index.php?route=checkout/cart" style="border-right:1px solid #F4EBA8;">Checkout  </a>     <form action="http://giftdarbar.com/index.php?route=module/currency" enctype="multipart/form-data" method="post">
+		<div id="currency">
+			<select id="currencies" name="currencies" onchange="$('input[name=\'currency_code\']').attr('value', $('#currencies option:selected').val()
+).submit(); $(this).parent().parent().submit();" style="margin-top:7px;">
+			            	                    	<option class="option" selected="" value="INR">INR india</option>
+            	                        	                    	<option class="option" value="USD">USD dollar</option>
+				                        </select>
+            <input name="currency_code" type="hidden" value=""/>
+            <input name="redirect" type="hidden" value="http://giftdarbar.com/index.php?route=common/home"/>
+		</div>
+	</form>
+</div>
+</div>
+<div id="topmenu">
+
+
+<div id="occass">
+         <a href="http://giftdarbar.com/index.php?route=product/category&amp;path=105">Diwali</a>
+         
+    	 
+         </div>
+<img border="0" src="catalog/view/theme/default/image/topmenu.png" usemap="#Map"/>
+<map name="Map"><area coords="190,37,331,65" href="index.php?route=information/information&amp;information_id=13" shape="rect"></area>
+<area coords="542,35,670,69" href="index.php?route=information/information&amp;information_id=12" shape="rect"></area>
+<area coords="703,38,837,66" href="index.php?route=product/bestseller" shape="rect"></area>
+<area coords="874,34,1010,71" href="http://giftdarbar.blogspot.in/" shape="rect" target="_blank"></area>
+<area coords="361,34,511,67" href="index.php?route=information/information&amp;information_id=11" shape="rect"></area>
+
+</map>
+</div>
+<div id="cats">
+<div class="cats1">
+ <div id="V_menu">
+			  <div id="menu_button"> <img src="catalog/view/theme/default/image/categ.png"/>
+			  <div class="wrap" id="menu_wrap" style="visibility: hidden; display: none;">
+				<ul id="topnav">
+				  		
+        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=59">Flowers</a>
+          </li>
+        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60"> Personalised Gift Item</a>
+            <div>
+                <ul class="children">
+                                        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60_96">Accessiories</a></li>
+                                        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60_99">Clocks</a></li>
+                                        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60_102">Coaster</a></li>
+                                        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60_94">Crystal</a></li>
+                                        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60_95">Keychain</a></li>
+                                        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60_92">Mugs</a></li>
+                                        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60_101">Others</a></li>
+                                        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60_93">Photo Frames</a></li>
+                                        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60_97">Pillow</a></li>
+                                        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60_100">Stones</a></li>
+                                        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60_103">T Shirts</a></li>
+                                        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60_98">Tiles &amp; Tiles with Frames</a></li>
+                            </ul>
+              </div>
+          </li>
+        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=61">Cakes and chocolate</a>
+          </li>
+        <li><a href="http://giftdarbar.com/index.php?route=product/category&amp;path=104">Gnapati Decoration</a>
+          </li>
+      </ul>
+			  </div><!-- wrap -->
+			  </div><!-- menu_button  -->
+			  </div><!-- V_menu  -->
+			  <div class="clear"> </div>	
+			</div>
+<div class="cats2">
+</div>
+<div class="cats3"></div>
+</div>
+
+<div id="notification"></div>
+
+<div id="main">
+<div id="column-left">
+    <div class="box">
+  <div class="box-heading"><p>Gift For</p></div>
+  <div class="box-content">
+    <div class="box-category">
+      <ul>
+                <li>
+                    <a href="http://giftdarbar.com/index.php?route=product/category&amp;path=63">King</a>
+                            </li>
+                <li>
+                    <a href="http://giftdarbar.com/index.php?route=product/category&amp;path=80">Occasion</a>
+                            </li>
+                <li>
+                    <a href="http://giftdarbar.com/index.php?route=product/category&amp;path=64">Prince /  Princess</a>
+                            </li>
+                <li>
+                    <a href="http://giftdarbar.com/index.php?route=product/category&amp;path=65">Queen</a>
+                            </li>
+              </ul>
+    </div>
+  </div>
+    <div class="box-bottom"> </div>
+</div>
+    <div class="box">
+  <div class="box-heading2">  </div>
+<div class="banner" id="banner0">
+      <div><a href="index.php?route=product/category&amp;path=59"><img alt="Flowers" src="http://giftdarbar.com/image/cache/data/banner/flower-180x182.jpg" title="Flowers"/></a></div>
+    
+</div>    <div class="box-bottom"> </div></div>
+<script type="text/javascript"><!--
+$(document).ready(function() {
+	$('#banner0 div:first-child').css('display', 'block');
+});
+
+var banner = function() {
+	$('#banner0').cycle({
+		before: function(current, next) {
+			$(next).parent().height($(next).outerHeight());
+		}
+	});
+}
+
+setTimeout(banner, 2000);
+//--></script>    <div class="box">
+  <div class="box-heading2">  </div>
+<div class="banner" id="banner1">
+      <div><a href="index.php?route=product/category&amp;path=60"><img alt="left2" src="http://giftdarbar.com/image/cache/data/banner/persanalised-180x182 copy-180x182.PNG" title="left2"/></a></div>
+    
+</div>    <div class="box-bottom"> </div></div>
+<script type="text/javascript"><!--
+$(document).ready(function() {
+	$('#banner1 div:first-child').css('display', 'block');
+});
+
+var banner = function() {
+	$('#banner1').cycle({
+		before: function(current, next) {
+			$(next).parent().height($(next).outerHeight());
+		}
+	});
+}
+
+setTimeout(banner, 2000);
+//--></script>  </div>
+ 
+<div id="column-right">
+    <div class="box">
+  <div class="box-heading2">  </div>
+<div class="banner" id="banner2">
+      <div><a href="index.php?route=information/information&amp;information_id=12"><img alt="E-wallet" src="http://giftdarbar.com/image/cache/data/ewallet-180x182.JPG" title="E-wallet"/></a></div>
+    
+</div>    <div class="box-bottom"> </div></div>
+<script type="text/javascript"><!--
+$(document).ready(function() {
+	$('#banner2 div:first-child').css('display', 'block');
+});
+
+var banner = function() {
+	$('#banner2').cycle({
+		before: function(current, next) {
+			$(next).parent().height($(next).outerHeight());
+		}
+	});
+}
+
+setTimeout(banner, 2000);
+//--></script>    <div class="box">
+  <div class="box-heading2">  </div>
+<div class="banner" id="banner3">
+      <div><a href="index.php?route=information/information&amp;information_id=11"><img alt="right2" src="http://giftdarbar.com/image/cache/data/reminder-180x182.JPG" title="right2"/></a></div>
+    
+</div>    <div class="box-bottom"> </div></div>
+<script type="text/javascript"><!--
+$(document).ready(function() {
+	$('#banner3 div:first-child').css('display', 'block');
+});
+
+var banner = function() {
+	$('#banner3').cycle({
+		before: function(current, next) {
+			$(next).parent().height($(next).outerHeight());
+		}
+	});
+}
+
+setTimeout(banner, 2000);
+//--></script>    <div class="box">
+  <div class="box-heading2">  </div>
+<div class="banner" id="banner4">
+      <div><a href="index.php?route=information/information&amp;information_id=10"><img alt="right3" src="http://giftdarbar.com/image/cache/data/refer-180x160.JPG" title="right3"/></a></div>
+    
+</div>    <div class="box-bottom"> </div></div>
+<script type="text/javascript"><!--
+$(document).ready(function() {
+	$('#banner4 div:first-child').css('display', 'block');
+});
+
+var banner = function() {
+	$('#banner4').cycle({
+		before: function(current, next) {
+			$(next).parent().height($(next).outerHeight());
+		}
+	});
+}
+
+setTimeout(banner, 2000);
+//--></script>  </div>
+
+<div id="content">
+<div class="slideshow">
+  <div class="nivoSlider" id="slideshow0" style="width: 550px; height: 350px;">
+            <a href="http://giftdarbar.com/index.php?route=product/category&amp;path=60"><img alt="slide3" src="http://giftdarbar.com/image/cache/data/banner/banner1-550x350.jpg"/></a>
+                <a href="#"><img alt="slide4" src="http://giftdarbar.com/image/cache/data/slide_03-550x350.JPG"/></a>
+                <a href="http://giftdarbar.com/index.php?route=product/category&amp;path=59"><img alt="slide1" src="http://giftdarbar.com/image/cache/data/banner/banneer2 -550x350.jpg"/></a>
+          </div>
+</div>
+<script type="text/javascript"><!--
+$(document).ready(function() {
+	$('#slideshow0').nivoSlider();
+});
+--></script><div class="box">
+  <div class="box-heading1">Featured<div style="text-transform: none; padding-right: 10px; float: right"><a href="http://giftdarbar.com/index.php?route=product/featured">View All</a></div></div>
+  <div class="box-content">
+    <div class="box-product">
+      <div>      <center>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=86"><img alt="Fragnant Desire" src="http://giftdarbar.com/image/cache/data/42103118-flora69-F69HB03-170x160.JPG"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=86">Fragnant Desire</a></div>
+                <div class="price">
+                    <span class="price-old">Rs799.00</span> <span class="price-new">Rs749.00</span>
+                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('86');" type="button" value="Add to Cart"/></div></center>
+      </div>
+      <div>      <center>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=241"><img alt="Rosy Midnight" src="http://giftdarbar.com/image/cache/data/cakeandchoclate-170x160.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=241">Rosy Midnight</a></div>
+                <div class="price">
+                    <span class="price-old">Rs1,250.00</span> <span class="price-new">Rs1,000.00</span>
+                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('241');" type="button" value="Add to Cart"/></div></center>
+      </div>
+          </div>
+  </div>
+</div>
+<h1 style="display: none;">Send flowers, cake, chocolate &amp; Personalized gifts to INDIA , Online flowers &amp; Gift Store in MUMBAI - Gift Darbar.</h1>
+<script type="text/javascript">
+marqueeInit({
+	uniqueid: 'mycrawler2',
+	style: {
+		'padding': '2px',
+		'width': '620px',
+		'height': '200px',
+		
+	},
+	inc: 5, //speed - pixel increment for each iteration of this marquee's movement
+	mouse: 'cursor driven', //mouseover behavior ('pause' 'cursor driven' or false)
+	moveatleast: 2,
+	neutral: 150,
+	savedirection: true,
+	random: true
+});
+</script>
+<div class="box">
+  <div class="box-heading1">Latest<div style="text-transform: none; padding-right: 10px; float: right"><a href="http://giftdarbar.com/index.php?route=product/latest">View All</a></div></div>
+  <div class="box-content" id="mycrawler2">
+  <div class="box-content">
+    <div class="box-product">
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=653"><img alt="Photo Greeting Card" src="http://giftdarbar.com/image/cache/data/Greetings/IMG-20160128-WA0009-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=653">Photo Greeting Card</a></div>
+                <div class="price">
+                    Rs499.00                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('653');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=652"><img alt="12 red rose" src="http://giftdarbar.com/image/cache/data/27120835347-flora69-f69_022large-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=652">12 red rose</a></div>
+                <div class="price">
+                    Rs590.00                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('652');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=651"><img alt="Dry Fruit Combo" src="http://giftdarbar.com/image/cache/data/diwlai/Dry-500-849-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=651">Dry Fruit Combo</a></div>
+                <div class="price">
+                    Rs1,049.00                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('651');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=650"><img alt="Delisious Dry Fruit Box" src="http://giftdarbar.com/image/cache/data/diwlai/Dry -100 - 1199-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=650">Delisious Dry Fruit Box</a></div>
+                <div class="price">
+                    Rs850.00                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('650');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=649"><img alt="Dry Fruit Box" src="http://giftdarbar.com/image/cache/data/diwlai/Dry 200 - 599-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=649">Dry Fruit Box</a></div>
+                <div class="price">
+                    Rs1,000.00                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('649');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=648"><img alt="Kaju Roll" src="http://giftdarbar.com/image/cache/data/diwlai/Kaju roll - 250 - 799-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=648">Kaju Roll</a></div>
+                <div class="price">
+                    Rs790.00                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('648');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=647"><img alt="3 Mix Sweets" src="http://giftdarbar.com/image/cache/data/diwlai/3 - Diwali 2299-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=647">3 Mix Sweets</a></div>
+                <div class="price">
+                    Rs2,299.00                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('647');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=646"><img alt="24 pcs ferrero Roacher" src="http://giftdarbar.com/image/cache/data/diwlai/24 pcs FR --120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=646">24 pcs ferrero Roacher</a></div>
+                <div class="price">
+                    Rs999.00                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('646');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=645"><img alt="Rose Bunch with Paper Packaging" src="http://giftdarbar.com/image/cache/data/Flowers/IMG-20140710-WA0055[1]-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=645">Rose Bunch with Paper Packaging</a></div>
+                <div class="price">
+                    <span class="price-old">Rs649.00</span> <span class="price-new">Rs579.00</span>
+                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('645');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=644"><img alt="Sweet Love" src="http://giftdarbar.com/image/cache/data/Valentine/GDFLR059-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=644">Sweet Love</a></div>
+                <div class="price">
+                    <span class="price-old">Rs1,250.00</span> <span class="price-new">Rs1,149.00</span>
+                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('644');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=643"><img alt="LOVE PILLOW" src="http://giftdarbar.com/image/cache/data/Valentine/IMG-20140201-WA001-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=643">LOVE PILLOW</a></div>
+                <div class="price">
+                    Rs450.00                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('643');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=642"><img alt="Double Love" src="http://giftdarbar.com/image/cache/data/Valentine/GDFLR263-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=642">Double Love</a></div>
+                <div class="price">
+                    <span class="price-old">Rs11,999.00</span> <span class="price-new">Rs9,999.00</span>
+                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('642');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=641"><img alt="50 roses in a Heart" src="http://giftdarbar.com/image/cache/data/Valentine/GDFLR262-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=641">50 roses in a Heart</a></div>
+                <div class="price">
+                    <span class="price-old">Rs2,650.00</span> <span class="price-new">Rs2,450.00</span>
+                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('641');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=640"><img alt="50 Red Roses Hand Bunch" src="http://giftdarbar.com/image/cache/data/Valentine/GDFLR261-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=640">50 Red Roses Hand Bunch</a></div>
+                <div class="price">
+                    <span class="price-old">Rs2,450.00</span> <span class="price-new">Rs2,250.00</span>
+                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('640');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=639"><img alt="Heart Shape Love" src="http://giftdarbar.com/image/cache/data/Valentine/GDFLR260-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=639">Heart Shape Love</a></div>
+                <div class="price">
+                    <span class="price-old">Rs1,699.00</span> <span class="price-new">Rs1,599.00</span>
+                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('639');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=638"><img alt="Roses N Soft toy" src="http://giftdarbar.com/image/cache/data/Valentine/GDFLR259-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=638">Roses N Soft toy</a></div>
+                <div class="price">
+                    <span class="price-old">Rs1,599.00</span> <span class="price-new">Rs1,499.00</span>
+                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('638');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=637"><img alt="Blazing Light" src="http://giftdarbar.com/image/cache/data/Valentine/GDFLR258-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=637">Blazing Light</a></div>
+                <div class="price">
+                    <span class="price-old">Rs1,299.00</span> <span class="price-new">Rs1,199.00</span>
+                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('637');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=636"><img alt="Valentine Combo" src="http://giftdarbar.com/image/cache/data/Valentine/GDFLR257-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=636">Valentine Combo</a></div>
+                <div class="price">
+                    <span class="price-old">Rs1,199.00</span> <span class="price-new">Rs999.00</span>
+                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('636');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=635"><img alt="Rose &amp; Rosess" src="http://giftdarbar.com/image/cache/data/Flowers/GDFLR252-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=635">Rose &amp; Rosess</a></div>
+                <div class="price">
+                    <span class="price-old">Rs4,999.00</span> <span class="price-new">Rs4,799.00</span>
+                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('635');" type="button" value="Add to Cart"/></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=634"><img alt="A Long Beauty" src="http://giftdarbar.com/image/cache/data/Flowers/GDFLR251-120x100.jpg"/></a></div>
+                <div class="name"><a href="http://giftdarbar.com/index.php?route=product/product&amp;product_id=634">A Long Beauty</a></div>
+                <div class="price">
+                    <span class="price-old">Rs4,999.00</span> <span class="price-new">Rs4,799.00</span>
+                  </div>
+                        <div class="cart"><input class="button" onclick="addToCart('634');" type="button" value="Add to Cart"/></div>
+      </div>
+          </div>
+  </div>
+</div></div>
+</div>
+</div>
+<div class="wrapimagefooter"></div></div>
+
+<div id="footer">
+<div class="column">
+    <h3>My Account</h3>
+    <ul>
+     <!--<li><a href="http://giftdarbar.com/index.php?route=account/account">My Account</a></li>-->
+      <li><a href="http://giftdarbar.com/index.php?route=account/order">Order History</a></li>
+      <li><a href="http://giftdarbar.com/index.php?route=account/wishlist">Wish List</a></li>
+      <li><a href="index.php?route=account/nevermiss">Newsletter</a></li>
+    </ul>
+  </div>
+    <div class="column">
+    <h3>Gift Darbar</h3>
+   <!-- <ul>
+            <li><a href="http://giftdarbar.com/index.php?route=information/information&amp;information_id=4">About Us</a></li>
+            <li><a href="http://giftdarbar.com/index.php?route=information/information&amp;information_id=6">Delivery Information</a></li>
+            <li><a href="http://giftdarbar.com/index.php?route=information/information&amp;information_id=3">Privacy Policy</a></li>
+            <li><a href="http://giftdarbar.com/index.php?route=information/information&amp;information_id=5">Terms &amp; Conditions</a></li>
+            <li><a href="http://giftdarbar.com/index.php?route=information/information&amp;information_id=7">Refund Policy</a></li>
+          </ul>-->
+	<ul>
+      <li><a href="index.php?route=information/information&amp;information_id=4">About us</a></li>
+       <li><a href="http://giftdarbar.com/index.php?route=information/contact">Contact Us</a></li>
+	    <li><a href="index.php?route=information/partner">Partner with us</a></li>
+      <li><a href="index.php?route=information/information&amp;information_id=8">FAQ</a></li>
+	  <li><a href="GiftdarbarCorporateProfile.ppt">E Broucher</a></li>
+	  
+
+
+
+    </ul>
+  </div>
+    <div class="column">
+    <h3>Policies</h3>
+    <ul>
+    
+<!--      <li><a href="http://giftdarbar.com/index.php?route=account/return/insert">Returns</a></li>-->
+ <li><a href="index.php?route=information/information&amp;information_id=5">Terms &amp; Conditions</a></li>
+ <li><a href="index.php?route=information/information&amp;information_id=7">Refund Policy</a></li>
+      <li><a href="index.php?route=information/information&amp;information_id=3">Privacy Policy</a></li>
+    </ul>
+  </div>
+  <!--<div class="column">
+    <h3>Extras</h3>
+    <ul>
+
+      <li><a href="http://giftdarbar.com/index.php?route=information/tellafriend">Tell a Friend</a></li>
+   
+      <li><a href="http://giftdarbar.com/index.php?route=product/manufacturer">Brands</a></li>
+      <li><a href="http://giftdarbar.com/index.php?route=account/voucher">Gift Vouchers</a></li>
+      <li><a href="http://giftdarbar.com/index.php?route=affiliate/account">Affiliates</a></li>
+      <li><a href="http://giftdarbar.com/index.php?route=product/special">Specials</a></li>
+    </ul>
+  </div>-->
+  <div class="column">
+    <h3>Follows</h3>
+    <ul>
+      <!--<li><a href="https://www.facebook.com/pages/Giftdarbar/102169106614885" target="_blank"  style=" padding-top:0px;"><img src="catalog/view/theme/default/image/ico_facebook.gif" />&nbsp;Facebook</a></li>-->
+	  <li>
+	  
+	   <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+<div class="fb-like" data-href="http://www.facebook.com/pages/Gift-Darbar/102169106614885" data-layout="button_count" data-send="false" data-show-faces="true" data-width="450"></div></li>
+      <li><a href="https://twitter.com/giftdarbar" target="_blank"><img src="catalog/view/theme/default/image/ico_twitter.gif"/> Twitter</a></li>
+      <li><a href="https://plus.google.com/106870826025709647348" target="_blank"><img src="catalog/view/theme/default/image/google_plus_icon_24.png"/> Google +</a></li>
+      <li><a href="http://in.linkedin.com/pub/gift-darbar/5b/b07/238" target="_blank"><img src="catalog/view/theme/default/image/in.png"/> Linked In</a></li>
+    </ul>
+  </div>
+   <div class="column" style="width:160px;">
+    <h3>Payment Methods</h3>
+    <ul>
+      <li><a href="index.php?route=information/information&amp;information_id=8" style=" padding-top:0px;" target="_blank"><img src="catalog/view/theme/default/image/netbanking.png" style="border:1px solid #000000"/>  <img src="catalog/view/theme/default/image/master.png" style="border:1px solid #000000"/></a></li>
+      <li><a href="index.php?route=information/information&amp;information_id=8" target="_blank"><img src="catalog/view/theme/default/image/visa.png" style="border:1px solid #000000"/>  <img src="catalog/view/theme/default/image/cheque.png" style="border:1px solid #000000"/></a></li>
+     
+      
+    </ul>
+  </div>
+  <div class="column" style="width:100px;">
+    <h3>Feedback</h3>
+   <form action="http://giftdarbar.com/index.php?route=common/footer/footer" enctype="multipart/form-data" id="form3" method="post" name="myForm" onsubmit="return checkform(this);">
+   <input name="email" onclick='javascript: this.value = ""' style="background:#000000; color:#FFFFEB" type="text" value="Your Email Id.."/>
+    	<br/>
+   <textarea cols="20" name="feed" onclick='javascript: this.value = ""' rows="3" style="background:#000000; color:#FFFFEB">Feedback..</textarea>
+    	<br/>
+	    <label for="code" style="color:#000000 !important">Write code below <span id="txtCaptchaDiv" style="color:#000"></span><!-- this is where the script will place the generated code --> 
+      <input id="txtCaptcha" type="hidden"/></label><!-- this is where the script will place a copy of the code for validation: this is a hidden field -->
+      <input id="txtInput" name="txtInput" style="background:#000000; color:#FFFFEB;width:50px;" type="text"/>
+   <input style="background:#000000; color:#FFFFEB" type="submit" value="Send"/></form>
+  </div>
+  
+<script type="text/javascript">
+	function checkform(theform){
+		var why = "";
+		 
+		if(theform.txtInput.value == ""){
+			why += "- Security code should not be empty.\n";
+		}
+		if(theform.txtInput.value != ""){
+			if(ValidCaptcha(theform.txtInput.value) == false){
+				why += "- Security code did not match.\n";
+			}
+		}
+		if(why != ""){
+			alert(why);
+			return false;
+		}
+	}
+ 
+
+//Generates the captcha function    
+	var a = Math.ceil(Math.random() * 9)+ '';
+	var b = Math.ceil(Math.random() * 9)+ '';       
+	var c = Math.ceil(Math.random() * 9)+ '';  
+	var d = Math.ceil(Math.random() * 9)+ '';  
+	var e = Math.ceil(Math.random() * 9)+ '';  
+	  
+	var code = a + b + c + d + e;
+	document.getElementById("txtCaptcha").value = code;
+	document.getElementById("txtCaptchaDiv").innerHTML = code;	
+
+// Validate the Entered input aganist the generated security code function   
+function ValidCaptcha(){
+	var str1 = removeSpaces(document.getElementById('txtCaptcha').value);
+	var str2 = removeSpaces(document.getElementById('txtInput').value);
+	if (str1 == str2){
+		return true;	
+	}else{
+		return false;
+	}
+}
+
+// Remove the spaces from the entered and generated code
+function removeSpaces(string){
+	return string.split(' ').join('');
+}
+</script>
+ <script type="text/javascript">
+ function validateForm(theform)
+{
+var x=document.forms["myForm"]["email"].value;
+var atpos=x.indexOf("@");
+var dotpos=x.lastIndexOf(".");
+if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length)
+  {
+  alert("Not a valid e-mail address");
+  return false;
+  }
+  
+var why = "";
+		 
+		if(theform.txtInput.value == ""){
+			why += "- Security code should not be empty.\n";
+		}
+		if(theform.txtInput.value != ""){
+			if(ValidCaptcha(theform.txtInput.value) == false){
+				why += "- Security code did not match.\n";
+			}
+		}
+		if(why != ""){
+			alert(why);
+			return false;
+		}
+	}
+ 
+
+//Generates the captcha function    
+	var a = Math.ceil(Math.random() * 9)+ '';
+	var b = Math.ceil(Math.random() * 9)+ '';       
+	var c = Math.ceil(Math.random() * 9)+ '';  
+	var d = Math.ceil(Math.random() * 9)+ '';  
+	var e = Math.ceil(Math.random() * 9)+ '';  
+	  
+	var code = a + b + c + d + e;
+	document.getElementById("txtCaptcha").value = code;
+	document.getElementById("txtCaptchaDiv").innerHTML = code;	
+
+}
+// Validate the Entered input aganist the generated security code function   
+function ValidCaptcha(){
+	var str1 = removeSpaces(document.getElementById('txtCaptcha').value);
+	var str2 = removeSpaces(document.getElementById('txtInput').value);
+	if (str1 == str2){
+		return true;	
+	}else{
+		return false;
+	}
+}
+
+// Remove the spaces from the entered and generated code
+function removeSpaces(string){
+	return string.split(' ').join('');
+}
+</script>
+  <div class="column" style="float:right;">
+    <h3> </h3>
+    <a href="index.php?route=information/sitemap"><img align="right" src="catalog/view/theme/default/image/sitemap.png"/></a><br/>
+	<p style=" position:relative;top:100px;left:55px; float:right;overflow:hidden; color:#000000">Site Map</p>
+  </div>
+</div>
+<!--
+Saarthi is open source software and you are free to remove the powered by Saarthi if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@Saarthi.com
+//-->
+<div id="powered">Gift Darbar © 2016       Powered By <a href="http://www.Saarthi.com">Web Hosting India</a><br/> </div>
+<!-- CouponDunia badge begins -->
+<a href="http://www.coupondunia.in" target="_blank" title="Find Our Coupons on CouponDunia">
+<img alt="Find Our Coupons on CouponDunia" height="40" src="http://www.coupondunia.in/media/coupondunia_badge.png" style="padding: 5px; cursor: hand; border:0" width="105"/>
+</a>
+<!-- CouponDunia badge ends -->
+<a href="http://www.couponrani.com/" target="_blank"><img alt="Active Coupons" height="31" src="http://www.couponrani.com/resources/images/couponrani_fdt.jpg" width="80"/></a>
+
+<!--
+Saarthi is open source software and you are free to remove the powered by Saarthi if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@Saarthi.com
+//-->
+<script src="catalog/view/javascript/livesearch.js" type="text/javascript"></script>
+
+</body></html>

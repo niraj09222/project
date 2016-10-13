@@ -1,0 +1,2060 @@
+<html><head><link href="./includes/mainstyle2.css" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23374827-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script language="javascript">
+function RakhiCityLocation()
+{
+xyz=window.open ("rakhicity.html","ff",'toolbar=0,height=270, width=320,menubar=0,resizable=no,left=5,top=5')
+
+}
+
+function PupUpScroll(pname,hig,wid)
+{
+st=pname;
+window.open(st ,"_blank", "toolbar=1,location=0,directories=1,status=1,menubar=1,scrollbars=1,resizable=yes,height="+hig+",width="+wid+",top=0,left=0");
+}
+
+function PupUpScrollLock(pname,hig,wid)
+{
+st=pname;
+xyz=window.open (st,"ff",'toolbar=0,height='+hig+', width='+wid+',menubar=0,resizable=yes,scrollbars=1,left=5,top=5')
+}
+function CheckListTeddy()
+{
+st="CheckListTeddy.html";
+window.open(st ,"_blank", "toolbar=1,location=0,directories=1,status=1,menubar=1,scrollbars=1,resizable=yes,height=300,width=400,top=0,left=0");
+}
+function CookiPop()
+{
+st="POPUP_CONTENT.html";
+window.open(st ,"_blank", "toolbar=1,location=0,directories=1,status=1,menubar=1,scrollbars=1,resizable=yes,height=800,width=500,top=0,left=0");
+}
+</script>
+ 
+   
+   
+
+<title>Send Gifts Cake to India Flowers India: Free Delivery Flower, Gift to India</title> 
+ 
+<meta content="Send to India, Send Flower to India, Send Gift to India, Free Home Delivery, Cake to India, Send Cakes to India, Same Day Delivery of Cakes to India, Cheap Gift to India, Send Sweets to India, Flowers to India, Rakhi Sweets to India, Rakhi to India, Rakhi Gifts to India, Diwali Sweets to India, Diwali Gifts to India, Diwali Mithai to India, Flowers Delivery India, Gifts Delivery in India, Gift to India, Sweets to India, Mithai to India, Haldiram Sweets to India, Same Day Express Delivery of Cakes, Cheap India Gifts, Flowers to India, Gift to India, Send Express delivery of Gifts to India, Flower Delivery India, Gift to India, Cakes Delivery in India, Cake Delivery India, Gift delivery in India, Birthday Gift, Anniversary Flower, Wedding, Online Gift to Brother in India, India Flower thru Online Florist at Cheap Prices with delivery facility at 250 cities and towns all over India including Mumbai, Kolkata, Bangalore, Chennai, Hyderabad, Pune, Ahmedabad, Delhi and more." name="Description"/>
+ 
+<meta content="Cakes to India, Gift to India, Rakhi to India, Send Rakhi to India, Rakhi Gifts to India, Rakhi Gift to India, Flowers to India, Sweets to India, Bangalore, Delhi, Mumbai, Chennai, Kolkata, Pune, Hyderabad, India." name="Keywords"/>
+ 
+<meta content="India Gift Flower Cake Chocolate Gift to India,Send Express delivery of Flower, Send Rakhi to India, Rakhi Gifts to India, Rakhi to India, Rakhi Gift to India, Birthday,Anniversary, Wedding Gift in India thru Online Florist at Cheap Prices with delivery facility at 250 cities towns all over India including Mumbai, Kolkata, Bangalore, Chennai, Hyderabad, Pune, Ahmedabad, Delhi and more." name="Classification"/>
+
+<meta content="BfeAIT5rcU8EmOPHjR6wkdZ0opXK8g8PuU6OREvDgug" name="google-site-verification"/>
+
+<meta content="MJ12_dd9a3935-d3e3-46dd-80da-21de7d8ecc1a" name="majestic-site-verification"/>
+
+<meta content="81018C38ADD5F115EF5D533E797AD1CF" name="msvalidate.01"/>
+
+<meta content="15b5b6efc4589fa332f053dcc6f6b4ea" name="p:domain_verify"/>
+
+<link href="http://www.indiaflowersgifts.com/" rel="canonical"/>
+
+<link href="./includes/mainstyle2.css" rel="stylesheet" type="text/css"/>
+
+
+<style type="text/css">
+BODY {
+	MARGIN: 0px
+}
+</style>
+
+
+
+<style type="text/css">
+.style1 {
+	COLOR: #c64100
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #ce5503; SCROLLBAR-HIGHLIGHT-COLOR: #fff7f7; SCROLLBAR-SHADOW-COLOR: #fff7f7; SCROLLBAR-3DLIGHT-COLOR: #b55d4d; SCROLLBAR-ARROW-COLOR: #fff7f7; SCROLLBAR-TRACK-COLOR: #ffd3d3; SCROLLBAR-DARKSHADOW-COLOR: #d69986; SCROLLBAR-BASE-COLOR: #fff7f7;
+}
+.rk_right1
+	{
+	background:url(sideimages/right_rk_bg.jpg) no-repeat right;
+	padding-right:25px;
+	text-align:right;
+	}
+.rk_right2
+	{
+	PADDING-LEFT: 19px;
+	font:normal 12px Arial;
+	COLOR: #c74204;
+	text-align:right;
+	text-decoration:none;
+	height:21px;
+	line-height:21px;
+	}
+.rk_right2:hover
+	{
+	PADDING-LEFT: 19px;
+
+
+	font:normal 12px Arial;
+	COLOR:#663300;
+	text-align:right;
+	text-decoration:none;
+	line-height:21px;
+	}
+	.nf_txt{
+    FONT: 12px Arial; COLOR: #cc6600; TEXT-ALIGN: left; TEXT-DECORATION: underline
+	}
+.nf_txt:hover{
+    FONT: 12px Arial; COLOR: #990000; TEXT-ALIGN: left; TEXT-DECORATION: none
+	}	
+.nf_txt1 {
+	 FONT: bold 12px Arial; COLOR: #990000; HEIGHT: 33px; TEXT-ALIGN:left
+}
+.nf_txt2{
+    FONT: 12px Arial; COLOR: #cc6600; TEXT-ALIGN: left; TEXT-DECORATION: none
+	}	
+.stylewrup { color:#C74204; text-decoration:underline;}
+.cityloclnk
+{	font:bold 12px Arial;
+	color:#3333ff;
+	text-decoration:underline;
+}
+.citylnk
+{	font:bold 14px Arial;
+	color:#FF3300;
+	text-decoration:underline;
+}
+</style>
+<link href="style.css" rel="stylesheet" type="text/css"/>
+<link href="mainstyle2.css" rel="stylesheet" type="text/css"/>
+<link href="includes/menucss.css" rel="stylesheet" type="text/css"/>
+<script src="includes/menujs.js" type="text/javascript"></script>
+
+<meta content="MSHTML 6.00.2600.0" name="GENERATOR"/>
+</head>
+<body language="javascript" onload="return window_onload()">  
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1000">
+  <tbody>
+  <tr>
+    <td colspan="5" valign="top">
+<style>
+body {
+scrollbar-base-color: #FFF7F7;
+scrollbar-arrow-color: #FFF7F7;
+scrollbar-3dlight-color: #B55D4D;
+scrollbar-darkshadow-color: #D69986;
+scrollbar-face-color: #ce5503;
+scrollbar-highlight-color: #FFF7F7;
+scrollbar-shadow-color: #FFF7F7;
+scrollbar-track-color: #FFD3D3;
+}
+</style>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+        <tr>
+          <td align="center" colspan="5" valign="top"><span class="Top_header_text">Send Cake to India Same Day – Send Gifts to India</span></td>
+        </tr>
+        <tr>
+          <td align="center" background="sideimages/top_bg.jpg" colspan="5" height="145" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr>
+                <td align="center" valign="top" width="248"><a href="http://www.indiaflowersgifts.com/"><img alt="Cakes to India, Gifts to India, Flower to India, Gift Voucher to India, Cake to India, Gift to India" border="0" height="145" src="sideimages/bannerpart1.jpg" width="248"/></a></td>
+                <td align="center" valign="top" width="248"><a href="http://www.indiaflowersgifts.com/"><img alt="Cakes to India, Gifts to India, Flower to India, Gift Voucher to India, Cake to India, Gift to India" border="0" height="145" src="sideimages/bannerpart2.jpg" width="248"/></a></td>
+                <td align="left" valign="top" width="248"><img height="145" src="sideimages/bannerpart3.jpg" width="248"/></td>
+                <td align="center" valign="top" width="260"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody><tr>
+                      <td align="right" valign="top"><img height="67" src="sideimages/rightcorner_flo.jpg" width="67"/></td>
+                    </tr>
+                    <tr>
+                      <td align="center" height="15" valign="top"></td>
+                    </tr>
+                    <tr>
+                      <td ;="" align="center" background="sideimages/shopp_bg.jpg" height="63" style="background-repeat:no-repeat; background-position:right;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+                          <tbody><tr>
+                            <td colspan="2" height="14"></td>
+                          </tr>
+                          <tr>
+                            <td width="55%"> </td>
+                            <td align="center" class="shopping_txt" valign="middle" width="45%">Shopping cart </td>
+                          </tr>
+                          <tr>
+                            <td> </td>
+                            <td align="center" valign="middle"><a class="clickhere_txt" href="http://www.indiaflowersgifts.com/shopping_cart.asp"><u>Click Here</u></a></td>
+                          </tr>
+                      </tbody></table></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+          </tbody></table></td>
+        </tr>
+      </tbody>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan="5" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+        <tr>
+          <td align="center" class="background_pic_5" height="30" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" class="buttonbar" width="100%">
+              <tbody><tr>
+                <td align="center" valign="middle"><a class="text1" href="http://www.indiaflowersgifts.com/">Home</a></td>
+                <td align="center" valign="middle" width="5"><img height="29" src="sideimages/button_bgmiddle.jpg" width="5"/></td>
+                <td align="center" valign="middle"><a class="text1" href="delivery_locations.asp">Delivery 
+                  
+                  Info</a></td>
+                <td align="center" valign="middle" width="5"><img height="29" src="sideimages/button_bgmiddle.jpg" width="5"/></td>
+                <td align="center" valign="middle"><a class="text1" href="payment.asp">Payment</a></td>
+                <td align="center" valign="middle" width="5"><img height="29" src="sideimages/button_bgmiddle.jpg" width="5"/></td>
+                <td align="center" valign="middle"><a class="text1" href="Order_Status_login.asp">Order Status</a></td>
+                <td align="center" valign="middle" width="5"><img height="29" src="sideimages/button_bgmiddle.jpg" width="5"/></td>
+                <td align="center" valign="middle"><a class="text1" href="userlogin.asp">Member Login</a></td>
+                <td align="center" valign="middle" width="5"><img height="29" src="sideimages/button_bgmiddle.jpg" width="5"/></td>
+                <td align="center" valign="middle"><a class="text1" href="Terms.asp">Terms</a></td>
+                <td align="center" valign="middle" width="5"><img height="29" src="sideimages/button_bgmiddle.jpg" width="5"/></td>
+                <td align="center" valign="middle"><a class="text1" href="customer_mail.asp">Contact us</a></td>
+              </tr>
+          </tbody></table></td>
+        </tr>
+      </tbody>
+    </table>
+<script language="javascript" type="text/javascript">
+  function rclick()
+     {
+	 return false
+	 
+	 }
+  
+  document.body.oncontextmenu=rclick
+  document.body.onmousemove=rclick;
+  document.onmousemove=rclick;
+   window.oncontextmenu=rclick;
+  
+</script></td>
+  </tr>
+  <tr>
+    <td colspan="5" height="9" valign="top"></td>
+  </tr>
+  <tr>
+    <td valign="top" width="18%">
+<link href="includes/menucss.css" rel="stylesheet" type="text/css"/>
+<script src="includes/menujs.js" type="text/javascript"></script>
+
+<style type="text/css">
+<!--
+.style1 {color: #FF0000}
+.side_link_sub{
+font-family:arial;
+font-size:12px;
+color:#0000FF;
+text-decoration:none;
+padding-left:19px;
+}
+.side_link_sub:hover{
+font-family:arial;
+font-size:12px;
+color:#0000FF;
+text-decoration:none;
+padding-left:19px;
+}
+-->
+</style>
+
+ 
+		 
+<table border="0" cellpadding="0" cellspacing="0" width="180">      
+      <tbody>
+        <tr>
+          <td valign="top"><img height="29" src="sideimages/pic_8.jpg" width="182"/></td>
+        </tr>
+        <tr>
+          <td valign="top"><table border="0" cellpadding="0" cellspacing="0" class="left_border" width="180">            
+              <tbody>
+                <tr>
+                  <td align="left" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="180">                          
+               
+                      <tbody>
+					  	
+		 <tr>
+                <td bgcolor="#d8b6b9" height="1"></td></tr>
+              <tr>
+		  
+		   </tr><tr>
+             <td class="navigation_back" height="21"><a class="side_link_bold" href="dusshera_gifts_india.asp" title="Dussehra Gifts"><font color="#0000FF"><font color="#0000FF"><b>Dussehra Gifts</b></font></font></a></td>
+          </tr>		 
+
+  
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Sameday_online.asp" title="Same Day Delivery in India">Same 
+                            Day Delivery</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/mid_night_delivery.asp" title="Mid Night Delivery">Mid 
+                            Night Delivery</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/flowers_india.asp" title="Flowers to India"><strong>Flowers</strong></a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/longlasting_flowers_India.asp" title="Imported Art Flowers to India">Imported Art Flowers</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/cakes_India.asp" title="Cakes Delivery India"><strong>Cakes</strong></a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/sweets_India.asp" title="Send Haldiram Sweets">Sweets</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/chocolates_India.asp" title="Chocolates to India">Chocolates</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/dry_fresh_fruits_India.asp" title="Fresh Dry Fruits">Dry 
+                            Fruits </a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/fresh_fruits_India.asp" title="Fresh Fruits ">Fresh 
+                            Fruits </a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/leather_items_India.asp" title="Leather Items to India">Leather 
+                            Items</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/watches_India.asp" onmouseout="mclosetime()" onmouseover="mopen('m8',event)" title="Watches to India">Watches   <img border="0" height="8" src="occasion_arrow.jpg" width="8"/></a>
+                              <ul id="sddm">
+                                <li>
+                                  <div id="m8" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="MARGIN-TOP: -14px; MARGIN-LEFT: 85px"><a href="http://www.indiaflowersgifts.com/ladies_watches_India.asp" title="Ladies Watches">Ladies 
+                                    Watches</a> <a href="http://www.indiaflowersgifts.com/gents_watches_India.asp" title="Gents Watches">Gents 
+                                      Watches</a> <a href="http://www.indiaflowersgifts.com/kids_watches_india.asp" title="Kids Watches">Kids 
+                                        Watches</a> </div>
+                                </li>
+                              </ul></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/cosmetics_India.asp" onmouseout="mclosetime()" onmouseover="mopen('m6',event)" title="Cosmetics and Perfumes Gifts">Cosmetics 
+                            / Perfumes   <img border="0" height="8" src="occasion_arrow.jpg" width="8"/></a>
+                              <ul id="sddm">
+                                <li>
+                                  <div id="m6" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="MARGIN-TOP: -14px; MARGIN-LEFT: 145px"><a href="http://www.indiaflowersgifts.com/cosmetics_India.asp?catid=47" title="Gents Cosmetic">Gents 
+                                    Cosmetic</a> <a href="http://www.indiaflowersgifts.com/cosmetics_India.asp?catid=48" title="Ladies Cosmetic">Ladies 
+                                      Cosmetic</a> </div>
+                                </li>
+                              </ul></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/apparels.asp" onmouseout="mclosetime()" onmouseover="mopen('m5',event)" title="Apparels to India">Send 
+                            Apparels   <img border="0" height="8" src="occasion_arrow.jpg" width="8"/></a>
+                              <ul id="sddm">
+                                <li>
+                                  <div id="m5" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="MARGIN-TOP: -14px; MARGIN-LEFT: 108px"><a href="http://www.indiaflowersgifts.com/ladies_Apparels_India.asp" title="Ladies Apparels">Ladies 
+                                    Apparels</a> <a href="http://www.indiaflowersgifts.com/gents_Apparels_India.asp" title="Gents Apparels">Gents 
+                                      Apparels</a> <a href="http://www.indiaflowersgifts.com/kids_apparels_India.asp" title="Kids Apparels">Kids 
+                                        Apparels</a> </div>
+                                </li>
+                              </ul></td>
+                        </tr>
+						<tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>						
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/jewellery_india.asp" onmouseout="mclosetime()" onmouseover="mopen('m7',event)" title="Jewellery">Jewellery   <img border="0" height="8" src="occasion_arrow.jpg" width="8"/></a>
+                              <ul id="sddm">
+                                <li>
+                                  <div id="m7" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="MARGIN-TOP: -14px; MARGIN-LEFT: 80px"><a href="http://www.indiaflowersgifts.com/jewellery_india.asp?catid=51" title="Fashion Jewellery">Fashion</a> <a href="http://www.indiaflowersgifts.com/jewellery_india.asp?catid=52" title="Gold / Diamond Jewellery">Gold 
+                                    / Diamond</a> <a href="http://www.indiaflowersgifts.com/jewellery_india.asp?catid=53" title="Pearl Jewellery">Pearl</a> </div>
+                                </li>
+                              </ul></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Books_gifts_india.asp" title="Books to India">Books</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+						<tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Toys%20and%20Games_online.asp" title="Toys to India">Toys 
+                            &amp; Games</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/electronics_India.asp" onmouseout="mclosetime()" onmouseover="mopen('m4',event)" title="Electronics Gifts">Electronics 
+                            Gifts   <img border="0" height="8" src="occasion_arrow.jpg" width="8"/> </a>
+                              <ul id="sddm">
+                                <li>
+                                  <div id="m4" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="MARGIN-TOP: -14px; MARGIN-LEFT: 115px">
+                                    <a href="electronics_India.asp?catid=178" title="Cameras">Cameras</a> 
+                                    <a href="http://www.indiaflowersgifts.com/electronics_India.asp?catid=179" title="CD/DVDPlayers">CD/DVD Players</a>
+									<a href="http://www.indiaflowersgifts.com/electronics_India.asp?catid=185" title="IPod / IPad &amp; Tablets">IPod / IPad &amp; Tablets</a>
+                                    <!--<A href="electronics_India.asp?catid=180" title="DigitalPhotoframes">Digital Photoframes</A>-->
+                                    <a href="http://www.indiaflowersgifts.com/electronics_India.asp?catid=183" title="Other Electronics Gifts">Other</a> </div>
+                                </li>
+                              </ul></td>
+                        </tr>
+						<tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/kidsbag_India.asp" onmouseout="mclosetime()" onmouseover="mopen('m10',event)" title="Kids School Bag / Backpack to india">Kids School Bag / Backpack   <img border="0" height="8" src="occasion_arrow.jpg" width="8"/></a>
+                             <ul id="sddm">
+                                <li>
+                                  <div id="m10" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="MARGIN-TOP: -14px; MARGIN-LEFT: 88px">
+<a href="http://www.indiaflowersgifts.com/kidsbag_India.asp?catid=220" title="Hannah Montana School Bags">Hannah Montana School Bags</a>
+<a href="http://www.indiaflowersgifts.com/kidsbag_India.asp?catid=221" title="Dinsey Pixar School Bags">Dinsey Pixar School Bags</a>
+<a href="http://www.indiaflowersgifts.com/kidsbag_India.asp?catid=222" title="Jungle Book School Bag">Jungle Book School Bag</a>
+<a href="http://www.indiaflowersgifts.com/kidsbag_India.asp?catid=223" title="Noddy School Bag">Noddy School Bag</a>
+<a href="http://www.indiaflowersgifts.com/kidsbag_India.asp?catid=224" title="Simba School Bag">Simba School Bag</a>
+<a href="http://www.indiaflowersgifts.com/kidsbag_India.asp?catid=225" title="Starx School Bag">Starx School Bag</a>
+</div>
+                                </li>
+                              </ul></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/kids_cycle.asp" title="Kids Cycles &amp; Perambulators">Kids 
+                            Cycles &amp; Perambulators</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/kids_stationery.asp" onmouseout="mclosetime()" onmouseover="mopen('m1',event)" title="Kids Stationery">Kids 
+                            Stationery   <img border="0" height="8" src="occasion_arrow.jpg" width="8"/></a>
+                              <ul id="sddm">
+                                <li>
+                                  <div id="m1" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="MARGIN-TOP: -14px; MARGIN-LEFT: 108px"><a href="http://www.indiaflowersgifts.com/kids_stationery.asp?catid=31" title="Disney Winnie the Pooh">Disney 
+                                    Winnie the Pooh</a> <a href="http://www.indiaflowersgifts.com/kids_stationery.asp?catid=32" title="CN Ben 10">CN 
+                                      Ben 10</a> <a href="http://www.indiaflowersgifts.com/kids_stationery.asp?catid=33" title="Disney Hannah Montana">Disney 
+                                        Hannah Montana</a> <a href="http://www.indiaflowersgifts.com/kids_stationery.asp?catid=34" title="Disney Pixar Car">Disney 
+                                          Pixar Car</a> <a href="http://www.indiaflowersgifts.com/kids_stationery.asp?catid=35" title="Disney Princess">Disney 
+                                            Princess</a> <a href="http://www.indiaflowersgifts.com/kids_stationery.asp?catid=36" title="Disney Mickey Mouse">Disney 
+                                              Mickey Mouse</a> </div>
+                                </li>
+                              </ul></td>
+                        </tr>
+						<tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+						<tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="healthnfitness.asp" title="Health &amp; Fitness">Health &amp; Fitness</a></td>
+                        </tr>
+                        
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Home%20Appliences_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m2',event)" title="Home Appliances">Home 
+                            Appliance   <img border="0" height="8" src="occasion_arrow.jpg" width="8"/></a>
+                              <ul id="sddm">
+                                <li>
+                                  <div id="m2" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="MARGIN-TOP: -14px; MARGIN-LEFT: 115px">
+						  <a href="http://www.indiaflowersgifts.com/Home%20Appliences_online.asp?catid=151" title="Aircoolers">Aircoolers</a>
+						  <!--<A href="Home Appliences_online.asp?catid=152" title="Dishwasher">Dishwasher</A>
+						  <A href="Home Appliences_online.asp?catid=153" title="Invertor">Invertor</A> -->
+						  <a href="http://www.indiaflowersgifts.com/Home%20Appliences_online.asp?catid=154" title="Irons">Irons</a>
+						  <a href="http://www.indiaflowersgifts.com/mobilephone_online.asp" title="Mobile Phone to India">Mobile Phone</a>
+						  <a href="http://www.indiaflowersgifts.com/Home%20Appliences_online.asp?catid=157" title="Room Heaters">Room Heaters</a> 
+						  <a href="http://www.indiaflowersgifts.com/Home%20Appliences_online.asp?catid=159" title="TV">TV</a> 
+						  <a href="http://www.indiaflowersgifts.com/Home%20Appliences_online.asp?catid=160" title="Vaccume Cleaner">Vaccume Cleaner</a>
+						  <a href="http://www.indiaflowersgifts.com/Home%20Appliences_online.asp?catid=162" title="Water Heaters">Water Heaters</a>
+						  <a href="http://www.indiaflowersgifts.com/Home%20Appliences_online.asp?catid=163" title="Water Purifiers">Water Purifiers</a>
+						  <a href="http://www.indiaflowersgifts.com/Home%20Appliences_online.asp?catid=164" title="Other Essentials">Other Essentials</a> </div>
+                                </li>
+                              </ul></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/KitchenWares_online.asp" onmouseout="mclosetime()" onmouseover="mopen('m3',event)" title="Kitchen Appliances">Kitchen 
+                            Appliances   <img border="0" height="8" src="occasion_arrow.jpg" width="8"/></a>
+                              <ul id="sddm">
+                                <li>
+                                  <div id="m3" onmouseout="mclosetime()" onmouseover="mcancelclosetime()" style="MARGIN-TOP: -14px; MARGIN-LEFT: 132px"><a href="http://www.indiaflowersgifts.com/KitchenWares_online.asp?catid=165" title="Cookers">Cookers</a>
+                                      <!--<A href="KitchenWares_online.asp?catid=166" title="Crystaln Crockery">Crystal n Crockery</A> -->
+                                    <a href="http://www.indiaflowersgifts.com/KitchenWares_online.asp?catid=167" title="Juicer n Blenders">Juicer 
+                                      n Blenders</a> <a href="http://www.indiaflowersgifts.com/KitchenWares_online.asp?catid=168" title="Microwave Ovens">Microwave 
+                                        Ovens</a> <a href="http://www.indiaflowersgifts.com/KitchenWares_online.asp?catid=169" title="Mixer Grinder">Mixer 
+                                          Grinder</a> <a href="http://www.indiaflowersgifts.com/KitchenWares_online.asp?catid=170" title="Non-Stic Cookware">Non-Stic 
+                                            Cookware</a> <a href="http://www.indiaflowersgifts.com/KitchenWares_online.asp?catid=171" title="Tea n Coffee Sets">Tea 
+                                              n Coffee Sets</a> <a href="http://www.indiaflowersgifts.com/KitchenWares_online.asp?catid=172" title="Toaster n Kettles">Toaster 
+                                                n Kettles</a>
+                                                        <!--<A href="KitchenWares_online.asp?catid=173" title="Thermoware">Thermoware</A> -->
+                                    <a href="http://www.indiaflowersgifts.com/KitchenWares_online.asp?catid=174" title="Other Essentials">Other 
+                                      Essentials</a> </div>
+                                </li>
+                              </ul></td>
+                        </tr>
+                        <!--		  <tr>
+            <td height="1" bgcolor="d8b6b9"></td>
+          </tr>
+          <tr>
+            <td class="navigation_back" height="21"><a href="mobilephone_online.asp" class="side_link" title="Nokia Mobile Phone to India">Mobile 
+            Phone</a></td>
+          </tr> -->
+                        <!--		  <tr>
+            <td height="1" bgcolor="d8b6b9"></td>
+          </tr>
+          <tr>
+            <td class="navigation_back" height="21"><a href="Ipods_india.asp" class="side_link" title="Send iPods To India">iPods</a></td>
+          </tr> -->
+		  <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Handicrafts_online.asp" title="Handicrafts Gifts to india">Handicrafts</a></td>
+                        </tr>
+                        <!--<TR>
+                          <TD bgColor=#d8b6b9 height=1></TD>
+                        </TR>
+                        <TR>
+                          <TD class="navigation_back" height=21><A class=side_link 
+                        onmouseover="mopen('m9',event)" 
+                        title="Handicrafts Gifts to india" 
+                        onmouseout=mclosetime() 
+                        href="http://www.indiaflowersgifts.com/Handicrafts_online.asp">Handicrafts&nbsp;&nbsp; <img src="occasion_arrow.jpg" width="8" height="8" border="0"></A>
+                              <UL id=sddm>
+                                <LI>
+                                  <DIV style="MARGIN-TOP: -14px; MARGIN-LEFT: 88px" 
+                          id=m9 onmouseover=mcancelclosetime() 
+                          onmouseout=mclosetime()><A title="Crystal Gifts" 
+                          href="http://www.indiaflowersgifts.com/Handicrafts_online.asp?catid=40">Crystal 
+                                    Gifts</A> <A title=Handicraft 
+                          href="http://www.indiaflowersgifts.com/Handicrafts_online.asp?catid=41">Handicraft</A> <A title="Photo Frame" 
+                          href="http://www.indiaflowersgifts.com/Handicrafts_online.asp?catid=42">Photo 
+                                      Frame</A> <A title="Vases &amp; Coffee Mugs" 
+                          href="http://www.indiaflowersgifts.com/Handicrafts_online.asp?catid=43">Vases 
+                                        &amp; Coffee Mugs</A> <A title="Table Clocks" 
+                          href="http://www.indiaflowersgifts.com/Handicrafts_online.asp?catid=44">Table 
+                                          Clocks</A> <A title="Gift Items" 
+                          href="http://www.indiaflowersgifts.com/Handicrafts_online.asp?catid=45">Gift 
+                                            Items</A> <A title=Showpiece 
+                          href="http://www.indiaflowersgifts.com/Handicrafts_online.asp?catid=46">Showpiece</A> <A title="Feng Shui" 
+                          href="http://www.indiaflowersgifts.com/Handicrafts_online.asp?catid=56">Feng 
+                                              Shui</A> </DIV>
+                                </LI>
+                              </UL></TD>
+                        </TR>-->
+						<tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+						<tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/new_born_gifts_India.asp" title="New Born baby to India">New 
+                    Born Gifts </a></td>
+                </tr>
+                
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/OfficeStationary_India.asp" onmouseout="mclosetime()" onmouseover="mopen('m10',event)" title="Office Stationary">Office 
+                            Stationary</a>
+                              <!--<ul id="sddm">
+	    <li>
+		<div id="m10" onMouseOver="mcancelclosetime()" onMouseOut="mclosetime()" style="margin-left:110px; margin-top:-14px;">
+		
+		<A href="OfficeStationary_India.asp?catid=111" title="Leather Talks">Leather Talks</A>
+		<A href="OfficeStationary_India.asp?catid=112" title="Vaunt">Vaunt</A>
+		</div>
+	    </li>
+	    </ul>
+			 --><!--</TD>
+                        </TR>-->
+						</td></tr><tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Showpiece_India.asp" title="Showpiece">Showpiece</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/SunGlass_India.asp" title="Sun Glasses">Sun 
+                            Glasses</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/pantaloon_india.asp" title="Pantaloons Gift Coupons">Pantaloons 
+                            Gift Coupons </a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Shopperstop_gift_voucher.asp" title="Shoppers Stop Coupons">Shoppers 
+                            Stop Coupons </a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        
+                        <!--<TR>
+                          <TD class=navigation_back height=21><A class=side_link 
+                        title="KFC Gift Coupons" 
+                        href="http://www.indiaflowersgifts.com/KFC_india.asp">KFC 
+                            Gift Coupons </A></TD>
+                        </TR>
+                        <TR>
+                          <TD bgColor=#d8b6b9 height=1></TD>
+                        </TR> -->
+						<!--<TR>
+                          <TD height=21 class=navigation_back><A class=side_link 
+                        title="ITC Coupons" 
+                        href="http://www.indiaflowersgifts.com/itc_gifts.asp">ITC Coupons</A></TD>
+                        </TR>
+                        <TR>
+                          <TD height=1 bgColor=#d8b6b9></TD>
+                        </TR> -->	
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/cafe_coffee_day.asp" title="Cafe Coffee Day Coupons">Cafe 
+                            Coffee Day Coupons</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/mainland_china_gifts.asp" title="Mainland China Gift Coupons">Mainland 
+                            China Gift Coupons </a></td>
+                        </tr>
+						<tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/oh_calcutta_gifts.asp" title="Oh Calcutta Gift Coupons">Oh Calcutta Gift Coupons </a></td>
+                        </tr>
+                        <!--
+	  <tr>
+            <td height="1" bgcolor="d8b6b9"></td>
+          </tr>
+          <tr>
+            <td class="navigation_back" height="21"><a href="BigFlix_Gift_Coupons.asp" class="side_link" title="BigFlix Gift Coupons.asp">BigFlix Gift Coupons </a></td>
+          </tr>
+ -->
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Raymond_india.asp" title="Raymond's Gift Voucher">Raymond's 
+                            Gift Voucher</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/puja_items.asp" title="Puja Items">Puja 
+                            Items</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/combo_gifts.asp" title="Combo Gifts">Combo 
+                            Gifts </a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/winter_garments_to_india.asp" title="Winter Garments">Winter 
+                            Garments</a></td>
+                        </tr>
+                      </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><img height="29" src="sideimages/pic_7.jpg" width="180"/></td>
+                </tr>
+                <tr>
+                  <td valign="top"><table border="0" cellpadding="0" cellspacing="0" width="180">
+                      <tbody>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/gifts_for_him_India.asp" title="For Him to India">For 
+                            Him </a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/gifts_for_her_India.asp" title="Gifts For Her">For 
+                            Her </a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#d8b6b9" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/gifts_for_kids_India.asp" title="Gifts For Kids">For 
+                            Kids </a></td>
+                        </tr>
+                      </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><img height="29" src="sideimages/pic_6.jpg" width="180"/></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21" width="193"><a class="side_link" href="http://www.indiaflowersgifts.com/anniversary_gifts_India.asp" title="Anniversary Gifts to India">Anniversary</a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/birthday_gifts_India.asp" title="Birthday Gifts to India">Birthday</a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+				<tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Babyshower_gifts_India.asp" title="Baby Shower Gifts to India">Baby Shower</a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/wedding_gifts_India.asp" title="Wedding Gifts to India">Wedding 
+                    Gifts to India</a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/new_born_gifts_India.asp" title="New Born baby to India">New 
+                    Born Gifts </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/congratulation_gifts_India.asp" title="Congratulation Gifts India">Congratulation</a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/get_well_soon_flowers_India.asp" title="Get Well Soon">Get 
+                    Well Soon </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/diwali_gifts_india.asp" title="Diwali Gifts to India">Diwali 
+                    Gifts </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/bhaidooj_gifts_India.asp" title="Bhai Dooj Gifts">Bhai 
+                    Dooj </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/fathers_day_india.asp" title="Father's Day Gifts to india">Father's 
+                    Day </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/friendship_gifts_India.asp" title="Friendship Day Gifts">Friendship 
+                    day </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/mothers_day_india.asp" title="Mother's Day Gifts to India">Mother's 
+                    Day </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/women_day_india.asp" title="Women's Day Gifts">Women's 
+                    Day Gifts </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/valentines_gifts_india.asp" title="Valentines Day Gifts to india">Valentine 
+                    Day Gifts </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/christmas_gifts_India.asp" title="Send Christmas Gifts">Christmas 
+                    Gifts </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/new_year_gifts_India.asp" title="Send New Year Gifts">New 
+                    Year Gifts </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/rakhi_gifts_to_india.asp" title="Rakhi Gifts to india">Rakhi 
+                    Gifts </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+				<tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Sorry_gifts_India.asp" title="Sorry Gifts to india">Sorry</a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+				<tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Thank_You_gifts_India.asp" title="Thank You Gifts to india">Thank You</a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Holi_India.asp" title="Holi Gifts to india">Holi 
+                    Gifts to india </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+				<tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/House_Warming_gifts_India.asp" title="House Warming Gifts to India">House Warming </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Onam_gifts_india.asp" title=" Send Onam Gifts">Onam 
+                    Gifts </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/Ganesh_Chaturthi.asp" title="Ganesh Chaturthi Gifts">Ganesh 
+                    Chaturthi </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/dusshera_gifts_India.asp" title="Dusshera Gifts">Dusshera 
+                    Gifts </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/condolence_gifts_India.asp" title="Condolence">Condolence</a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/karwachauth_gifts_india.asp" title="Karwa Chauth Gifts">karwa 
+                    Chauth </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/all_purpose_gifts_India.asp" title="All Purpose Gifts">All 
+                    Purpose </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+                <tr>
+                  <td class="navigation_back" height="21"><a class="side_link" href="http://www.indiaflowersgifts.com/bengali_new_year_India.asp" title="Bengali New Year Gifts">Bengali 
+                    New Year </a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#d8b6b9" height="1"></td>
+                </tr>
+              </tbody>
+          </table></td>
+        </tr>
+      </tbody>
+    </table>
+	 </td>
+    <td valign="top" width="1%"></td>
+    <td valign="top" width="63%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+	<td align="left" class="Top_header_text_2" colspan="11" valign="top">
+<div style="font:normal 20px Arial; color:#CE5500; text-align:center">Send Gifts to India online at over 1000 locations all over India</div>
+<div style="font:normal 14px Arial; color:#CE5500; text-align:justify">Describe the feelings of your heart to your dearest ones by sending Flowers, Cakes, Chocolates, Sweets, Toys, Birthday Cakes, Eggless Cake and lot more Gifts from our site and entangle them in the enchantment of your pure love. Deliver sweetness through your selection to all over India.</div>
+<div style="font:normal 20px Arial; color:#CE5500; text-align:justify">Send Cake to India to over 200 cities same day with flowers and gifts.</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td align="center" colspan="11" valign="top"><span style="font:bold 12px Arial; color:#000000"></span></td>
+	</tr>
+	<tr> 
+	  <td align="center" height="5" valign="middle"></td>
+    </tr>
+    <tr>
+	  <td align="center" class="Top_header_text_2" colspan="11" height="25" valign="top">
+	  <!--*****Occasion Banner******* -->
+	  <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+	    <tbody><tr>
+		  <td align="center">
+		  <!--<a href="mothers_day_india.asp"><IMG SRC="ifg_mday2014.jpg" border="0" title="Send Mother's Day Gifts to India"></a><br>
+	  <a href="mothers_day_india.asp" title="Send Mother's Day Gifts"><font color="#0000FF" size="3"><b>For Mother's Day Gifts : Click here</b></font></a>	 --> 
+	  <!--<div align="center" class="Top_header_text_3"><marquee behavior="alternate"><font color="#FF0000"><b>Still Taking Mother's Day Orders : Assured Delivery</b></font></marquee></div> -->
+	  <!--<div align="center" class="Top_header_text_3"><marquee behavior="alternate"><font color="#FF0000"><b>Still Taking Diwali Orders : Assured Delivery</b></font></marquee></div>   -->
+<!--<div align="center" class="Top_header_text_3"><marquee behavior="alternate"><font color="#FF0000"><b>Still Taking Rakhi Orders : Assured Delivery</b></font></marquee></div> -->
+<!--<div align="center"><a href="valentines_gifts_india.asp"><img src="ifg_val_2011.jpg" title="Send Valentines Day Gifts to India" border="0"></a><br><a href="valentines_gifts_india.asp"><font style="font:bold 14px Arial; color:#0000FF">Send Valentine's Day Gifts to India: Click Here</font></a></div> --> 
+	<!--<div><marquee behavior="alternate"><font style="font:bold 12px Arial; color:#FF0000">Still Taking Valentine's Day Orders : Assured Delivery</font></marquee> --> 
+	<!--<br><span style="font:bold 13px Arial; color:#0000FF">Available Delivery Date 15th Feb.</span> </div>-->
+	      
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <!--<tr>
+        <td height="25" colspan="11" align="center" valign="top" class="Top_header_text_2">	Send Flowers and Gifts To </td></tr><tr>  <td height="25" colspan="11" align="center" valign="top">
+		<span class="link_menu"> Still accepting Orders for delivery on   31st July</span></td>
+        </tr> -->
+
+
+				
+      <tbody><tr>	   
+        
+		<td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=FLH153&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/FLH153.jpg" title="Basket of exquisite Flowers" width="120"/></a></td>		
+        <td width="2%"></td> 
+		       
+        <td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=CMC495&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/CMC495.jpg" title="Assorted Dry fruits with Haldiram Kaju Katli" width="120"/></a></td>		
+        <td width="2%"></td>  
+		     
+        <td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=SWCNUHA103&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/SWCNUHA103.jpg" title="Khowa Puri from Haldiram" width="120"/></a></td>
+		
+      </tr>	  
+	  <tr>	     
+        
+		<td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=FLH153&amp;page_name=index" style="text-decoration:none;">Basket of exquisite Flowers</a> <br/></td>		
+        <td width="2%"></td>
+		          
+        <td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=CMC495&amp;page_name=index" style="text-decoration:none;">Assorted Dry fruits with Haldiram Kaju Katli</a> <br/></td>		
+        <td width="2%"></td> 
+		
+        <td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=SWCNUHA103&amp;page_name=index" style="text-decoration:none;">Khowa Puri from Haldiram</a> <br/></td>
+		
+      </tr>	  
+	  <tr>	    
+	    
+		<td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=FLH153&amp;page_name=index">Thrill the heart of your special ones by sending t...</a></td>	
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=CMC495&amp;page_name=index">Assorted Dry fruits with Haldiram Kaju Katli. Send...</a></td>		
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=SWCNUHA103&amp;page_name=index">Entice the taste buds of your dear ones by sending...</a></td>
+		
+	  </tr>
+	  <tr>    
+	    
+		<td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 1665 / $ 24.85</strong></td>		
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 967 / $ 14.43</strong></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 560 / $ 8.36</strong></td>
+				  
+	    </tr>
+	  <tr>	    
+	    
+		<td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=FLH153&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>		
+	    <td height="19" valign="top" width="2%"></td>		
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=FLH153&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=CMC495&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>		
+	    <td width="2%"></td>	    
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=CMC495&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=SWCNUHA103&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>
+	    <td width="2%"></td>	   
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=SWCNUHA103&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>
+		
+	  </tr>
+	  <tr>
+	    <td colspan="3" height="20"></td>
+	    <td height="20"></td>
+	    <td colspan="3" height="20"></td>
+	    <td height="20"></td>
+	    <td colspan="3" height="20"></td>
+	  </tr>
+	  
+
+
+				
+      <tr>	   
+        
+		<td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=CMH1106&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/CMH1106.jpg" title="Inviting Blossom and Dessert Twosome" width="120"/></a></td>		
+        <td width="2%"></td> 
+		       
+        <td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=FLH131&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/FLH131.jpg" title="Charming mixed arrangement of Carnations and Gerberas" width="120"/></a></td>		
+        <td width="2%"></td>  
+		     
+        <td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=CMC321&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/CMC321.jpg" title="Crunchy mixed chocolates gift delight" width="120"/></a></td>
+		
+      </tr>	  
+	  <tr>	     
+        
+		<td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=CMH1106&amp;page_name=index" style="text-decoration:none;">Inviting Blossom and Dessert Twosome</a> <br/></td>		
+        <td width="2%"></td>
+		          
+        <td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=FLH131&amp;page_name=index" style="text-decoration:none;">Charming mixed arrangement of Carnations and Gerberas</a> <br/></td>		
+        <td width="2%"></td> 
+		
+        <td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=CMC321&amp;page_name=index" style="text-decoration:none;">Crunchy mixed chocolates gift delight</a> <br/></td>
+		
+      </tr>	  
+	  <tr>	    
+	    
+		<td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=CMH1106&amp;page_name=index">Gratify to the brim the heart of the individual cl...</a></td>	
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=FLH131&amp;page_name=index">Add colours to your dear ones lives by sending thi...</a></td>		
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=CMC321&amp;page_name=index">A beautiful chocolate hamper consisting of Toblero...</a></td>
+		
+	  </tr>
+	  <tr>    
+	    
+		<td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 798 / $ 11.91</strong></td>		
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 764 / $ 11.40</strong></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 999 / $ 14.91</strong></td>
+				  
+	    </tr>
+	  <tr>	    
+	    
+		<td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=CMH1106&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>		
+	    <td height="19" valign="top" width="2%"></td>		
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=CMH1106&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=FLH131&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>		
+	    <td width="2%"></td>	    
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=FLH131&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=CMC321&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>
+	    <td width="2%"></td>	   
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=CMC321&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>
+		
+	  </tr>
+	  <tr>
+	    <td colspan="3" height="20"></td>
+	    <td height="20"></td>
+	    <td colspan="3" height="20"></td>
+	    <td height="20"></td>
+	    <td colspan="3" height="20"></td>
+	  </tr>
+	  
+
+
+				
+      <tr>	   
+        
+		<td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=FFHNUUN101&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/FFHNUUN101.jpg" title="Fresh Fruit Basket 2 Kg" width="120"/></a></td>		
+        <td width="2%"></td> 
+		       
+        <td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=CHCSUUN129&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/CHCSUUN129.jpg" title="Red Heart Shape Pack of Assorted Homemade Chocolates" width="120"/></a></td>		
+        <td width="2%"></td>  
+		     
+        <td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=TGCSKUN610&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/TGCSKUN610.jpg" title="Love Teddy With Heart (16 inches)" width="120"/></a></td>
+		
+      </tr>	  
+	  <tr>	     
+        
+		<td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=FFHNUUN101&amp;page_name=index" style="text-decoration:none;">Fresh Fruit Basket 2 Kg</a> <br/></td>		
+        <td width="2%"></td>
+		          
+        <td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=CHCSUUN129&amp;page_name=index" style="text-decoration:none;">Red Heart Shape Pack of Assorted Homemade Chocolates</a> <br/></td>		
+        <td width="2%"></td> 
+		
+        <td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=TGCSKUN610&amp;page_name=index" style="text-decoration:none;">Love Teddy With Heart (16 inches)</a> <br/></td>
+		
+      </tr>	  
+	  <tr>	    
+	    
+		<td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=FFHNUUN101&amp;page_name=index">Send your caring wishes and deepest thoughts to yo...</a></td>	
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=CHCSUUN129&amp;page_name=index">11 pcs Red Heart Shape Pack of Assorted Homemade C...</a></td>		
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=TGCSKUN610&amp;page_name=index">Surprise your loved one by delivering this beautif...</a></td>
+		
+	  </tr>
+	  <tr>    
+	    
+		<td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 664 / $ 9.91</strong></td>		
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 540 / $ 8.06</strong></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 975 / $ 14.55</strong></td>
+				  
+	    </tr>
+	  <tr>	    
+	    
+		<td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=FFHNUUN101&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>		
+	    <td height="19" valign="top" width="2%"></td>		
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=FFHNUUN101&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=CHCSUUN129&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>		
+	    <td width="2%"></td>	    
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=CHCSUUN129&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=TGCSKUN610&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>
+	    <td width="2%"></td>	   
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=TGCSKUN610&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>
+		
+	  </tr>
+	  <tr>
+	    <td colspan="3" height="20"></td>
+	    <td height="20"></td>
+	    <td colspan="3" height="20"></td>
+	    <td height="20"></td>
+	    <td colspan="3" height="20"></td>
+	  </tr>
+	  
+
+
+				
+      <tr>	   
+        
+		<td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=CKHNUUN101&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/black_forest.gif" title="Scrumptious Black Forest Cake" width="120"/></a></td>		
+        <td width="2%"></td> 
+		       
+        <td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=FLH599&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/FLH599.jpg" title="Stunning True Love 10 Yellow Roses Bouquet" width="120"/></a></td>		
+        <td width="2%"></td>  
+		     
+        <td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=CSCSUUN375&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/CSCSUUN375.jpg" title="Exclusive Care for Babies from Himalaya" width="120"/></a></td>
+		
+      </tr>	  
+	  <tr>	     
+        
+		<td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=CKHNUUN101&amp;page_name=index" style="text-decoration:none;">Scrumptious Black Forest Cake</a> <br/></td>		
+        <td width="2%"></td>
+		          
+        <td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=FLH599&amp;page_name=index" style="text-decoration:none;">Stunning True Love 10 Yellow Roses Bouquet</a> <br/></td>		
+        <td width="2%"></td> 
+		
+        <td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=CSCSUUN375&amp;page_name=index" style="text-decoration:none;">Exclusive Care for Babies from Himalaya</a> <br/></td>
+		
+      </tr>	  
+	  <tr>	    
+	    
+		<td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=CKHNUUN101&amp;page_name=index">Cheer up any celebration with your loved ones in a...</a></td>	
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=FLH599&amp;page_name=index">Show your intense love by sending this Stunning Tr...</a></td>		
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=CSCSUUN375&amp;page_name=index">Himalaya is all set to take good care of your babi...</a></td>
+		
+	  </tr>
+	  <tr>    
+	    
+		<td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 599 / $ 8.94</strong></td>		
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 385 / $ 5.75</strong></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 855 / $ 12.76</strong></td>
+				  
+	    </tr>
+	  <tr>	    
+	    
+		<td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=CKHNUUN101&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>		
+	    <td height="19" valign="top" width="2%"></td>		
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=CKHNUUN101&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=FLH599&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>		
+	    <td width="2%"></td>	    
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=FLH599&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=CSCSUUN375&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>
+	    <td width="2%"></td>	   
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=CSCSUUN375&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>
+		
+	  </tr>
+	  <tr>
+	    <td colspan="3" height="20"></td>
+	    <td height="20"></td>
+	    <td colspan="3" height="20"></td>
+	    <td height="20"></td>
+	    <td colspan="3" height="20"></td>
+	  </tr>
+	  
+
+
+				
+      <tr>	   
+        
+		<td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=MSCSUUN214&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/MSCSUUN214.jpg" title="Lucky Lakshmi Ganesha show piece" width="120"/></a></td>		
+        <td width="2%"></td> 
+		       
+        <td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=CKHNUUN114&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/three_tier.gif" title="Graceful Three-Tier Wedding Cake" width="120"/></a></td>		
+        <td width="2%"></td>  
+		     
+        <td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=FLH553&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/FLH553.jpg" title="Fresh Red Gerberas Bouquet" width="120"/></a></td>
+		
+      </tr>	  
+	  <tr>	     
+        
+		<td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=MSCSUUN214&amp;page_name=index" style="text-decoration:none;">Lucky Lakshmi Ganesha show piece</a> <br/></td>		
+        <td width="2%"></td>
+		          
+        <td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=CKHNUUN114&amp;page_name=index" style="text-decoration:none;">Graceful Three-Tier Wedding Cake</a> <br/></td>		
+        <td width="2%"></td> 
+		
+        <td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=FLH553&amp;page_name=index" style="text-decoration:none;">Fresh Red Gerberas Bouquet</a> <br/></td>
+		
+      </tr>	  
+	  <tr>	    
+	    
+		<td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=MSCSUUN214&amp;page_name=index">Gift this beautiful statue of Lakshmi and Ganesha ...</a></td>	
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=CKHNUUN114&amp;page_name=index">Let the special moments begin with some sweetness ...</a></td>		
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=FLH553&amp;page_name=index">Present your loved ones this Fresh One Dozen Red G...</a></td>
+		
+	  </tr>
+	  <tr>    
+	    
+		<td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 765 / $ 11.42</strong></td>		
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 2594 / $ 38.72</strong></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 560 / $ 8.36</strong></td>
+				  
+	    </tr>
+	  <tr>	    
+	    
+		<td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=MSCSUUN214&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>		
+	    <td height="19" valign="top" width="2%"></td>		
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=MSCSUUN214&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=CKHNUUN114&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>		
+	    <td width="2%"></td>	    
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=CKHNUUN114&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=FLH553&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>
+	    <td width="2%"></td>	   
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=FLH553&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>
+		
+	  </tr>
+	  <tr>
+	    <td colspan="3" height="20"></td>
+	    <td height="20"></td>
+	    <td colspan="3" height="20"></td>
+	    <td height="20"></td>
+	    <td colspan="3" height="20"></td>
+	  </tr>
+	  
+
+
+				
+      <tr>	   
+        
+		<td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=FLH523&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/FLH523.jpg" title="Rhapsodic Blossom Olio" width="120"/></a></td>		
+        <td width="2%"></td> 
+		       
+        <td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=FLH576&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/FLH576.jpg" title="Everlasting Bouquet of Red Roses" width="120"/></a></td>		
+        <td width="2%"></td>  
+		     
+        <td align="center" colspan="3" valign="top"><a href="page_details.asp?product_id=FLH138&amp;page_name=index"><img border="0" height="120" src="http://www.indiaflowersgifts.com/Images/FLH138.jpg" title="Bouquet of beautiful mixed Roses" width="120"/></a></td>
+		
+      </tr>	  
+	  <tr>	     
+        
+		<td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=FLH523&amp;page_name=index" style="text-decoration:none;">Rhapsodic Blossom Olio</a> <br/></td>		
+        <td width="2%"></td>
+		          
+        <td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=FLH576&amp;page_name=index" style="text-decoration:none;">Everlasting Bouquet of Red Roses</a> <br/></td>		
+        <td width="2%"></td> 
+		
+        <td align="center" class="Top_header_text_3" colspan="3" valign="top"><a class="Top_header_text_3" href="Page_details.asp?product_id=FLH138&amp;page_name=index" style="text-decoration:none;">Bouquet of beautiful mixed Roses</a> <br/></td>
+		
+      </tr>	  
+	  <tr>	    
+	    
+		<td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=FLH523&amp;page_name=index">Present this Rhapsodic Blossom Olio to your adored...</a></td>	
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=FLH576&amp;page_name=index">Engage in the true spirit of celebration with this...</a></td>		
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Description_text" colspan="3" height="35" valign="top"><a class="Description_text" href="Page_details.asp?product_id=FLH138&amp;page_name=index">Show your love to your dear ones by sending this b...</a></td>
+		
+	  </tr>
+	  <tr>    
+	    
+		<td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 480 / $ 7.16</strong></td>		
+	    <td width="2%"></td>
+		
+	    <td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 494 / $ 7.37</strong></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="center" class="Top_header_text_3" colspan="3" height="30" valign="middle">
+		<strong>Rs. 425 / $ 6.34</strong></td>
+				  
+	    </tr>
+	  <tr>	    
+	    
+		<td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=FLH523&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>		
+	    <td height="19" valign="top" width="2%"></td>		
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=FLH523&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=FLH576&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>		
+	    <td width="2%"></td>	    
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=FLH576&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>		
+	    <td width="2%"></td>
+	    
+	    <td align="left" height="19" valign="top" width="15%"><a class="left" href="Page_details.asp?product_id=FLH138&amp;page_name=index"><img align="right" border="0" src="sideimages/details.jpg"/></a></td>
+	    <td width="2%"></td>	   
+	    <td align="right" height="19" valign="top"><a class="left" href="Page_details.asp?product_id=FLH138&amp;page_name=index"><img align="left" border="0" src="sideimages/order_now.jpg"/></a></td>
+		
+	  </tr>
+	  <tr>
+	    <td colspan="3" height="20"></td>
+	    <td height="20"></td>
+	    <td colspan="3" height="20"></td>
+	    <td height="20"></td>
+	    <td colspan="3" height="20"></td>
+	  </tr>
+	  
+ 	  
+	  
+</tbody></table>
+	  	  </td>
+        </tr>
+	  </tbody></table>
+	  </td>
+	</tr>
+    <tr>
+	  <td class="Description_text" colspan="12" height="20"></td>
+	</tr>
+</tbody></table>
+	</td>
+    <td valign="top" width="1%"></td>
+    <td valign="top" width="17%"><table border="0" cellpadding="0" cellspacing="0" width="165">
+      <tbody>
+        <!--TR>
+          <TD align=right><A 
+            href="http://www.indiaflowersgifts.com/rakhi_gifts_to_india.asp"><IMG 
+            height=150 title="Send Rakhi Gifts to India" 
+            src="sideimages/right_image.jpg" width=164 
+          border=0></A></TD></TR>
+        <TR>
+          <TD height=20></TD></TR-->
+        <!-- <TR>
+          <TD vAlign="top" align="right"><img src="sideimages/right_rk_patch.jpg" width="164" height="29"></TD>
+        </TR>
+        <TR>
+          <TD align="right"><table width="96%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td class="rk_right1"><A href="http://www.indiaflowersgifts.com/Sameday_online.asp" title="Same Day Delivery in India" class="rk_right2">Same Day Delivery</A></td>
+            </tr>
+            <tr>
+               <TD bgColor="#d8b6b9" height="1"></TD>
+            </tr>
+            <td class="rk_right1"><A href="http://www.indiaflowersgifts.com/flowers_india.asp" title="Same Day Delivery in India" class="rk_right2">Flowers</A></td>
+            </tr>
+            <tr>
+               <TD bgColor="#d8b6b9" height="1"></TD>
+            </tr>
+            <td class="rk_right1"><A href="http://www.indiaflowersgifts.com/cakes_India.asp" title="Same Day Delivery in India" class="rk_right2">Cakes</A></td>
+            </tr>
+            <tr>
+               <TD bgColor="#d8b6b9" height="1"></TD>
+            </tr>
+            <td class="rk_right1"><A href="http://www.indiaflowersgifts.com/sweets_India.asp" title="Same Day Delivery in India" class="rk_right2">Sweets</A></td>
+            </tr>
+           <tr>
+               <TD bgColor="#d8b6b9" height="1"></TD>
+            </tr>
+            <td class="rk_right1"><A href="http://www.indiaflowersgifts.com/chocolates_India.asp" title="Same Day Delivery in India" class="rk_right2">Chocolates</A></td>
+            </tr>
+            <tr>
+               <TD bgColor="#d8b6b9" height="1"></TD>
+            </tr>
+            <td class="rk_right1"><A href="http://www.indiaflowersgifts.com/dry_fresh_fruits_India.asp" title="Same Day Delivery in India" class="rk_right2">Dry Fruits </A></td>
+            </tr>
+            <tr>
+               <TD bgColor="#d8b6b9" height="1"></TD>
+            </tr>
+            <td class="rk_right1"><A href="http://www.indiaflowersgifts.com/fresh_fruits_India.asp" title="Same Day Delivery in India" class="rk_right2">Fresh Fruits </A></td>
+            </tr>
+           </table></TD>
+        </TR> -->
+        <tr>
+          <td align="center" valign="top">
+<!--*****Occasion Banner******* -->
+<!--<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="right"><a href="valentines_gifts_india.asp"><img src="ifg_val_2010.gif" title="Send Valentines Day Gifts all over India" border="0"></a></td>
+  </tr>
+</table>-->
+<!--<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="right"><a href="mothers_day_india.asp"><img src="ifg_mday2012.jpg" title="Send Mother's Day Gifts to India" border="0"></a></td>
+  </tr>
+</table> -->
+ <!--<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="right"><a href="rakhi_gifts_to_india.asp"><img src="ifg_rakhi_2015.gif" title="Send Rakhi Gifts to India" border="0"></a></td>
+  </tr>
+</table> -->
+   </td>
+        </tr>
+        <tr>
+          <td align="center" valign="top"></td>
+        </tr>
+        <tr>
+          <td align="center" height="259" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr>
+                <td align="center" class="banner1" height="259" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody><tr>
+                      <td align="center" colspan="2" height="50" valign="top"> </td>
+                    </tr>
+                    <tr>
+                      <td align="center" height="20" valign="middle" width="10%"><img height="9" src="sideimages/left_bannerarrow.jpg" width="7"/></td>
+                      <td align="left" class="banner1_txt" height="20" valign="middle" width="90%">Premium quality flowers</td>
+                    </tr>
+                    <tr>
+                      <td align="center" height="20" valign="middle"><img height="9" src="sideimages/left_bannerarrow.jpg" width="7"/></td>
+                      <td class="banner1_txt" height="20">Low cost flowers &amp; gifts</td>
+                    </tr>
+                    <tr>
+                      <td align="center" height="20" valign="middle"><img height="9" src="sideimages/left_bannerarrow.jpg" width="7"/></td>
+                      <td class="banner1_txt" height="20">No hidden cost</td>
+                    </tr>
+                    <tr>
+                      <td align="center" height="20" valign="middle"><img height="9" src="sideimages/left_bannerarrow.jpg" width="7"/></td>
+                      <td class="banner1_txt" height="20">Ontime delivery</td>
+                    </tr>
+                    <tr>
+                      <td align="center" height="20" valign="middle"><img height="9" src="sideimages/left_bannerarrow.jpg" width="7"/></td>
+                      <td class="banner1_txt" height="20">Easy &amp; secure ordering</td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+          </tbody></table></td>
+        </tr>
+        <tr>
+          <td align="center" height="13" valign="top"></td>
+        </tr>
+        <tr>
+          <td align="center" height="20" valign="top"><a href="anniversary_gifts_India.asp"><img border="0" height="250" src="sideimages/left_banner2.jpg" title="anniversary gifts" width="165"/></a></td>
+        </tr>
+        <tr>
+          <td align="center" height="13" valign="top"></td>
+        </tr>
+        <tr>
+          <td align="center" height="20" valign="top"><a href="birthday_gifts_India.asp"><img border="0" height="250" src="sideimages/left_banner3.jpg" title="birthday gifts" width="165"/></a></td>
+        </tr>
+        <tr>
+          <td align="center" height="13" valign="top"></td>
+        </tr>
+        <!--<TR>
+          <TD height=20 vAlign=top align=center><a href="valentines_gifts_india.asp"><img src="sideimages/left_banner4.jpg" title="" width="165" height="250" border="0"></a></TD>
+        </TR> -->
+		<tr>
+          <td align="center" height="20" valign="top"><a href="wedding_gifts_India.asp"><img border="0" height="250" src="sideimages/wed_banner.jpg" title="" width="165"/></a></td>
+        </tr>
+        <tr>
+          <td align="center" height="13" valign="top"></td>
+        </tr>
+        <tr>
+          <td align="center" height="20" valign="top"><img height="170" src="sideimages/left_banner5.jpg" width="164"/></td>
+        </tr>
+        <tr>
+          <td align="center" height="13" valign="top"></td>
+        </tr>
+        <tr>
+          <td align="center" valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" class="border" width="100%">
+              <tbody><tr>
+                <td align="center" class="Top_header_text_3" height="20" valign="top">We Accept</td>
+              </tr>
+              <tr>
+                <td align="center"><a href="http://www.indiaflowersgifts.com/payment.asp"><img border="0" height="100" src="sideimages/right_image_payment.jpg" title="Online Gifts to india" width="154"/></a></td>
+              </tr>
+              <tr>
+                <td align="right" height="20" valign="middle"><a class="clickhere_txt" href="payment.asp">and more </a></td>
+              </tr>
+          </tbody></table></td>
+        </tr>
+        <tr>
+          <td align="center" height="20" valign="top"></td>
+        </tr>
+        <tr>
+          <td align="center" valign="top"> </td>
+        </tr>
+        <tr>
+          <td align="right" valign="middle"></td>
+        </tr>
+      </tbody>
+    </table></td>
+  </tr>
+  <tr>
+    <td class="side_link" colspan="5" height="10" valign="top">
+    <!--  <DIV>	  
+	  <P><STRONG><U>Send New Year Gifts To India</U></STRONG></P>
+	  The onset of winter has hallmarked the planning and arrangements for New Year celebrations. It is the time when people all over the world get immersed in the gaiety and enjoyment of the festivals. Let your special ones grab hold of the true spirit of  New Year fiesta in an stirring way by sending our New Year Gifts to India, Yummy New Year Chocolates to India, Beautiful Seasonal Flower Bouquets with Candles to India, Exciting Holiday Gifts to India, Striking Corporate Gifts to India, Superb New Year Hampers to India, Fabulous Roses to India, New Year Fruit Hampers to India, Roasted Cashews to India, Tasty Sweets to India, Scrumptious New Year Cakes to India, Black Forest Cakes to India, Fruit Cakes to India, Egg less Cakes to India, Plum Cakes to India, New Year Cakes to India, Exceptional New Year Gift Hampers to India, Amazing New Year Gifts to India, New Year Flowers to India, New Year Motorola Set to India, New Year Cosmetics and Perfumed Body Spray to India, New Year Shawls and Woolen Garments to India, Exclusive Shirts and Suits to India, New Year Gift Vouchers to India and lots more outstanding New Year gifts. Sending New Year Gifts to India have become trouble-free and safe with us. Create an unforgettable memory with your near and dear ones on the  New Year celebrations by opting to send terrific New Year Gifts from indiaflowersgifts.com. Order now to send fantastic New Year Gifts to India.  Shop online with us to obtain our on time and swift delivery of New Year gifts and make an overwhelming impact on your loved ones.
+	 --> 
+<!--Father&rsquo;s Day is fast approaching. It is   just the ideal time to communicate your heartfelt love and admiration for your   daddy who did everything for you from your childhood. Tell your father in India   how precious he is for you by sending our incredible collection of Fathers Day   Flowers and Gifts from <A href="http://indiaflowersgifts.com">indiaflowersgifts.com</A>. Revive the   lovely and unique relationship with your dad on this Father&rsquo;s Day by delivering   our stunning Father&rsquo;s Day Flowers and Gifts to India and celebrate this day with   great zeal.&nbsp; Father&rsquo;s Day Flowers to   India and Father&rsquo;s Day Gifts to India consist of Fresh Red Roses, Delectable   Father&rsquo;s Day Special Cakes, Pantaloons Gift Vouchers, Mainland China Gift   Vouchers, Dominos Gift Vouchers, Taj Gift Vouchers, Dhoti Kurta Set, Motorala   Mobile Set, Shirts from Raymond and Peter England, Titan Sonata Gift Watches,   Gift Hamper of Aftershave, Deo Spray, Tasty Sweets, Dry Fruits, Lip-smacking   Chocolates, Cuffling and Tie Pin for Daddy, Pack of Shaving Razor, Foam,   Deodrant and After Shave Gel from Gillette, Parker Pen Set, Formal Tie from   Raymonds, Lively Gerberas Gift Arrangement, Wonderful Mixed Seasonal Flower   Bouquets, Fantastic 50 Red Roses Arrangement, Sensational Yellow Roses,   Eye-catching Orchids, Summer Suit from Raymonds, T-Shirt from Adidas, Silk Tie   from Raymonds, Trouser from Allen Solly, Two Tone Cufflink, Export Quality   Leather Belt, Briefcase from Samsonite, Inspiring Books, Imported Electric   Shaver, Fresh and Healthy Luscious Seasonal Fruit Basket, Imported Leather   Organizer, Kurta Payjama Set, Woolen Shawl with Light Embroidery and lots more..   Father&rsquo;s   Day Gifts to India can be sent on Midnight or on the same day. So hurry and   place your orders now for the delivery of Father&rsquo;s Day Flowers to India and   Father&rsquo;s Day gifts to India. Pour your heart out to your dad and express your   deep love for the epitome of his affection and care with our befitting Father&rsquo;s Day Gifts and   Flowers to India. We guarantee the timely delivery of all Father&rsquo;s Day Gifts and   Flowers to India or else money back in full.
+ --><!--<br><br>
+ 
+ <P><STRONG><U>Send Diwali Gifts To India</U></STRONG></P>
+	  Diwali is on 5th November 2010. It is the time to have loads of fun with friends and family. Send Diwali Gifts to India online from <a href="http://www.indiaflowersgifts.com/"><b>indiaflowersgifts.com</b></a> and celebrate Diwali in a grand style with your pals. Wish them a booming time by sending Beautiful Diwali Cards, Diyas, Lamps, Candles, Diwali Crackers to India, Mouth-watering Diwali Mithai, Fresh Diwali Sweets to India, Scrumptious Diwali Cakes, Lip-smacking Diwali Chocolates to India, Diwali Puja Gift Hampers to India, Enticing Diwali Dry Fruits, Fresh Fruits for Diwali in India, Fresh Diwali Flowers for delivery in India, Special Diwali Gift Hampers, Silver Gifts, Fashionable Shirts for Diwali in India, Fascinating Sarees for Diwali, Elegant Salwar Suits for Diwali in India, Diwali Cosmetics, Gold Ganesh Pendants for Diwali, Laxmi Ganesh Gifts for Diwali and lots more striking Diwali gifts for delivery in India. Sending Diwali Gifts to India online have become easy and safe with us. Simply log on to our website and order your favorite Diwali gifts for delivery anywhere in India.  We promise the timely delivery of all gifts to India for Diwali, or else money back in full. So hurry to shop Diwali Gifts to India from our website and liven up their Diwali in spectacular fashion. -->
+
+<!--Rakhi Writeup start-->
+<!--<br>
+<P style="font:normal 12px Arial; color:#D1570E">
+<strong>Convey your Indulgence to your Brother on Raksha Bandhan:</strong><br><br>
+Raksha Bandhan has been celebrated in the same way with the same traditions for many years. Only the meaning has changed with the changing lifestyle to make the celebration more elaborate and lively. Send Several Exciting Gifts like Tasteful Mixed Sweets from Haldiram and Rakhi, Gorgeous Love Delight Rakhi Hamper, Auspicious Silver Plated Pooja Thali with Rakhi, Kaju Pista Roll from Haldiram with Rakhi, Smashing Rakhi Thali Hamper and Rakhi Celebration, Attractive Gift Vouchers and Rakhi etc. to your Brothers on this Raksha Bandhan and make them feel special.<br><br>
+<strong>Gift Sweet Moments of Joy to Your Brother on Raksha Bandhan:</strong><br><br>
+Let your Brother know how much you love and care for him by delivering special present along with good wishes on this Raksha Bandhan. Send Rakhi Gifts like Special Raj Bhog from Haldiram Rakhi, Special Gold Plated Thali with Chocolates and Rakhi, Remote Control Toy Car Gift with Rakhi, Soan Papri from Haldiram with Silver Plated Thali and Rakhi, Mixed Dry Fruits with Silver Plated Thali and Rakhi, Lip Smacking Pack of Cadbury Celebration for Kids and Rakhi and many more to your Brothers and make them happy.<br><br>
+<strong>Make your Brother Happy on this Raksha Bandhan:</strong><br><br>
+Bring a priceless smile in the face of your dear Brother with Rakhi and amazing Gifts. Send Rakhis like Designer Swastik Embossed Divine Rakhi, Attractive Fancy Zardozi Rakhi, Charismatic Rudraksha Rakhi, Spiderman Kids Rakhi along with fantastic Rakhi Gifts to your Brothers on this Raksha Bandhan and express your best love and respect to your brother in a very decent way.
+</P> -->
+<!--Rakhi Writeup end-->
+
+<!--Valentine Writeup start-->
+<!--<br>
+<P style="font:normal 12px Arial; color:#D1570E">
+<strong>Send Flowers to India for Valentine’s Day:</strong><br><br>
+Admire and convey your best love and affection to the person you love with the beautiful essence of Flowers on this Valentine’s Day. Conquer the heart of the people you love by sending them various types of ravishing Flowers like Roses, Tulips, Lilies, Gerberas, Orchids and many more on this day that is sure to amaze them and fill their hearts with happiness.<br><br>
+<strong>Send Valentine Special Gifts to India on Same Day:</strong><br><br>
+Valentine’s Day is the perfect day of love and commitment. Show your intense love to your dear ones by sending them everlasting beauty of Flowers, Cakes, Fruits, Sweets, Red Roses and many more exclusive Gifts, a great and magnificent way to show how much you love them.<br><br>
+<strong>Delivery of Cakes to India for Valentine’s Day:</strong><br><br>
+Love is the essence of life. Valentine's Day is a day of love, romance, and of course commitment. Stimulate the taste buds of your loved ones by gifting them various types of flavoured Cakes, Heart Shaped Cakes, Fruit Cakes, Chocolate Cakes, Eggless Cakes on this day and make them ecstatic.
+</P>  -->
+<!--Valentine Writeup end-->
+
+<!--Mother Day start-->
+<!--<br /><br/>
+<p style="font:normal 12px Arial; color:#D1570E;">
+<strong>On Sunday, May 8th, 2016 celebrate Mother's Day :</strong><br /><br/>
+<strong>Delivery of Gifts to India on Mother’s Day:</strong><br />
+Start planning for the greatest surprise you are yet to deliver to your lovely mom and log in to our shopping website available on the web that will sweep your mother off her feet with the remarkable products. Convey your heartfelt wishes with our Fresh Flowers, Fruits, Cakes, Chocolates and many more gifting options.<br /><br/>
+<strong>Midnight Delivery of Mother’s Day Presents to India:</strong><br />
+Surprise your loving mummy even at Midnight by sending her Online Gifts for Mother’s Day. This you can do in a few easy and simple steps by logging into our online shopping website. We deliver products all over and to every corner of India and in this way have made a special place in the hearts of people.<br /><br/>
+<strong>Same Day Fresh Flower Delivery in India:</strong><br />
+Make your mother’s dream come true by sending different amazing Floral Assortment through our website and offer her the most splendid of presents you have ever delivered. Our items are remarkable in terms of quality and reliability. We provide the special system of delivering products within 24 hours of placing the order.
+</p>  -->
+<!--Mother Day end-->
+
+<!--***normal start*** -->
+<br/>
+<p style="font:normal 12px Arial; color:#D1570E">
+<strong>Same Day Delivery of Flowers to India:</strong><br/><br/>
+Send Flowers to India on the Same Day through our online shopping site. You would simply love the wide array of Fresh Flowers Arrangements comprised of Roses, Lilies, Tulips, Gerberas and more blooms. Our proficient team helps you to choose the right flowers for the right occasion. With this you can also select delicious Chocolates, mouthwatering Cakes, Fresh Fruit Hampers, Sweets and other beautiful Gifts. Try it now!<br/><br/>
+<strong>Sending Gifts to India at over 1000 locations all over India:</strong><br/><br/>
+Wish your dearest ones at Midnight by ordering for Cakes and Chocolates from our website. Our stock includes Gifts for each and every occasion and relation. So you can select online Cakes of any flavor for any event and complement it with Chocolates, Flowers, Soft Toys or any item of your choice and deliver ultimate happiness to your favorite people residing at any corner of India.<br/><br/>
+<strong>Online Cake Delivery in India - same day delivery:</strong><br/><br/>
+We deliver fresh baked cakes, birthday cake, pastries which are procured absolutely fresh from top bakeries of same city and town. We also deliver cake with flowers and gifts at mid-night in select cities. Accessories like candles, knife n more can be added with your order. Order online today and sweeten the day of your loved ones in India. You may add cookies, flower bouquet n more gifts to your order. 
+</p>  
+<!--***normal end*** -->
+
+	  
+<p style="font:bold 15px Arial; color:#D1570E; text-decoration:underline;">Testimonials for India Flowers Gifts.com</p>
+<p style="font:normal 13px Arial; color:#D1570E;">
+1. "I was elated in receiving the graceful Tulip Arrangement and Eggless Cake for my Birthday that my mother ordered from your site. The feeling was truly amazing." – Rumela<br/><br/>
+2. "My brother gifted me a Silver Ganesha Idol along with Puja Thali on Ganesh Chaturthi. It made my celebration grander. Thank You." – Sakshi<br/><br/>
+3. "I ordered for Gold Earrings from your site and was amazed with your super fast delivery. I just could not believe my eyes. Really your effort is commendable." – Ena<br/><br/>
+4. "My daughter ordered for matching Saree and Shirt for me and my husband on our anniversary and we were stunned with the quality of the products. Looking forward to shopping more from your site." – Reshmi<br/><br/>
+5. "My friend and his spouse were on cloud nine after you delivered the Three Tier Wedding Cake that I ordered from your site. Thanks for making their celebration memorable and sweet." – Robert
+</p>
+      
+<br/><br/>
+	  <strong><u>Send Gifts To All Over India</u></strong><br/>
+      <div><a class="cityloclnk" href="gifts_delhi_flowers_delhi.asp" title="Gift Ideas Delhi">Gift Ideas Delhi</a>, <a class="cityloclnk" href="gifts_mumbai_flowers_mumbai.asp" title="Flowers to Mumbai">Flowers to Mumbai</a>, <a class="cityloclnk" href="gifts_pune_flowers_pune.asp" title="Cakes to Pune">Cakes to Pune</a>, <a class="cityloclnk" href="gifts_chennai_flowers_chennai.asp" title="Send Gifts to Chennai">Send Gifts to Chennai</a>, <a class="cityloclnk" href="gifts_bangalore_flowers_bangalore.asp" title="Flower Delivery in Bangalore">Flower Delivery in Bangalore</a>, <a class="cityloclnk" href="gifts_kolkata_flowers_kolkata.asp" title="Birthday Cake Kolkata">Birthday Cake Kolkata</a>, <a class="cityloclnk" href="gifts_hyderabad_flowers_hyderabad.asp" title="Valentine’s Day Gifts Hyderabad">Valentine’s Day Gifts Hyderabad</a>, <a class="cityloclnk" href="gifts_jaipur_flowers_jaipur.asp" title="Mother’s day Jaipur">Mother’s day Jaipur</a>, <a class="cityloclnk" href="gifts_chandigarh_flowers_chandigarh.asp" title="Gifts Chandigarh">Gifts Chandigarh</a>, <a class="cityloclnk" href="gifts_gurgaon_flowers_gurgaon.asp" title="Sweets delivery Gurgaon">Sweets delivery Gurgaon</a>, <a class="cityloclnk" href="gifts_Ghaziabad_flowers_Ghaziabad.asp" title="Fresh fruits Ghaziabad">Fresh fruits Ghaziabad</a>, <a class="cityloclnk" href="gifts_noida_flowers_noida.asp" title="Gift Basket Noida">Gift Basket Noida</a>, <a class="cityloclnk" href="gifts_nagpur_flowers_nagpur.asp" title="Hampers to Nagpur">Hampers to Nagpur</a>, <a class="cityloclnk" href="gifts_Secunderabad_flowers_Secunderabad.asp" title="Saree delivery Secunderabad">Saree delivery Secunderabad</a>, <a class="cityloclnk" href="gifts_vizag_flowers_vizag.asp" title="Send Dry fruits to Vizag">Send Dry fruits to Vizag</a>, <a class="cityloclnk" href="gifts_mysore_flowers_mysore.asp" title="Cake delivery in Mysore">Cake delivery in Mysore</a>, <a class="cityloclnk" href="gifts_coimbatore_flowers_coimbatore.asp" title="Flower Delivery Coimbatore">Flower Delivery Coimbatore</a>, <a class="cityloclnk" href="gifts_kochi_flowers_kochi.asp" title="Florist in Kochi">Florist in Kochi</a>, <a class="cityloclnk" href="gifts_madurai_flowers_madurai.asp" title="Flower Shop Madurai">Flower Shop Madurai</a>, <a class="cityloclnk" href="gifts_mangalore_flowers_mangalore.asp" title="Mangalore Gifts Delivery">Mangalore Gifts Delivery</a>, <a class="cityloclnk" href="gifts_vijayawada_flowers_vijayawada.asp" title="Buy Mobile Vijayawada">Buy Mobile Vijayawada</a>, <a class="cityloclnk" href="gifts_bhopal_flowers_bhopal.asp" title="Kids Gifts Bhopal">Kids Gifts Bhopal</a>, <a class="cityloclnk" href="gifts_indore_flowers_indore.asp" title="Diwali Gifts Indore">Diwali Gifts Indore</a>, <a class="cityloclnk" href="gifts_ahmedabad_flowers_ahmedabad.asp" title="Rakhi to Ahmedabad">Rakhi to Ahmedabad</a>, <a class="cityloclnk" href="gifts_bhubaneswar_flowers_bhubaneswar.asp" title="New Year Cakes to Bhubaneswar">New Year Cakes to Bhubaneswar</a>, <a class="cityloclnk" href="gifts_agra_flowers_agra.asp" title="Watch Shopping Agra">Watch Shopping Agra</a>, <a class="cityloclnk" href="gifts_kanpur_flowers_kanpur.asp" title="Online Flowers Kanpur">Online Flowers Kanpur</a>, <a class="cityloclnk" href="gifts_mohali_flowers_mohali.asp" title="Jewelry Delivery Mohali">Jewelry Delivery Mohali</a>, <a class="cityloclnk" href="gifts_thane_flowers_thane.asp" title="Toys delivery Thane">Toys delivery Thane</a>, <a class="cityloclnk" href="gifts_amritsar_flowers_amritsar.asp" title="Gift Vouchers Amritsar">Gift Vouchers Amritsar</a>, <a class="cityloclnk" href="gifts_jalandhar_flowers_jalandhar.asp" title="Send Gift to Jalandhar">Send Gift to Jalandhar</a>, <a class="cityloclnk" href="gifts_meerut_flowers_meerut.asp" title="Send Flower to Meerut">Send Flower to Meerut</a>.</div>
+	  
+	</td>
+  </tr>
+  <tr><td colspan="5"> </td></tr>
+  <tr><td align="center" colspan="5">
+<table align="center" bgcolor="#F8E1D1" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td colspan="6" height="34" width="100%"><img height="34" src="ifg_footertop.jpg" width="100%"/></td>
+  </tr>
+  <tr>
+    <td width="10"> </td>
+    <td valign="top" width="379">
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td class="Right_text" colspan="2" height="30" valign="top">All Stores</td>
+  </tr>
+   <tr>
+    <td colspan="2" height="1">
+		<table border="0" cellpadding="0" cellspacing="0" width="95%">
+		  <tbody><tr>
+			<td bgcolor="#FF9933" height="1px"></td>
+		  </tr>
+		</tbody></table>	</td>
+  </tr>
+  <tr>
+    <td class="nf_txt" height="20" valign="middle" width="50%"><a class="nf_txt" href="ladies_Apparels_India.asp" title="Apparel Gifts">Apparel Gifts</a></td>
+    <td class="nf_txt" height="20" valign="middle" width="50%"><a class="nf_txt" href="jewellery_india.asp" title="Jewellery Gifts">Jewellary Gifts</a></td>
+  </tr>
+<!--  <tr>
+    <td height="20" class="nf_txt" vAlign="middle"><a class="nf_txt" title="Cars &amp; Bikes" href="`Hero_Honda_Bikes_to_india.asp">Cars &amp; Bikes </a></td>
+    <td height="20" class="nf_txt" vAlign="middle"><a class="nf_txt" title="Leather Bags" 
+            href="Leather_items_to_india.asp">Leather bags</a></td>
+  </tr> -->
+  <tr>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="cakes_India.asp" title="Cakes">Cakes</a></td>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="Home Appliences_online.asp" title="Home Appliance">Home Appliance</a></td>
+  </tr>
+  <tr>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="chocolates_India.asp" title="Chocolate Gifts">Chocolate Gifts</a></td>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="mobilephone_online.asp" title="Mobile Phone">Mobile Phone</a></td>
+  </tr>
+  <tr>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="combo_gifts.asp" title="Combo Discount Gifts">Combo Discount Gifts</a></td>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="puja_items.asp" title="Puja Gift Items">Puja Items</a></td>
+  </tr>
+  <tr>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="cosmetics_India.asp" title="Cosmetics/Perfumes">Cosmetics/Perfumes</a></td>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="leather_items_India.asp" title="Leather Bags">Leather bags</a></td>
+  </tr>
+  <tr>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="dry_fresh_fruits_India.asp" title="Dry Fruits">Dry Fruits</a></td>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="Summer_Collections_to_india.asp" title="Summer Collections Gifts to India">Summer Collections</a></td>
+  </tr>
+  <tr>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="electronics_India.asp" title="Electronics Gifts">Electronic Gifts</a></td>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="sweets_to_india.asp" title="Sweets">Sweets</a></td>
+  </tr>
+  <tr>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="flowers_india.asp" title="Flowers">Flowers</a></td>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="Toys and Games_online.asp" title="Toy's &amp; Games">Toy's &amp; Games</a></td>
+  </tr>
+  <tr>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="fresh_fruits_India.asp" title="Fresh Fruits">Fresh Fruits</a></td>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="watches_India.asp" title="Watches">Watches</a></td>
+  </tr>
+  <tr>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="Raymond_india.asp" title="Gift Vouchers">Gift Vouchers</a></td>
+    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="winter_garments_to_india.asp" title="Winter Garments">Winter Garments</a></td>
+  </tr>
+  <tr>
+    <td class="nf_txt" height="21" valign="middle"><a class="nf_txt" href="Handicrafts_online.asp">Handicraftl Gifts</a></td>
+    <td class="nf_txt" height="20" valign="middle"></td>
+  </tr>
+  <tr>
+    <td class="nf_txt" height="20" valign="middle"></td>
+    <td height="20" valign="middle"></td>
+  </tr>
+  <tr>
+    <td height="10" valign="middle"></td>
+    <td height="10" valign="middle"></td>
+  </tr>  
+   <tr>
+    <td height="10" valign="middle"></td>
+    <td height="10" valign="middle"></td>
+  </tr> 
+</tbody></table>	</td>
+    <td valign="top" width="196">		
+       <table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td>
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				  <tbody><tr>
+					<td class="Right_text" height="30" valign="top">Your Account</td>
+				  </tr>
+				  <tr>
+					<td colspan="2" height="1">
+						<table border="0" cellpadding="0" cellspacing="0" width="95%">
+						  <tbody><tr>
+							<td bgcolor="#FF9933" height="1px"></td>
+						  </tr>
+						</tbody></table>					</td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="userlogin.asp" title="Login">Login</a></td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="Order_Status_login.asp" title="Order Status">Order Status</a></td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="Shopping_Cart.asp" title="Shopping Cart">Shopping Cart</a></td>
+				  </tr>
+				  <tr>
+					<td height="20" valign="middle"></td>
+				  </tr>
+				  <tr>
+					<td height="20" valign="middle"></td>
+				  </tr>	  
+				</tbody></table>			</td>
+		  </tr>
+		  <tr>
+			<td>
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				  <tbody><tr>
+					<td class="Right_text" height="30" valign="top">Contact Us</td>
+				  </tr>
+				  <tr>
+					<td colspan="2" height="1">
+						<table border="0" cellpadding="0" cellspacing="0" width="95%">
+						  <tbody><tr>
+							<td bgcolor="#FF9933" height="1px"></td>
+						  </tr>
+						</tbody></table>					</td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="customer_mail.asp" title="Contact us">Contact Us</a></td>
+				  </tr>
+				  <tr>
+					<td height="20" valign="middle"></td>
+				  </tr>
+				  <tr>
+					<td height="20" valign="middle"><table width="100%">
+					<tbody><tr>
+					  <td><a href="https://www.facebook.com/IndiaFlowersGifts" target="_blank" title="Facebook"><img border="0" src="facebookicon.gif"/></a></td>
+					  <td><a href="https://twitter.com/indiaflowergifs" target="_blank" title="Twitter"><img border="0" src="twittericon.gif"/></a></td>
+					  <td><a href="https://plus.google.com/+IndiaFlowersGiftsOnline" target="_blank" title="Google+"><img border="0" src="googleplusicon.gif"/></a></td>					  				  	</tr>
+					</tbody></table></td>
+				  </tr>
+				  <tr>
+					<td height="20" valign="middle"><table width="100%">
+					<tbody><tr>					  
+					  <td><a href="http://blog.indiaflowersgifts.com" target="_blank" title="Blog"><img border="0" src="blogicon.gif"/></a></td>
+					  <td><a href="https://www.youtube.com/indiaflowersgifts" target="_blank" title="YouTube"><img border="0" src="utubeicon.gif"/></a></td>
+					  <td><a href="http://www.pinterest.com/indiaflowergift" target="_blank" title="Pinterest"><img border="0" src="Pinterest.gif"/></a></td>					  
+					</tr>
+					</tbody></table></td>
+				  </tr>
+				  <tr>
+					<td height="20" valign="middle"></td>
+				  </tr>	  
+				</tbody></table>			</td>
+		  </tr>
+		</tbody></table>	</td>
+    <td valign="top" width="196">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td>
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				  <tbody><tr>
+					<td class="Right_text" height="30" valign="top">Help</td>
+				  </tr>
+				  <tr>
+					<td colspan="2" height="1">
+						<table border="0" cellpadding="0" cellspacing="0" width="95%">
+						  <tbody><tr>
+							<td bgcolor="#FF9933" height="1px"></td>
+						  </tr>
+						</tbody></table>					</td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="terms.asp" title="Terms &amp; Conditions">Terms &amp; Conditions </a></td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="delivery_locations.asp" title="shipping_information.asp">Shipping Information</a></td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="privacy_policy.asp">Privacy Policy</a></td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="Substituion_policy.asp" title="Substituion Policy">Substituion Policy</a></td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="Refund_policy.asp" title="Refund Policy">Refund Policy</a></td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="Cancellation_policy.asp" title="Cancellation_policy.asp">Cancellation Policy</a></td>
+				  </tr>
+				  <tr>
+				    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="sitemap.html" title="Site Map">Site Map</a></td>
+			      </tr>
+				  <tr>
+					<td height="20" valign="middle"></td>
+				  </tr>		  
+				</tbody></table>			</td>
+		  </tr>
+		  <tr>
+			<td>
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				  <tbody><tr>
+					<td class="Right_text" height="30" valign="top">Others</td>
+				  </tr>
+				  <tr>
+					<td colspan="2" height="1">
+						<table border="0" cellpadding="0" cellspacing="0" width="95%">
+						  <tbody><tr>
+							<td bgcolor="#FF9933" height="1px"></td>
+						  </tr>
+						</tbody></table>					</td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="about_us.asp" title="">About Us</a></td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="customer_mail.asp" title="Suggestions">Suggestions</a></td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="customer_mail.asp" title="Gift Finder">Gift Finder</a></td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="occasions_calendar.asp" title="Occations Calender">Occasions Calendar </a></td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="10" valign="middle"></td>
+				  </tr>	  
+				</tbody></table>			</td>
+		  </tr>
+		</tbody></table>	</td>
+    <td valign="top" width="187">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody><tr>
+			<td width="196">
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				  <tbody><tr>
+					<td class="Right_text" height="30" valign="top">Payment Option</td>
+				  </tr>
+				  <tr>
+				<td colspan="2" height="1">
+					<table border="0" cellpadding="0" cellspacing="0" width="95%">
+					  <tbody><tr>
+						<td bgcolor="#FF9933" height="1px"></td>
+					  </tr>
+					</tbody></table>				</td>
+			  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="payment.asp" title="Credit Cards">Credit Cards</a></td>
+				  </tr>
+
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="payment.asp" title="ATM-cum-Debit Cards">ATM-cum-Debit Cards </a></td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="payment.asp" title="Cash Payment">Cash Payment </a></td>
+				  </tr>
+				  <tr>
+					<td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="payment.asp " title="Net Banking">Net Banking</a> </td>
+				  </tr>
+				  <tr>
+				    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="payment.asp ">Mobile Payment </a></td>
+			      </tr>
+				  <tr>
+				    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="payment.asp" title="Amex">Amex</a></td>
+			      </tr>
+				  <tr>
+				    <td class="nf_txt" height="20" valign="middle"><a class="nf_txt" href="payment.asp" title="payment">and More : Click Here </a></td>
+			      </tr>
+				  <tr>
+				    <td class="nf_txt2" height="20" valign="middle">Secured Payment Gateway </td>
+			      </tr>
+				  <tr><td height="5px"></td></tr>
+				  <tr>
+					<td valign="middle"><a href="payment.asp"><img border="0" height="91" src="pay_opt3.jpg" width="141"/></a></td>
+				  </tr>	  
+				</tbody></table>			</td>
+		  </tr>
+		</tbody></table>	</td>
+    <td width="10"> </td>
+  </tr>    
+</tbody></table>	  
+	  </td>
+	  </tr>
+
+  <tr>
+    <td bgcolor="#ce5503" colspan="5" valign="top">
+
+<link href="./includes/mainstyle2.css" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23374827-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<style type="text/css">
+.citylnk
+{	font:bold 14px Arial;
+	color:#FF3300;
+	text-decoration:underline;
+}
+</style>
+
+<table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td align="center" colspan="3" height="10"></td></tr>
+<tr><td align="center"><a class="citylnk" href="delivery_locations.asp">200 Major Cities List: Click Here</a></td>
+    <td align="center"><a class="citylnk" href="b_city_delivery_locations.asp">150 Other Cities and Towns: Click Here</a></td>
+	<td align="center"><a class="citylnk" href="c_city_delivery_locations.asp">1000+ Towns n Villages List: Click Here</a></td>
+</tr>
+<tr><td align="center" colspan="3" height="10"></td></tr>
+</tbody></table>
+<table bgcolor="ce5503" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr bgcolor="#FFFFFF">
+</tr>
+      <tr>
+        <td valign="top"><table border="0" cellpadding="0" cellspacing="0" height="35" width="100%">
+            <tbody><tr>
+              <td align="right" valign="middle" width="5%"><a class="Footer" href="#"></a></td>
+              <td align="center" width="3%"> </td>
+              <td align="center" valign="middle" width="1%"><a class="Footer" href="#"></a></td>              
+              <td align="center" valign="middle" width="12%"><a class="Footer" href="terms.asp" title="Terms and  Conditions">Terms &amp;  Conditions</a></td>
+              <td align="center" valign="middle" width="3%"><img height="11" src="sideimages/line1.jpg" width="1"/></td>
+              <td align="center" valign="middle" width="9%"><a class="Footer" href="payment.asp" title="online Payment">Payment</a></td>
+              <td align="center" valign="middle" width="2%"><img height="11" src="sideimages/line1.jpg" width="1"/></td>
+              <td align="center" valign="middle" width="11%"><a class="Footer" href="delivery_locations.asp" title="Delivery Locations in India">Delivery Locations</a></td>
+              <td align="center" valign="middle" width="3%"><img height="11" src="sideimages/line1.jpg" width="1"/></td>
+              <td align="center" valign="middle" width="9%"><a class="Footer" href="about_us.asp" title="About Us">About Us</a> </td>
+              <td align="center" valign="middle" width="3%"><img height="11" src="sideimages/line1.jpg" width="1"/></td>
+              <td align="center" valign="middle" width="12%"><a class="Footer" href="customer_mail.asp" title="Recommend Us"> Recommend Us</a></td>
+              <td align="center" valign="middle" width="3%"><img height="11" src="sideimages/line1.jpg" width="1"/></td>
+              <td align="center" valign="middle" width="11%"><a class="Footer" href="newmember.asp" title="Membership"> Membership</a></td>
+			   <td align="center" valign="middle" width="3%"><img height="11" src="sideimages/line1.jpg" width="1"/></td>
+              <td align="center" valign="middle" width="11%"><a class="Footer" href="Sitemap.html" title="Site Map">Site Map</a></td>
+              <td align="center" valign="middle" width="3%"> </td>
+              <td align="left" valign="middle" width="6%"> </td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td align="center" height="22" valign="middle"><span class="text1">copyright © <a class="Top_header_text_1" href="http://www.indiaflowersgifts.com/" title="Flowers to India - Gifts to India - Cakes to India">www.indiaflowersgifts.com</a></span></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  </tbody>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-52562710-1', 'auto');
+  ga('send', 'pageview');
+ 
+</script>
+
+</body></html>

@@ -1,0 +1,1232 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en" > <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]--><head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>  
+
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+
+
+  
+  
+  <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" media="all" rel="stylesheet" type="text/css"/>
+
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Mouse+Memoirs:400,700" media="all" rel="stylesheet" type="text/css"/>
+  
+
+   
+  
+<link href="//cdn.shopify.com/s/files/1/0233/5997/t/5/assets/favicon.png?215241836936203270" rel="shortcut icon"/>
+<link href="//cdn.shopify.com/s/files/1/0233/5997/t/5/assets/favicon-152.png?215241836936203270" rel="apple-touch-icon-precomposed"/>  
+
+
+    <title>Send Eggless Birthday Cakes and Anniversary Cakes to Faridabad</title>
+
+
+
+
+
+	<meta content="Online cake shop and bakery in Faridabad. Pure eggless cakes same day free home delivery anywhere in Faridabad just call 9911184012. Buy Online or Pay COD." name="description"/>
+
+
+
+<link href="http://www.cakeatdoor.com/" rel="canonical"/> 
+
+
+  <meta content="website" property="og:type"/>
+  <meta content="Send Eggless Birthday Cakes and Anniversary Cakes to Faridabad" property="og:title"/>
+  
+  <meta content="http://cdn.shopify.com/s/files/1/0233/5997/t/5/assets/logo.png?215241836936203270" property="og:image"/>
+  <meta content="https://cdn.shopify.com/s/files/1/0233/5997/t/5/assets/logo.png?215241836936203270" property="og:image:secure_url"/>
+  
+
+
+  <meta content="Online cake shop and bakery in Faridabad. Pure eggless cakes same day free home delivery anywhere in Faridabad just call 9911184012. Buy Online or Pay COD." property="og:description"/>
+
+  <meta content="http://www.cakeatdoor.com/" property="og:url"/>
+  <meta content="Cakeatdoor.com" property="og:site_name"/>
+
+
+
+
+
+  <meta content="@cakeatdoor" name="twitter:site"/>
+
+
+
+<link href="//cdn.shopify.com/s/files/1/0233/5997/t/5/assets/styles.scss.css?215241836936203270" media="all" rel="stylesheet" type="text/css"/>  
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js" type="text/javascript"></script>
+
+<script src="//cdn.shopify.com/s/files/1/0233/5997/t/5/assets/shop.js?215241836936203270" type="text/javascript"></script> 
+
+
+
+<script src="//cdn.shopify.com/s/assets/themes_support/option_selection-f3dd7ba25bddfb6b0fe9addc0cae11dc709eeb6a469ec7f66f49e3abc4ce8c81.js" type="text/javascript"></script>
+
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->  
+  
+<script>
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "cakeatdoor.myshopify.com";
+      Shopify.theme = {"name":"Sunrise","id":93897668,"theme_store_id":57,"role":"main"};
+
+//]]>
+</script>
+
+
+<script>
+//<![CDATA[
+    (function() {
+      function asyncLoad() {
+        var urls = ["\/\/productreviews.shopifycdn.com\/assets\/v4\/spr.js?shop=cakeatdoor.myshopify.com","https:\/\/localdelivery.herokuapp.com\/assets\/localdelivery.js?shop=cakeatdoor.myshopify.com","https:\/\/s3-us-west-2.amazonaws.com\/forewards-prod\/js\/forewards.js?shop=cakeatdoor.myshopify.com"];
+        for (var i = 0; i < urls.length; i++) {
+          var s = document.createElement('script');
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = urls[i];
+          var x = document.getElementsByTagName('script')[0];
+          x.parentNode.insertBefore(s, x);
+        }
+      }
+      window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
+    })();
+
+//]]>
+</script>
+<script id="__st">
+//<![CDATA[
+var __st={"a":2335997,"offset":19800,"reqid":"91ae268d-e4a5-4648-837c-af92ce825086","pageurl":"www.cakeatdoor.com\/","u":"6e1570df7309","p":"home"};
+//]]>
+</script>
+<script>
+//<![CDATA[
+      (function() {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = '//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6';
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      })();
+
+//]]>
+</script>
+<script type="text/javascript">var _gaq = _gaq || [];_gaq.push(["_setAccount","UA-39123787-1"]);_gaq.push(["_addDevId","o5cUG"]);_gaq.push(["_setAllowLinker",true]);_gaq.push(["_setDomainName","none"]);_gaq.push(["_setCustomVar"]);_gaq.push(["_trackPageview"]);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = '//stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script><script defer="defer" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-668547562549a84f5dfa01ef82607987f85ecbe1c8301faf25059becfa208199.js"></script>
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'INR';
+      var meta = {};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script class="analytics" type="text/javascript">
+        
+        
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var analytics = document.createElement('script');
+          var loaded = false;
+          var onload = function() {
+            if (loaded) return;
+            loaded = true;
+            window.ShopifyAnalytics.lib = window.trekkie.noConflict();
+            window.ShopifyAnalytics.lib.initialize(
+              {"Trekkie":{"appName":"storefront","environment":"production","defaultAttributes":{"shopId":2335997}}}
+            );
+
+            window.ShopifyAnalytics.lib.ready(function() {
+              
+
+              var originalDocumentWrite = document.write;
+              document.write = customDocumentWrite;
+              try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+              document.write = originalDocumentWrite;
+
+              
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"home"}
+        );
+      
+              
+            });
+          }
+          analytics.onload = onload;
+          analytics.onreadystatechange = function() {
+            if (!/complete|loaded/.test(analytics.readyState)) return;
+            onload();
+          }
+          analytics.async = true;
+          analytics.src = 'https://cdn.shopify.com/s/javascripts/trekkie.storefront.min.js?v=2016.09.01.1';
+          document.getElementsByTagName('head')[0].appendChild(analytics);
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-cb3e774fe2763e8123db2f18c2189f467d6a497cea9f3cf1ed358d87ccf9701d.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+
+
+</head>
+
+<body data-curr-format="{{amount}}" data-shop-currency="INR" id="index">
+   <div id="site-wrap">
+      <header class="clearfix" id="header">	
+         <div class="row clearfix">
+            <div class="logo">
+                
+                <h1>
+                  
+                <a class="newfont" href="/" title="Cakeatdoor.com">
+                  
+                     <img alt="Cakeatdoor.com" src="//cdn.shopify.com/s/files/1/0233/5997/t/5/assets/logo.png?215241836936203270"/>
+                  
+                </a>
+                
+                </h1>
+                               
+            </div>
+            
+           
+           
+                       
+
+            <div class="cart-info hide-mobile">
+               <a href="/cart"><em>0</em> <span>items in your cart</span></a>
+            </div>
+         </div>
+
+         
+<nav class="top-menu hide-mobile clearfix" role="navigation">
+  <ul>
+   
+      
+      
+         <li>
+            <a class="active" href="/">Home</a>
+         </li>
+      
+   
+      
+      
+         <li class="has-sub level-1">
+            <a href="/collections/all">Collection</a>
+            <ul>
+            
+                  <li>
+                     <a href="http://www.cakeatdoor.com/collections">Cakes</a>                    
+                  </li>
+            
+                  <li>
+                     <a href="/collections/flowers">Flowers</a>                    
+                  </li>
+            
+                  <li>
+                     <a href="/collections/sweets">Sweets</a>                    
+                  </li>
+            
+                  <li>
+                     <a href="/collections/chocolates">Chocolates</a>                    
+                  </li>
+            
+                  <li>
+                     <a href="/collections/photo-cakes">Photo Cakes</a>                    
+                  </li>
+            
+                  <li>
+                     <a href="/collections/heart-shape-cakes">Heart Shape Cakes</a>                    
+                  </li>
+            
+                  <li>
+                     <a href="/collections/cartoon-cakes">Cartoon Cakes</a>                    
+                  </li>
+            
+                  <li>
+                     <a href="/collections/wedding-cakes">Anniversary Cakes</a>                    
+                  </li>
+            
+                  <li>
+                     <a href="/collections/gift-items">Gift Items</a>                    
+                  </li>
+                    
+            </ul>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="" href="/collections/combo-packs">Special Combos</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="" href="http://www.cakeatdoor.com/blogs/updates/9515729-mid-night-flowers-cakes-and-chocolates-deliveries-in-faridabad-by-cakeatdoor-com">Midnight Delivery</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="" href="/pages/balloon-decoration">Balloon Decoration</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="" href="/pages/franchise">Franchise</a>
+         </li>
+      
+   
+  </ul>
+</nav>
+
+
+         <nav class="off-canvas-navigation show-mobile newfont">
+            <a class="menu-button" href="#menu">Menu</a>			
+            
+            <a class="" href="/cart">Cart</a>			
+         </nav> 
+      </header>
+
+   <div id="content">
+      <section id="sidebar" role="complementary">
+   <nav id="menu" role="navigation">
+      <form action="/search" class="search-form" method="get">
+			<fieldset>
+			<input id="search-input" name="q" placeholder="Search..." type="text"/>
+			<button class="button" type="submit">Search</button>
+			</fieldset>
+		</form>          
+      
+      
+      <ul id="side-menu">
+        
+
+         
+	
+
+      
+      
+         <li>
+            <a class="newfont" href="http://www.cakeatdoor.com/collections">Cakes</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="newfont" href="/collections/flowers">Flowers</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="newfont" href="/collections/sweets">Sweets</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="newfont" href="/collections/chocolates">Chocolates</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="newfont" href="/collections/photo-cakes">Photo Cakes</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="newfont" href="/collections/heart-shape-cakes">Heart Shape Cakes</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="newfont" href="/collections/cartoon-cakes">Cartoon Cakes</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="newfont" href="/collections/wedding-cakes">Anniversary Cakes</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="newfont" href="/collections/gift-items">Gift Items</a>
+         </li>
+      
+   
+
+
+
+
+
+   <div class="hide show-mobile">
+   
+      
+      
+         <li>
+            <a class="newfont" href="/">Home</a>
+         </li>
+      
+   
+      
+      
+         <li class="has-sub level-1">
+           <a class="newfont top-link" href="/collections/all">Collection</a>
+            <ul class="animated">
+            
+               
+               
+                  <li>
+                     <a class="" href="http://www.cakeatdoor.com/collections">Cakes</a>
+                  </li>
+               
+            
+               
+               
+                  <li>
+                     <a class="" href="/collections/flowers">Flowers</a>
+                  </li>
+               
+            
+               
+               
+                  <li>
+                     <a class="" href="/collections/sweets">Sweets</a>
+                  </li>
+               
+            
+               
+               
+                  <li>
+                     <a class="" href="/collections/chocolates">Chocolates</a>
+                  </li>
+               
+            
+               
+               
+                  <li>
+                     <a class="" href="/collections/photo-cakes">Photo Cakes</a>
+                  </li>
+               
+            
+               
+               
+                  <li>
+                     <a class="" href="/collections/heart-shape-cakes">Heart Shape Cakes</a>
+                  </li>
+               
+            
+               
+               
+                  <li>
+                     <a class="" href="/collections/cartoon-cakes">Cartoon Cakes</a>
+                  </li>
+               
+            
+               
+               
+                  <li>
+                     <a class="" href="/collections/wedding-cakes">Anniversary Cakes</a>
+                  </li>
+               
+            
+               
+               
+                  <li>
+                     <a class="" href="/collections/gift-items">Gift Items</a>
+                  </li>
+               
+                    
+            </ul>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="newfont" href="/collections/combo-packs">Special Combos</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="newfont" href="http://www.cakeatdoor.com/blogs/updates/9515729-mid-night-flowers-cakes-and-chocolates-deliveries-in-faridabad-by-cakeatdoor-com">Midnight Delivery</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="newfont" href="/pages/balloon-decoration">Balloon Decoration</a>
+         </li>
+      
+   
+      
+      
+         <li>
+            <a class="newfont" href="/pages/franchise">Franchise</a>
+         </li>
+      
+   
+   </div>
+ 
+
+
+
+
+
+
+
+
+
+          
+
+         
+                  
+         
+         
+            <li class="has-sub">
+               <a class="top-link newfont" href="/blogs/updates">Latest posts</a>
+               <ul id="side-posts">
+                  
+                     
+                        <li>
+                        <a class="article-link" href="/blogs/updates/17392652-balloon-decoration-at-omaxe-heights-sector-86-faridabad">
+                        <strong>Balloon Decoration at Omaxe Heights Sector 86 Faridabad</strong>
+                        <span>We are balloon decoration service provider from N.I.T Faridabad. We provide all type of (Indoor...</span>
+                        </a>
+                        </li>
+                     
+                        <li>
+                        <a class="article-link" href="/blogs/updates/16521336-mickey-mouse-theme-party-and-balloon-decoration-in-ashirwad-restaurant-sec16-faridabad">
+                        <strong>Mickey Mouse Theme Party and Balloon Decoration in Ashirwad Restaurant Sec16 Faridabad</strong>
+                        <span>We are in to balloon and theme party decoration since Aug 2012 and we have...</span>
+                        </a>
+                        </li>
+                     
+                        <li>
+                        <a class="article-link" href="/blogs/updates/12326501-coming-up-soft-toys-at-cakeatdoor">
+                        <strong>Coming up Soft toys at Cakeatdoor</strong>
+                        <span>As you all know we do free home delivery of eggless cakes, chocolates and flowers...</span>
+                        </a>
+                        </li>
+                     
+                        <li>
+                        <a class="article-link" href="/blogs/updates/10490877-send-cakes-to-neharpar-greater-faridabad-free-home-delivery">
+                        <strong>Send cakes to Neharpar - Greater Faridabad - Free home delivery</strong>
+                        <span>We are a faridabad based company (shop no S-20, sec 12, Eldeco station 1 Mall,...</span>
+                        </a>
+                        </li>
+                     
+                        <li>
+                        <a class="article-link" href="/blogs/updates/9515729-mid-night-flowers-cakes-and-chocolates-delivery-in-faridabad-by-cakeatdoor-com">
+                        <strong>Mid Night Flowers, Cakes and Chocolates delivery in Faridabad by cakeatdoor.com</strong>
+                        <span>We are happy to announce that we do midnight or early morning home deliveries for...</span>
+                        </a>
+                        </li>
+                     
+                  
+               </ul>
+            </li>
+         
+         </ul>         
+            
+	</nav>
+   
+   
+   <aside class="social-links">
+      <h3>Stay in touch</h3>
+       <a href="https://twitter.com/cakeatdoor" title="Twitter"><img alt="Twitter" src="//cdn.shopify.com/s/files/1/0233/5997/t/5/assets/icon-twitter.png?215241836936203270"/></a>
+      <a href="https://www.facebook.com/cakeatdoor" title="Facebook"><img alt="Facebook" src="//cdn.shopify.com/s/files/1/0233/5997/t/5/assets/icon-facebook.png?215241836936203270"/></a>          
+      <a href="https://www.pinterest.com/cakeatdoor" title="Pinterest"><img alt="Pinterest" src="//cdn.shopify.com/s/files/1/0233/5997/t/5/assets/icon-pinterest.png?215241836936203270"/></a>                              
+      
+                  
+                
+          
+      <a href="https://plus.google.com/+Cakeatdoor" title="Google +"><img alt="gplus" src="//cdn.shopify.com/s/files/1/0233/5997/t/5/assets/icon-google.png?215241836936203270"/></a>            
+      <a href="https://instagram.com/cakeatdoor" title="Instagram"><img alt="Instagram" src="//cdn.shopify.com/s/files/1/0233/5997/t/5/assets/icon-instagram.png?215241836936203270"/></a>              
+                 
+                       
+        
+   </aside>
+   
+
+
+
+      
+
+   
+   
+   
+   <aside class="top-sellers">
+      <h3>Popular products</h3>
+      <ul>
+      
+         
+            <li>
+            <a href="/products/a-special-gift-pack-cake-c110" title="A special gift pack cake - C110"><img alt="A special gift pack cake - C110" src="//cdn.shopify.com/s/files/1/0233/5997/products/IMG-20150806-WA0002_medium.jpg?v=1446702446"/>
+            <span class="top-title">A special gift pack cake - C110
+            <i>
+            
+               
+                  750.00
+               
+                        
+            </i>
+            </span></a>
+            </li>
+         
+            <li>
+            <a href="/products/anniversary-special-heart-cake-white-base-c123" title="Anniversary Special Heart Cake White Base - C123"><img alt="Anniversary Special Heart Cake White Base - C123" src="//cdn.shopify.com/s/files/1/0233/5997/products/heart_medium.jpg?v=1455617238"/>
+            <span class="top-title">Anniversary Special Heart Cake White Base - C123
+            <i>
+            
+               
+                  1,100.00
+               
+                        
+            </i>
+            </span></a>
+            </li>
+         
+            <li>
+            <a href="/products/beauty-with-grace-c109" title="Beauty with Grace - C109"><img alt="Beauty with Grace - C109" src="//cdn.shopify.com/s/files/1/0233/5997/products/C109_-_Beauty_with_grace_medium.jpg?v=1438323168"/>
+            <span class="top-title">Beauty with Grace - C109
+            <i>
+            
+               
+                  750.00
+               
+                        
+            </i>
+            </span></a>
+            </li>
+         
+            <li>
+            <a href="/products/cake-basket-c095" title="Cake Basket with Full of Love - C095"><img alt="Cake Basket with Full of Love - C095" src="//cdn.shopify.com/s/files/1/0233/5997/products/basket_medium.jpg?v=1417596616"/>
+            <span class="top-title">Cake Basket with Full of Love - C095
+            <i>
+            
+               
+                  <small>from</small> 1,599.00
+               
+                        
+            </i>
+            </span></a>
+            </li>
+         
+            <li>
+            <a href="/products/colorful-threads-cake-c106" title="Colorful Threads Cake - C106"><img alt="Colorful Threads Cake - C106" src="//cdn.shopify.com/s/files/1/0233/5997/products/colorful_threads_premium_birthday_cake_c106_medium.jpg?v=1438321421"/>
+            <span class="top-title">Colorful Threads Cake - C106
+            <i>
+            
+               
+                  750.00
+               
+                        
+            </i>
+            </span></a>
+            </li>
+         
+		      
+      </ul>
+   </aside>
+   
+   
+</section>         
+      <section id="main" role="main"> 
+         
+   
+   
+   
+   
+      <div class="promo-wide">
+         
+            <a href="http://www.cakeatdoor.com/collections">
+               <img alt="Cakeatdoor.com" src="//cdn.shopify.com/s/files/1/0233/5997/t/5/assets/promo-wide.jpg?215241836936203270"/>
+            </a>
+                        
+      </div>                  
+       
+
+         
+         
+<div class="" id="slideshow">
+<div class="owl-carousel" id="slides">
+   
+      
+      
+      
+      
+      
+         <div class="slide first-slide">
+            <a href="http://www.cakeatdoor.com/collections/combo-packs"><img alt="Cakeatdoor.com" src="//cdn.shopify.com/s/files/1/0233/5997/t/5/assets/home-slide1.jpg?215241836936203270"/>
+                          
+            </a>
+         </div>      
+      
+   
+      
+      
+      
+      
+      
+         <div class="slide">
+            <a href=""><img alt="Cakeatdoor.com" src="//cdn.shopify.com/s/files/1/0233/5997/t/5/assets/home-slide2.jpg?215241836936203270"/>
+                          
+            </a>
+         </div>      
+      
+   
+      
+      
+      
+      
+      
+   
+      
+      
+      
+      
+      
+   
+      
+      
+      
+      
+      
+   
+      
+      
+      
+      
+      
+   
+      
+      
+      
+      
+      
+   
+      
+      
+      
+      
+      
+   
+      
+      
+      
+      
+      
+   
+      
+      
+      
+      
+      
+   
+</div>
+</div>
+
+
+
+
+
+<h3>Featured Collections</h3>
+
+<ul class="block-grid columns3 collection-th collection-list">
+  
+
+  
+  
+    
+    <li>
+    <a class="prod-th" href="/collections/special-occasion-cakes" title="Special Occasion Cakes">
+      <span class="thumbnail">
+      
+        <img alt="" src="//cdn.shopify.com/s/files/1/0233/5997/collections/mothers-day-cake-and-flowers-special_large.png?v=1431092414"/>
+                   
+      </span>
+      <span class="product-title">
+        <span class="title">
+          Special Occasion Cakes 
+        </span>  
+      </span>
+    </a>
+    </li>
+  
+
+  
+  
+    
+    <li>
+    <a class="prod-th" href="/collections/combo-packs" title="Combo Packs">
+      <span class="thumbnail">
+      
+        <img alt="" src="//cdn.shopify.com/s/files/1/0233/5997/collections/combo-pack_large.png?v=1377239086"/>
+                   
+      </span>
+      <span class="product-title">
+        <span class="title">
+          Combo Packs 
+        </span>  
+      </span>
+    </a>
+    </li>
+  
+
+  
+  
+    
+    <li>
+    <a class="prod-th" href="/collections/flowers" title="Flowers">
+      <span class="thumbnail">
+      
+        <img alt="" src="//cdn.shopify.com/s/files/1/0233/5997/collections/F004-20-flowers-sample_large.png?v=1377351999"/>
+                   
+      </span>
+      <span class="product-title">
+        <span class="title">
+          Flowers 
+        </span>  
+      </span>
+    </a>
+    </li>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+</ul> 
+
+
+
+    
+    
+        <h3>Featured Items</h3>
+    	<ul class="block-grid columns3 collection-th">
+         
+               <li>
+<a class="prod-th" href="/products/double-heart-anniversary-cake-c076" title="Double Heart Anniversary cake - C076">
+
+<span class="thumbnail">
+   <img alt="Double Heart Anniversary cake - C076" src="//cdn.shopify.com/s/files/1/0233/5997/products/semifinal-double-heart-anniversary-cake_1024x1024.jpg?v=1401261566"/>
+</span>
+
+<span class="product-title">
+   <span class="title">
+      Double Heart Anniversary cake - C076 
+   </span>      
+   <span class="price">
+      
+         
+            <small>from</small> 1,400.00
+         
+      
+   </span>         
+</span>
+
+
+
+</a>
+</li>
+         
+               <li>
+<a class="prod-th" href="/products/cake-and-1-bouquet-combo-1" title="Cake and 1 Bouquet - Combo 1">
+
+<span class="thumbnail">
+   <img alt="Cake and 1 Bouquet - Combo 1" src="//cdn.shopify.com/s/files/1/0233/5997/products/Combo1_black_forest_cake_and_boquet_1024x1024.png?v=1402469238"/>
+</span>
+
+<span class="product-title">
+   <span class="title">
+      Cake and 1 Bouquet - Combo 1 
+   </span>      
+   <span class="price">
+      
+         
+            799.00
+         
+      
+   </span>         
+</span>
+
+
+
+</a>
+</li>
+         
+               <li>
+<a class="prod-th" href="/products/a-sweet-and-soft-teddy-giftpack03" title="A sweet and soft Teddy - GiftPack03">
+
+<span class="thumbnail">
+   <img alt="A sweet and soft Teddy - GiftPack03" src="//cdn.shopify.com/s/files/1/0233/5997/products/teddy-12inch-GP2_1024x1024.jpg?v=1399101805"/>
+</span>
+
+<span class="product-title">
+   <span class="title">
+      A sweet and soft Teddy - GiftPack03 
+   </span>      
+   <span class="price">
+      
+         
+            699.00
+         
+      
+   </span>         
+</span>
+
+
+
+</a>
+</li>
+         
+               <li>
+<a class="prod-th" href="/products/black-forest-cake-c070" title="Black Forest cake - C070">
+
+<span class="thumbnail">
+   <img alt="Black Forest cake - C070" src="//cdn.shopify.com/s/files/1/0233/5997/products/semifinal-black-forest-cake_1024x1024.jpg?v=1389430118"/>
+</span>
+
+<span class="product-title">
+   <span class="title">
+      Black Forest cake - C070 
+   </span>      
+   <span class="price">
+      
+         
+            <small>from</small> 499.00
+         
+      
+   </span>         
+</span>
+
+
+
+</a>
+</li>
+         
+               <li>
+<a class="prod-th" href="/products/kitty-special-cake-c130" title="Kitty Special Cake - C130">
+
+<span class="thumbnail">
+   <img alt="Kitty Special Cake - C130" src="//cdn.shopify.com/s/files/1/0233/5997/products/C130_-_Kitty_Special_1024x1024.jpg?v=1461767757"/>
+</span>
+
+<span class="product-title">
+   <span class="title">
+      Kitty Special Cake - C130 
+   </span>      
+   <span class="price">
+      
+         
+            2,200.00
+         
+      
+   </span>         
+</span>
+
+
+
+</a>
+</li>
+         
+               <li>
+<a class="prod-th" href="/products/heart-shape-kit-kat-and-gems-special-c122" title="Heart shape Kit Kat and Gems Special - C122">
+
+<span class="thumbnail">
+   <img alt="Heart shape Kit Kat and Gems Special - C122" src="//cdn.shopify.com/s/files/1/0233/5997/products/C122-1KG-heart-kit-kat-and-gems-special_1024x1024.jpg?v=1453283039"/>
+</span>
+
+<span class="product-title">
+   <span class="title">
+      Heart shape Kit Kat and Gems Special - C122 
+   </span>      
+   <span class="price">
+      
+         
+            <small>from</small> 1,000.00
+         
+      
+   </span>         
+</span>
+
+
+
+</a>
+</li>
+         
+               <li>
+<a class="prod-th" href="/products/doraemon-cartoon-designer-cake-c124" title="Doraemon Cartoon Designer Cake - C124">
+
+<span class="thumbnail">
+   <img alt="Doraemon Cartoon Designer Cake - C124" src="//cdn.shopify.com/s/files/1/0233/5997/products/C124-doremon-cake_1024x1024.jpg?v=1457690903"/>
+</span>
+
+<span class="product-title">
+   <span class="title">
+      Doraemon Cartoon Designer Cake - C124 
+   </span>      
+   <span class="price">
+      
+         
+            1,500.00
+         
+      
+   </span>         
+</span>
+
+
+
+</a>
+</li>
+         
+               <li>
+<a class="prod-th" href="/products/anniversary-special-heart-cake-white-base-c123" title="Anniversary Special Heart Cake White Base - C123">
+
+<span class="thumbnail">
+   <img alt="Anniversary Special Heart Cake White Base - C123" src="//cdn.shopify.com/s/files/1/0233/5997/products/heart_1024x1024.jpg?v=1455617238"/>
+</span>
+
+<span class="product-title">
+   <span class="title">
+      Anniversary Special Heart Cake White Base - C123 
+   </span>      
+   <span class="price">
+      
+         
+            1,100.00
+         
+      
+   </span>         
+</span>
+
+
+
+</a>
+</li>
+         
+               <li>
+<a class="prod-th" href="/products/its-a-boy-double-blue-c118" title="Its a Boy Double Blue - C118">
+
+<span class="thumbnail">
+   <img alt="Its a Boy Double Blue - C118" src="//cdn.shopify.com/s/files/1/0233/5997/products/yukti---first-birthday-boy-cake_1024x1024.jpg?v=1450844866"/>
+</span>
+
+<span class="product-title">
+   <span class="title">
+      Its a Boy Double Blue - C118 
+   </span>      
+   <span class="price">
+      
+         
+            <small>from</small> 2,800.00
+         
+      
+   </span>         
+</span>
+
+
+
+</a>
+</li>
+         
+               <li>
+<a class="prod-th" href="/products/kaju-katli-special-sw007" title="Kaju Katli Special - SW007">
+
+<span class="thumbnail">
+   <img alt="Kaju Katli Special - SW007" src="//cdn.shopify.com/s/files/1/0233/5997/products/kaju-katli_1024x1024.jpg?v=1412340425"/>
+</span>
+
+<span class="product-title">
+   <span class="title">
+      Kaju Katli Special - SW007 
+   </span>      
+   <span class="price">
+      
+         
+            <small>from</small> 500.00
+         
+      
+   </span>         
+</span>
+
+
+
+</a>
+</li>
+         
+               <li>
+<a class="prod-th" href="/products/pineapple-pastries-p001" title="Pineapple Pastries - P001">
+
+<span class="thumbnail">
+   <img alt="Pineapple Pastries - P001" src="//cdn.shopify.com/s/files/1/0233/5997/products/pineapple-pastries_1024x1024.jpg?v=1378115570"/>
+</span>
+
+<span class="product-title">
+   <span class="title">
+      Pineapple Pastries - P001 
+   </span>      
+   <span class="price">
+      
+         
+            499.00
+         
+      
+   </span>         
+</span>
+
+
+
+</a>
+</li>
+         
+		</ul>
+    
+
+
+
+
+
+   <div class="welcome">
+      
+   </div>
+
+
+	
+		</section>
+   </div>
+   
+</div><!-- site-wrap -->
+
+
+
+
+<footer class="" id="footer" role="contentinfo">
+   <div class="inner">
+      
+
+
+            <p class="payment-icons">
+                
+            </p>
+
+      <ul class="footer-nav">
+         
+			   <li><a href="/search" title="">Search</a></li>
+			
+			   <li><a href="/pages/about-us" title="">About Us</a></li>
+			
+			   <li><a href="/pages/terms-and-condition" title="">T&amp;C</a></li>
+			
+			   <li><a href="/pages/testimonial" title="">Testimonials</a></li>
+			      
+      </ul>
+      <div class="credits clearfix">
+         <p class="copyright">Copyright © 2016 <a href="/" title="">Cakeatdoor.com</a>. All Rights Reserved.</p>
+        
+        
+            <p class="subtext"><a href="http://www.rawsterne.co.uk" target="_blank" title="Shopify theme by Rawsterne">Site by Rawsterne</a></p>
+                     
+         <p class="subtext"><a href="https://www.shopify.com/website/templates" rel="nofollow" target="_blank">Website template by Shopify</a></p>
+      </div>
+      <a class="" href="#header" id="scroll-top" title="Back to top of page">Back to top</a>
+   </div>
+</footer>
+
+
+  
+  
+
+  
+  
+  
+ 
+
+
+  
+  
+
+</body></html>

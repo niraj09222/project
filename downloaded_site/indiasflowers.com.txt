@@ -1,0 +1,2445 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<link href="/images1/indiaflowers.ico" rel="shortcut icon"/>
+<link href="/images1/indiaflowers.ico" rel="icon" type="/image/ico"/>
+  
+ 
+ 
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<meta content="jOWgWchGTjm8Zss-SAnrky9FxbFtRwJeEu8tM6jspls" name="google-site-verification"/>
+ 
+ 		
+		<title>India  Flowers :  Hand Bouquet, Vibrant Design, Prompt Flowers Delivery in India  at Midnight &amp; Same Day | Online Qualified Florist in India  </title>
+		 <meta content="India  Flowers &gt; Vibrant Flowers Bouquet Home Delivery in India , Rush for Flowers Delivery! Send Flowers Bouquet online in India.  Birthday Cake, Flowers, Gifts all available at  India  Online Florists.  Now send Vibrant and aromatic flowers online home delivered, Same Day , Midnight, Fix time, priority services and other means. New Improved Flowers Delivery services with free delivery and satisfaction guarantee " name="Description"/>
+		 <meta content="" name="Keywords"/>
+		 
+		 
+ 
+ 
+<meta content="no" http-equiv="imagetoolbar"/>
+
+
+ 
+
+ 
+ 
+<link href="/indiaflower_club_minify.css" media="screen,print" rel="stylesheet" type="text/css"/>
+
+ 
+
+<!-- jQuery Main Library -->
+   
+<script src="/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="/jui/jquery-ui-1.9.0.custom.min.js" type="text/javascript"></script>
+
+
+<script src="/jquery.leanModal.min.js" type="text/javascript"></script>
+
+
+<!-- jQuery UI Library -->
+<script src="/masonry/packery.pkgd.min.js"></script>   
+<script src="/masonry/imagesloaded.pkgd.min.js"></script> 
+
+<!-- Include the jQuery files -->
+<!-- 
+ 
+
+ 
+<script type="text/javascript" src="/jquery-migrate-1.2.1.min.js"     ></script>
+
+ 
+-->
+
+ 
+ 
+<script language="javascript" src="/inlinepage.js" type="text/javascript"></script>
+
+
+ 	<!-- Add fancyBox main JS and CSS files -->
+	<script src="/fancyboxjs/jquery.fancybox_min.js" type="text/javascript"></script>
+ 
+<script type="text/javascript">
+	$(document).ready(function() {
+	    
+		$(".fancybox").fancybox();
+	
+	});  
+	
+</script>
+
+
+ 
+<script>
+
+$(document).ready(function() {
+  
+$('.m_addon_link').on('click', scrollToAddon);
+
+  
+ 
+ 	});
+ 	
+ 	
+
+function scrollToAddon() {
+    verticalOffset = typeof(verticalOffset) != 'undefined' ? verticalOffset : 0;
+    element = $('.show_addon');
+    offset = element.offset();
+    offsetTop = offset.top;
+    $('html, body').animate({scrollTop: offsetTop}, 500, 'linear');
+} 
+ 	
+</script>
+  
+  
+  
+  
+  
+ <!-- ######################################## -->
+ 
+ <!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?2KhL90NZBkSq1nLm2oZrBOgfSAxlH6U9';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+<!--End of Zopim Live Chat Script-->
+
+
+ 
+ <!-- ######################################## -->
+ 
+ 
+ 
+ 
+
+</head>
+
+
+<!-- ########################## METAEND ##################### -->
+ 
+<body>
+
+<div id="fb-root"></div>
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+  
+  
+  
+  
+ <!-- ########################### -->
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+<!-- ########################## HEADER START ##################### -->
+
+
+
+<!-- ################## Analytics code ############################ -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11351006-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<!-- ################## Analytics code ############################ -->
+
+
+
+
+
+<!-- ########################## HEADER ##################### -->
+<div class="one_header">
+	 <div class="one_header_inside">
+			 <ul class="one_header_strip ">
+			 
+			 	<li class="logo_li">
+			 	<a href="/" itemprop="brand" itemscope="" itemtype="http://schema.org/Brand" title="Flowers to India - Flowers Delivery in India">
+				 <img alt="India Flowers Delivery" class="logo" itemprop="logo" src="/images1/indias-flowers-logo.png"/>
+				 </a>
+			 	</li>
+			 	
+			 	<li class="logo_li_mobile">
+			 	<a href="/" itemprop="brand" itemscope="" itemtype="http://schema.org/Brand" title="Flowers to India - Flowers Delivery in India">
+				 <img alt="India Flowers Delivery" class="logo" itemprop="logo" src="/images1/indias-flowers-logo-mobile.png"/>
+				 </a>
+			 	</li>
+			 	
+				 <li class="snd_li">
+				 	<ul class="quality_ul">
+				 		<li>Best Quality<br/>Low Cost</li>
+				 		<li>Same Day &amp;<br/>Mid Night Delivery</li>
+				 		<li class="quality_hacker">Hacker Safe<br/>Secure Payments</li>
+				 	</ul>
+			 	</li>
+			 	
+			 	<li class="trackorder_li">
+			 	<span class="trackorder_span">
+				 <a class="top_links " href="/trackorder/">Track Order</a> | <a class="top_links " href="/contact/">Contact </a> 
+				 
+				 <span class="header_cart_hide">| <a class="top_links " href="/cart/"> <img src="/images1/cart_icon_grey.png" style="vertical-align:top"/>(0)  </a></span>
+				 
+				 </span>
+			 	
+			 		<span class="dark_grey_clr sz_1 contact_no_span">
+			 	+91 9879746556, sales@indiasflowers.com			 	</span>
+			 	</li>
+			 	
+			 </ul>
+	<br class="clearfix"/>	
+	
+	<div class="tagline dark_grey_clr"> 
+	  Flowers | Cakes | Gifts 
+	
+ India  </div>
+ 	<div class="tagline_right m_clr sz_3" style="display:none"> Online Florist, Flowers &amp; Gifts Delivery in India </div>
+		 
+	</div>
+</div>
+
+
+
+<!-- ################################ 2nd #################### -->
+
+
+
+
+<div class="menu_div " id="menu_div">
+
+		<div class="menu_div_inside">
+			<div class="menu_icon"> 		
+								
+			</div>
+			<div class="view_cart_mini">
+							<a class="first-level viewcart_link" href="/cart/" title="">0</a>
+							</div>
+							
+							
+			
+		 
+	
+		 <!-- ########################## menu start ########################## -->
+		 <ul id="topnav_main">
+ <li class="append_menu">
+  <a class="first-level flink" href="javascript:void(0)" title="">Products <img src="/images1/or-arrow.png"/></a>
+		   <div class="sub">
+			      <ul>
+	<!--		       
+			  	<li ><a href="/send-diwali-gift-to-india/" rel="nofollow" style='color:#ff0000' >Diwali Special</a></li>    
+ -->
+
+ 
+<!--
+			  	<li ><a href="/send-rakhi-gift-to-india/" rel="nofollow" >Raksha Bandhan Special</a></li>    
+ 		 
+
+ 
+			  	<li ><a href="/best-seller-flowers-india/" rel="nofollow" style="color:red" >Best Sellers</a></li>    
+
+ -->
+
+
+			<li><a href="/flower-bouquet-delivery-india/">Fresh Flowers</a></li>
+		<li><a href="/cake-delivery-india/">Premium Cakes</a></li>	 
+		<li><a href="/eggless-cake-delivery-india/">Eggless Cake</a></li>	
+		<li><a href="/5star-cake-delivery-india/">5 Star Cakes</a></li>	
+       <li><a href="/chocolates-delivery-india/">Chocolates</a></li>
+       <li><a href="/fruits-delivery-india/">Fresh Fruits</a></li>
+       <li><a href="/dry-fruit-delivery-india/">Dry Fruits</a></li>
+       <li><a href="/mithai-sweets-delivery-india/">Mithai &amp; Sweets</a></li>
+      <li><a href="/soft-stuff-toy-delivery-india/">Soft Toys</a></li>
+       <li><a href="/flowers-combo-india/">Flower Combo</a></li>
+			        
+			      </ul>
+			    </div>
+  </li>
+  <li>
+  <a class="first-level flink" href="/flower-bouquet-delivery-india/" title="">Flowers</a>
+  </li>
+  
+  
+  
+  
+  <li class="append_menu">
+  <a class="first-level flink" href="javascript:void(0)" title="">Cakes <img src="/images1/or-arrow.png"/></a>
+	  <div class="sub">
+	      <ul>
+	      		<li><a href="/cake-delivery-india/">Fresh Cakes</a></li>
+				<li><a href="/eggless-cake-delivery-india/">Egg Less Cakes</a></li>
+	 
+				<li><a href="/5star-cake-delivery-india/">5 Star Cakes</a></li>
+	 
+	        
+	      </ul>
+	    </div>
+  </li>
+  
+  
+    <li class="append_menu">
+  <a class="first-level flink" href="javascript:void(0)" title="">Ocassion <img src="/images1/or-arrow.png"/></a>
+	  <div class="sub">
+	      <ul>
+	      		<li><a href="/ocassion/birthday-flower-delivery-india/">Birthday</a></li>
+				<li><a href="/ocassion/anniversary-flower-delivery-india/">Anniversary</a></li>
+	 			<li><a href="/ocassion/newbaby-flower-delivery-india/">Baby Shower</a></li>
+	 			<li><a href="/ocassion/sympathy-funeral-flower-delivery-india/">Sympathy-Funeral</a></li>
+	 			<li><a href="/ocassion/getwell-soon-flower-delivery-india/">Get Well Soon</a></li>
+	 			<li><a href="/ocassion/mom-special-flower-delivery-india/">Mom Special</a></li>
+	 			<li><a href="/ocassion/dad-special-flower-delivery-india/">Dad Special</a></li>
+	 			<li><a href="/ocassion/for-her-special-flower-delivery-india/">Specially for Her</a></li>
+	 			<li><a href="/ocassion/for-him-special-flower-delivery-india/">For the Gentleman</a></li>
+	 			<li><a href="/ocassion/grih-pravesh-flower-delivery-india/">House Warming</a></li>
+	 			<li><a href="/ocassion/thank-you-flower-delivery-india/">Just to say Thanks</a></li>
+	 			<li><a href="/ocassion/wedding-gift-flower-delivery-india/">For Wedding Blessing</a></li>
+ 
+	      </ul>
+	    </div>
+  </li>
+  
+  
+
+  <li>
+  <a class="first-level flink" href="/flowers-combo-india/" title="">Combos</a>
+  </li>
+  <li>
+	  <div class="w_new">
+	  	<div class="w_new_inner">
+		  	<img src="/images1/new_icon.png"/>
+		  </div>
+	  </div>
+
+  <!-- 
+  <a class="first-level-override flink" href="/send-rakhi-gift-to-india/" title="" rel="nofollow" >Rakhi Special</a>
+ 
+-->
+
+<!--
+  <a class="first-level-override flink" href="/send-diwali-gift-to-india/" title="" rel="nofollow" >Diwali Special</a>
+
+
+-->  
+ 
+<a class="first-level-override flink" href="/best-seller-flowers-india/" rel="nofollow" style="font-weight:bold;" title="">Best Sellers   </a>
+
+   
+  </li>
+  <li class="append_menu">
+  <a class="first-level flink" href="javascript:void(0)" title="">Delivery <img src="/images1/or-arrow.png"/></a>
+		   <div class="sub">
+			      <ul>
+			      		<li><a href="/same-day-delivery/">Big Cities </a></li>
+						<li><a href="/midnight-delivery/">Mid Night Delivery</a></li>
+						<li><a href="/small-cities-delivery/">Remote / Small Cities</a></li>
+						<li><a href="/fixed-time-delivery/">Fix Time Delivery</a></li>
+			 
+			        
+			      </ul>
+			    </div>
+  </li>
+  
+  
+   <li class="append_menu">
+  <a class="first-level flink" href="javascript:void(0)" title="">Shop By <img src="/images1/or-arrow.png"/></a>
+		   <div class="sub">
+			      <ul>
+			      		 
+		<li><a href="/flower-price-0-to-700/">Below Rs. 700</a></li>
+		<li><a href="/flower-price-700-to-3000/">Rs. 700 - 3000</a></li>
+		<li><a href="/flower-price-3000-to-5000/">Rs. 3000 - 5000</a></li>
+		<li><a href="/flower-price-5000-to-20000/">Abover Rs. 5000</a></li>
+			        
+			      </ul>
+			    </div>
+  </li>
+  
+    
+  
+ 
+  
+   
+  <li>
+  <div class="owc">
+  	<div class="owc_inner">
+	  	<img src="/images1/owc.png"/>
+	  </div>
+  </div>
+  
+  </li>
+    
+    
+    <div class="view_cart">
+	<a class="first-level viewcart_link" href="/cart/" title="">0 Items</a>
+	</div>
+   
+      </ul>
+		 
+		 
+		
+		 
+		</div>
+</div> 
+
+<div class="green_line ">
+</div>
+	 
+	 
+	 
+
+<!-- ################################ 3rd ############################################# -->
+<!-- ################################ HEADER ENDS ############################################# -->
+<!-- ################################ 3rd ############################################# -->
+
+
+
+
+
+
+ 
+  
+  <!-- ########################## HEADERENDS ##################### -->
+
+
+
+
+
+
+
+ 
+		 
+			  
+				 
+	  
+	  		 
+				 
+				 
+			  
+ 
+	 
+ 			 
+				  
+ 
+  
+   <!-- ########################## BODY START ##################### -->
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+<div class="thrid_div">
+	<div class="thrid_div_inner">
+	<ul class="home_slides_nav">
+		<li class="home_nav1">
+			<ul class="nav_2nd">
+				<li class="one_li"><a href="/flower-bouquet-delivery-india/">Today Delivery</a></li>
+				<li class="two_li"><a href="/cake-delivery-india/">Premium Cakes</a></li>
+				<li class="three_li"><a href="/flowers-combo-india/">Birthday Gifts</a></li>
+				<li class="four_li"><a href="/midnight-delivery/">Mid Night</a></li>
+				<li class="five_li"><a href="/flowers-combo-india/">Combo Delight</a></li>
+				<li class="six_li">
+				<div class="winder_deal" style="z-index: 1000;">
+					 <img onclick="window.location='/deals/';" src="images1/summer_deals.png"/> 
+				</div>
+				</li>
+			</ul>
+		</li>
+		<li class="home_slides">
+		 
+				 
+					<ul class="rslides " style="z-index: 1;">
+					<!--
+					<li ><img src="images1/rakhi_slide.jpg" class="slideimage" onclick="window.location='/red-color-flowers-delivery-india/';" ></li>
+					-->
+				 	<li><img class="slideimage" onclick="window.location='/red-color-flowers-delivery-india/';" src="images1/slide6.jpg"/></li>
+				 	 
+						<li><img class="slideimage" onclick="window.location='/red-color-flowers-delivery-india/';" src="images1/slide1.jpg"/></li>
+					
+				 
+					
+					<!-- Valentine	<li ><img src="images1/slide5.jpg" class="slideimage" onclick="window.location='/red-color-flowers-delivery-india/';" ></li>
+						<li ><img src="images1/slide5_val2.jpg" class="slideimage" onclick="window.location='/red-color-flowers-delivery-india/';" ></li>
+						<li ><img src="images1/slide5_val3.jpg" class="slideimage" onclick="window.location='/red-color-flowers-delivery-india/';" ></li>
+					
+					-->
+					<!--
+						<li ><img src="images1/slide_diwali.jpg" class="slideimage" onclick="window.location='/send-diwali-gift-to-india/';"  rel="nofollow"   ></li>
+						<li><img src="images1/slide_diwali_1.jpg"  class="slideimage"  onclick="window.location='/send-diwali-gift-to-india/';"  rel="nofollow"   ></li>
+					 -->
+					</ul>
+				 
+		</li>
+	</ul>
+	
+	</div>
+	
+	<div class="gen_div sz_2 dark_grey_clr two_container back_clr_ff">
+	<img class="india_icon" src="/images1/india_icon.png"/>	Same Day and Midnight Delivery is Available. Order before 5pm for Sameday* Flowers Delivery. <img class="india_icon" src="/images1/india_icon.png"/>
+	</div>
+	
+	
+	
+	
+	
+	
+	<div class="gen_div back_clr_cc three_container">
+  
+			<ul class="metro_ul">
+				<li>
+				<div class="tile tile_wide"><span class="metro_title_big"><a href="/flower-bouquet-delivery-india/">Fresh Flowers</a></span><img src="images1/metro_1.jpg"/></div>
+				<div class="tile tile_wide"><span class="metro_title_big"><a href="/cake-delivery-india/">Premium Cakes</a></span><img src="images1/metro_2.jpg"/></div>
+				</li>
+				<li>
+				<div class="tile tile_wide"><span class="metro_title_big"><a href="/flowers-combo-india/">Love &amp; Romance</a></span><img src="images1/metro_3.jpg"/></div>
+			 
+				</li>
+				<li>
+				<div class="tile tile_wide"><span class="metro_title_big"><a href="/chocolates-delivery-india/">Chocolates</a></span><img src="images1/metro_4.jpg"/></div>
+			 <div class="tile tile_wide"><span class="metro_title_big"><a href="/flowers-combo-india/">Low Cost Combos</a></span><img src="images1/metro_5.jpg"/></div>
+				</li>
+				
+				<li>
+				<div class="tile tile_small"><span class="metro_title_big"><a href="/mithai-sweets-delivery-india/">Mithai</a></span><img src="images1/metro_6.jpg"/></div>
+			  <div class="tile tile_small"><span class="metro_title_big"><a href="/chocolates-delivery-india/">Chocolates</a></span><img src="images1/metro_7.jpg"/></div>
+			  <div class="tile tile_small tile_last"><span class="metro_title_big"><a href="/mithai-sweets-delivery-india/">Mithai</a></span><img src="images1/metro_8.jpg"/></div>
+			  <div class="tile tile_small tile_last"><span class="metro_title_big"><a href="/dry-fruit-delivery-india/">Dry Fruits</a></span><img src="images1/metro_9.jpg"/></div>
+				</li>
+				
+			</ul> 
+			<br class="clearfix"/>
+		 
+  </div>
+  
+  
+  
+
+
+
+
+		<div class="gen_div four_container">
+		 	 <div class="corp_div"><a class="flink" href="/corporate-deals/">Corporate Deals</a></div>
+			 <div class="corp_div1">Same Day Florist Delivery is available. Order before 4.00pm for Same Day Delivery</div>
+					<br class="clearfix"/>
+	 </div>
+	  
+	  
+	  
+	  <div class="gen_div four_container">
+	  		<h1>
+			  India Flowers: Hand Bouquet, Vibrant Design, Online Flowers Delivery in Midnight &amp; Same Day by Qualified Florist in India
+			  </h1>
+			  <h2>Vibrant Flowers Bouquet Home Delivery in India, Rush for Flowers Delivery! Send Flowers Bouquet online same day and Midnight. </h2>
+			  <p class="text_p"> Soft Pink, Lusty Red, Warm Yellows every species of flowers available in different forms with various designs and decor.   Now send Vibrant and aromatic flowers online home delivered, Same Day , Midnight, Fix time, priority services and other means. Order Flowers &amp; gifts for your dear ones who are far away or to make surprise to near ones. At India flowers we strive on the quality to make service at par for our valued customers.  </p>
+			  
+			  <p class="text_p"> Try us and get memorable experience of Happiness, share the moments and reward us smile. We will be happy for being part of your occasion. India Flowers contributes to largest network of local florist throughout India. </p>
+	  </div>
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--- ############################################ ---->
+  <div class="gen_div five_container">
+		  
+		  <div class=" gen_div" id="container">
+		  		 <div class="item h2">
+	 
+	 <ul class="prul"> 
+		 <li class="prlist_li rcorner unt ">
+	 
+	 			
+	 
+	 <div class="imagetagdiv">
+	 	<a class="quickview unt fancybox " href="#quicklook734">Quick View</a>
+	 </div>
+	 
+	  
+	   <div id="quicklook734" style="display:none;max-width:600px;padding:10px">
+	 
+			 <div style="max-width:275px; float:left">
+			 <img alt="30 Red Roses" src="/product_thumbs/thumb_734.jpg" style="margin-left:20px;width=220px"/>
+			 </div>
+			 
+			 <div style="max-width:300px;float:left;padding:5px;">
+			 <p align="right">Item Code : <span>734</span></p>
+			 <h2>30 Red Roses</h2>
+			 
+			 <p>
+						Bunch of 30 Red Roses with fillers and greens nicely decorated with fillers and ribbons, special deliveries to Mumbai, Delhi, Bangalore 				 
+				
+					</p>
+					<p>
+				 
+						<span class="pprice1">Rs. 945 </span>
+					 	
+					</p>
+					 
+					<a class="big_btn rcor menushadow" href="/item/734/30-red-roses/">Buy Now</a>
+			 </div>
+			 
+			<br/>
+ 
+		</div>
+
+	 
+	 
+	 
+	 
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+							<a href="/item/734/30-red-roses/"><img alt="Bunch of 30 Red Roses with fillers and greens nicely decorated with fillers and ribbons, special deliveries to Mumbai, Delhi, Bangalore " border="0" class="pimg" src="/product_thumbs/thumb_734.jpg"/></a>
+						 
+				</td>			
+				</tr>
+ 				</tbody></table>			
+ 				
+ 				<div class="desctd"> 
+				 <a class="plink " href="/item/734/30-red-roses/">30 Red Roses </a> 
+				  </div>
+				  
+				  <div>
+				  <a class="prlink " href="/item/734/30-red-roses/">Rs. 945 </a> 
+							<a class="buynow_link " href="/item/734/30-red-roses/"></a>
+				</div>
+ 					 	
+		</li> 
+	</ul>
+	  </div>	
+	  		 <div class="item h2">
+	 
+	 <ul class="prul"> 
+		 <li class="prlist_li rcorner unt ">
+	 
+	 			
+	 
+	 <div class="imagetagdiv">
+	 	<a class="quickview unt fancybox " href="#quicklook658">Quick View</a>
+	 </div>
+	 
+	  
+	   <div id="quicklook658" style="display:none;max-width:600px;padding:10px">
+	 
+			 <div style="max-width:275px; float:left">
+			 <img alt="Lovely Pink Roses" src="/product_thumbs/thumb_658.jpg" style="margin-left:20px;width=220px"/>
+			 </div>
+			 
+			 <div style="max-width:300px;float:left;padding:5px;">
+			 <p align="right">Item Code : <span>658</span></p>
+			 <h2>Lovely Pink Roses</h2>
+			 
+			 <p>
+						Flowers Bunch of 25 Lovely Pink Roses nicely decorated with Fillers and Ribbons, special deliveries to  Delhi and Bangalore 				 
+				
+					</p>
+					<p>
+				 
+						<span class="pprice1">Rs. 745 </span>
+					 	
+					</p>
+					 
+					<a class="big_btn rcor menushadow" href="/item/658/lovely-pink-roses/">Buy Now</a>
+			 </div>
+			 
+			<br/>
+ 
+		</div>
+
+	 
+	 
+	 
+	 
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+							<a href="/item/658/lovely-pink-roses/"><img alt="Flowers Bunch of 25 Lovely Pink Roses nicely decorated with Fillers and Ribbons, special deliveries to  Delhi and Bangalore " border="0" class="pimg" src="/product_thumbs/thumb_658.jpg"/></a>
+						 
+				</td>			
+				</tr>
+ 				</tbody></table>			
+ 				
+ 				<div class="desctd"> 
+				 <a class="plink " href="/item/658/lovely-pink-roses/">Lovely Pink Roses </a> 
+				  </div>
+				  
+				  <div>
+				  <a class="prlink " href="/item/658/lovely-pink-roses/">Rs. 745 </a> 
+							<a class="buynow_link " href="/item/658/lovely-pink-roses/"></a>
+				</div>
+ 					 	
+		</li> 
+	</ul>
+	  </div>	
+	  		 <div class="item h2">
+	 
+	 <ul class="prul"> 
+		 <li class="prlist_li rcorner unt ">
+	 
+	 			
+	 
+	 <div class="imagetagdiv">
+	 	<a class="quickview unt fancybox " href="#quicklook643">Quick View</a>
+	 </div>
+	 
+	  
+	   <div id="quicklook643" style="display:none;max-width:600px;padding:10px">
+	 
+			 <div style="max-width:275px; float:left">
+			 <img alt="12 Red Roses" src="/product_thumbs/thumb_643.jpg" style="margin-left:20px;width=220px"/>
+			 </div>
+			 
+			 <div style="max-width:300px;float:left;padding:5px;">
+			 <p align="right">Item Code : <span>643</span></p>
+			 <h2>12 Red Roses</h2>
+			 
+			 <p>
+						Bunch of 12 Red Roses nicely decorated with fillers and Ribbons, special deliveries to Mumbai, New Delhi, Bangalore , Hyderabad, Patna				 
+				
+					</p>
+					<p>
+				 
+						<span class="pprice1">Rs. 399 </span>
+					 	
+					</p>
+					 
+					<a class="big_btn rcor menushadow" href="/item/643/12-red-roses/">Buy Now</a>
+			 </div>
+			 
+			<br/>
+ 
+		</div>
+
+	 
+	 
+	 
+	 
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+							<a href="/item/643/12-red-roses/"><img alt="Bunch of 12 Red Roses nicely decorated with fillers and Ribbons, special deliveries to Mumbai, New Delhi, Bangalore , Hyderabad, Patna" border="0" class="pimg" src="/product_thumbs/thumb_643.jpg"/></a>
+						 
+				</td>			
+				</tr>
+ 				</tbody></table>			
+ 				
+ 				<div class="desctd"> 
+				 <a class="plink " href="/item/643/12-red-roses/">12 Red Roses </a> 
+				  </div>
+				  
+				  <div>
+				  <a class="prlink " href="/item/643/12-red-roses/">Rs. 399 </a> 
+							<a class="buynow_link " href="/item/643/12-red-roses/"></a>
+				</div>
+ 					 	
+		</li> 
+	</ul>
+	  </div>	
+	  		 <div class="item h2">
+	 
+	 <ul class="prul"> 
+		 <li class="prlist_li rcorner unt ">
+	 
+	 			
+	 
+	 <div class="imagetagdiv">
+	 	<a class="quickview unt fancybox " href="#quicklook1814">Quick View</a>
+	 </div>
+	 
+	  
+	   <div id="quicklook1814" style="display:none;max-width:600px;padding:10px">
+	 
+			 <div style="max-width:275px; float:left">
+			 <img alt="Mixed Roses Bunch" src="/product_thumbs/thumb_1814.jpg" style="margin-left:20px;width=220px"/>
+			 </div>
+			 
+			 <div style="max-width:300px;float:left;padding:5px;">
+			 <p align="right">Item Code : <span>1814</span></p>
+			 <h2>Mixed Roses Bunch</h2>
+			 
+			 <p>
+						Bunch of 20 Mixed Roses nicely decorated with Fillers and Ribbons, special deliveries for Birthday to Mumbai, New Delhi, Bangalore , Hyderabad, Patna, Kolkata, Pune, Noida, Ghaziabad				 
+				
+					</p>
+					<p>
+				 
+						<span class="pprice1">Rs. 675 </span>
+					 	
+					</p>
+					 
+					<a class="big_btn rcor menushadow" href="/item/1814/mixed-roses-bunch/">Buy Now</a>
+			 </div>
+			 
+			<br/>
+ 
+		</div>
+
+	 
+	 
+	 
+	 
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+							<a href="/item/1814/mixed-roses-bunch/"><img alt="Bunch of 20 Mixed Roses nicely decorated with Fillers and Ribbons, special deliveries for Birthday to Mumbai, New Delhi, Bangalore , Hyderabad, Patna, Kolkata, Pune, Noida, Ghaziabad" border="0" class="pimg" src="/product_thumbs/thumb_1814.jpg"/></a>
+						 
+				</td>			
+				</tr>
+ 				</tbody></table>			
+ 				
+ 				<div class="desctd"> 
+				 <a class="plink " href="/item/1814/mixed-roses-bunch/">Mixed Roses Bunch </a> 
+				  </div>
+				  
+				  <div>
+				  <a class="prlink " href="/item/1814/mixed-roses-bunch/">Rs. 675 </a> 
+							<a class="buynow_link " href="/item/1814/mixed-roses-bunch/"></a>
+				</div>
+ 					 	
+		</li> 
+	</ul>
+	  </div>	
+	  		 <div class="item h2">
+	 
+	 <ul class="prul"> 
+		 <li class="prlist_li rcorner unt ">
+	 
+	 			
+	 
+	 <div class="imagetagdiv">
+	 	<a class="quickview unt fancybox " href="#quicklook745">Quick View</a>
+	 </div>
+	 
+	  
+	   <div id="quicklook745" style="display:none;max-width:600px;padding:10px">
+	 
+			 <div style="max-width:275px; float:left">
+			 <img alt="20 Slick Red Roses" src="/product_thumbs/thumb_745.jpg" style="margin-left:20px;width=220px"/>
+			 </div>
+			 
+			 <div style="max-width:300px;float:left;padding:5px;">
+			 <p align="right">Item Code : <span>745</span></p>
+			 <h2>20 Slick Red Roses</h2>
+			 
+			 <p>
+						Flower Bunch of 20 Slick Red Roses nicely decorated with fillers and ribbons, special deliveries for Anniversary to Mumbai, New Delhi, Bangalore , Hyderabad, Patna, Kolkata, Pune, Gurgaon				 
+				
+					</p>
+					<p>
+				 
+						<span class="pprice1">Rs. 745 </span>
+					 	
+					</p>
+					 
+					<a class="big_btn rcor menushadow" href="/item/745/20-slick-red-roses/">Buy Now</a>
+			 </div>
+			 
+			<br/>
+ 
+		</div>
+
+	 
+	 
+	 
+	 
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+							<a href="/item/745/20-slick-red-roses/"><img alt="Flower Bunch of 20 Slick Red Roses nicely decorated with fillers and ribbons, special deliveries for Anniversary to Mumbai, New Delhi, Bangalore , Hyderabad, Patna, Kolkata, Pune, Gurgaon" border="0" class="pimg" src="/product_thumbs/thumb_745.jpg"/></a>
+						 
+				</td>			
+				</tr>
+ 				</tbody></table>			
+ 				
+ 				<div class="desctd"> 
+				 <a class="plink " href="/item/745/20-slick-red-roses/">20 Slick Red Roses </a> 
+				  </div>
+				  
+				  <div>
+				  <a class="prlink " href="/item/745/20-slick-red-roses/">Rs. 745 </a> 
+							<a class="buynow_link " href="/item/745/20-slick-red-roses/"></a>
+				</div>
+ 					 	
+		</li> 
+	</ul>
+	  </div>	
+	  		 <div class="item h2">
+	 
+	 <ul class="prul"> 
+		 <li class="prlist_li rcorner unt ">
+	 
+	 			
+	 
+	 <div class="imagetagdiv">
+	 	<a class="quickview unt fancybox " href="#quicklook657">Quick View</a>
+	 </div>
+	 
+	  
+	   <div id="quicklook657" style="display:none;max-width:600px;padding:10px">
+	 
+			 <div style="max-width:275px; float:left">
+			 <img alt="Morning Yellow" src="/product_thumbs/thumb_657.jpg" style="margin-left:20px;width=220px"/>
+			 </div>
+			 
+			 <div style="max-width:300px;float:left;padding:5px;">
+			 <p align="right">Item Code : <span>657</span></p>
+			 <h2>Morning Yellow</h2>
+			 
+			 <p>
+						Flower Bunch of 15 Morning Yellow Gerbera nicely wrapped				 
+				
+					</p>
+					<p>
+				 
+						<span class="pprice1">Rs. 545 </span>
+					 	
+					</p>
+					 
+					<a class="big_btn rcor menushadow" href="/item/657/morning-yellow/">Buy Now</a>
+			 </div>
+			 
+			<br/>
+ 
+		</div>
+
+	 
+	 
+	 
+	 
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+							<a href="/item/657/morning-yellow/"><img alt="Flower Bunch of 15 Morning Yellow Gerbera nicely wrapped" border="0" class="pimg" src="/product_thumbs/thumb_657.jpg"/></a>
+						 
+				</td>			
+				</tr>
+ 				</tbody></table>			
+ 				
+ 				<div class="desctd"> 
+				 <a class="plink " href="/item/657/morning-yellow/">Morning Yellow </a> 
+				  </div>
+				  
+				  <div>
+				  <a class="prlink " href="/item/657/morning-yellow/">Rs. 545 </a> 
+							<a class="buynow_link " href="/item/657/morning-yellow/"></a>
+				</div>
+ 					 	
+		</li> 
+	</ul>
+	  </div>	
+	  		 <div class="item h2">
+	 
+	 <ul class="prul"> 
+		 <li class="prlist_li rcorner unt ">
+	 
+	 			
+	 
+	 <div class="imagetagdiv">
+	 	<a class="quickview unt fancybox " href="#quicklook723">Quick View</a>
+	 </div>
+	 
+	  
+	   <div id="quicklook723" style="display:none;max-width:600px;padding:10px">
+	 
+			 <div style="max-width:275px; float:left">
+			 <img alt="Pink Fountain" src="/product_thumbs/thumb_723.jpg" style="margin-left:20px;width=220px"/>
+			 </div>
+			 
+			 <div style="max-width:300px;float:left;padding:5px;">
+			 <p align="right">Item Code : <span>723</span></p>
+			 <h2>Pink Fountain</h2>
+			 
+			 <p>
+						<b style="color:red">This Item is Not in Stock
+</b><br/>15 White Gladioli and 20 Pink or Red Roses Arrangement nicely decorated with seasonal fillers and Greens. Please note we may substitute flowers or color in case of unavailability.  				 
+				
+					</p>
+					<p>
+				 
+						<span class="pprice1">Rs. 1195 </span>
+					 	
+					</p>
+					 
+					<a class="big_btn rcor menushadow" href="/item/723/pink-fountain/">Buy Now</a>
+			 </div>
+			 
+			<br/>
+ 
+		</div>
+
+	 
+	 
+	 
+	 
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+							<a href="/item/723/pink-fountain/"><img alt="&lt;b style=color:red &gt;This Item is Not in Stock
+&lt;/b&gt;&lt;br&gt;15 White Gladioli and 20 Pink or Red Roses Arrangement nicely decorated with seasonal fillers and Greens. Please note we may substitute flowers or color in case of unavailability.  " border="0" class="pimg" src="/product_thumbs/thumb_723.jpg"/></a>
+						 
+				</td>			
+				</tr>
+ 				</tbody></table>			
+ 				
+ 				<div class="desctd"> 
+				 <a class="plink " href="/item/723/pink-fountain/">Pink Fountain </a> 
+				  </div>
+				  
+				  <div>
+				  <a class="prlink " href="/item/723/pink-fountain/">Rs. 1195 </a> 
+							<a class="buynow_link " href="/item/723/pink-fountain/"></a>
+				</div>
+ 					 	
+		</li> 
+	</ul>
+	  </div>	
+	  		 <div class="item h2">
+	 
+	 <ul class="prul"> 
+		 <li class="prlist_li rcorner unt ">
+	 
+	 			
+	 
+	 <div class="imagetagdiv">
+	 	<a class="quickview unt fancybox " href="#quicklook634">Quick View</a>
+	 </div>
+	 
+	  
+	   <div id="quicklook634" style="display:none;max-width:600px;padding:10px">
+	 
+			 <div style="max-width:275px; float:left">
+			 <img alt="Basket of Love" src="/product_thumbs/thumb_634.jpg" style="margin-left:20px;width=220px"/>
+			 </div>
+			 
+			 <div style="max-width:300px;float:left;padding:5px;">
+			 <p align="right">Item Code : <span>634</span></p>
+			 <h2>Basket of Love</h2>
+			 
+			 <p>
+						Basket of 25 Mixed Valentines Love Roses nicely decorated with Fillers and greens. , special deliveries to Mumbai,  Bangalore , Hyderabad, Patna,  Pune, Noida, Ghaziabad. We may substitute Basket / Container in case of availability. 				 
+				
+					</p>
+					<p>
+				 
+						<span class="pprice1">Rs. 845 </span>
+					 	
+					</p>
+					 
+					<a class="big_btn rcor menushadow" href="/item/634/basket-of-love/">Buy Now</a>
+			 </div>
+			 
+			<br/>
+ 
+		</div>
+
+	 
+	 
+	 
+	 
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+							<a href="/item/634/basket-of-love/"><img alt="Basket of 25 Mixed Valentines Love Roses nicely decorated with Fillers and greens. , special deliveries to Mumbai,  Bangalore , Hyderabad, Patna,  Pune, Noida, Ghaziabad. We may substitute Basket / Container in case of availability. " border="0" class="pimg" src="/product_thumbs/thumb_634.jpg"/></a>
+						 
+				</td>			
+				</tr>
+ 				</tbody></table>			
+ 				
+ 				<div class="desctd"> 
+				 <a class="plink " href="/item/634/basket-of-love/">Basket of Love </a> 
+				  </div>
+				  
+				  <div>
+				  <a class="prlink " href="/item/634/basket-of-love/">Rs. 845 </a> 
+							<a class="buynow_link " href="/item/634/basket-of-love/"></a>
+				</div>
+ 					 	
+		</li> 
+	</ul>
+	  </div>	
+	  		 <div class="item h2">
+	 
+	 <ul class="prul"> 
+		 <li class="prlist_li rcorner unt ">
+	 
+	 			
+	 
+	 <div class="imagetagdiv">
+	 	<a class="quickview unt fancybox " href="#quicklook729">Quick View</a>
+	 </div>
+	 
+	  
+	   <div id="quicklook729" style="display:none;max-width:600px;padding:10px">
+	 
+			 <div style="max-width:275px; float:left">
+			 <img alt="Basket of Roses" src="/product_thumbs/thumb_729.jpg" style="margin-left:20px;width=220px"/>
+			 </div>
+			 
+			 <div style="max-width:300px;float:left;padding:5px;">
+			 <p align="right">Item Code : <span>729</span></p>
+			 <h2>Basket of Roses</h2>
+			 
+			 <p>
+						Basket of 40 Red Roses nicely decorated with Fillers and Greens.  Special deliveries to Mumbai, New Delhi, Bangalore ,  Patna,  Gurgaon.  We may substitute Basket / Container in case of availability. 				 
+				
+					</p>
+					<p>
+				 
+						<span class="pprice1">Rs. 1245 </span>
+					 	
+					</p>
+					 
+					<a class="big_btn rcor menushadow" href="/item/729/basket-of-roses/">Buy Now</a>
+			 </div>
+			 
+			<br/>
+ 
+		</div>
+
+	 
+	 
+	 
+	 
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+							<a href="/item/729/basket-of-roses/"><img alt="Basket of 40 Red Roses nicely decorated with Fillers and Greens.  Special deliveries to Mumbai, New Delhi, Bangalore ,  Patna,  Gurgaon.  We may substitute Basket / Container in case of availability. " border="0" class="pimg" src="/product_thumbs/thumb_729.jpg"/></a>
+						 
+				</td>			
+				</tr>
+ 				</tbody></table>			
+ 				
+ 				<div class="desctd"> 
+				 <a class="plink " href="/item/729/basket-of-roses/">Basket of Roses </a> 
+				  </div>
+				  
+				  <div>
+				  <a class="prlink " href="/item/729/basket-of-roses/">Rs. 1245 </a> 
+							<a class="buynow_link " href="/item/729/basket-of-roses/"></a>
+				</div>
+ 					 	
+		</li> 
+	</ul>
+	  </div>	
+	  		 <div class="item h2">
+	 
+	 <ul class="prul"> 
+		 <li class="prlist_li rcorner unt ">
+	 
+	 			
+	 
+	 <div class="imagetagdiv">
+	 	<a class="quickview unt fancybox " href="#quicklook743">Quick View</a>
+	 </div>
+	 
+	  
+	   <div id="quicklook743" style="display:none;max-width:600px;padding:10px">
+	 
+			 <div style="max-width:275px; float:left">
+			 <img alt="Cute Orange Roses" src="/product_thumbs/thumb_743.jpg" style="margin-left:20px;width=220px"/>
+			 </div>
+			 
+			 <div style="max-width:300px;float:left;padding:5px;">
+			 <p align="right">Item Code : <span>743</span></p>
+			 <h2>Cute Orange Roses</h2>
+			 
+			 <p>
+						Flower Bunch of 20 Valentine Orange Roses nicely wraped with ribbons				 
+				
+					</p>
+					<p>
+				 
+						<span class="pprice1">Rs. 745 </span>
+					 	
+					</p>
+					 
+					<a class="big_btn rcor menushadow" href="/item/743/cute-orange-roses/">Buy Now</a>
+			 </div>
+			 
+			<br/>
+ 
+		</div>
+
+	 
+	 
+	 
+	 
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+							<a href="/item/743/cute-orange-roses/"><img alt="Flower Bunch of 20 Valentine Orange Roses nicely wraped with ribbons" border="0" class="pimg" src="/product_thumbs/thumb_743.jpg"/></a>
+						 
+				</td>			
+				</tr>
+ 				</tbody></table>			
+ 				
+ 				<div class="desctd"> 
+				 <a class="plink " href="/item/743/cute-orange-roses/">Cute Orange Roses </a> 
+				  </div>
+				  
+				  <div>
+				  <a class="prlink " href="/item/743/cute-orange-roses/">Rs. 745 </a> 
+							<a class="buynow_link " href="/item/743/cute-orange-roses/"></a>
+				</div>
+ 					 	
+		</li> 
+	</ul>
+	  </div>	
+	  		   
+</div> <!-- end container div -->			  
+
+
+
+
+		   
+	 
+	 
+	 <br class="clearfix"/>
+	  </div>
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+ 
+  
+
+
+
+<!-- -------------------- ################################## ------------------- -->
+
+ 
+<div class="gen_div">
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+ 
+<div class="f_sz_2 " style="padding:5px;border-top:4px double #e0e0e0;border-bottom:4px double #e0e0e0;  ">
+ 
+India Flowers Online, <b>Same Day and Mid Night Flowers Delivery in India</b>, Guaranteed Delivery or Money Back* .
+ 
+</div>
+
+
+
+<div style="   text-align:left; color:#999999;  height:190px;margin-top:15px;">
+<span class="f_sz_3 " style="display:block;border-bottom:1px dotted #cccccc; ">Pleasing Appreciations</span>
+
+	 
+		
+		<div class="feedback_div rcor1"> 
+		"
+		Thank u very much. My mother is very happy with the Bouquet. My first experience has been good.<br/><br/>
+ 
+Kind regards<br/>
+
+Lt Col Gautam   "
+		<div style="position:relative">
+		<div class="feedback_sign">Lt Col Gautam</div>
+		</div>
+		</div> 
+
+	 
+
+		<div class="feedback_div rcor1"> 
+		"Thank you for addressing to this issue...<br/>Appreciate it -whosoever made this effort of getting the Teddy changed."
+		<div style="position:relative">
+		<div class="feedback_sign">shalini patwal</div>
+		</div>
+		</div>
+		
+		<div class="feedback_div rcor1"> 
+		"Dear Madam,
+
+Thankyou very much... for all the support.... very nicely handled. <br/>
+
+Sorry for the mail... it was due curiosity and worry. As had nt received any update on the same. 
+
+Thankyou and keep up the good work. 
+
+Now we can have more such deliveries in future as a trust is developed.<br/>
+
+Good day"
+		<div style="position:relative">
+		<div class="feedback_sign">Aalok Vidyarthi</div>
+		</div>
+		</div>
+		
+		<div class="feedback_div rcor1"> 
+		"Dear Indias Flowers Team,<br/>
+
+I am happy to say that your service is wonderful because last time on 8 Sept.2014  i orderd such things 
+to my dearest that you delivered very successfully."<br/><br/>
+		<div style="position:relative">
+		<div class="feedback_sign">Naveen Gaur</div>
+		</div>
+		</div>
+		
+
+
+
+
+</div>		
+		  
+
+
+ 
+
+
+
+
+
+
+
+
+
+<div class="clearfix" style="padding:10px;border-top:4px double #e5e5e5;border-bottom:4px double #e5e5e5;color:#999999;font-size:12pt;font-family:arial;line-height:25px; ">
+
+Tags:
+India Flowers Bouquet,  
+<b>Birthday Flowers India</b>, 
+ India Anniversary Gifts, 
+<b>Eggless Cake  </b>, 
+Best Florist  , 
+<b>Same day Delivery</b>, 
+Local Florist  , 
+<b>Low Cost Flowers Combo  </b>, 
+<b>Flowers and Cake Delivery India</b>,
+ Online Florists India,
+<b>Send Bouquet in India</b>
+ 
+
+</div>
+
+ 
+</div>
+
+
+
+
+
+<br style="clear:both;"/> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- ########################## BODY ENDS ##################### -->
+
+  
+  <div class="gen_div four_container">
+	  		 
+			  <h2>Order Flowers for Delivery at below locations in India.</h2>
+			 <ul>
+				  			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Agra/" title="Agra Flowers delivery">Agra</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Ahmedabad/" title="Ahmedabad Flowers delivery">Ahmedabad</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Ajmer/" title="Ajmer Flowers delivery">Ajmer</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Allahabad/" title="Allahabad Flowers delivery">Allahabad</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Amritsar/" title="Amritsar Flowers delivery">Amritsar</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Aurangabad/" title="Aurangabad Flowers delivery">Aurangabad</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Banaras/" title="Banaras Flowers delivery">Banaras</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Bangalore/" title="Bangalore Flowers delivery">Bangalore</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Baroda/" title="Baroda Flowers delivery">Baroda</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Bhilai/" title="Bhilai Flowers delivery">Bhilai</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Bhopal/" title="Bhopal Flowers delivery">Bhopal</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Bhubaneshwar/" title="Bhubaneshwar Flowers delivery">Bhubaneshwar</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Bombay/" title="Bombay Flowers delivery">Bombay</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Calcutta/" title="Calcutta Flowers delivery">Calcutta</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Chandigarh/" title="Chandigarh Flowers delivery">Chandigarh</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Chennai/" title="Chennai Flowers delivery">Chennai</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Cochin/" title="Cochin Flowers delivery">Cochin</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Coimbatore/" title="Coimbatore Flowers delivery">Coimbatore</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Dehradun/" title="Dehradun Flowers delivery">Dehradun</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Delhi/" title="Delhi Flowers delivery">Delhi</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Delhi-NCR/" title="Delhi-NCR Flowers delivery">Delhi-NCR</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Faridabad/" title="Faridabad Flowers delivery">Faridabad</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Gandhinagar/" title="Gandhinagar Flowers delivery">Gandhinagar</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Ghaziabad/" title="Ghaziabad Flowers delivery">Ghaziabad</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Greater-Noida/" title="Greater Noida Flowers delivery">Greater Noida</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Guntur/" title="Guntur Flowers delivery">Guntur</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Gurgaon/" title="Gurgaon Flowers delivery">Gurgaon</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Guwahati/" title="Guwahati Flowers delivery">Guwahati</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Gwalior/" title="Gwalior Flowers delivery">Gwalior</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Howrah/" title="Howrah Flowers delivery">Howrah</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Hyderabad/" title="Hyderabad Flowers delivery">Hyderabad</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Indore/" title="Indore Flowers delivery">Indore</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Jabalpur/" title="Jabalpur Flowers delivery">Jabalpur</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Jaipur/" title="Jaipur Flowers delivery">Jaipur</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Jalandhar/" title="Jalandhar Flowers delivery">Jalandhar</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Jammu/" title="Jammu Flowers delivery">Jammu</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Jamshedpur/" title="Jamshedpur Flowers delivery">Jamshedpur</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Kanpur/" title="Kanpur Flowers delivery">Kanpur</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Kochi/" title="Kochi Flowers delivery">Kochi</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Kolhapur/" title="Kolhapur Flowers delivery">Kolhapur</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Kolkata/" title="Kolkata Flowers delivery">Kolkata</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Lucknow/" title="Lucknow Flowers delivery">Lucknow</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Ludhiana/" title="Ludhiana Flowers delivery">Ludhiana</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Madurai/" title="Madurai Flowers delivery">Madurai</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Mangalore/" title="Mangalore Flowers delivery">Mangalore</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Meerut/" title="Meerut Flowers delivery">Meerut</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Mohali/" title="Mohali Flowers delivery">Mohali</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Moradabad/" title="Moradabad Flowers delivery">Moradabad</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Mumbai/" title="Mumbai Flowers delivery">Mumbai</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Mysore/" title="Mysore Flowers delivery">Mysore</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Nagpur/" title="Nagpur Flowers delivery">Nagpur</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Nashik/" title="Nashik Flowers delivery">Nashik</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Navi-Mumbai/" title="Navi Mumbai Flowers delivery">Navi Mumbai</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Nellore/" title="Nellore Flowers delivery">Nellore</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/New-Delhi/" title="New Delhi Flowers delivery">New Delhi</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Noida/" title="Noida Flowers delivery">Noida</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Panchkula/" title="Panchkula Flowers delivery">Panchkula</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Panipat/" title="Panipat Flowers delivery">Panipat</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Patiala/" title="Patiala Flowers delivery">Patiala</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Patna/" title="Patna Flowers delivery">Patna</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Pondicherry/" title="Pondicherry Flowers delivery">Pondicherry</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Pune/" title="Pune Flowers delivery">Pune</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Raipur/" title="Raipur Flowers delivery">Raipur</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Ranchi/" title="Ranchi Flowers delivery">Ranchi</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Roorkee/" title="Roorkee Flowers delivery">Roorkee</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Saharanpur/" title="Saharanpur Flowers delivery">Saharanpur</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Sahibabad/" title="Sahibabad Flowers delivery">Sahibabad</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Salem/" title="Salem Flowers delivery">Salem</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Secunderabad/" title="Secunderabad Flowers delivery">Secunderabad</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Surat/" title="Surat Flowers delivery">Surat</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Thane/" title="Thane Flowers delivery">Thane</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Udaipur/" title="Udaipur Flowers delivery">Udaipur</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Vadodara/" title="Vadodara Flowers delivery">Vadodara</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Varanasi/" title="Varanasi Flowers delivery">Varanasi</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Visakhapatnam/" title="Visakhapatnam Flowers delivery">Visakhapatnam</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ 			  	 
+				 	<li class="fl_left">
+				 
+					 <a class="city_links unt " href="/flower-bouquet/Vizag/" title="Vizag Flowers delivery">Vizag</a> 
+					 </li>
+					  
+					 
+					 
+					 
+
+ </ul>
+	  </div>
+
+
+
+
+  
+  
+  
+  
+  
+	  <div class="gen_div four_container">
+	  		<h1>
+			  Qualified Online Florist in India
+			  </h1>
+			  <h2>India Flowers contributes to integrated group of florists with low cost and improved services. </h2>
+			  <p class="text_p"> Beneath flowers we also have gifts for vary occasions, like birthday cakes, Anniversary Floral heart Arrangements, Heart Shape Romantic Cakes, Flowers for every occasion and exclusive gifts like chocolate bouquet, exotic flowers, combos, Gifts and many more. </p>
+			  
+			  <p class="text_p"> Be it any occasion India Flowers will help always, send Gifts and Flowers online and get Hand Delivered . Send Flower Bouquets in Midnight and Same Day. Best Design and custom crafted Flowers Bouquet from florists across cities. Choose from low cost, Roses best sellers, lilies, orchids, carnations, gerberas, carnations and exotic flowers delivered at its best. Enjoy every special moments with India flowers. </p>
+	  </div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+	
+</div>
+ 
+  
+
+ 
+  
+  
+  
+ <!-- ########################### -->
+   
+
+
+
+  <!-- ########################## FOOTER STARTS ##################### -->
+  
+   <!-- ########################### -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="foot_div1">
+
+		 <div class="gen_div foot_help_div">
+	  		 <span class="help_txt"><strong>NEED HELP?</strong> Call +91 9879746556 our friendly support team will help you placing order.</span>
+	  </div>
+
+
+</div>
+
+<div class="one_header">
+
+		 <div class="gen_div ">
+		 
+		 <ul class="ul_foot1">
+		 		<li class="emblem_li">
+				 <div class="osg big_txt"><span class="m_clr">india</span><span class="s_clr">flowers.in</span></div>
+				 <p class=" osg normal_p blk_clr f_sz_5"><strong>Florist Delivery has never been so easier</strong></p>
+				 </li>
+				 
+				 <li class="owc_li">
+				 	<span class="osg blk_clr"><img src="/images1/thumb.jpg"/>  Order with Confidence </span>
+				 </li>
+				 
+				 <li class="foot_pay_li">
+				 	<span class="osg f_sz_2 blk_clr">
+					 <img src="/images1/pay_logo1.png"/><img src="/images1/pay_logo2.png"/><img src="/images1/pay_logo3.png"/><img src="/images1/pay_logo4.png"/><img src="/images1/pay_logo5.png"/><img src="/images1/pay_logo6.png"/><img src="/images1/pay_logo7.png"/> 
+					 <br/>
+					 Hacker Safe Secure Shopping
+					 </span>
+				 </li>
+				 
+		 </ul>
+	  		  
+	  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="foot_div2 back_clr_e5 ">
+
+		 <div class="gen_div foot_links_div ">
+		 
+				 <ul class="foot_links ">
+				 
+		  
+				 	<li class="foot_links_li">
+					 <div class="f_sz_2 osg blk_clr">Products</div>
+				 
+					 <a class="foot_links unt " href="/flower-bouquet-delivery-india/">Flowers</a> 
+					 <a class="foot_links unt " href="/cake-delivery-india/">Cakes</a> 
+					 <a class="foot_links unt " href="/eggless-cake-delivery-india/">Egg Less Cakes</a> 
+					 <a class="foot_links unt " href="/chocolates-delivery-india/">Chocolates</a> 
+					 <a class="foot_links unt " href="/mithai-sweets-delivery-india/">Mithai</a> 
+					 <a class="foot_links unt " href="/flowers-combo-india/">Flowers Combo</a>    
+			 	 
+					 
+					 </li>
+					 
+					<li class="foot_links_li">
+					 <div class="f_sz_2 osg blk_clr">India Flowers</div>
+				 
+					 <a class="foot_links unt " href="/about/" rel="nofollow">About us</a> 
+					<a class="foot_links unt " href="/contact/">Contact Us</a> 
+					<a class="foot_links unt " href="/instapay/" rel="nofollow">Make Payment</a>  
+					<a class="foot_links unt " href="/trackorder/" rel="nofollow">Track Order</a> 
+					<a class="foot_links unt " href="http://flowers-gift-to-india.blogspot.in/" target="_new">Blog</a> 
+					<a class="foot_links unt " href="#" rel="nofollow">Site Map</a> 
+					 
+					 </li>
+					 
+					 <li class="foot_links_li">
+					 <div class="f_sz_2 osg blk_clr">Policy</div>
+				 
+					 <a class="foot_links unt " href="/terms-and-condtions/" rel="nofollow">Terms &amp; Conditions</a> 
+						<a class="foot_links unt " href="/disclaimer/" rel="nofollow">Disclaimer</a> 
+						<a class="foot_links unt " href="/shipping-policy/" rel="nofollow">Delivery Policy</a> 
+						<a class="foot_links unt " href="/cancellation/" rel="nofollow">Refund  Policy</a> 
+						<a class="foot_links unt " href="/privacy-policy/" rel="nofollow">Privacy Policy</a> 
+						
+						<a class="foot_links unt " href="/faq/">Faqs</a> 
+					 
+					 </li>
+					 <li class="foot_links_li">
+					 <div class="f_sz_2 osg blk_clr">Payment</div>
+				 
+					 <a class="foot_links unt " href="/instapay/" rel="nofollow">Make Payment</a> 
+						 
+						
+						<a class="foot_links unt " href="/payment-info/#bank" rel="nofollow">Bank Deposit</a> 
+					 <a class="foot_links unt " href="/payment-info/#ccard" rel="nofollow">Credit Cards</a> 
+					 <a class="foot_links unt " href="/payment-info/#dcard" rel="nofollow">Debit Cards</a> 
+					 <a class="foot_links unt " href="/payment-info/#nbank" rel="nofollow">Net Banking</a> 
+					 <a class="foot_links unt " href="/payment-info/#paypal" rel="nofollow">Paypal</a> 
+					 </li>
+ 
+
+<li class="custcare">
+	 
+				<span class="custcare_inner osg f_sz_2 ">
+					<img class="footer_logo" src="/images1/indias-flowers-logo.png"/>
+				<img class="cust_phone_symbol" src="/images1/phone_icon.png"/> +91 9879746556<br/>
+				08469856461
+				</span>
+				<br/>
+				
+				<span class="social_block osg f_sz_2 "> 
+				Join Us:  				
+				<a class="social_icons unt " href="https://www.facebook.com/Indiasflowers"><img src="/images1/facebook.png"/></a>
+				<a class="social_icons unt " href="https://twitter.com/indiasflowers1"><img src="/images1/twitter.png"/></a>
+				<a class="social_icons unt " href="https://plus.google.com/114218224502386924110/"><img src="/images1/gplus.png"/></a>
+				 </span>
+				 
+</li>
+
+
+				 </ul>
+	  		  <br class="clearfix"/>
+	  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 <div class="gen_div clearfix vdark_grey_clr" style="text-align:center;margin-top:30px;">
+	 <br/><br/>
+		<a class="city_links" href="/flower-bouquet/Delhi/"> » Flowers to Delhi, India </a> 
+		<a class="city_links" href="/flower-bouquet/Kolkata/"> » Flowers to Kolkata, India </a>  
+		<a class="city_links" href="/flower-bouquet/Bangalore/"> » Flowers to Bangalore, India </a>  
+		<a class="city_links" href="/flower-bouquet/Chennai/"> » Flowers to Chennai, India </a> 
+		<a class="city_links" href="/flower-bouquet/Vadodara/"> » Flowers to Vadodara, India </a> 
+		<a class="city_links" href="/flower-bouquet/Ahmedabad/"> » Flowers to Ahmedabad, India </a>  
+		<a class="city_links" href="/flower-bouquet/Ahmedabad/"> » Valentines Day Flowers</a><br/><br/>
+ 
+ <span id="siteseal"><script src="https://seal.starfieldtech.com/getSeal?sealID=kycybtQfCHCtroKPIn2raZuQygziEtArWQKLPRdFNTsojQv1oVldrVaSOsHF" type="text/javascript"></script></span><br/>
+ 
+ 
+© Copyright 2015 - 2017 all rights reserved, India Flowers - Flowers Delivery anywhere in India
+<br/><br/>
+	</div>
+
+
+
+
+
+
+
+
+</div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  	
+  
+  
+  
+  
+  
+  
+  
+   
+
+
+
+
+
+	 </body></html>

@@ -1,0 +1,4576 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+ 
+<title>Miami Florist, Miami Flowers Delivery Service, Flowers Delivery Service in Hialeah |  Flowers by Pouparina</title>
+<meta content="Flowers by Pouparina is an online flower shop offering fresh flower delivery service in Miami and Hialeah. We are one of the trusted online florists offering a huge variety of flowers for all occasions." name="description"/>
+<meta content="" name="viewport"/>
+<!--<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />-->
+
+<meta content="" name="keywords"/>
+<meta content="INDEX,FOLLOW" name="robots"/>
+<link href="https://www.flowersbypouparina.com/media/favicon/default/favicon_1.ico" rel="icon" type="image/x-icon"/>
+<link href="https://www.flowersbypouparina.com/media/favicon/default/favicon_1.ico" rel="shortcut icon" type="image/x-icon"/>
+<script type="text/javascript">
+// BUG orientation portrait/lanscape IOS //
+if (navigator.userAgent.match(/iPad/i)) {
+var viewportmeta = document.querySelector('meta[name="viewport"]');
+if (viewportmeta) {
+    viewportmeta.content = 'width=1000; ';
+	}
+	else{
+	viewportmeta.content = 'width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0';
+	}
+}
+else
+{
+var viewportmeta2 = document.querySelector('meta[name="viewport"]');
+	viewportmeta2.content = 'width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0';
+}
+</script>
+<script type="text/javascript">
+/*
+CSS Browser Selector v0.4.0 (Nov 02, 2010)
+Rafael Lima (http://rafael.adm.br)
+http://rafael.adm.br/css_browser_selector
+License: http://creativecommons.org/licenses/by/2.5/
+Contributors: http://rafael.adm.br/css_browser_selector#contributors
+*/
+function css_browser_selector(u){var ua=u.toLowerCase(),is=function(t){return ua.indexOf(t)>-1},g='gecko',w='webkit',s='safari',o='opera',m='mobile',h=document.documentElement,b=[(!(/opera|webtv/i.test(ua))&&/msie\s(\d)/.test(ua))?('ie ie'+RegExp.$1):is('firefox/2')?g+' ff2':is('firefox/3.5')?g+' ff3 ff3_5':is('firefox/3.6')?g+' ff3 ff3_6':is('firefox/3')?g+' ff3':is('gecko/')?g:is('opera')?o+(/version\/(\d+)/.test(ua)?' '+o+RegExp.$1:(/opera(\s|\/)(\d+)/.test(ua)?' '+o+RegExp.$2:'')):is('konqueror')?'konqueror':is('blackberry')?m+' blackberry':is('android')?m+' android':is('chrome')?w+' chrome':is('iron')?w+' iron':is('applewebkit/')?w+' '+s+(/version\/(\d+)/.test(ua)?' '+s+RegExp.$1:''):is('mozilla/')?g:'',is('j2me')?m+' j2me':is('iphone')?m+' iphone':is('ipod')?m+' ipod':is('ipad')?m+' ipad':is('mac')?'mac':is('darwin')?'mac':is('webtv')?'webtv':is('win')?'win'+(is('windows nt 6.0')?' vista':''):is('freebsd')?'freebsd':(is('x11')||is('linux'))?'linux':'','js']; c = b.join(' '); h.className += ' '+c; return c;}; css_browser_selector(navigator.userAgent);
+</script>
+
+<!--code for facebook tracking on success page -->
+
+
+
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://www.flowersbypouparina.com/js/blank.html';
+    var BLANK_IMG = 'https://www.flowersbypouparina.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+
+<link href="https://www.flowersbypouparina.com/media/css_secure/66d0a044afc90db22ce8a3dea2b23b25.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.flowersbypouparina.com/media/css_secure/420b2327424ea6a9d10562f7ce327798.css" media="print" rel="stylesheet" type="text/css"/>
+<script src="https://www.flowersbypouparina.com/media/js/c7fc6b4eb74d440f08f9c2d906b9de8f.js" type="text/javascript"></script>
+<link href="https://www.flowersbypouparina.com/rss/catalog/new/store_id/1/" rel="alternate" title="New Products" type="application/rss+xml"/>
+<link href="https://www.flowersbypouparina.com/rss/catalog/special/store_id/1/cid/0/" rel="alternate" title="Special Products" type="application/rss+xml"/>
+<link href="https://www.flowersbypouparina.com/rss/catalog/salesrule/store_id/1/cid/0/" rel="alternate" title="Coupons/Discounts" type="application/rss+xml"/>
+<link href="https://www.flowersbypouparina.com/" rel="canonical"/>
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="https://www.flowersbypouparina.com/media/css_secure/f87225da649eb240b6181e2a5b9683f4.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://www.flowersbypouparina.com/media/js/dd3a50090dea385987da9d40ae633b53.js"></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="https://www.flowersbypouparina.com/media/css_secure/a5988d6f721dd49acd3ef38bbc6c4fb9.css" media="all" />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.flowersbypouparina.com/media/css_secure/aa2fb29222ef5c2860f0e4a3182f5541.css" media="all" />
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+
+	var infortisTheme = {};
+	infortisTheme.responsive = true;
+	infortisTheme.maxBreak = 960;
+
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.flowersbypouparina.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+<style type="text/css">
+						.footer-container
+	{
+		background-image: url(https://www.flowersbypouparina.com/media/wysiwyg/infortis/ultimo/_patterns/default/1.png);
+	}
+	</style><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61017461-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<meta content="noodp,noydir" name="robots"/>
+<link href="https://plus.google.com/u/0/+PouparinaFlowers/posts" rel="publisher"/>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1007878805950875');
+fbq('track', "PageView");</script>
+<noscript></noscript></head><body class=" cms-index-index cms-home "><img height="1" src="https://www.facebook.com/tr?id=1007878805950875&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+<!-- End Facebook Pixel Code -->
+<!--<link href='//fonts.googleapis.com/css?family=Bitter&subset=latin' rel='stylesheet' type='text/css' />-->
+<!--<link href='http://fonts.googleapis.com/css?family=Covered+By+Your+Grace' rel='stylesheet' type='text/css'>-->
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Covered+By+Your+Grace::latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+<style type="text/css">
+#apDiv1 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:1;
+}
+</style>
+
+
+<div id="root-wrapper">
+  <div class="wrapper">     <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br/>
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page"> 
+<div class="header-top-bg">
+  <div class="container">
+    <div class="header-top clearer">
+            <div class="block_header_top_left item item-left"><div class="button-bg">
+<div class="button btn-free-call" title="You can put here a phone number or some additional help info"><a class="phone007" href="tel:305-266-2311">305-266-2311</a></div>
+</div>
+<div class="button-bg">
+<div class="button btn-free-skype" title="You can put here a phone number or some additional help info"><a href="skype:flowersbypouparina?call">flowersbypouparina</a></div>
+</div></div>
+                  
+      <!-- follow -->
+      <div class="header-social-link"> <div class="social-links icon-wrapper-square">
+<ul>
+<li>Follow Us :</li>
+<li><a class="follow-us01" href="https://www.facebook.com/pages/Pouparina-Florist/274148933939?fref=ts" rel="nofollow" target="_blank" title="Facebook"> </a></li>
+<li><a class="follow-us02" href="https://twitter.com/PouparinaFlower" rel="nofollow" target="_blank" title="Twitter"> </a></li>
+<li><a class="follow-us03" href="https://plus.google.com/u/0/+PouparinaFlowers/posts" rel="nofollow" target="_blank" title="Google"> </a></li>
+<li><a class="follow-us04" href="https://instagram.com/flowers_by_pouparina" rel="nofollow" target="_blank" title="Instagram"> </a></li>
+<li><a class="follow-us05" href="https://www.pinterest.com/pouparina/" rel="nofollow" target="_blank" title="Pinterest"> </a></li>
+<li><a class="follow-us06" href="https://www.youtube.com/channel/UC-jAsBnOLEfIksnYCZsJWfg" rel="nofollow" target="_blank" title="Youtube"> </a></li>
+</ul>
+<div class="clear"> </div>
+</div>
+ </div>
+      <div class="clear"></div>
+      <!-- follow --> 
+      <!--<div class="item item-left hide-below-960">
+                    <p class="welcome-msg">Welcome To Flowers By Pouparina </p>
+                </div>-->
+      
+                       </div>
+  </div>
+</div>
+<div class="inner-bg-all">
+<div class="header-container" id="top">
+  <div class="header container">
+    <div class="">  
+      
+      <!-- end: header-top %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+      
+      <div class="header-main v-grid-container">
+        <div class="logo-wrapper grid12-4 v-grid">
+                    <p class="logo"><strong>Flowers By Pouparina</strong><a href="https://www.flowersbypouparina.com/" title="Flowers By Pouparina"><img alt="Flowers By Pouparina" src="https://www.flowersbypouparina.com/skin/frontend/ultimo/default/images/logo.png"/></a></p>
+                  </div>
+        
+        <!--<div class="grid12-8 v-grid">--> <!-- TODO:remove test!!!!!!!!!!!!!! -->
+        
+                <div class="user-menu clearer grid12-5 v-grid"> 
+ <!-- end: mini-cart -->
+
+         <!-- <div class="after-mini-cart"></div>-->
+          <!---->
+
+          <div class="top-links show-separators top-links-bg">
+                            
+<ul class="links">
+            
+			
+            <!--<li class="first" ><a href="https://www.flowersbypouparina.com/customer/account/" title="Account" >Account</a></li>-->
+            
+            
+            
+                    
+			
+            <!--<li  ><a href="https://www.flowersbypouparina.com/testimonial/" title="Testimonial" >Testimonial</a></li>-->
+            
+            
+            
+                    
+			
+            <!--<li  ><a href="https://www.flowersbypouparina.com/customer/account/login/" title="Log In" >Log In</a></li>-->
+            
+            
+            
+                    
+			
+            <!--<li class=" last" id="link-sign-up"><a href="https://www.flowersbypouparina.com/customer/account/create/" title="Sign Up" >Sign Up</a></li>-->
+            
+            
+            
+                  
+    <li><a href="https://www.flowersbypouparina.com/customer/account/" title="Checkout"> My Account</a></li>	
+            <li><a href="https://www.flowersbypouparina.com/wishlist/" title="Checkout"> Wishlist</a></li>
+            <li><a href="https://www.flowersbypouparina.com/checkout/cart/" title="Checkout"> My Cart</a></li>            
+            <li><a href="https://www.flowersbypouparina.com/checkout/" title="Checkout"> Checkout</a></li>
+             
+		  		<li><a href="https://www.flowersbypouparina.com/testimonial-login/" title="Checkout">Add Testimonial </a></li>		
+	  	  
+             
+		  		<li class="last"><a href="https://www.flowersbypouparina.com/customer/account/login/" title="Checkout"> Log In</a></li>	
+	  	</ul>
+          </div>
+  
+          <!-- end: top-links --> 
+          
+        </div>
+        <!-- end: user-menu --> 
+        
+        <!--</div>--> <!-- TODO:remove test!!!!!!!!!!! --> 
+        
+      </div>
+      <!-- end: header-main --> 
+      
+    </div>
+    <!-- end: grid unit --> 
+  </div>
+  <!-- end: header -->
+  
+  <div class="nav-container">
+   <div class="clear"></div>
+    <div class="container nav-container-bg">
+      <div class="nav clearer show-bg"> 
+
+
+	<div class="grid-full" id="mobnav">
+    	<a href="" id="mobnav-trigger">
+        	<span class="trigger-icon"><span class="line"></span><span class="line"></span><span class="line"></span></span>
+	    	<span>Menu</span>
+    	</a>
+	</div>
+
+	<ul class="accordion vertnav vertnav-top grid-full">
+    
+		    				<li class="level0 nav-1 level-top first parent">
+<a class="level-top" href="https://www.flowersbypouparina.com/by-style.html#by-style">
+<span>By Style</span>
+</a>
+<span class="opener"> </span>
+
+<ul class="level0">
+<li class="level1 nav-1-1 first">
+<a href="https://www.flowersbypouparina.com/by-style/upscale.html#upscale">
+<span>Upscale</span>
+</a>
+</li><li class="level1 nav-1-2">
+<a href="https://www.flowersbypouparina.com/by-style/contemporary.html#contemporary">
+<span>Contemporary</span>
+</a>
+</li><li class="level1 nav-1-3">
+<a href="https://www.flowersbypouparina.com/by-style/classic.html#classic">
+<span>Classic</span>
+</a>
+</li><li class="level1 nav-1-4">
+<a href="https://www.flowersbypouparina.com/by-style/bundle-of-joy.html#bundle-of-joy">
+<span>Bundle of Joy</span>
+</a>
+</li><li class="level1 nav-1-5">
+<a href="https://www.flowersbypouparina.com/by-style/nuptials.html#nuptials">
+<span>Nuptials</span>
+</a>
+</li><li class="level1 nav-1-6">
+<a href="https://www.flowersbypouparina.com/by-style/traditional.html#traditional">
+<span>Traditional</span>
+</a>
+</li><li class="level1 nav-1-7">
+<a href="https://www.flowersbypouparina.com/by-style/fleur-couture.html#fleur-couture">
+<span>Fleur Couture</span>
+</a>
+</li><li class="level1 nav-1-8">
+<a href="https://www.flowersbypouparina.com/by-style/orchid-lush.html#orchid-lush">
+<span>Orchid Lush</span>
+</a>
+</li><li class="level1 nav-1-9">
+<a href="https://www.flowersbypouparina.com/by-style/ikebana-zen.html#ikebana-zen">
+<span>Ikebana/ Zen</span>
+</a>
+</li><li class="level1 nav-1-10">
+<a href="https://www.flowersbypouparina.com/by-style/eco-green.html#eco-green">
+<span>Eco-Green</span>
+</a>
+</li><li class="level1 nav-1-11">
+<a href="https://www.flowersbypouparina.com/by-style/natural-wonders.html#natural-wonders">
+<span>Natural Wonders</span>
+</a>
+</li><li class="level1 nav-1-12">
+<a href="https://www.flowersbypouparina.com/by-style/tropical-n-exotics.html#tropical-n-exotics">
+<span>Tropical n Exotics</span>
+</a>
+</li><li class="level1 nav-1-13">
+<a href="https://www.flowersbypouparina.com/by-style/whimsical.html#whimsical">
+<span>Whimsical</span>
+</a>
+</li><li class="level1 nav-1-14">
+<a href="https://www.flowersbypouparina.com/by-style/victorian.html#victorian">
+<span>Victorian</span>
+</a>
+</li><li class="level1 nav-1-15 last">
+<a href="https://www.flowersbypouparina.com/by-style/le-provence.html#le-provence">
+<span>Le provence</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level0 nav-2 level-top parent">
+<a class="level-top" href="https://www.flowersbypouparina.com/by-ocassion.html#by-ocassion">
+<span>By Ocassion</span>
+</a>
+<span class="opener"> </span>
+
+<ul class="level0">
+<li class="level1 nav-2-1 first">
+<a href="https://www.flowersbypouparina.com/by-ocassion/birthday-flowers-deliver.html#birthday-flowers-deliver">
+<span>Birthday Flowers Deliver</span>
+</a>
+</li><li class="level1 nav-2-2">
+<a href="https://www.flowersbypouparina.com/by-ocassion/new-borns.html#new-borns">
+<span>New Borns</span>
+</a>
+</li><li class="level1 nav-2-3">
+<a href="https://www.flowersbypouparina.com/by-ocassion/love-romance.html#love-romance">
+<span>Love &amp; Romance</span>
+</a>
+</li><li class="level1 nav-2-4">
+<a href="https://www.flowersbypouparina.com/by-ocassion/get-well-soon-flowers-deliver.html#get-well-soon-flowers-deliver">
+<span>Get Well Soon Flowers Deliver</span>
+</a>
+</li><li class="level1 nav-2-5">
+<a href="https://www.flowersbypouparina.com/by-ocassion/i-love-you.html#i-love-you">
+<span>I love you</span>
+</a>
+</li><li class="level1 nav-2-6">
+<a href="https://www.flowersbypouparina.com/by-ocassion/im-sorry.html#im-sorry">
+<span>Im sorry</span>
+</a>
+</li><li class="level1 nav-2-7">
+<a href="https://www.flowersbypouparina.com/by-ocassion/thank-you.html#thank-you">
+<span>Thank You</span>
+</a>
+</li><li class="level1 nav-2-8">
+<a href="https://www.flowersbypouparina.com/by-ocassion/gift-baskets.html#gift-baskets">
+<span>Gift Baskets</span>
+</a>
+</li><li class="level1 nav-2-9">
+<a href="https://www.flowersbypouparina.com/by-ocassion/anniversaries-flowers-deliver.html#anniversaries-flowers-deliver">
+<span>Anniversary Flowers Deliver</span>
+</a>
+</li><li class="level1 nav-2-10">
+<a href="https://www.flowersbypouparina.com/by-ocassion/everyday.html#everyday">
+<span>Everyday</span>
+</a>
+</li><li class="level1 nav-2-11">
+<a href="https://www.flowersbypouparina.com/by-ocassion/just-because.html#just-because">
+<span>Just because</span>
+</a>
+</li><li class="level1 nav-2-12">
+<a href="https://www.flowersbypouparina.com/by-ocassion/for-him.html#for-him">
+<span>For Him</span>
+</a>
+</li><li class="level1 nav-2-13 last">
+<a href="https://www.flowersbypouparina.com/by-ocassion/prom-corsages-boutonnieres.html#prom-corsages-boutonnieres">
+<span>Prom Corsages &amp; Boutonnieres</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level0 nav-3 level-top parent">
+<a class="level-top" href="https://www.flowersbypouparina.com/by-season.html#by-season">
+<span>By Season</span>
+</a>
+<span class="opener"> </span>
+
+<ul class="level0">
+<li class="level1 nav-3-1 first">
+<a href="https://www.flowersbypouparina.com/by-season/flower-of-the-month-august.html#flower-of-the-month-august">
+<span>Flower of the Month - August</span>
+</a>
+</li><li class="level1 nav-3-2">
+<a href="https://www.flowersbypouparina.com/by-season/rosh-hashanah-flowers.html#rosh-hashanah-flowers">
+<span>Rosh Hashanah Flowers</span>
+</a>
+</li><li class="level1 nav-3-3">
+<a href="https://www.flowersbypouparina.com/by-season/yom-kippur.html#yom-kippur">
+<span>Yom Kippur</span>
+</a>
+</li><li class="level1 nav-3-4">
+<a href="https://www.flowersbypouparina.com/by-season/fall-flowers.html#fall-flowers">
+<span>Fall Flowers</span>
+</a>
+</li><li class="level1 nav-3-5">
+<a href="https://www.flowersbypouparina.com/by-season/bosses-day-flowers.html#bosses-day-flowers">
+<span>Bosses Day Flowers</span>
+</a>
+</li><li class="level1 nav-3-6">
+<a href="https://www.flowersbypouparina.com/by-season/sweetest-day-flowers.html#sweetest-day-flowers">
+<span>Sweetest Day Flowers</span>
+</a>
+</li><li class="level1 nav-3-7">
+<a href="https://www.flowersbypouparina.com/by-season/halloween-flowers.html#halloween-flowers">
+<span>Halloween Flowers</span>
+</a>
+</li><li class="level1 nav-3-8">
+<a href="https://www.flowersbypouparina.com/by-season/thanksgiving-flowers.html#thanksgiving-flowers">
+<span>Thanksgiving Flowers</span>
+</a>
+</li><li class="level1 nav-3-9">
+<a href="https://www.flowersbypouparina.com/by-season/pink-for-the-cure.html#pink-for-the-cure">
+<span>Pink For The Cure</span>
+</a>
+</li><li class="level1 nav-3-10 last">
+<a href="https://www.flowersbypouparina.com/by-season/flowers-of-the-month-september-orchids.html#flowers-of-the-month-september-orchids">
+<span>Flowers of the Month - September - Orchids</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level0 nav-4 level-top parent">
+<a class="level-top" href="https://www.flowersbypouparina.com/sympathy-funeral.html#sympathy-funeral">
+<span>Sympathy</span>
+</a>
+<span class="opener"> </span>
+
+<ul class="level0">
+<li class="level1 nav-4-1 first">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/sympathy-packages.html#sympathy-packages">
+<span>Sympathy Packages</span>
+</a>
+</li><li class="level1 nav-4-2">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/latin-sympathy-arrangements.html#latin-sympathy-arrangements">
+<span>Latin Sympathy Arrangements</span>
+</a>
+</li><li class="level1 nav-4-3">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/coronas.html#coronas">
+<span>Coronas</span>
+</a>
+</li><li class="level1 nav-4-4">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/baskets.html#baskets">
+<span>Baskets</span>
+</a>
+</li><li class="level1 nav-4-5">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/standing-sprays.html#standing-sprays">
+<span>Standing Sprays</span>
+</a>
+</li><li class="level1 nav-4-6">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/caskets-sprays.html#caskets-sprays">
+<span>Caskets Sprays</span>
+</a>
+</li><li class="level1 nav-4-7">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/wreath.html#wreath">
+<span>Wreath</span>
+</a>
+</li><li class="level1 nav-4-8">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/crosses.html#crosses">
+<span>Crosses</span>
+</a>
+</li><li class="level1 nav-4-9">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/hearts.html#hearts">
+<span>Hearts</span>
+</a>
+</li><li class="level1 nav-4-10">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/plants-planters.html#plants-planters">
+<span>Plants &amp; Planters</span>
+</a>
+</li><li class="level1 nav-4-11">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/others.html#others">
+<span>Others</span>
+</a>
+</li><li class="level1 nav-4-12">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/memorials-tributes.html#memorials-tributes">
+<span>Memorials &amp; Tributes</span>
+</a>
+</li><li class="level1 nav-4-13 last">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/custom-motive.html#custom-motive">
+<span>Custom Motives</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level0 nav-5 level-top last parent">
+<a class="level-top" href="https://www.flowersbypouparina.com/events.html#events">
+<span>Events</span>
+</a>
+<span class="opener"> </span>
+
+<ul class="level0">
+<li class="level1 nav-5-1 first parent">
+<a href="https://www.flowersbypouparina.com/events/wedding-bouquet-deliver.html#wedding-bouquet-deliver">
+<span>Wedding Bouquet Deliver</span>
+</a>
+<span class="opener"> </span>
+
+<ul class="level1">
+<li class="level2 nav-5-1-1 first">
+<a href="https://www.flowersbypouparina.com/events/wedding-bouquet-deliver/bouquets.html#bouquets">
+<span>Bridal Bouquets</span>
+</a>
+</li><li class="level2 nav-5-1-2">
+<a href="https://www.flowersbypouparina.com/events/wedding-bouquet-deliver/reception-flowers.html#reception-flowers">
+<span>Reception Flowers</span>
+</a>
+</li><li class="level2 nav-5-1-3">
+<a href="https://www.flowersbypouparina.com/events/wedding-bouquet-deliver/ceremony-flowers.html#ceremony-flowers">
+<span>Ceremony Flowers</span>
+</a>
+</li><li class="level2 nav-5-1-4 last">
+<a href="https://www.flowersbypouparina.com/events/wedding-bouquet-deliver/flowers-to-wear.html#flowers-to-wear">
+<span>Flowers to Wear</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-5-2">
+<a href="https://www.flowersbypouparina.com/events/prom.html#prom">
+<span>Prom </span>
+</a>
+</li><li class="level1 nav-5-3">
+<a href="https://www.flowersbypouparina.com/events/baby-showers-flower-deliver.html#baby-showers-flower-deliver">
+<span>Baby Showers Flower Deliver</span>
+</a>
+</li><li class="level1 nav-5-4">
+<a href="https://www.flowersbypouparina.com/events/sweet-sixteen.html#sweet-sixteen">
+<span>Sweet Sixteen</span>
+</a>
+</li><li class="level1 nav-5-5">
+<a href="https://www.flowersbypouparina.com/events/quincea-era.html#quincea-era">
+<span>Quinceañera</span>
+</a>
+</li><li class="level1 nav-5-6 last">
+<a href="https://www.flowersbypouparina.com/events/bar-mitzvah.html#bar-mitzvah">
+<span>Bar Mitzvah</span>
+</a>
+</li>
+</ul>
+
+</li>		        
+				
+	</ul>
+
+
+
+            <ul id="nav">
+    
+                                        <li class=" level0 level-top" id="nav-home">
+                <a class=" level-top" href="https://www.flowersbypouparina.com/"><span>Home</span></a>
+            </li>
+                
+                            <li class="level0 nav-6 level-top first parent">
+<a class="level-top" href="https://www.flowersbypouparina.com/by-style.html#by-style">
+<span>By Style</span>
+</a>
+
+<ul class="level0">
+<li class="level1 nav-6-1 first">
+<a href="https://www.flowersbypouparina.com/by-style/upscale.html#upscale">
+<span>Upscale</span>
+</a>
+</li><li class="level1 nav-6-2">
+<a href="https://www.flowersbypouparina.com/by-style/contemporary.html#contemporary">
+<span>Contemporary</span>
+</a>
+</li><li class="level1 nav-6-3">
+<a href="https://www.flowersbypouparina.com/by-style/classic.html#classic">
+<span>Classic</span>
+</a>
+</li><li class="level1 nav-6-4">
+<a href="https://www.flowersbypouparina.com/by-style/bundle-of-joy.html#bundle-of-joy">
+<span>Bundle of Joy</span>
+</a>
+</li><li class="level1 nav-6-5">
+<a href="https://www.flowersbypouparina.com/by-style/nuptials.html#nuptials">
+<span>Nuptials</span>
+</a>
+</li><li class="level1 nav-6-6">
+<a href="https://www.flowersbypouparina.com/by-style/traditional.html#traditional">
+<span>Traditional</span>
+</a>
+</li><li class="level1 nav-6-7">
+<a href="https://www.flowersbypouparina.com/by-style/fleur-couture.html#fleur-couture">
+<span>Fleur Couture</span>
+</a>
+</li><li class="level1 nav-6-8">
+<a href="https://www.flowersbypouparina.com/by-style/orchid-lush.html#orchid-lush">
+<span>Orchid Lush</span>
+</a>
+</li><li class="level1 nav-6-9">
+<a href="https://www.flowersbypouparina.com/by-style/ikebana-zen.html#ikebana-zen">
+<span>Ikebana/ Zen</span>
+</a>
+</li><li class="level1 nav-6-10">
+<a href="https://www.flowersbypouparina.com/by-style/eco-green.html#eco-green">
+<span>Eco-Green</span>
+</a>
+</li><li class="level1 nav-6-11">
+<a href="https://www.flowersbypouparina.com/by-style/natural-wonders.html#natural-wonders">
+<span>Natural Wonders</span>
+</a>
+</li><li class="level1 nav-6-12">
+<a href="https://www.flowersbypouparina.com/by-style/tropical-n-exotics.html#tropical-n-exotics">
+<span>Tropical n Exotics</span>
+</a>
+</li><li class="level1 nav-6-13">
+<a href="https://www.flowersbypouparina.com/by-style/whimsical.html#whimsical">
+<span>Whimsical</span>
+</a>
+</li><li class="level1 nav-6-14">
+<a href="https://www.flowersbypouparina.com/by-style/victorian.html#victorian">
+<span>Victorian</span>
+</a>
+</li><li class="level1 nav-6-15 last">
+<a href="https://www.flowersbypouparina.com/by-style/le-provence.html#le-provence">
+<span>Le provence</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level0 nav-7 level-top parent">
+<a class="level-top" href="https://www.flowersbypouparina.com/by-ocassion.html#by-ocassion">
+<span>By Ocassion</span>
+</a>
+
+<ul class="level0">
+<li class="level1 nav-7-1 first">
+<a href="https://www.flowersbypouparina.com/by-ocassion/birthday-flowers-deliver.html#birthday-flowers-deliver">
+<span>Birthday Flowers Deliver</span>
+</a>
+</li><li class="level1 nav-7-2">
+<a href="https://www.flowersbypouparina.com/by-ocassion/new-borns.html#new-borns">
+<span>New Borns</span>
+</a>
+</li><li class="level1 nav-7-3">
+<a href="https://www.flowersbypouparina.com/by-ocassion/love-romance.html#love-romance">
+<span>Love &amp; Romance</span>
+</a>
+</li><li class="level1 nav-7-4">
+<a href="https://www.flowersbypouparina.com/by-ocassion/get-well-soon-flowers-deliver.html#get-well-soon-flowers-deliver">
+<span>Get Well Soon Flowers Deliver</span>
+</a>
+</li><li class="level1 nav-7-5">
+<a href="https://www.flowersbypouparina.com/by-ocassion/i-love-you.html#i-love-you">
+<span>I love you</span>
+</a>
+</li><li class="level1 nav-7-6">
+<a href="https://www.flowersbypouparina.com/by-ocassion/im-sorry.html#im-sorry">
+<span>Im sorry</span>
+</a>
+</li><li class="level1 nav-7-7">
+<a href="https://www.flowersbypouparina.com/by-ocassion/thank-you.html#thank-you">
+<span>Thank You</span>
+</a>
+</li><li class="level1 nav-7-8">
+<a href="https://www.flowersbypouparina.com/by-ocassion/gift-baskets.html#gift-baskets">
+<span>Gift Baskets</span>
+</a>
+</li><li class="level1 nav-7-9">
+<a href="https://www.flowersbypouparina.com/by-ocassion/anniversaries-flowers-deliver.html#anniversaries-flowers-deliver">
+<span>Anniversary Flowers Deliver</span>
+</a>
+</li><li class="level1 nav-7-10">
+<a href="https://www.flowersbypouparina.com/by-ocassion/everyday.html#everyday">
+<span>Everyday</span>
+</a>
+</li><li class="level1 nav-7-11">
+<a href="https://www.flowersbypouparina.com/by-ocassion/just-because.html#just-because">
+<span>Just because</span>
+</a>
+</li><li class="level1 nav-7-12">
+<a href="https://www.flowersbypouparina.com/by-ocassion/for-him.html#for-him">
+<span>For Him</span>
+</a>
+</li><li class="level1 nav-7-13 last">
+<a href="https://www.flowersbypouparina.com/by-ocassion/prom-corsages-boutonnieres.html#prom-corsages-boutonnieres">
+<span>Prom Corsages &amp; Boutonnieres</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level0 nav-8 level-top parent">
+<a class="level-top" href="https://www.flowersbypouparina.com/by-season.html#by-season">
+<span>By Season</span>
+</a>
+
+<ul class="level0">
+<li class="level1 nav-8-1 first">
+<a href="https://www.flowersbypouparina.com/by-season/flower-of-the-month-august.html#flower-of-the-month-august">
+<span>Flower of the Month - August</span>
+</a>
+</li><li class="level1 nav-8-2">
+<a href="https://www.flowersbypouparina.com/by-season/rosh-hashanah-flowers.html#rosh-hashanah-flowers">
+<span>Rosh Hashanah Flowers</span>
+</a>
+</li><li class="level1 nav-8-3">
+<a href="https://www.flowersbypouparina.com/by-season/yom-kippur.html#yom-kippur">
+<span>Yom Kippur</span>
+</a>
+</li><li class="level1 nav-8-4">
+<a href="https://www.flowersbypouparina.com/by-season/fall-flowers.html#fall-flowers">
+<span>Fall Flowers</span>
+</a>
+</li><li class="level1 nav-8-5">
+<a href="https://www.flowersbypouparina.com/by-season/bosses-day-flowers.html#bosses-day-flowers">
+<span>Bosses Day Flowers</span>
+</a>
+</li><li class="level1 nav-8-6">
+<a href="https://www.flowersbypouparina.com/by-season/sweetest-day-flowers.html#sweetest-day-flowers">
+<span>Sweetest Day Flowers</span>
+</a>
+</li><li class="level1 nav-8-7">
+<a href="https://www.flowersbypouparina.com/by-season/halloween-flowers.html#halloween-flowers">
+<span>Halloween Flowers</span>
+</a>
+</li><li class="level1 nav-8-8">
+<a href="https://www.flowersbypouparina.com/by-season/thanksgiving-flowers.html#thanksgiving-flowers">
+<span>Thanksgiving Flowers</span>
+</a>
+</li><li class="level1 nav-8-9">
+<a href="https://www.flowersbypouparina.com/by-season/pink-for-the-cure.html#pink-for-the-cure">
+<span>Pink For The Cure</span>
+</a>
+</li><li class="level1 nav-8-10 last">
+<a href="https://www.flowersbypouparina.com/by-season/flowers-of-the-month-september-orchids.html#flowers-of-the-month-september-orchids">
+<span>Flowers of the Month - September - Orchids</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level0 nav-9 level-top parent">
+<a class="level-top" href="https://www.flowersbypouparina.com/sympathy-funeral.html#sympathy-funeral">
+<span>Sympathy</span>
+</a>
+
+<ul class="level0">
+<li class="level1 nav-9-1 first">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/sympathy-packages.html#sympathy-packages">
+<span>Sympathy Packages</span>
+</a>
+</li><li class="level1 nav-9-2">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/latin-sympathy-arrangements.html#latin-sympathy-arrangements">
+<span>Latin Sympathy Arrangements</span>
+</a>
+</li><li class="level1 nav-9-3">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/coronas.html#coronas">
+<span>Coronas</span>
+</a>
+</li><li class="level1 nav-9-4">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/baskets.html#baskets">
+<span>Baskets</span>
+</a>
+</li><li class="level1 nav-9-5">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/standing-sprays.html#standing-sprays">
+<span>Standing Sprays</span>
+</a>
+</li><li class="level1 nav-9-6">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/caskets-sprays.html#caskets-sprays">
+<span>Caskets Sprays</span>
+</a>
+</li><li class="level1 nav-9-7">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/wreath.html#wreath">
+<span>Wreath</span>
+</a>
+</li><li class="level1 nav-9-8">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/crosses.html#crosses">
+<span>Crosses</span>
+</a>
+</li><li class="level1 nav-9-9">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/hearts.html#hearts">
+<span>Hearts</span>
+</a>
+</li><li class="level1 nav-9-10">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/plants-planters.html#plants-planters">
+<span>Plants &amp; Planters</span>
+</a>
+</li><li class="level1 nav-9-11">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/others.html#others">
+<span>Others</span>
+</a>
+</li><li class="level1 nav-9-12">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/memorials-tributes.html#memorials-tributes">
+<span>Memorials &amp; Tributes</span>
+</a>
+</li><li class="level1 nav-9-13 last">
+<a href="https://www.flowersbypouparina.com/sympathy-funeral/custom-motive.html#custom-motive">
+<span>Custom Motives</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level0 nav-10 level-top last parent">
+<a class="level-top" href="https://www.flowersbypouparina.com/events.html#events">
+<span>Events</span>
+</a>
+
+<ul class="level0">
+<li class="level1 nav-10-1 first parent">
+<a href="https://www.flowersbypouparina.com/events/wedding-bouquet-deliver.html#wedding-bouquet-deliver">
+<span>Wedding Bouquet Deliver</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-10-1-1 first">
+<a href="https://www.flowersbypouparina.com/events/wedding-bouquet-deliver/bouquets.html#bouquets">
+<span>Bridal Bouquets</span>
+</a>
+</li><li class="level2 nav-10-1-2">
+<a href="https://www.flowersbypouparina.com/events/wedding-bouquet-deliver/reception-flowers.html#reception-flowers">
+<span>Reception Flowers</span>
+</a>
+</li><li class="level2 nav-10-1-3">
+<a href="https://www.flowersbypouparina.com/events/wedding-bouquet-deliver/ceremony-flowers.html#ceremony-flowers">
+<span>Ceremony Flowers</span>
+</a>
+</li><li class="level2 nav-10-1-4 last">
+<a href="https://www.flowersbypouparina.com/events/wedding-bouquet-deliver/flowers-to-wear.html#flowers-to-wear">
+<span>Flowers to Wear</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-10-2">
+<a href="https://www.flowersbypouparina.com/events/prom.html#prom">
+<span>Prom </span>
+</a>
+</li><li class="level1 nav-10-3">
+<a href="https://www.flowersbypouparina.com/events/baby-showers-flower-deliver.html#baby-showers-flower-deliver">
+<span>Baby Showers Flower Deliver</span>
+</a>
+</li><li class="level1 nav-10-4">
+<a href="https://www.flowersbypouparina.com/events/sweet-sixteen.html#sweet-sixteen">
+<span>Sweet Sixteen</span>
+</a>
+</li><li class="level1 nav-10-5">
+<a href="https://www.flowersbypouparina.com/events/quincea-era.html#quincea-era">
+<span>Quinceañera</span>
+</a>
+</li><li class="level1 nav-10-6 last">
+<a href="https://www.flowersbypouparina.com/events/bar-mitzvah.html#bar-mitzvah">
+<span>Bar Mitzvah</span>
+</a>
+</li>
+</ul>
+
+</li>            
+                        
+                        
+    </ul>
+
+
+
+	<script type="text/javascript">
+	//<![CDATA[
+		jQuery(function($) {
+
+				
+								var activateMobileMenu = function()
+				{
+					if ($(window).width() < 960)
+					{
+						$('#mobnav').show();
+						$('.vertnav-top').addClass('mobile');
+						$('#nav').addClass('mobile');
+					}
+					else
+					{
+						$('#nav').removeClass('mobile');
+						$('.vertnav-top').removeClass('mobile');
+						$('#mobnav').hide();
+					}
+				}
+				activateMobileMenu();
+				$(document).on("themeResize", activateMobileMenu);
+	
+			
+						$('#mobnav-trigger').toggle(function() {
+				$(this).addClass('active');
+				$('.vertnav-top').addClass('show');
+			}, function() {
+				$(this).removeClass('active');
+				$('.vertnav-top').removeClass('show');
+			});
+			
+		});
+	//]]>
+	</script>
+
+
+
+<label for="search-terms" id="label-btn" onclick="search_hide();"></label>
+        <div class="header-top-search-wrapper clearer hide-below-768"> <form action="https://www.flowersbypouparina.com/catalogsearch/result/" id="search_mini_form" method="get">	
+    <div class="form-search">
+                <input class="input-text" id="search" maxlength="128" name="q" type="text" value=""/>
+        <button class="button" title="Search" type="submit"></button>
+        <div class="search-autocomplete" id="search_autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here...');
+            searchForm.initAutocomplete('https://www.flowersbypouparina.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+    </div>
+</form>
+                  </div>
+        <div class="clear"></div>
+      </div>
+    </div>
+<div class="container mobile-search" id="search-flower" style="display:none;"> <form action="https://www.flowersbypouparina.com/catalogsearch/result/" id="search_mini_form" method="get">	
+    <div class="form-search">
+                <input class="input-text" id="search" maxlength="128" name="q" type="text" value=""/>
+        <button class="button" title="Search" type="submit"></button>
+        <div class="search-autocomplete" id="search_autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here...');
+            searchForm.initAutocomplete('https://www.flowersbypouparina.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+    </div>
+</form>
+ </div>
+    <!-- end: nav --> 
+  </div>
+  <!-- end: nav-container --> 
+  
+</div>
+<!-- end: header-container -->
+<script type="text/javascript">
+
+
+    jQuery (document).ready(function() {
+     // hides the slickbox as soon as the DOM is ready
+      jQuery ('#search-flower').hide();
+     // toggles the slickbox on clicking the noted link  
+      jQuery ('#label-btn').click(function() {
+		  
+        jQuery('#search-flower').slideToggle(400);
+        return false;
+      });
+    });
+
+
+</script>  
+<script type="application/javascript">
+function codeAddress() {
+
+			var test = document.querySelector(".messages").innerHTML;
+			
+			if(test=='<li class="error-msg"><ul><li><span>For using points to checkout order, please login!</span></li></ul></li>')
+			{
+				
+document.querySelector(".messages").innerHTML = '<li class="error-msg"><ul><li><span>You have made a great choice by selecting an arrangement that awards you with rewards points, however to take full advantage of our "Golden Blooms Reward Program" you would need to create an account.<h4 class="cart-benifit">Join and enjoy the benefits:</h4><ul class="benifit-cart"><li>Automatic enrollment in our "Golden Blooms" reward program</li><li>Fast and Easy Check out with every purchase</li><li>Access to your order history and status</li><li>Store Multiple Delivery Addresses</li><li>Receive Seasonal Discounts and Coupons</li><li>Stay Connected through Social Media</li><li class="create-ac"><a href="https://www.flowersbypouparina.com/customer/account/create/">Create an account</a></li><li class="check-gue"><a href="https://www.flowersbypouparina.com/checkout/onepage/?g=1">Checkout as guest</a></li><div class="clear"></div></ul></span></li></ul></li>';
+				
+			}
+			else
+			{
+
+			}
+			
+			//document.getElementsByClassName("messages").innerHTML; 
+			            
+        }
+        window.onload = codeAddress;
+//window.onload = codeAddress;document.getElementsByClassName("catlink").innerHTML 
+</script>      <div class="main-container col2-left-layout">
+        <div class="main container">
+                    <div class="preface grid-full in-col1">    
+
+
+
+
+
+<div class="the-slideshow-wrapper nested-container clearer">
+
+
+	
+   
+
+    <script type="text/javascript">
+
+	function joinus()
+
+	{
+
+		document.getElementById('light03').style.display='block';
+
+		document.getElementById('fade').style.display='block';	
+
+	}
+
+	
+
+	</script>
+
+    <div class="white_content" id="light03"><a class="popclose-join" href="javascript:void(0)" onclick="document.getElementById('light03').style.display='none';document.getElementById('fade').style.display='none'"></a>
+
+<div class="popup-table-join">
+
+ <h2>Join Us</h2> 
+
+<div id="errmsg01" style="margin: 0 auto;width: 280px;"><span style="color: #FF0000;font-size: 13px;font-weight:bold;">
+
+<!-- Check whether the plugin is enabled -->
+
+<!-- AddThis Button BEGIN -->
+
+<!-- AddThis API Config -->
+<script type="text/javascript">
+var addthis_product = 'mag-sp-2.0.0';
+var addthis_config 	= {
+pubid : 'xa-525fbbd6215b4f1a'
+}
+</script>
+<!-- AddThis API Config END -->
+<div class="addthis_toolbox addthis_default_style ">
+	<a class="addthis_button_facebook"></a>
+	<a class="addthis_button_twitter"></a>
+	<a class="addthis_button_pinterest"></a>
+	<a class="addthis_button_google_plusone"></a>
+	<a class="addthis_button_linkedin"></a>
+	<a class="addthis_button_blogger"></a>
+	<a class="addthis_button_stumbleupon"></a>
+	<a class="addthis_button_delicious"></a>
+	<a class="addthis_button_compact"></a>
+</div>
+<script>
+	var ats_widget =  function(){
+	    if(typeof addthis_conf == 'undefined'){
+	        var at_script = document.createElement('script');
+	        at_script.src = '//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-525fbbd6215b4f1a';
+	        document.getElementsByTagName('head')[0].appendChild(at_script);
+	        var addthis_product = 'mag-sp-2.0.0';
+	    }
+	};
+	if(window.addEventListener)
+		window.addEventListener('load',ats_widget);        
+	else                
+		window.attachEvent('onload',ats_widget);           	    
+</script>	    
+<!-- AddThis Button END -->
+<style>
+#at3win #at3winheader h3 {
+	text-align:left !important;
+}
+</style>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+
+</div>
+
+	<div class="black_overlay" id="fade"></div>
+
+		<div class="slideshow-banners home-door-left hide-below-768">
+
+        <div class="home-door">
+
+        	<div class="home-door01">
+<p><img alt="" src="https://www.flowersbypouparina.com/media/wysiwyg/door.png"/></p>
+<div class="home-door-joinus"><a onclick="return joinus();"><img alt="" src="https://www.flowersbypouparina.com/media/wysiwyg/joinus.png"/></a></div>
+</div>
+        </div>
+
+        </div>
+
+        
+
+    <div class="the-slideshow gen-slider-arrows2 gen-slider-pager1 gen-slider-pager1-pos-bottom-right home-slider-m">
+
+        <ul class="slides">
+
+
+
+			
+                
+                	<li class="slide">
+
+                    	
+					</li>
+
+                
+            
+                
+                	<li class="slide">
+
+                    	
+					</li>
+
+                
+            
+                
+                	<li class="slide">
+
+                    	
+					</li>
+
+                
+            
+            
+
+        </ul>
+
+    </div>
+
+    
+    
+
+    <div class="the-slideshow gen-slider-arrows2 gen-slider-pager1 gen-slider-pager1-pos-bottom-right home-slider-m">
+
+ <div class="viewport" style="position: relative; ">
+
+    
+
+                    <div class="magestore-bannerslider">
+                            <div class="magestore-bannerslider-standard">
+                    <script src="https://www.flowersbypouparina.com/js/magestore/bannerslider/jquery-1.7.min.js" type="text/javascript"></script>
+<script src="https://www.flowersbypouparina.com/js/magestore/bannerslider/jquery.flexslider.js"></script>
+<link href="https://www.flowersbypouparina.com/skin/frontend/base/default/css/magestore/bannerslider/flexslider.css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">   
+    var j7 = jQuery.noConflict();
+    j7(window).load(function() {
+        j7('.flexslider-7-1').flexslider({
+            animation: "slide",
+            slideshowSpeed: 4000            //minItems: 2,
+            //maxItems: 4            
+        });
+    });
+</script>
+<div class="flexslider flexslider-7-1">
+    <ul class="slides"> 
+                <li>
+                <a href="https://www.flowersbypouparina.com/index.php/by-style/bundle-of-joy.html" onclick="bannerClicks('1','1')" style="display:block" target="_blank"><img alt="New born floral Arrangements" height="355" src="https://www.flowersbypouparina.com/media/bannerslider/f/i/first.jpg" width="524"/></a>
+            </li>
+                <li>
+                <a href="https://www.flowersbypouparina.com/index.php/by-ocassion/anniversaries.html#anniversaries" onclick="bannerClicks('4','1')" style="display:block" target="_self"><img alt="Love and Romance" height="355" src="https://www.flowersbypouparina.com/media/bannerslider/f/l/flowersdeliverymiamianniversaryflowers.jpg" width="524"/></a>
+            </li>
+                <li>
+                <a href="https://www.flowersbypouparina.com/by-season/pink-for-the-cure.html#pink-for-the-cure" onclick="bannerClicks('14','1')" style="display:block" target="_self"><img alt="Flower me pink for the cure" height="355" src="https://www.flowersbypouparina.com/media/bannerslider/h/o/hope-for-the-cure-w.-logo.jpg" width="524"/></a>
+            </li>
+            
+    <!-- items mirrored twice, total of 12 -->
+    </ul>
+</div>
+<script type="text/javascript">
+        function bannerClicks(id_banner,id_slider){
+		var click_url = 'https://www.flowersbypouparina.com/bannerslider/index/click/';
+		banner_id = id_banner;
+		new Ajax.Request(click_url,{
+			method: 'post',
+			parameters:{id_banner: banner_id, slider_id:id_slider},
+			onFailure: '',
+			onSuccess: ''
+			
+		});
+		
+	}
+    </script>
+                </div>    
+                    </div>
+                <script type="text/javascript">
+            Event.observe(window, 'load', function() {
+                banner_ids = '1,4,14';
+                slider_id = '1';
+                imp_url = 'https://www.flowersbypouparina.com/bannerslider/index/impress/';
+                new Ajax.Request(imp_url, {
+                    method: 'post',
+                    parameters:{banner_ids: banner_ids, slider_id:slider_id},
+                    onFailure: '',
+                    onSuccess: ''
+
+                });
+            });
+        </script>
+    
+</div>
+
+ </div>
+
+    
+
+    
+
+    
+
+    
+    
+
+    	
+        
+
+		<div class="slideshow-banners home-banner-right hide-below-768">
+
+        	<div class="right-banner-block"><a href="https://www.youtube.com/channel/UC-jAsBnOLEfIksnYCZsJWfg" rel="nofollow" target="_blank" title="Our Video Channel"> <img alt="Pouparina Video" src="https://www.flowersbypouparina.com/media/wysiwyg/watch-video_01.png"/></a> <a href="http://www.flowersbypouparina.com/blog/" target="_blank"> <img alt="Pouparina Blog" src="https://www.flowersbypouparina.com/media/wysiwyg/pourparina-blog01.png"/></a> <a href="https://www.flowersbypouparina.com/e-cards-day.html/"> <img alt="Free ecard" src="https://www.flowersbypouparina.com/media/wysiwyg/free-ecard01.png"/></a></div>
+        </div>
+        <div class="slideshow-banners home-banner-right">
+    <div class="watch-video-02"> 
+    	<a href="https://www.youtube.com/channel/UC-jAsBnOLEfIksnYCZsJWfg" target="_blank">watch video</a> 
+    </div>
+    <div class="pouparina-blog-mobile-02"> 
+    	<a href="https://pouparinaflowers.blogspot.com" target="_blank">pouparina blog</a> 
+    </div>
+    <div class="free-ecard-mobile-02"> 
+    	<a href="https://www.flowersbypouparina.com/e-cards-day.html" target="_blank">free ecard</a> 
+    </div>
+  </div>
+
+        
+
+        <div class="home-page-banner-bottom-bord-and-car hide-below-960">
+
+        	<div class="table-of-the-day">
+<div class="special-day"><a href="https://www.flowersbypouparina.com/special-of-the-day.html/"><img alt="" src="https://www.flowersbypouparina.com/media/wysiwyg/special-day-text.png"/></a></div>
+<div class="flower-forecast"><a href="https://www.flowersbypouparina.com/flower-forecast.html/"><img alt="" src="https://www.flowersbypouparina.com/media/wysiwyg/flower-forest-text.png"/></a></div>
+</div>
+<div class="delivery-car">
+<p>.</p>
+</div>
+        </div>
+
+        
+
+        <div class="clear"></div>
+
+    
+    
+
+</div>
+
+
+
+
+
+   
+
+
+
+
+
+
+
+                                                            <div class="home-page-slider">
+              <div class="itemslider-wrapper new-itemslider-wrapper">
+                <div class="nav-wrapper gen-slider-arrows1 gen-slider-arrows1-pos-top-right"></div>
+                <div class="itemslider itemslider-horizontal home-slider-image">
+                 <p> </p>
+<ul class="slides products-grid">
+<li><a href="https://www.flowersbypouparina.com/by-ocassion/happy-birthday.html?p=2#happy-birthday" target="_blank" title="Birthday Flowers"><img alt="Birthday Flowers" src="https://www.flowersbypouparina.com/media/wysiwyg/Caroussel_Template_Board_Birthday_flowers_miami.jpg" title="Birthday Flowers"/></a></li>
+<li><a href="https://www.flowersbypouparina.com/by-season/valentines-flowers.html#valentines-flowers" target="_blank" title="Valentines Flowers"><img alt="Flower Me Pink For The Cure" src="https://www.flowersbypouparina.com/media/wysiwyg/Caroussel_Template_Board_pink_flowers_for_the_cure_miami.jpg" title="Flower Me Pink For The Cure"/></a>.</li>
+<li><a href="https://www.flowersbypouparina.com/by-season/flowers-of-the-month-september-orchids.html#flowers-of-the-month-september-orchids" target="_blank" title="Flower of the Month - Luxurious Orchids"><img alt="Flower of the month - Luxurious Orchids" src="https://www.flowersbypouparina.com/media/wysiwyg/Caroussel_Template_Board_Flower_of_the_month_-_September.jpg" title="Flower of the month - Luxurious Orchids"/></a></li>
+<li><a href="https://www.flowersbypouparina.com/by-ocassion/new-borns.html#new-borns" target="_blank" title="New Born Flowers"><img alt="New Born flowers" src="https://www.flowersbypouparina.com/media/wysiwyg/Caroussel_Template_Board_New_baby_born.jpg" title="New Born flowers"/></a></li>
+</ul>                </div>
+              </div>
+            </div>
+          </div>
+          <script type="text/javascript">
+//<![CDATA[
+	jQuery(function($) {
+
+		$('.new-itemslider-wrapper .itemslider').flexslider({
+			namespace: "",
+			animation: "slide",
+			easing: "easeInQuart",
+			
+							slideshow: false,
+				animationLoop: false,
+						
+						
+							animationSpeed: 400,
+						
+			pauseOnHover: true,
+			controlNav: false,
+			controlsContainer: ".new-itemslider-wrapper .nav-wrapper",
+			
+			itemWidth: 188,
+							minItems: 1,
+				maxItems: 4,
+						
+			move: 0		})
+					.data("breakpoints", [ [0, 1], [320, 1], [480, 1], [768, 1], [960, 1], [1280, 1] ] )
+				; //IMPORTANT: don't remove semicolon!
+		
+	});
+//]]>
+</script>
+                                       <div class="col-main grid-full in-col1">  <div class="std"><div class="home-list01">
+          <input type="hidden" value="01/03"/>
+
+          <input type="hidden" value="02/15"/>
+
+          
+          <input type="hidden" value="03/15"/>
+
+          <input type="hidden" value="03/18"/>
+
+          
+          <input type="hidden" value="09/22"/>
+
+          <input type="hidden" value="11/22"/>
+
+          
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="category-products">
+
+	
+	
+
+
+	
+    
+    <ul class="products-grid category-products-grid itemgrid itemgrid-adaptive itemgrid-4col equal-height">
+
+    	
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/bronze-callas.html" title="Bronze Callas">
+
+						<img alt="Bronze Callas" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tf151-3_bronze_callas.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/bronze-callas.html" title="Bronze Callas">Bronze Callas</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-82">
+                                            <span class="price">$164.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/bronze-callas.html">TF151-3</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/bronze-callas.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/bronze-callas.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/orchid-embers.html" title="Orchid Embers">
+
+						<img alt="Orchid Embers" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tfweb393_orchid_embers.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/orchid-embers.html" title="Orchid Embers">Orchid Embers</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-516">
+                                            <span class="price">$89.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/orchid-embers.html">TFWEB393</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/orchid-embers.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/orchid-embers.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/yellow-trio-basket.html" title="Yellow Trio Basket">
+
+						<img alt="Yellow Trio Basket" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/9/t94-1a_yellow_trio_basket.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/yellow-trio-basket.html" title="Yellow Trio Basket">Yellow Trio Basket</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-535">
+                                            <span class="price">$84.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/yellow-trio-basket.html">T94-1A</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/yellow-trio-basket.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/yellow-trio-basket.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item itemlast">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/zen-lilies.html" title="Zen Lilies">
+
+						<img alt="Zen Lilies" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tf-web72_zen_lilies.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/zen-lilies.html" title="Zen Lilies">Zen Lilies</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-723">
+                                            <span class="price">$74.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/zen-lilies.html">TF-WEB72</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/zen-lilies.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/zen-lilies.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/bamboo-getaway.html" title="Bamboo Getaway">
+
+						<img alt="Bamboo Getaway" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/8/t85-3a_bamboo_getaway.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/bamboo-getaway.html" title="Bamboo Getaway">Bamboo Getaway</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-731">
+                                            <span class="price">$94.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/bamboo-getaway.html">T85-3A</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/bamboo-getaway.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/bamboo-getaway.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/golden-days-basket.html" title="Golden Days Basket">
+
+						<img alt="Golden Days Basket" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/1/t174-2a_golden_days_basket.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/golden-days-basket.html" title="Golden Days Basket">Golden Days Basket</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-759">
+                                            <span class="price">$54.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/golden-days-basket.html">T174-2A</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/golden-days-basket.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/golden-days-basket.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/fresh-picked.html" title="Fresh Picked">
+
+						<img alt="Fresh Picked" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/1/t174-3a_fresh_picked_1.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/fresh-picked.html" title="Fresh Picked">Fresh Picked</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-760">
+                                            <span class="price">$84.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/fresh-picked.html">T174-3A</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/fresh-picked.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/fresh-picked.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item itemlast">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/autumn-celebration.html" title="Autumn Celebration">
+
+						<img alt="Autumn Celebration" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tfweb230_autumn_celebration.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/autumn-celebration.html" title="Autumn Celebration">Autumn Celebration</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-761">
+                                            <span class="price">$44.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/autumn-celebration.html">TFWEB230</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/autumn-celebration.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/autumn-celebration.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/pure-happiness.html" title="Pure Happiness">
+
+						<img alt="Pure Happiness" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/1/t171-1a_pure_happiness.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/pure-happiness.html" title="Pure Happiness">Pure Happiness</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-763">
+                                            <span class="price">$54.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/pure-happiness.html">T171-1A</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/pure-happiness.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/pure-happiness.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/family-gathering-centerpiece.html" title="Family Gathering Centerpiece">
+
+						<img alt="Family Gathering Centerpiece" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/1/t169-1a_family_gathering.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/family-gathering-centerpiece.html" title="Family Gathering Centerpiece">Family Gathering Centerpiece</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-764">
+                                            <span class="price">$64.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/family-gathering-centerpiece.html">T169-1A</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/family-gathering-centerpiece.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/family-gathering-centerpiece.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/hayride.html" title="Hayride ">
+
+						<img alt="Hayride " height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tfweb245_hayride.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/hayride.html" title="Hayride">Hayride</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-765">
+                                            <span class="price">$54.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/hayride.html">TFWEB245</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/hayride.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/hayride.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item itemlast">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/bundle-of-sunshine.html" title="Bundle of Sunshine">
+
+						<img alt="Bundle of Sunshine" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tfweb222_bundle_of_sunshine.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/bundle-of-sunshine.html" title="Bundle of Sunshine">Bundle of Sunshine</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-766">
+                                            <span class="price">$54.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/bundle-of-sunshine.html">TFWEB222</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/bundle-of-sunshine.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/bundle-of-sunshine.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/graceful-glow-centerpiece.html" title="Graceful Glow Centerpiece">
+
+						<img alt="Graceful Glow Centerpiece" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/1/t168-1a_greatful_glow_center_piece.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/graceful-glow-centerpiece.html" title="Graceful Glow Centerpiece">Graceful Glow Centerpiece</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-769">
+                                            <span class="price">$64.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/graceful-glow-centerpiece.html">T168-1A</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/graceful-glow-centerpiece.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/graceful-glow-centerpiece.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/glow-of-gratitude-centerpiece.html" title="Glow of Gratitude Centerpiece">
+
+						<img alt="Glow of Gratitude Centerpiece" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/1/t178-1a_glow_of_gratitute_centerpiece.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/glow-of-gratitude-centerpiece.html" title="Glow of Gratitude Centerpiece">Glow of Gratitude Centerpiece</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-771">
+                                            <span class="price">$94.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/glow-of-gratitude-centerpiece.html">T178-1A</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/glow-of-gratitude-centerpiece.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/glow-of-gratitude-centerpiece.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/classic-cornucopia.html" title="Classic Cornucopia">
+
+						<img alt="Classic Cornucopia" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/1/t168-3a_classic_cornucopia.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/classic-cornucopia.html" title="Classic Cornucopia">Classic Cornucopia</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-773">
+                                            <span class="price">$59.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/classic-cornucopia.html">T168-3A</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/classic-cornucopia.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/classic-cornucopia.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item itemlast">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/signature-fall-arrangement.html" title="Signature Fall Arrangement ">
+
+						<img alt="Signature Fall Arrangement " height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tf73-1_signature_fall_arrangement.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/signature-fall-arrangement.html" title="Signature Fall Arrangement">Signature Fall Arrangement</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-850">
+                                            <span class="price">$44.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/signature-fall-arrangement.html">TF73-1</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/signature-fall-arrangement.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/signature-fall-arrangement.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/fall-grandeur.html" title="Fall Grandeur ">
+
+						<img alt="Fall Grandeur " height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tf-web31_fall_grandeur.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/fall-grandeur.html" title="Fall Grandeur">Fall Grandeur</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-851">
+                                            <span class="price">$79.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/fall-grandeur.html">TF-WEB31</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/fall-grandeur.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/fall-grandeur.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/fine-fall-roses.html" title="Fine Fall Roses">
+
+						<img alt="Fine Fall Roses" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tfweb448_fine_fall_roses_1.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/fine-fall-roses.html" title="Fine Fall Roses">Fine Fall Roses</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-852">
+                                            <span class="price">$64.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/fine-fall-roses.html">TFWEB448</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/fine-fall-roses.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/fine-fall-roses.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/fall-brights-bouquet.html" title="Fall Brights Bouquet">
+
+						<img alt="Fall Brights Bouquet" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tfl06-2a_fall_brights_bouquet.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/fall-brights-bouquet.html" title="Fall Brights Bouquet">Fall Brights Bouquet</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-855">
+                                            <span class="price">$49.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/fall-brights-bouquet.html">TFL06-2B</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/fall-brights-bouquet.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/fall-brights-bouquet.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item itemlast">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/autumn-arcadia.html" title="Autumn Arcadia">
+
+						<img alt="Autumn Arcadia" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tf-web54_autumn_arcadia.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/autumn-arcadia.html" title="Autumn Arcadia">Autumn Arcadia</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-858">
+                                            <span class="price">$39.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/autumn-arcadia.html">TF-WEB54</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+						<img alt="Best Seller" height="25" src="https://www.flowersbypouparina.com/media/icons/bestseller.png" width="25"/>
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/autumn-arcadia.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/autumn-arcadia.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/candles-of-autumn.html" title="Candles of Autumn">
+
+						<img alt="Candles of Autumn" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tf-web63_candles_of_autumn_1.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/candles-of-autumn.html" title="Candles of Autumn">Candles of Autumn</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-862">
+                                            <span class="price">$154.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/candles-of-autumn.html">TF-WEB63</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/candles-of-autumn.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/candles-of-autumn.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/pumpkin-patch.html" title="Pumpkin Patch">
+
+						<img alt="Pumpkin Patch" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tf-web33_pumkin_patch.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/pumpkin-patch.html" title="Pumpkin Patch">Pumpkin Patch</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-863">
+                                            <span class="price">$34.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/pumpkin-patch.html">TF-WEB33</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/pumpkin-patch.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/pumpkin-patch.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/orange-zest.html" title="Orange Zest ">
+
+						<img alt="Orange Zest " height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tf-web68_orange_zest.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/orange-zest.html" title="Orange Zest">Orange Zest</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-864">
+                                            <span class="price">$49.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/orange-zest.html">TF-WEB68</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/orange-zest.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/orange-zest.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item itemlast">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/autumn-gerberas.html" title="Autumn Gerberas">
+
+						<img alt="Autumn Gerberas" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tf-web43_autumn_gerberas.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/autumn-gerberas.html" title="Autumn Gerberas">Autumn Gerberas</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-865">
+                                            <span class="price">$54.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/autumn-gerberas.html">TF-WEB43</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/autumn-gerberas.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/autumn-gerberas.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/square-mounded-arrangement.html" title="Square Mounded Arrangement">
+
+						<img alt="Square Mounded Arrangement" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tf76-3_square_mounded_arrangement_1.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/square-mounded-arrangement.html" title="Square Mounded Arrangement">Square Mounded Arrangement</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-868">
+                                            <span class="price">$64.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/square-mounded-arrangement.html">TF76-3</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/square-mounded-arrangement.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/square-mounded-arrangement.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/enchanted-orchard.html" title="Enchanted Orchard">
+
+						<img alt="Enchanted Orchard" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/t/f/tf-web55_enchanted_orchard.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/enchanted-orchard.html" title="Enchanted Orchard">Enchanted Orchard</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-876">
+                                            <span class="price">$69.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/enchanted-orchard.html">TF-WEB55</a>
+
+                </div>
+
+                <div class="icons">
+
+					
+						<img alt="Best Seller" height="25" src="https://www.flowersbypouparina.com/media/icons/bestseller.png" width="25"/>
+
+					
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/enchanted-orchard.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/enchanted-orchard.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+        
+    	
+            <li class="item">
+            
+
+            	<div class="product-image-wrapper" style="max-width:213px;">
+
+                
+
+					<a class="product-image" href="https://www.flowersbypouparina.com/candy-corn-surprise.html" title="Candy Corn Surprise">
+
+						<img alt="Candy Corn Surprise" height="213" src="https://www.flowersbypouparina.com/media/catalog/product/cache/1/small_image/213x213/9df78eab33525d08d6e5fb8d27136e95/0/9/09j130b_candy_corn_surprise.jpg" width="213"/>
+
+
+
+						
+
+
+						
+					</a>
+
+                
+
+	                
+                
+
+                </div> <!-- end: product-image-wrapper -->
+
+
+
+				<div class="product-box-1">
+
+                <h2 class="product-name"><a href="https://www.flowersbypouparina.com/candy-corn-surprise.html" title="Candy Corn Surprise">Candy Corn Surprise</a></h2>
+
+                
+
+				
+                
+
+                
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1046">
+                                            <span class="price">$54.99</span>                                    </span>
+                        
+        </div>
+
+
+
+                <div class="product-sku"><span>Code : </span>
+
+                <a href="https://www.flowersbypouparina.com/candy-corn-surprise.html">09J130B </a>
+
+                </div>
+
+                <div class="icons">
+
+					
+					
+						<img alt="Happy Faces" height="25" src="https://www.flowersbypouparina.com/media/icons/happyfaces.png" width="25"/>
+
+					
+					
+				</div>
+
+                
+                <div class="actions clearer">
+
+                	
+                    	
+						
+                            <button class="button btn-cart" onclick="setLocation('https://www.flowersbypouparina.com/candy-corn-surprise.html')" title="Add to Cart" type="button">Add to Cart</button>
+
+                        
+                        <div class="product-detail-btn">
+
+                        <a href="https://www.flowersbypouparina.com/candy-corn-surprise.html">View Detail</a>
+
+                       </div>
+
+                        <div class="clear"></div>
+
+                     
+
+                    
+
+                    
+                </div> <!-- end: actions -->
+
+                
+
+                </div>
+
+            </li>
+
+            
+            
+
+	</ul>
+
+    
+
+
+
+
+   
+
+        
+
+
+    
+
+</div>
+
+
+
+
+
+</div>
+<h1>Flower Delivery by Miami Florist</h1>
+<p>Flower by Pouparina is an online flower shop offering fresh flower delivery services in Miami, Hialeah and surrounding areas.</p>
+<p>As your trusted local florist in Miami and Hialeah, we offer exquisite flower arrangements and other floral gifts which are professionally designed and arranged by our expert staff.  When you need flower delivery to Miami, Flowers by Pouparina is here for you. We have an expansive array of flowers, plants and gifts to suit any occasion.</p>
+<p>Let Flowers by Pouparina be your first and only choice for your Flowers delivery in Miami, Hialeah and surrounding areas.</p></div> </div>
+          
+          <div class="postscript grid-full in-col1"></div>
+        </div>
+      </div>
+      
+                                         <!--/***********************Start testimonial here***********************/-->
+        <div class="testimonial-slider container">
+      <div class="testim-title">Testimonials</div>
+      <div class="itemslider-wrapper flower-itemslider-wrapper">
+        <div class="nav-wrapper testimonial-arrow gen-slider-arrows1-pos-top-right"></div>
+        <div class="flower-itemslider home-slider-image">
+          <ul class="slides">
+                                                <li>
+              <div class="customer-testimonials-content first" id="Richard Bonet" name="Richard Bonet">
+                <div class="testimonial-content testimonials-left">
+                  <div class="testi-bg">
+                    <div class="testi-bg-text-bg">
+                      <div class="testimonialsboximg"> </div>
+                      <div class="testi-text-n"> I wanted to let you know how gorgeous the flowers were at my parents wedding anniversary party. They were absolutely perfect and just made the event! We were please with everything: the fresh flowers, the unique artistic designs, the delivery, the service and everything in between! It truly made for a beautiful outdoor celebration! Working with your team was such a pleasure; their continuous communication and attention to detail was very much appreciated! Thank you! </div>
+                      <div class="clear"> </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="testimonial-content-avatar testimonials-right">
+                  <div class="testimonials-right-img hide-below-768"> </div>
+                  <div class="user-image">
+                                        <img alt="test" height="80" src="https://www.flowersbypouparina.com/media/magebuzz/avatar/Richard_Bonet.jpg" width="80"/>
+                                      </div>
+                  <div class="testimon-name">
+                    <div class="testimonial-source"> <h2 style="color: #262a74; font-family: open_sansbold; font-size: 16px; font-weight: 400; margin-bottom: 3px;">Richard Bonet</h2> <span class="testimonial-address">
+                    Healdsburg, CA                                            </span> </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+                                                            <li>
+              <div class="customer-testimonials-content" id="Leonel" name="Leonel">
+                <div class="testimonial-content testimonials-left">
+                  <div class="testi-bg">
+                    <div class="testi-bg-text-bg">
+                      <div class="testimonialsboximg"> </div>
+                      <div class="testi-text-n"> Hello,
+
+I like to thank immensely the store staff (attendant: Janella), I called from Brazil and went attended the best way possible.
+
+I make a surprise for my wife thanks to them, I recommend to everyone.
+
+I will always be grateful.
+
+Leonel Duarte </div>
+                      <div class="clear"> </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="testimonial-content-avatar testimonials-right">
+                  <div class="testimonials-right-img hide-below-768"> </div>
+                  <div class="user-image">
+                                      </div>
+                  <div class="testimon-name">
+                    <div class="testimonial-source"> <h2 style="color: #262a74; font-family: open_sansbold; font-size: 16px; font-weight: 400; margin-bottom: 3px;">Leonel</h2> <span class="testimonial-address">
+                    Rondonópolis - Brasil                                            </span> </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+                                                            <li>
+              <div class="customer-testimonials-content" id="Joyce Crow" name="Joyce Crow">
+                <div class="testimonial-content testimonials-left">
+                  <div class="testi-bg">
+                    <div class="testi-bg-text-bg">
+                      <div class="testimonialsboximg"> </div>
+                      <div class="testi-text-n">  
+Hello, 
+ 
+I just wanted to drop you a quick note to say Thank you for creating such a beautiful floral/fruit basket arrangement for my friend who is at the Baptist Hospital in Miami.
+I found you on the internet (I live in the Washington DC area) and my friend and his family were delighted with the arrangement and raved about how lovely and unique it
+was....Thank you very much! 
+ 
+Thanks again.
+ 
+Joyce Crowe
+ 
+PS   I have family in Stuart, Florida...wish you delivered there too! 
+ </div>
+                      <div class="clear"> </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="testimonial-content-avatar testimonials-right">
+                  <div class="testimonials-right-img hide-below-768"> </div>
+                  <div class="user-image">
+                                      </div>
+                  <div class="testimon-name">
+                    <div class="testimonial-source"> <h2 style="color: #262a74; font-family: open_sansbold; font-size: 16px; font-weight: 400; margin-bottom: 3px;">Joyce Crow</h2> <span class="testimonial-address">
+                    Rockville, MD                                             </span> </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+                                                            <li>
+              <div class="customer-testimonials-content" id="Cheryl Linton Robinson" name="Cheryl Linton Robinson">
+                <div class="testimonial-content testimonials-left">
+                  <div class="testi-bg">
+                    <div class="testi-bg-text-bg">
+                      <div class="testimonialsboximg"> </div>
+                      <div class="testi-text-n"> THE FLOWERS WERE ABSOLUTELY BEAUTIFUL 
+
+YOU ARE THE BEST 
+THANK YOU SO MUCH!!!
+ </div>
+                      <div class="clear"> </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="testimonial-content-avatar testimonials-right">
+                  <div class="testimonials-right-img hide-below-768"> </div>
+                  <div class="user-image">
+                                      </div>
+                  <div class="testimon-name">
+                    <div class="testimonial-source"> <h2 style="color: #262a74; font-family: open_sansbold; font-size: 16px; font-weight: 400; margin-bottom: 3px;">Cheryl Linton Robinson</h2> <span class="testimonial-address">
+                    North Miami Beach, Florida                                            </span> </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+                                                            <li>
+              <div class="customer-testimonials-content" id="Feryal Algosaibi " name="Feryal Algosaibi ">
+                <div class="testimonial-content testimonials-left">
+                  <div class="testi-bg">
+                    <div class="testi-bg-text-bg">
+                      <div class="testimonialsboximg"> </div>
+                      <div class="testi-text-n"> 
+You did an amazing job! The flowers and the fruit basket were Lovely!
+ </div>
+                      <div class="clear"> </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="testimonial-content-avatar testimonials-right">
+                  <div class="testimonials-right-img hide-below-768"> </div>
+                  <div class="user-image">
+                                      </div>
+                  <div class="testimon-name">
+                    <div class="testimonial-source"> <h2 style="color: #262a74; font-family: open_sansbold; font-size: 16px; font-weight: 400; margin-bottom: 3px;">Feryal Algosaibi </h2> <span class="testimonial-address">
+                    NY, NY                                            </span> </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+                                                            <li>
+              <div class="customer-testimonials-content" id="Cristina Cruz-Escalona de Grost " name="Cristina Cruz-Escalona de Grost ">
+                <div class="testimonial-content testimonials-left">
+                  <div class="testi-bg">
+                    <div class="testi-bg-text-bg">
+                      <div class="testimonialsboximg"> </div>
+                      <div class="testi-text-n"> Estimados Pouparina
+ 
+Uds son unos artistas- 
+ 
+Cuanto les agradezco todo!
+ 
+Abracillos a todos uds
+Cristina Cruz-Escalona de Grost 
+ </div>
+                      <div class="clear"> </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="testimonial-content-avatar testimonials-right">
+                  <div class="testimonials-right-img hide-below-768"> </div>
+                  <div class="user-image">
+                                      </div>
+                  <div class="testimon-name">
+                    <div class="testimonial-source"> <h2 style="color: #262a74; font-family: open_sansbold; font-size: 16px; font-weight: 400; margin-bottom: 3px;">Cristina Cruz-Escalona de Grost </h2> <span class="testimonial-address">
+                    El Paso, Texas                                            </span> </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+                                                                                                                                                                                              </ul>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript">
+//<![CDATA[
+	jQuery(function($) {
+
+		$('.flower-itemslider-wrapper .flower-itemslider').flexslider({
+			namespace: "",
+			animation: "fade",
+	
+			
+							slideshow: true,
+				animationLoop: true,
+						
+						
+							animationSpeed: 800,
+						
+			pauseOnHover: false,
+			controlNav: false,
+			controlsContainer: ".flower-itemslider-wrapper .nav-wrapper",
+			
+			itemWidth: 188,
+							minItems: 1,
+				maxItems: 1,
+						
+			move: 0		})
+					.data("breakpoints", [ [0, 1], [320, 1], [480, 1], [768, 1], [960, 1], [1280, 1] ] )
+				; //IMPORTANT: don't remove semicolon!
+		
+	});
+//]]>
+</script>
+<!--/***********************End testimonial here***********************/-->          
+      
+<div class="footer-container">
+        <div class="footer-primary-container section-container">
+    <div class="footer-primary footer container show-bg">
+      <div class="grid-full">
+                <div class="section clearer">  
+        <div class="collapsible mobile-collapsible description">
+<h6 class="block-title heading">Visit Flowers By Pouparina</h6>
+<div class="block-content">
+<div class="feature first last">
+<p class="text">When you need flower delivery to Miami, Flowers By Pouparina is here for you. We have an expansive array of flowers, plants and gifts to suit any occasion.</p>
+<div class="read-more"><a href="https://www.flowersbypouparina.com/disclaimer/">Read more »</a></div>
+</div>
+</div>
+</div>
+<div class="collapsible mobile-collapsible">
+<h6 class="block-title heading">Customer service</h6>
+<div class="block-content">
+<ul class="bullet">
+<li><a href="https://www.flowersbypouparina.com/our-story/">Our Story</a></li>
+<li><a href="https://www.flowersbypouparina.com/code-of-ethics/">Code of Ethics</a></li>
+<li><a href="https://www.flowersbypouparina.com/store-hours/">Store Hours</a></li>
+<li><a href="https://www.flowersbypouparina.com/employment/">Employment</a></li>
+<li><a href="https://www.flowersbypouparina.com/golden-blooms-reward-program/">Golden Bloom Reward Program</a></li>
+<!--<li><a href="https://www.flowersbypouparina.com/pouparina-florist/">Pouparina Florist</a></li>
+<li><a href="https://www.flowersbypouparina.com/catalog/seo_sitemap/category/">Sitemap</a></li>
+<li><a href="https://www.flowersbypouparina.com/disclaimer/">Disclaimer</a></li>--></ul>
+</div>
+</div>
+<div class="collapsible mobile-collapsible">
+<h6 class="block-title heading">Customer Info</h6>
+<div class="block-content">
+<ul class="bullet">
+<li><a href="https://www.flowersbypouparina.com/areas-served/">Areas Served</a></li>
+<li><a href="https://www.flowersbypouparina.com/specialty-services/">Specialty Services</a></li>
+<li><a href="https://www.flowersbypouparina.com/contacts/">Contact Us</a></li>
+<li><a href="https://www.flowersbypouparina.com/sitemap/">Sitemap</a></li>
+<li><a href="https://www.flowersbypouparina.com/blog/">Blog</a></li>
+<li><a href="https://www.flowersbypouparina.com/testimonial">Testimonial</a></li>
+<li><a href="https://www.flowersbypouparina.com/news">News</a></li>
+<!--<li><a href="https://www.flowersbypouparina.com/payment-options/">Payment Options</a></li>--></ul>
+</div>
+</div>
+<div class="collapsible mobile-collapsible">
+<h6 class="block-title heading">Corporate</h6>
+<div class="block-content">
+<ul class="bullet">
+<li><a href="https://www.flowersbypouparina.com/substitution-policy/">Substitution Policy</a></li>
+<li><a href="https://www.flowersbypouparina.com/privacy-policy-cookie-restriction-mode/">Privacy Policy</a></li>
+<li><a href="https://www.flowersbypouparina.com/cancellation-policy/">Cancellation Policy</a></li>
+<!--<li><a href="https://www.flowersbypouparina.com/sales-tax-information/">Sales Tax Information</a></li>--></ul>
+</div>
+<div style="padding: 0px 0px;"><strong style="color: #262a74;">Main Location: Hialeah Miami lakes</strong><br/> <strong>7701 W 26th Ave #7 <br/> Hialeah FL 33016</strong></div>
+<div class="clear"> </div>
+</div>
+<div class="collapsible mobile-collapsible">
+<h6 class="block-title heading">Information</h6>
+<div class="block-content">
+<ul class="bullet">
+<li><a href="https://www.flowersbypouparina.com/delivery-policy/">Delivery Policy</a></li>
+<li><a href="https://www.flowersbypouparina.com/our-guarantee/">Our Guarantee</a></li>
+<li><a href="https://www.flowersbypouparina.com/flowers-resource-guide/">Flowers Resource Guide</a></li>
+<li><a href="https://www.flowersbypouparina.com/quotes-sentiments/">Quotes &amp; Sentiments</a></li>
+<!--<li><a href="https://www.flowersbypouparina.com/order-changes/">Order Changes</a></li>
+<li><a href="https://www.flowersbypouparina.com/enable-cookies/">Enable Cookies</a></li>--></ul>
+</div>
+<div><strong style="color: #262a74;">Affiliated location: Little Havana Brickell </strong><br/><strong> <span>1868 W. Flagler St Miami FL 33135</span><br/> <span>(305) 266-2311</span><br/> <span>customerservice@flowersbypouparina.com</span></strong></div>
+</div>        </div>
+        <!-- end: footer-primary section -->
+                   <div class="AuthorizeNetSeal"> <script language="javascript" type="text/javascript">var ANS_customer_id="6af290ac-6876-48c4-a245-42e074481aca";</script> <script language="javascript" src="https://verify.authorize.net/anetseal/seal.js" type="text/javascript"></script> <a href="https://www.authorize.net/" id="AuthorizeNetText" rel="nofollow" target="_blank">Online Payments</a> </div>         
+                <div class="item item-right block_footer_payment">
+		<p><img alt="Payment methods" src="https://www.flowersbypouparina.com/media/wysiwyg/payment-cart-image.png"/></p></div>
+        <div class="footer_newslatter">
+		
+<div class="clearer" id="subscribe-form">
+    <form action="https://www.flowersbypouparina.com/newsletter/subscriber/new/" id="newsletter-validate-detail" method="post">
+        <div>
+            <label for="newsletter">Newsletter</label>
+            <div class="input-box">
+                <input class="input-text required-entry validate-email" id="newsletter" name="email" title="Sign up for our newsletter" type="text"/>
+            </div>
+            <button class="button btn-inline" onclick="ga('send', 'event', { eventCategory: 'Itinerary Request', eventAction: 'Click'});" title="Subscribe" type="submit"><span><span>Subscribe</span></span></button>
+        </div>
+    </form>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    new Varien.searchForm('newsletter-validate-detail', 'newsletter', 'Enter your email address');
+//]]>
+</script>
+        </div>
+                                <!-- end: footer-primary-bottom -->
+              </div>
+      <!-- end: grid-full --> 
+    </div>
+    <!-- end: footer-primary --> 
+  </div>
+    
+  
+  
+  
+  
+  
+  
+  
+  <div class="footer-bottom-container section-container">
+    <div class="footer-bottom footer container">
+      <div class="grid-full">
+        <div class="section clearer">
+          <div class="item item-left">
+            <p class="footer-copyright">© 2015 Flowers by Poupariña. All Rights Reserved.</p>
+          </div>
+                  </div>
+        <!-- end: footer-bottom section --> 
+        
+      </div>
+      <!-- end: grid-full --> 
+    </div>
+    <!-- end: footer-bottom --> 
+  </div>
+    <a href="#top" id="scroll-to-top">To top</a>
+  </div>
+</div>
+</div>
+<!-- end: footer-container --> 
+
+ 
+<script type="text/javascript">
+	//<![CDATA[
+
+			function setGridItemsEqualHeight($)
+	{
+		var SPACING = 20;
+		if ($(window).width() >= 480)
+		{
+			$('.category-products-grid').removeClass("auto-height");
+			
+			var gridItemMaxHeight = 0;
+			$('.category-products-grid > .item').each(function() {
+				$(this).css("height", "auto");
+				
+				////////////////////////////////////////////////////////////////
+									var actionsHeight = $(this).find('.actions').height();
+					$(this).css("padding-bottom", (actionsHeight + SPACING) + "px"); //Set new padding
+								////////////////////////////////////////////////////////////////
+				
+				gridItemMaxHeight = Math.max(gridItemMaxHeight, $(this).height());
+			});
+			
+			//Apply max height
+			$('.category-products-grid > .item').css("height", gridItemMaxHeight + "px");
+		}
+		else
+		{
+			$('.category-products-grid').addClass("auto-height");
+			$('.category-products-grid > .item').css("height", "auto");
+			$('.category-products-grid > .item').css("padding-bottom", "20px");
+		}
+	}
+		
+	
+	
+	jQuery(function($) {
+
+				$('.collapsible').each(function(index){
+			$(this).prepend('<span class="opener">&nbsp;</span>');
+			if ($(this).hasClass('active'))
+			{
+				$(this).children('.block-content').css('display', 'block');
+			}
+			else
+			{
+				$(this).children('.block-content').css('display', 'none');
+			}			
+		});
+				$('.collapsible .opener').click(function() {
+			
+			var parent = $(this).parent();
+			if (parent.hasClass('active'))
+			{
+				$(this).siblings('.block-content').stop(true).slideUp(300, "easeOutCubic");
+				parent.removeClass('active');
+			}
+			else
+			{
+				$(this).siblings('.block-content').stop(true).slideDown(300, "easeOutCubic");
+				parent.addClass('active');
+			}
+			
+		});
+		
+		
+				var ddOpenTimeout;
+		var dMenuPosTimeout;
+		$(".clickable-dropdown > .dropdown-toggle").click(function() {
+			$(this).parent().addClass('open');
+			$(this).parent().trigger('mouseenter');
+		});
+		$(".dropdown").hover(function() {
+			
+			var DELAY = 300;
+			var ddToggle = $(this).children('.dropdown-toggle');
+			var ddMenu = $(this).children('.dropdown-menu');
+			var ddWrapper = ddMenu.parent(); 			
+						ddMenu.css("left", "");
+			ddMenu.css("right", "");
+			
+						if ($(this).hasClass('clickable-dropdown'))
+			{
+								if ($(this).hasClass('open'))
+				{
+					$(this).children('.dropdown-menu').stop(true, true).delay(DELAY).fadeIn(300, "easeOutCubic");
+				}
+			}
+			else
+			{
+								clearTimeout(ddOpenTimeout);
+				ddOpenTimeout = setTimeout(function() {
+					
+					ddWrapper.addClass('open');
+					
+				}, DELAY);
+				
+				//$(this).addClass('open');
+				$(this).children('.dropdown-menu').stop(true, true).delay(DELAY).fadeIn(300, "easeOutCubic");
+			}
+			
+						clearTimeout(dMenuPosTimeout);
+			dMenuPosTimeout = setTimeout(function() {
+
+				if (ddMenu.offset().left < 0)
+				{
+					var space = ddWrapper.offset().left; 					ddMenu.css("left", (-1)*space);
+					ddMenu.css("right", "auto");
+				}
+			
+			}, DELAY);
+			
+		}, function() {
+			var ddMenu = $(this).children('.dropdown-menu');
+			clearTimeout(ddOpenTimeout); 			ddMenu.stop(true, true).delay(150).fadeOut(300, "easeInCubic");
+			if (ddMenu.is(":hidden"))
+			{
+				ddMenu.hide();
+			}
+			$(this).removeClass('open');
+		});
+		
+		
+		
+							$(".main").addClass("show-bg");
+				
+		
+		
+				var windowScroll_t;
+		$(window).scroll(function(){
+			
+			clearTimeout(windowScroll_t);
+			windowScroll_t = setTimeout(function() {
+										
+				if ($(this).scrollTop() > 100)
+				{
+					$('#scroll-to-top').fadeIn();
+				}
+				else
+				{
+					$('#scroll-to-top').fadeOut();
+				}
+			
+			}, 500);
+			
+		});
+		
+		$('#scroll-to-top').click(function(){
+			$("html, body").animate({scrollTop: 0}, 600, "easeOutCubic");
+			return false;
+		});
+		
+		
+		
+						
+						$('.category-products-grid > .item').hover(function() {
+				$(this).find(".display-onhover").fadeIn(400, "easeInCubic");
+			}, function() {
+				$(this).find(".display-onhover").hide();
+			});
+		
+		
+
+
+				//Window size variables
+		var winWidth = $(window).width();
+		var winHeight = $(window).height();
+		var windowResize_t;
+		$(window).resize(function() {
+
+						var winNewWidth = $(window).width();
+			var winNewHeight = $(window).height();
+			if (winWidth != winNewWidth || winHeight != winNewHeight)
+			{
+
+				clearTimeout(windowResize_t);
+				windowResize_t = setTimeout(function() {
+		
+										$(document).trigger("themeResize");
+
+																setGridItemsEqualHeight($);
+									
+										$('.itemslider').each(function(index) {
+						var flex = $(this).data('flexslider');
+						if (flex != null)
+						{
+							flex.flexAnimate(0);
+							flex.resize();
+						}
+					});
+					
+										var slideshow = $('.the-slideshow').data('flexslider');
+					if (slideshow != null)
+					{
+						slideshow.resize();
+					}
+				
+				}, 200); //TODO: choose default value
+
+			} //end: if
+			//Update window size variables
+			winWidth = winNewWidth;
+			winHeight = winNewHeight;
+
+		}); //end: on resize
+		
+		
+
+	}); /* end: jQuery(){...} */
+	
+	
+	
+	jQuery(window).load(function(){
+		
+							setGridItemsEqualHeight(jQuery);
+		
+	}); /* end: jQuery(window).load(){...} */
+
+	//]]>
+</script>
+
+
+<script>var FEED_BASE_URL="https://www.flowersbypouparina.com/";</script><script src="https://www.flowersbypouparina.com/js/mirasvit/code/feedexport/performance.js" type="text/javascript"></script><script type="text/javascript">
+//<![CDATA[
+
+jQuery(function($) {
+
+var islider={config:{elements:".itemslider-responsive",columnCount:5,maxBreakpoint:960,breakpoints:[[1680,3],[1440,2],[1360,1],[1280,1],[960,0],[768,-1],[640,-2],[480,-3],[320,-5]]},init:function(a){$.extend(islider.config,a)},onResize_recalculateAllSliders:function(){return islider.recalculateAllSliders(),!1},recalculateAllSliders:function(){$(islider.config.elements).each(function(){null!=$(this).data("flexslider")&&islider.recalcElement($(this))})},recalcElement:function(a){var b,c=a.data("breakpoints");if(c)b=islider.getMaxItems_CustomBreakpoints(c);else{var d=a.data("showItems");void 0===d&&(d=islider.config.columnCount),b=islider.getMaxItems(d)}a.data("flexslider").setOpts({minItems:b,maxItems:b})},getMaxItems_CustomBreakpoints:function(a){if(infortisTheme.viewportW)var b=infortisTheme.viewportW;else var b=$(window).width();var c=islider.config.maxBreakpoint;"undefined"!=typeof infortisTheme&&infortisTheme.maxBreak&&(c=infortisTheme.maxBreak);for(var d,e=0;a.length>e;e++){var f=parseInt(a[e][0],10),g=parseInt(a[e][1],10);if(d=g,c>=f&&b>=f)return d}return d},getMaxItems:function(a){var b=islider.config.breakpoints;if(infortisTheme.viewportW)var c=infortisTheme.viewportW;else var c=$(window).width();var d=islider.config.maxBreakpoint;"undefined"!=typeof infortisTheme&&infortisTheme.maxBreak&&(d=infortisTheme.maxBreak);for(var e,f=0;b.length>f;f++){var g=parseInt(b[f][0],10),h=parseInt(b[f][1],10);if(e=a+h,0>=e&&(e=1),d>=g&&c>=g)return e}return e}};
+	
+	if (typeof infortisTheme !== 'undefined' && infortisTheme.responsive)
+	{
+		islider.init( {elements: '.itemslider-responsive'} );
+		islider.recalculateAllSliders();
+		$(document).on("themeResize", islider.onResize_recalculateAllSliders );
+	}
+
+});
+
+//]]>
+</script> </div>
+  </div>
+
+<!-- end: root-wrapper --> 
+
+
+</body></html>

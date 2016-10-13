@@ -1,0 +1,2714 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<link href="favicon_animated.ico" rel="shortcut icon"/>
+<link href="favicon_animated.ico" rel="icon" type="image/ico"/>
+  
+
+<!-- <meta http-equiv="Content-Type" content="text/html; charset=windows-1252"></meta> -->
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+ 
+ 	
+	<title>Online Florist India - Modern way to deliver Flower Bouquet in India.</title>
+
+<meta content="Bouquet Delivery in India: Flowers and Gift Delivery has never been so easy, send flowers online from New India Online Florist. A Modern way to deliver Flower Bouquet in India." name="Description"/>
+
+<meta content="Send Flowers, Florist, Flowers Delivery , Indian Florist, Online Florist, Retail Store, Flower Shop , Florist Shop, Online Florist India." name="Keywords"/>
+	
+ 
+ 
+<link href="https://plus.google.com/114760411457007998629/posts" rel="author"/>
+<link href="https://plus.google.com/114760411457007998629" rel="publisher"/>
+
+
+ 
+<meta content="no" http-equiv="imagetoolbar"/>
+
+<link href="/newindia.css" media="screen,print" rel="stylesheet" type="text/css"/> 
+<style type="text/css">
+
+/* root element for tabs  */
+ul.css-tabs {
+    margin:0 !important;
+    padding:0;
+    height:30px;
+    border-bottom:1px solid #cccccc;
+}
+
+/* single tab */
+ul.css-tabs li {
+    float:left;
+    padding:0;
+    margin:0;
+    list-style-type:none;
+}
+
+/* link inside the tab. uses a background image */
+ul.css-tabs a {
+    float:left;
+    font-size:13px;
+    display:block;
+    padding:5px 20px;
+    text-decoration:none;
+    border:1px solid #cccccc;
+    border-bottom:0px;
+    height:18px;
+    background-color:#f7f7f7;
+    color:#777;
+    margin-right:2px;
+    position:relative;
+    top:1px;
+    outline:0;
+    -moz-border-radius:4px 4px 0 0;
+}
+
+ul.css-tabs a:hover {
+    background-color:#F7F7F7;
+    color:#333;
+}
+
+/* selected tab */
+ul.css-tabs a.current {
+    background-color:#ffffff;
+    border-bottom:1px solid #ffffff;
+    color:#000;
+    cursor:default;
+}
+
+
+/* tab pane */
+.css-panes div {
+    display:none;
+    border:1px solid #cccccc;
+    border-width:0 1px 1px 1px;
+    min-height:50px;
+    padding:10px 20px;
+    background-color:#ffffff;
+}
+</style>
+ <link href="/flick/jquery-ui-1.9.0.custom.css" media="screen,print" rel="stylesheet" type="text/css"/>    
+ <link href="/fancyboxjs/jquery.fancybox.css" media="screen" rel="stylesheet" type="text/css"/>   
+    
+<script src="/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="/jui/jquery-ui-1.9.0.custom.min.js" type="text/javascript"></script>
+ 
+
+
+<script src="/jquery.hoverIntent_min.js" type="text/javascript"></script> 
+<script src="/jcarousellite11min.js" type="text/javascript"></script> 
+  
+<script src="/jquery.tools.min.js" type="text/javascript"></script> 
+
+<script src="/jquery.color_min.js" type="text/javascript"></script>
+
+
+  
+
+	<!-- Add fancyBox main JS and CSS files -->
+	<script src="/fancyboxjs/jquery.fancybox_min.js" type="text/javascript"></script>
+	
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+</script>
+
+
+ 
+
+
+
+
+
+<script type="text/javascript">
+
+/*** 
+    Simple jQuery Slideshow Script
+    Released by Jon Raasch (jonraasch.com) under FreeBSD license: free to use or modify, not responsible for anything, etc.  Please link out to me if you like it :)
+***/
+
+function slideSwitch() {
+    var $active = $('#slideshow DIV.active');
+
+    if ( $active.length == 0 ) $active = $('#slideshow DIV:last');
+
+    // use this to pull the divs in the order they appear in the markup
+    var $next =  $active.next().length ? $active.next()
+        : $('#slideshow DIV:first');
+
+    // uncomment below to pull the divs randomly
+    // var $sibs  = $active.siblings();
+    // var rndNum = Math.floor(Math.random() * $sibs.length );
+    // var $next  = $( $sibs[ rndNum ] );
+
+
+    $active.addClass('last-active');
+
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
+}
+
+$(function() {
+    setInterval( "slideSwitch()", 5000 );
+});
+
+</script>
+
+<style type="text/css">
+
+/*** set the width and height to match your images **/
+ 
+
+#slideshow {
+    position:relative;
+    height:240px;
+}
+
+#slideshow DIV {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    opacity:0.0;
+    height: 240px;
+    background-color: #FFF;
+}
+
+#slideshow DIV.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshow DIV.last-active {
+    z-index:9;
+}
+
+#slideshow DIV IMG {
+    height: 240px;
+    display: block;
+    border: 0;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ############################################### */
+
+.topmenu{
+list-style:none;
+margin:0;
+padding:0;
+
+}
+
+
+.topmenu .m_level_1{
+float:left;
+display:table-cell;
+border-right:1px dotted #ffffff;
+border-left:1px dotted transparent;
+font-family:verdana;
+font-size:9pt;
+font-weight:bold;
+
+height:37px; 
+line-height:37px;
+padding-left:8px;
+padding-right:8px;
+color:#ffffff;
+text-transform:capitalize;
+letter-spacing:0px;
+
+}
+
+ 
+
+.topmenu .m_level_1:hover{
+border-right:1px dotted #ffffff;
+border-left:1px dotted transparent;
+background:#2e7800 url(/images/menu_arrow.gif);
+background-repeat:no-repeat;
+background-position:bottom center;
+color:#ffffff;
+}
+
+
+.topmenu .m_level_1_selected{
+border-right:1px dotted #ffffff;
+border-left:1px dotted transparent;
+background:#2e7800 url(/images/menu_arrow_down.gif);
+background-repeat:no-repeat;
+background-position:bottom center;
+color:#ffffff;
+
+}
+
+.topmenu .m_level_1_selected_red{
+border-right:1px dotted #ffffff;
+border-left:1px dotted transparent;
+background:#ff6600 url(/images/menu_arrow_down.gif);
+background-repeat:no-repeat;
+background-position:bottom center;
+color:#ffffff;
+
+}
+
+
+
+.topmenu .m_level_1 .m_level_1_link{ 
+line-height:36px; 
+color:#ffffff;
+text-transform:capitalize;
+letter-spacing:0px;
+text-decoration:none;
+display:block;
+text-shadow:1px 1px 2px #250049;
+}
+
+
+.topmenu .m_level_1 .m_level_1_link:hover{ 
+  
+color:#ffffff;
+ background:#2e7800  url(/images/menu_arrow.gif);
+ background-repeat:no-repeat;
+background-position:bottom center;
+}
+
+
+.menu_div_comm{
+	float:left;	
+	margin-top:10px;
+	margin-left:15px;
+	width:175px;
+	border-right:0px dotted #cccccc;
+}
+
+.menu_div_ul{
+list-style:none;
+margin:0;
+padding:0;
+font-size:9pt;
+line-height:23px;
+letter-spacing:0px;
+}
+.menu_div_ul li{
+	padding:0;
+	padding-left:15px;
+	font-weight:normal;
+	font-family:arial,verdana,tahoma;
+	color:#000000;
+	text-decoration:none;
+	letter-spacing:0px;
+/*	background:#ffffff url(/images/green_bullet.jpg) no-repeat; */
+	background-position:left center;
+
+}
+
+
+
+
+
+.menu_div_ul .colored  a{
+ 
+	text-decoration:none;
+	  color:#000000;
+
+}
+
+.menu_div_ul li a{
+ 
+	text-decoration:none;
+	  color:#222222;
+	  display:block;
+
+}
+
+.menu_div_ul li:hover{
+ 
+	color:#000000;
+ 	font-weight:bold;
+ 	letter-spacing:1px;
+
+ 	border-top:0px dotted #e5e5e5;
+ 	 	border-bottom:1px dotted #e5e5e5;
+	background:#ffffff url(/images/red_left_arrow.gif) no-repeat;
+
+	background-position:left center;
+
+}
+
+
+.menu_div_ul .menu_div_ul_li_selected{
+ 
+	color:#000000;
+ 	font-weight:bold;
+ 	letter-spacing:1px;
+
+ 	border-top:0px dotted #e5e5e5;
+ 	 	border-bottom:0px dotted #e5e5e5;
+	background:#ffffff url(/images/red_left_arrow.gif) no-repeat;
+
+	background-position:left center;
+
+}
+
+
+.menu_div_ul .menu_link1{
+
+padding-left:5px;
+font-weight:normal;
+border-bottom:1px dotted #e5e5e5;
+
+
+}
+
+
+ .menu_div_ul .drop_menu_mtitle_li{
+	 background:  ;
+	background-position: left center; 
+	color:#000000;
+	border-bottom:1px dotted #e5e5e5;
+	line-height:30px;
+	height:30px;
+}
+ 
+ 
+ .menu_div_ul  .menu_div_ul_liblank{
+	background:none;
+	height:10px;
+}
+ 
+ a.drop_menu_mtitle{
+  
+	font-size:11pt;
+	font-family:arial,verdana,tahoma;
+	font-weight:normal;
+	text-decoration:none;
+	color:#000000 !important;
+	margin-right:10px;
+	letter-spacing:1px;
+	
+}
+
+ a.drop_menu_mtitle:hover{
+  
+ background:#ffffcc;
+	color:#000000;
+	
+}
+ 
+
+</style>
+
+
+<style type="text/css">
+/* ############################ for home ############################ */
+
+
+.direction_ul{
+list-style:none;
+margin:0;
+padding:0;
+width:299px;
+
+}
+
+
+
+.direction_ul .direction_leftli{
+width:147px;
+height:38px;
+background-image:url(/images/orange_links_left.png);
+text-align:left;
+border-bottom:1px solid #ffffff;
+border-left:0px solid #ffffff;
+float:left;
+font-size:11pt;
+color:#ffffff;
+line-height:38px;
+
+}
+ 
+.direction_ul .direction_leftli:hover{
+background-image:url(/images/orange_links_hover_green_left.png);
+}
+
+.direction_ul .direction_leftli .dir_left_link{
+width:147px;
+height:38px;
+font-family:arial,tahoma;
+font-size:11pt;
+display:block;
+line-height:38px;
+text-decoration:none;
+color:#ffffff;
+padding-left:30px;
+
+}
+
+
+
+.direction_ul .direction_rightli{
+width:147px;
+height:38px;
+background-image:url(/images/orange_links.png);
+text-align:left;
+border-bottom:1px solid #ffffff;
+border-left:1px solid #ffffff;
+float:left;
+font-size:11pt;
+color:#ffffff;
+line-height:38px;
+}
+
+
+.direction_ul .direction_rightli:hover{
+background-image:url(/images/orange_links_hover_green.png);
+}
+
+.direction_ul .direction_rightli .dir_right_link{
+width:147px;
+height:38px;
+font-family:arial,tahoma;
+font-size:11pt;
+display:block;
+line-height:38px;
+text-decoration:none;
+color:#ffffff;
+padding-left:20px;
+}
+
+
+.direction_ul .direction_green{
+background-image:url(/images/orange_links_hover_green_left.png);
+}
+
+.direction_ul .direction_green:hover{ 
+background-image:url(/images/orange_links_hover_deep1_left.png);
+}
+
+ 
+.direction_ul .direction_violet{
+background-image:url(/images/orange_links_hover_deep1.png);
+}
+
+.direction_ul .direction_violet:hover{ 
+background-image:url(/images/orange_links_hover_green.png);
+} 
+ 
+
+
+</style>
+
+
+  
+<!--[if lt IE 7]>
+<style>
+  .tooltip {
+    background-image:url(/tooltip/black_arrow.gif);
+  }
+</style>
+<![endif]-->
+
+	
+			
+			
+	
+
+<script language="javascript" type="text/javascript">
+
+$(function() {
+   
+		$(".birthday_link").hoverIntent(function(){
+		$("#birthday_menu_div").slideDown('fast');
+		},function(){
+		$("#birthday_menu_div").slideUp('fast');
+		});
+		
+		//##############################
+		
+		$(".ocassion_link").hoverIntent(function(){
+		$("#ocassion_menu_div").slideDown('fast');
+		},function(){
+		$("#ocassion_menu_div").slideUp('fast');
+		});
+		
+	 //##############################
+		
+		$(".flowers_link").hoverIntent(function(){
+		$("#flowers_menu_div").slideDown('fast');
+		},function(){
+		$("#flowers_menu_div").slideUp('fast');
+		});
+		
+	//##############################
+
+	 //##############################
+		
+		$(".cakes_link").hoverIntent(function(){
+		$("#cakes_menu_div").slideDown('fast');
+		},function(){
+		$("#cakes_menu_div").slideUp('fast');
+		});
+		
+	//##############################	
+	
+	
+		
+		$(".delivery_link").hoverIntent(function(){
+		$("#delivery_menu_div").slideDown('fast');
+		},function(){
+		$("#delivery_menu_div").slideUp('fast');
+		});	
+	
+	//##############################
+		
+		$(".combo_link").hoverIntent(function(){
+		$("#combo_menu_div").slideDown('fast');
+		},function(){
+		$("#combo_menu_div").slideUp('fast');
+		});	
+	
+	//##############################
+		
+		$(".giftbasket_link").hoverIntent(function(){
+		$("#giftbasket_menu_div").slideDown('fast');
+		},function(){
+		$("#giftbasket_menu_div").slideUp('fast');
+		});	
+			
+	//##############################	
+		
+		$(".specialitygifts_link").hoverIntent(function(){
+		$("#specialitygifts_menu_div").slideDown('fast');
+		},function(){
+		$("#specialitygifts_menu_div").slideUp('fast');
+		});	
+		
+	//##############################
+		
+		$(".help_link").hoverIntent(function(){
+		$("#help_menu_div").slideDown('fast');
+		},function(){
+		$("#help_menu_div").slideUp('fast');
+		});			
+		
+ 
+		
+		//#############################################################################
+		
+		
+		$(".cartlink_li").hoverIntent(function(){
+		$("#cartdiv").slideDown('fast');
+		},function(){
+		$("#cartdiv").slideUp('fast');
+		});
+		
+		//#################################
+		
+		$(".right_contry_list").hoverIntent(function(){
+		$(".rcl").slideDown('slow');
+		},function(){
+		$(".rcl").slideUp('fast');
+		});
+		
+		
+		
+		//#################################
+		
+		// Jcorosel
+		
+		$(".n_jcourosel").jCarouselLite({
+         	auto: 3000,
+   			 speed: 3500,
+   			 visible: 1,
+   			  scroll: 1, 
+   			  
+   			  beforeStart: function(a) {
+         // alert("Before animation starts:" + $(a).attr("title"));
+         nclassname="." + $(a).attr("title");
+         	$("#tabscroll li").removeClass("tabscroll_li_hoverclass"); 
+      		$(nclassname).addClass("tabscroll_li_hoverclass"); 
+    },
+    
+    afterEnd: function(a) {
+      //  alert("After animation ends:" + a);
+     // $(nclassname).removeClass("tabscroll_li_hoverclass"); 
+      
+    },
+    
+    
+   			    circular: true,
+   			   btnGo:
+    [".scroll_link1", ".scroll_link2"]
+   			  
+   			  
+   			  
+   			  
+  		  });
+		
+		// end Jcorosel
+		
+		
+		// ################# tool tip ################## //
+		
+			$(".jqtips").tooltip();
+			
+			$(".jqtips1").tooltip({ position: "bottom center",tipClass: "tooltip_bottom"});
+		
+		// ################### N Tabs
+		 
+	    // setup ul.tabs to work as tabs for each div directly under div.panes
+	    $("ul.tabs").tabs("div.panes > div");
+	 
+
+});
+
+</script>
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37022739-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></head>
+
+
+
+
+<body>
+
+
+<center>
+<div align="center" style="border:0px solid red;width:999px; display:block;margin-left:auto;margin-right:auto;">
+ 
+  
+  
+  
+  
+  
+  
+ <!-- ########################### -->
+
+	
+	
+<!-- ################# -->
+
+
+ <div align="center" class="center_div">
+<!--
+ <div style="margin-top:0px;margin-bottom:0px;margin-left:-20px;border:0px solid #ffffff;clear:both;" align=center >	
+	<img src="/satisfaction_guarantee1.jpg" style="margin-bottom:4px" alt="Florist Customer Statisfaction">
+</div>
+-->
+ <ul class="top_header_ul" id="top_header_ul">
+ <li class="starttext_li" style="color:#e5e5e5"><b>
+  
+ 
+ New India Florist: Flower Bouquet &amp; Gift Delivery by Online Florist in India.
+ 
+ </b></li>
+ <li class="trackorder_li"><a class="violet_links" href="/trackorder/" style="margin-left:70px;margin-top:10px;color:#cccccc">TRACK ORDER</a></li>
+  <li class="cartlink_li"><a class="cart_links" href="" style="margin-left:5px;color:#cccccc">Cart  
+			 <img alt="cart_icon" border="0" src="/images/n_cart.gif"/>  0 Items  <img alt="cart_icon" border="0" src="/images/down_arrow_violet.gif"/>
+			 </a>
+			 
+			 <div style="border:0px solid #ff9900;position:relative;z-index:60;">
+			 <div class="rcor menushadow menushadow" id="cartdiv" style="display:none;width:209px;top:2px;border:1px solid #ffffff;left:-60px;position:absolute;background:#f7f7f7">
+			 <ul class="cartul">
+			 
+			 	<li style="background:#ffffff;border-bottom:1px dotted #ff9900;">
+			 	<span class="cart_title">
+				 » Your Shopping Cart
+				</span> 
+				 </li>
+				 
+				  				 
+				 
+	
+
+ 				 
+		 
+				 
+				 
+				 
+			 </ul>
+			 
+ </div>
+ 
+ 
+			  </div>
+			 </li>
+ </ul>
+  
+	
+	</div>
+		
+	<!-- ################# -->
+	
+	
+	
+	
+	 <div align="center" class="center_div" style="border:0px solid #ff9900;z-index:50;">
+	 
+	 
+	 
+	 
+	 <ul class="top_header" id="top_header">
+	 <li style="width:25%; text-align:left">
+	 <a href="/" itemprop="brand" itemscope="" itemtype="http://schema.org/Brand"><img alt="NIF - New India Florist Home Page" border="0" itemprop="logo" src="/images/n_nif_emblem_sml.jpg" style="margin-top:25px;margin-left:10px"/></a>
+	 
+	   
+	 </li>
+	 
+	 	 <li style="width:40%; ">
+	 	 <!--
+	 	 <a href="/vendor_register.php" class="violet_links" style="margin-left:200px;font-weight:bold;margin-top:10px;  ">[ Florist / Vendor  Register  ]</a>
+	  -->
+	  
+	  	 <br/><br/>
+	 	 
+	 	 
+		  
+	  
+	 	 
+		  <img alt="secure shopping" border="0" src="/images/secureshopping.jpg" style="margin-left:160px;margin-top:30px;"/>
+		  
+		  
+		  </li>
+	 	 
+	 	 	 <li style="width:34%">
+	 	 	 <div style="text-align:right;width:100%;color:#ff6600;font-size:16pt;font-family:times,'times new roman';margin-top:10px;padding-right:5px">NewIndiaFlorist.com<br/></div>
+	 	 	 
+	 	 	 <div style="text-align:right;width:100%;color:#555555;font-size:18pt;font-family:times,'times new roman';font-style:italic;padding-right:5px">+91 8238366333, 555</div>
+	 	 	 <div style="padding-right:0px;float:right;margin-top:5px;">
+	 	 	 <form action="/flower-bouquet-delivery-India/" style="margin:0;padding:0">
+	 	 	 <input class="rcor" style="width:180px;height:25px;border:1px solid #e5e5e5" type="text"/> <input class="rcor" style="background:#ffbe00;height:29px;color:#ffffff;border:1px solid #e5e5e5" type="submit" value=" &gt;&gt; "/>
+	 	 	 </form>
+	 	 	 </div>
+	 	 	 
+	 	 	 </li>
+	 </ul>
+	 </div>
+	
+	
+ <!-- ################# -->
+ 
+ 
+  <div align="center" style="margin-top:2px;border:2px solid #ffffff;clear:both;height:37px;background:#61338d url(/images/menu_back_image.jpg);width:996px; ">
+<ul class="topmenu" id="topmenu">
+
+<li class="m_level_1"><a href="/"><img alt="Nif - New India Florist Homepage" border="0" src="/homeicon.gif"/></a>
+</li>
+
+<li class="m_level_1 birthday_link m_level_1_selected_red"><a class="m_level_1_link" href="javascript:void(0)">Products</a>
+
+
+		<div style="position:relative;">
+		<div class="menushadow_dark rcor" id="birthday_menu_div" style="position:absolute;background:#f7f7f7;border:5px solid #ffffff;left:-30px;width:965px;display:none;border-top:8px solid #ffbe02; z-index:2000;text-align:left">
+		
+			
+			 
+			 
+			 	<div class="menu_div_comm" style="background:#ffffff url(/images/menu_separator.jpg);background-repeat:repeat-y;background-position:top right;width:190px;height:390px;border-right:0px solid #cccccc; ">		
+					
+					<ul class="menu_div_ul" style="width:165px;">
+
+ <!--					
+<li class="drop_menu_mtitle_li"   ><a  href="/red-color-flowers-delivery-India/"  class="drop_menu_mtitle" style='color:#c10000 !important' > &bull; Valentine Special</a></li>
+			
+					
+					
+<li class="drop_menu_mtitle_li"   ><a  href="/rakhi-gift-delivery-India/"  class="drop_menu_mtitle" rel="nofollow"> &bull; Rakhi Special</a></li>
+
+ -->
+					
+				<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/flower-bouquet-delivery-India/"> • Flowers</a></li>
+ 			 	<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/cake-delivery-India/">•  Cakes</a></li>
+				<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/eggless-cake-delivery-India/"> • Eggless Cakes</a></li> 
+				 
+<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/chocolates-delivery-India/">•  Chocolates</a></li>
+ 
+<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/fruits-delivery-India/">•  Fruits</a></li>
+ 
+<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/dry-fruit-delivery-India/"> • Dry Fruits</a></li>
+<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/mithai-sweets-delivery-India/"> • Mithai</a></li>
+<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/soft-stuff-toy-delivery-India/"> • Soft Toys</a></li>
+<!--  <li class="drop_menu_mtitle_li"   ><a  href="/flowers-combo-India/"  class="drop_menu_mtitle"> &bull; Flower Combos</a></li> -->
+<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/big-flowers-hamper-India/"> • MIB: Hampers</a></li>
+					 
+					</ul>
+				</div>
+			 
+			 
+			
+		 
+				<div class="menu_div_comm">		
+					
+					<ul class="menu_div_ul">
+				<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/flower-bouquet-delivery-India/">FLOWERS</a></li>
+					<li><a href="/flower-bouquet-delivery-India/">All Flowers</a></li>
+					 <li class="menu_div_ul_li_selected"><a href="/roses-delivery-India/">Roses</a></li>
+					  <li><a href="/gerberas-delivery-India/">Gerberas</a></li>
+					<li><a href="/carnations-delivery-India/">Carnations</a></li>
+					<li><a href="/orchids-delivery-India/">Orchids</a></li>
+					<li><a href="/lilies-delivery-India/">Lilies</a></li>
+					<li><a href="/gladioli-delivery-India/">Gladioli</a></li>
+
+					<li><a href="/mixed-flowers-delivery-India/">Mixed Flowers</a></li>
+					</ul>
+				</div>
+				
+			 
+				<div class="menu_div_comm">		
+					<ul class="menu_div_ul">
+					<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/cake-delivery-India/">CAKES</a></li>
+					<li class="menu_div_ul_li_selected"><a href="/cake-delivery-India/">Fresh Cakes 1 Kg.</a></li>
+					<li><a href="/eggless-cake-delivery-India/">Egg Less Cakes</a></li>
+					<li><a href="/2kg-cake-delivery-India/">Cakes 2 Kg. &amp; Above</a></li>					
+					<li><a href="/5star-cake-delivery-India/">5 Star Cakes</a></li>
+					<li><a href="/special-shape-cake-delivery-India/">Special Shape Cakes</a></li>
+					<li><a href="/anniversary-cake-delivery-India/">Anniversary Cakes</a></li>
+					<li><a href="/kids-cake-delivery-India/">Kids Cakes</a></li>
+					<li><a href="/birthday-cake-delivery-India/">Birthday Cakes</a></li>
+					<li><a href="/special-cake-delivery-India/">Special Cakes</a></li>
+					<li class="colored"><a href="/flower-cake-delivery-in-india/">Cakes Combo</a></li>			 
+					</ul>
+				</div>
+		 	
+				
+				
+				<div class="menu_div_comm">		
+					<ul class="menu_div_ul">
+					<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/chocolates-delivery-India/">CHOCOLATES</a></li>
+					<li><a href="/chocolates-delivery-India/">All Chocolates</a></li>
+					<li><a href="/chocolate-basket-delivery-India/">Chocolate Baskets</a></li>
+					<li><a href="/chocolate-combo-delivery-India/">Chocolate Combos</a></li>
+				 
+		 
+			 	<li class="menu_div_ul_li_selected"><a href="/chocolate-bouquet-delivery-India/">Chocolate Bouquet</a></li>  
+				 
+					<li class="menu_div_ul_liblank "></li>
+					
+					<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/fruits-delivery-India/">FRUITS</a></li>
+				 	<li><a href="/fruits-delivery-India/">Fresh Fruits</a></li>
+				 	<li><a href="/fruit-basket-delivery-India/">Fruit Basket</a></li>
+					<li><a href="/fruit-flower-delivery-India/">Fruits Arrangement</a></li>
+					<li class="colored"><a href="/fruits-combo-delivery-India/">Fruits Combo</a></li>
+					<li class="menu_div_ul_liblank "></li>
+			 	
+					<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/dry-fruit-delivery-India/">DRY FRUITS</a></li>
+					<li><a href="/dry-fruit-delivery-India/">Dry Fruits</a></li>
+					<li><a href="/mixed-dry-fruit-delivery-India/">Mixed Dry Fruits</a></li>
+					<li class="colored"><a href="/dry-fruit-combo-delivery-India/">Dry Fruit Combo</a></li>		 			 
+					</ul>
+				</div>
+		
+				<div class="menu_div_comm">		
+					<ul class="menu_div_ul">
+					<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/mithai-sweets-delivery-India/">MITHAI</a></li>
+					<li><a href="/mithai-sweets-delivery-India/">Mithai &amp; Sweets</a></li>
+					<li><a href="/mithai-combo-delivery-India/">Mithai Combo</a></li>		 
+					<li class="menu_div_ul_liblank "></li>
+								
+					<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/soft-stuff-toy-delivery-India/">SOFT TOYS</a></li>
+				 	<li><a href="/soft-stuff-toy-delivery-India/">All Soft Toys</a></li>
+					<li><a href="/soft-toy-combo-delivery-India/">Soft Toys Combo</a></li>
+					<li class="menu_div_ul_liblank " style="background:#ffbe02;"></li>
+					<li class="menu_div_ul_liblank "></li>
+					
+					<!--
+					<li class="drop_menu_mtitle_li" ><a  href="#"  class="drop_menu_mtitle">GIFTS</a></li>
+					<li  ><a  href="#"  >Dress Material</a></li>
+					<li  ><a  href="#"  >Leather Gifts</a></li>
+					<li   ><a  href="#"  >Gourmet Gifts</a></li>
+					<li  class="colored" ><a  href="#"  >Gift Combos</a></li>
+					-->
+					  
+					</ul>
+				</div>		
+				
+						<div class="menu_div_comm" style="border:none;display:none">		
+					<ul class="menu_div_ul">
+				
+				 
+					<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/flowers-combo-India/">FLOWER COMBO</a></li>
+					<li class="menu_div_ul_li_selected"><a href="/flowers-combo-India/">All Combos</a></li>
+					<li><a href="/flower-cake-delivery-in-india/">Cake Combo</a></li>
+					<li><a href="/chocolate-combo-delivery-India/">Chocolate Combo</a></li>
+					<li><a href="/mithai-combo-delivery-India/">Mithai Combo</a></li>
+					<li><a href="/soft-toy-combo-delivery-India/">Soft Toys Combo</a></li>
+					<li><a href="/fruits-combo-delivery-India/">Fruit Combo</a></li>					
+					<li><a href="/special-combo-delivery-India/">Special Combo</a></li>
+			 
+					
+					<!-- <li  ><a  href="#"  >Gift Combo</a></li> 
+					<li  ><a  href="#"  >Special Combo</a></li>	-->	 
+					<li class="menu_div_ul_liblank "></li>
+
+<!--								
+					<li class="drop_menu_mtitle_li" ><a  href="#"  class="drop_menu_mtitle">BIG HAMPERS</a></li>
+					<li  ><a  href="#"  >ROOM FULL OF ROSES</a></li>
+					<li  ><a  href="#"  >GRAND CELEBRATION</a></li>
+					<li  ><a  href="#"  >COLORFUL SURPRISE</a></li>
+					<li  ><a  href="#"  >SWEET &amp; SWEET HAMPER</a></li>
+					<li  ><a  href="#"  >ANIVERSARY HAMPER</a></li>
+					<li  ><a  href="#"  >FOR YOU MOM</a></li>
+					<li  ><a  href="#"  >FOR MY DAD</a></li>
+					<li   class="colored"  ><a  href="#"  > VIEW ALL MIB HAMPERS</a></li>
+					
+-->					
+					 
+					  
+					</ul>
+				</div>	
+				 
+				 
+				
+			 
+				<div style="margin-left:10px;border-top:1px dotted #ff9900;clear:both;">
+				
+			 
+				     <a class="drop_menu_mtitle" href="/same-day-delivery/"> <img alt="Same day Flowers Delivery" src="/images/orange_left_arrow.jpg"/> SAME DAY DELIVERY</a>
+				      <a class="drop_menu_mtitle" href="/midnight-delivery/"> <img alt="Midnight Flowers Delivery" src="/images/orange_left_arrow.jpg"/> MID NIGHT DELIVERY</a>
+				 <!--   &nbsp;  <a  href="#"  class="drop_menu_mtitle"> <img src="/images/orange_left_arrow.jpg"  alt="" /> GIFTS DELIVERY</a>
+				     &nbsp;  <a  href="#"  class="drop_menu_mtitle"> <img src="/images/orange_left_arrow.jpg"  alt="" /> OUTSIDE INDIA</a> -->
+				  
+				  
+				</div>
+			 
+	 
+				
+		
+		
+		</div>
+		
+		</div>
+
+</li>
+
+
+
+<li class="m_level_1 ocassion_link "><a class="m_level_1_link" href="#">Occasions</a>
+
+<!-- ############### Ocassion ################# -->
+		<div style="position:relative;">
+		<div class="menushadow_dark rcor" id="ocassion_menu_div" style="position:absolute;background:#ffffff;border:5px solid #ffffff;width:390px;display:none;border-top:8px solid #ffbe02; z-index:1000;text-align:left">
+		
+				<div class="menu_div_comm">		
+					
+					<ul class="menu_div_ul">
+				<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="javascript:void(0)">OCCASION</a></li>
+			  
+		 
+					 <!--
+					  	<li  ><a  href="/red-color-flowers-delivery-India/"  style="color:#c10000;font-weight:normal;font-size:14pt"    >Valentine Special</a></li> 
+					  
+					 
+					
+					 	<li  ><a  href="/rakhi-gift-delivery-India/"  style="color:#c10000;font-weight:normal;font-size:14pt" rel="nofollow"  >Rakhi Special</a></li> 
+					 	
+					 	 -->
+					 
+					<li><a href="/ocassion/birthday-flower-delivery-India/">Birthday</a></li>
+					<li><a href="/ocassion/anniversary-flower-delivery-India/">Anniversary</a></li>
+					<li><a href="/ocassion/love-romance-flower-delivery-India/">Love &amp; Romance</a></li>					
+					<li><a href="/ocassion/newbaby-flower-delivery-India/">Baby &amp; Kids Gifts</a></li>
+					<li><a href="/ocassion/business-gift-flower-delivery-India/">Business Gifting</a></li>
+					<li><a href="/ocassion/sympathy-funeral-flower-delivery-India/">Funeral</a></li>
+					<li><a href="/ocassion/getwell-soon-flower-delivery-India/">Get Well Flowers</a></li>
+				 
+
+				 
+					<li><a href="/ocassion/mom-special-flower-delivery-India/">For Mom</a></li>
+					<li><a href="/ocassion/dad-special-flower-delivery-India/">For Dad</a></li>
+  
+					</ul>
+				</div>
+				
+				<div class="menu_div_comm" style="border:none;">		
+					<ul class="menu_div_ul"> 
+					<li> </li>
+					<li><a href="/ocassion/for-her-special-flower-delivery-India/">For Her</a></li>
+					<li><a href="/ocassion/for-him-special-flower-delivery-India/">For Him</a></li>
+					<li><a href="/ocassion/just-because-flower-delivery-India/">Just Because</a></li>
+
+					<li><a href="/ocassion/grih-pravesh-flower-delivery-India/">Grih Pravesh</a></li>
+					<li><a href="/ocassion/sympathy-funeral-flower-delivery-India/">Sympathy</a></li>
+					<li><a href="/ocassion/thank-you-flower-delivery-India/">Thank You Flowers</a></li>
+					<li><a href="/ocassion/wedding-gift-flower-delivery-India/">Wedding Flowers</a></li>
+
+				 			 
+					</ul>
+				</div>
+			
+				<div style="margin-left:10px;border-top:1px dotted #ff9900;clear:both;">	
+					  			
+			 
+				     <a class="drop_menu_mtitle" href="/same-day-delivery/"> <img alt="Same Day Delivery" src="/images/orange_left_arrow.jpg"/> SAME DAY DELIVERY</a>	 
+				      <a class="drop_menu_mtitle" href="/midnight-delivery/"> <img alt="Midnight Delivery" src="/images/orange_left_arrow.jpg"/> MIDNIGHT DELIVERY</a>
+				   			    
+				</div>
+			   
+		
+		
+		</div>		
+		</div>
+<!-- ############### Ocassion ################# -->
+
+
+
+
+
+</li>
+
+
+<li class="m_level_1 flowers_link"><a class="m_level_1_link" href="#">Flowers</a>
+
+<!-- ############### Flowers ################# -->
+		<div style="position:relative;">
+		<div class="menushadow_dark rcor" id="flowers_menu_div" style="position:absolute;background:#ffffff;border:5px solid #ffffff;width:650px;display:none;border-top:8px solid #ffbe02; z-index:1000;text-align:left">
+		
+				<div class="menu_div_comm">		
+					
+					<ul class="menu_div_ul">
+				<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/flower-bouquet-delivery-India/">FLOWERS</a></li>
+				<li><b> <img alt="Flowers by Type" src="/images/down_arrow_violet.gif"/> BY TYPE</b></li>
+					<li><a href="/flower-bouquet-delivery-India/">All Flowers</a></li>
+					 <li class="menu_div_ul_li_selected"><a href="/roses-delivery-India/">Roses</a></li>
+					  <li><a href="/gerberas-delivery-India/">Gerberas</a></li>
+					<li><a href="/carnations-delivery-India/">Carnations</a></li>
+					<li><a href="/orchids-delivery-India/">Orchids</a></li>
+					<li><a href="/lilies-delivery-India/">Lilies</a></li>
+					<li><a href="/gladioli-delivery-India/">Gladioli</a></li>
+
+					<li><a href="/mixed-flowers-delivery-India/">Mixed Flowers</a></li>
+					</ul>
+				</div>
+				
+				<div class="menu_div_comm">		
+					<ul class="menu_div_ul">
+					<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="#">Flowers</a></li>
+					<li><b> <img alt="Flowers by Color" src="/images/down_arrow_violet.gif"/> BY Color</b></li>
+					<li><a href="/red-color-flowers-delivery-India/">Red Flowers</a></li>
+					<li><a href="/yellow-color-flowers-delivery-India/">Yellow Flowers</a></li>
+					<li><a href="/pink-color-flowers-delivery-India/">Pink Flowers</a></li>
+					<li><a href="/white-color-flowers-delivery-India/">White Flowers</a></li>
+					<li><a href="/orange-color-flowers-delivery-India/">Orange Flowers</a></li>
+					<li><a href="/purple-color-flowers-delivery-India/">Purple Flowers</a></li>
+
+					<li><a href="/mixed-color-flowers-delivery-India/">Mixed Flowers</a></li> 
+					</ul>
+				</div>
+				
+				<div class="menu_div_comm" style="width:225px;border:none;">		
+					<ul class="menu_div_ul">
+					<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="#">Flowers</a></li>
+					<li><b> <img alt="Flowers by Style" src="/images/down_arrow_violet.gif"/> BY Style</b></li>
+					
+					<li class="menu_div_ul_li_selected"><a href="/tags/flower-bunch-delivery-India/">Flower Bunches</a></li>
+				 
+				 <li><a href="/tags/flowers-in-basket-delivery-India/">Basket of Flowers</a></li>
+				<li><a href="/tags/flowers-in-vase-delivery-India/">Flowers in Vase</a></li>
+				<li><a href="/tags/flower-arrangement-delivery-India/">Creative Bouquet</a></li>	
+				<li><a href="/roses-delivery-India/">Only Roses</a></li>
+ 
+				<li class="menu_div_ul_li_selected"><a href="/flowers-combo-India/">Flowers Combo</a></li>
+				<li><a href="/big-flowers-hamper-India/">Flowers MIB Hampers</a></li>
+	 	 
+				 
+					 
+					</ul>
+				</div>
+				 
+				<div style="margin-left:10px;border-top:1px dotted #ff9900;clear:both;">				
+
+				     <a class="drop_menu_mtitle" href="/same-day-delivery/"> <img alt="Same Day Delivery" src="/images/orange_left_arrow.jpg"/> SAME DAY DELIVERY</a>	
+				     <a class="drop_menu_mtitle" href="/midnight-delivery/"> <img alt="Mid Night Delivery" src="/images/orange_left_arrow.jpg"/> MID NIGHT Delivery</a>			    
+				</div>
+			 
+		<div style="margin-left:10px;border-top:1px dotted #ff9900;clear:both;">
+				<br/> 
+				</div>
+		
+		</div>		
+		</div>
+<!-- ############### Flowers ################# -->
+
+
+</li>
+
+<!--
+
+<li class="m_level_1 rakhi_link m_level_1_selected"  style="display:"  ><a href="/rakhi-gift-delivery-India/" class="m_level_1_link" rel="nofollow" >Rakhi Special</a></li> 
+-->
+ 
+<li class="m_level_1 cakes_link"><a class="m_level_1_link" href="#">Cakes</a>
+
+<!-- ############### Cakes ################# -->
+
+
+		<div style="position:relative;">
+		<div class="menushadow_dark rcor" id="cakes_menu_div" style="position:absolute;background:#ffffff;border:5px solid #ffffff;width:200px;display:none;border-top:8px solid #ffbe02; z-index:1000;text-align:left">
+		
+				<div class="menu_div_comm">		
+					
+					<ul class="menu_div_ul">
+					
+				<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="/cake-delivery-India/">CAKES</a></li>
+					<li class="menu_div_ul_li_selected"><a href="/cake-delivery-India/">Fresh Cakes 1 Kg.</a></li>
+					<li><a href="/eggless-cake-delivery-India/">Egg Less Cakes</a></li>
+					<li><a href="/2kg-cake-delivery-India/">Cakes 2 Kg. &amp; Above</a></li>					
+					<li><a href="/5star-cake-delivery-India/">5 Star Cakes</a></li>
+					<li><a href="/special-shape-cake-delivery-India/">Special Shape Cakes</a></li>
+					<li><a href="/anniversary-cake-delivery-India/">Anniversary Cakes</a></li>
+					<li><a href="/kids-cake-delivery-India/">Kids Cakes</a></li>
+					<li><a href="/birthday-cake-delivery-India/">Birthday Cakes</a></li>
+					<li><a href="/special-cake-delivery-India/">Special Cakes</a></li>
+					<li class="colored"><a href="/flower-cake-delivery-in-india/">Cakes Combo</a></li>			 
+					
+					</ul>
+				</div>
+				
+		 
+				
+		 
+				 
+			 
+			 
+		<div style="margin-left:10px;border-top:1px dotted #ff9900;clear:both;">
+				<br/> 
+				</div>
+		
+		</div>		
+		</div>
+<!-- ############### Cakes ################# -->
+
+
+</li>
+
+
+
+
+
+
+<li class="m_level_1 delivery_link"><a class="m_level_1_link" href="#">Delivery Options</a>
+
+<!-- ############### Delivery ################# -->
+		<div style="position:relative;">
+		<div class="menushadow_dark rcor" id="delivery_menu_div" style="position:absolute;background:#ffffff;border:5px solid #ffffff;width:240px;display:none;border-top:8px solid #ffbe02; z-index:1000;text-align:left">
+		
+				<div class="menu_div_comm" style="width:230px">		
+					
+					<ul class="menu_div_ul">
+				
+					<li><a href="/same-day-delivery/">Same Day Delivery</a></li>				  
+					<li><a href="/midnight-delivery/">Midnight Delivery</a></li>
+					<li><a href="/fixed-time-delivery/">Fixed Time Delivery</a></li>
+					<li><a href="/small-cities-delivery/">Small Cities Delivery</a></li>
+					<!--
+					<li  ><a  href="/delivery-cities/"  >BY Delivery Cities</a></li>
+					<li  ><a  href="/international-flower-delivery/"  >International Flower Delivery</a></li>
+					-->
+					</ul>
+				</div>
+				 
+			 
+			  
+		
+		
+		</div>		
+		</div>
+<!-- ############### Delivery ################# -->
+
+
+</li>
+
+ 
+<li class="m_level_1 giftbasket_link"><a class="m_level_1_link" href="javascript:void(0)">Gift Baskets</a>
+
+ 
+
+<!-- ############### Delivery ################# -->
+		<div style="position:relative;">
+		<div class="menushadow_dark rcor" id="giftbasket_menu_div" style="position:absolute;background:#ffffff;border:5px solid #ffffff;width:240px;display:none;border-top:8px solid #ffbe02; z-index:1000;text-align:left">
+		
+				<div class="menu_div_comm" style="width:230px">		
+					
+					<ul class="menu_div_ul">
+				
+				 	 
+					<li><a href="/tags/flowers-in-basket-delivery-India/">Flowers Basket</a></li>
+					 <li><a href="/fruits-delivery-India/">Fresh Fruits</a></li>
+						<li><a href="/chocolate-basket-delivery-India/">Chocolate Baskets</a></li>	
+					 		
+			 		<li class="colored"><a href="/chocolate-bouquet-delivery-India/">Chocolate Bouquet</a></li>  
+				 
+					</ul>
+				</div>
+				 
+			 
+			  
+		
+		
+		</div>		
+		</div>
+<!-- ############### Delivery ################# -->
+
+</li>
+
+ 
+<li class="m_level_1 specialitygifts_link"><a class="m_level_1_link" href="#">Gifts</a></li>
+<li class="m_level_1 mib_link"><a class="m_level_1_link" href="/big-flowers-hamper-India/">Make it Big</a></li>
+<!-- <li class="m_level_1 international_link" ><a href="#" class="m_level_1_link"  >Other Countries</a></li> -->
+
+<li class="m_level_1 help_link"><a class="m_level_1_link" href="/contact/">HELP</a>
+
+<!-- ############### HELP ################# -->
+		<div style="position:relative;">
+		<div class="menushadow_dark rcor" id="help_menu_div" style="position:absolute;background:#ffffff;border:5px solid #ffffff;width:185px;left:-120px;display:none;border-top:8px solid #ffbe02; z-index:1000;text-align:left">
+		
+				<div class="menu_div_comm">		
+					
+					<ul class="menu_div_ul">
+				<li class="drop_menu_mtitle_li"><a class="drop_menu_mtitle" href="javascript:void(0)">HELP</a></li>
+				 
+					  <li><a href="/contact/">Contact us</a></li>
+					  <li class="menu_div_ul_li_selected"><a href="/paynow/">Make a Payment</a></li>
+					<li><a href="/how-to-order/">How to Order</a></li>
+					<li><a href="/contact/">Register Complain</a></li>
+
+				 
+					</ul>
+				</div>
+				 
+			
+		
+		
+		</div>		
+		</div>
+<!-- ###############  HELP ################# -->
+
+</li>
+
+
+ 
+<li class="m_level_1 combo_link m_level_1_selected"><a class="m_level_1_link" href="javascript:void(0)">Combo</a>
+ 
+
+<!-- ############### Combos ################# -->
+		<div style="position:relative;">
+		<div class="menushadow_dark rcor" id="combo_menu_div" style="position:absolute;background:#ffffff;border:5px solid #ffffff;width:175px;display:none;border-top:8px solid #ffbe02; z-index:1000;text-align:left">
+		
+				<div class="menu_div_comm" style="width:155px">		
+					
+					<ul class="menu_div_ul">
+				
+				 	<li><a href="/flowers-combo-India/">All Combos</a></li>
+			 	<li><a href="/flower-cake-delivery-in-india/">Cake Combo</a></li>  
+					<li><a href="/chocolate-combo-delivery-India/">Chocolate Combo</a></li>
+					<li><a href="/mithai-combo-delivery-India/">Mithai Combo</a></li>
+					<li><a href="/soft-toy-combo-delivery-India/">Soft Toys Combo</a></li>
+					<li><a href="/fruits-combo-delivery-India/">Fruit Combo</a></li>					
+					<li><a href="/special-combo-delivery-India/">Special Combo</a></li>
+					
+					</ul>
+				</div>
+				 
+			 
+			  
+		
+		
+		</div>		
+		</div>
+<!-- ############### Combos ################# -->
+
+</li>
+
+
+ 
+<li class="m_level_1 " style="display:none;background:#dd0000"><a class="m_level_1_link" href="/red-color-flowers-delivery-India/" style="font-size:10pt;font-family:arial;letter-spacing:1px;">Valentine Day Special</a>
+</li>
+ 
+</ul>
+
+
+<span style="color:#ffffff;line-height:35px;">
+07-Oct-2016</span>
+
+ </div>
+  
+  
+
+  
+  
+  
+  
+  
+  
+<div style="position:relative;width:999px;">
+	 
+	  
+	  
+	  <div id="slideshow">
+	
+	
+ <!-- diwali
+ 
+	<div    class="active"    >
+		        <a href="/flowers-combo-India/" ><img src="/n_slide_diwali.jpg" border="0" alt=""   /></a>
+		    </div>
+		    
+		    	<div  >
+		        <a href="/flowers-combo-India/" ><img src="/n_slide_diwali.jpg" border="0" alt=""   /></a>
+		    </div>
+-->	
+		 
+ <!-- Valentine
+	 	<div    class="active"    >
+		        <a href="/red-color-flowers-delivery-India/" ><img src="/n_slide_val.jpg" border="0" alt=""   /></a>
+		    </div>
+		    
+		    	<div  >
+		        <a href="/red-color-flowers-delivery-India/" ><img src="/n_slide_val2.jpg" border="0" alt=""   /></a>
+		    </div>
+ 
+ -->
+	 
+ 
+		     
+ 
+			<div class="active">
+		        <a href="/tags/flower-bunch-delivery-India/"><img alt="Send Flower Bunch in India" border="0" src="images/n_slide_8.jpg"/></a>
+		    </div>
+	   
+		  
+		  
+		    	<div>
+		        <a href="/cake-delivery-India/"><img alt="Cake in India" border="0" src="images/n_slide_7.jpg"/></a>
+		    </div>
+		    
+		     
+		     	<div>
+		        <a href="/tags/flower-bunch-delivery-India/"><img alt="Send Flower Bunch in India" border="0" src="images/n_slide_8.jpg"/></a>
+		    </div>
+		    
+						<div>
+		        <a href="/flower-bouquet-delivery-India/"><img alt="Flower Bouquet Delivery" border="0" src="images/n_slide_4.jpg"/></a>
+		    </div>
+			
+						<div>
+		        <a href="/tags/flowers-in-basket-delivery-India/"><img alt="Flower Basket Delivery" border="0" src="images/n_slide_6.jpg"/></a>
+		    </div>	
+	      
+	    
+		</div>
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  <div style="width:300px;position:absolute;left:645px;top:35px;z-index:50">
+				  <div style="width:20px;height:240px;background:#ff6600;position:absolute;top:-35px;left:139px;z-index:60">
+				  
+				  </div>
+				  
+				  <div style="position:relative;z-index:70">
+						  <ul class="direction_ul">
+						   
+						  <li class="direction_leftli direction_green">
+						  <a class="dir_left_link" href="#">COMBO</a>
+						  </li>
+						   <li class="direction_rightli direction_violet">
+						  <a class="dir_right_link" href="/flower-bouquet-delivery-India/">FLOWERS</a>
+						  </li>
+						  <li class="direction_leftli">
+						  <a class="dir_left_link" href="#">FRUITS</a>
+						  </li>
+						  <li class="direction_rightli">
+						  <a class="dir_right_link" href="#">LOVE</a>
+						  </li>
+						  <li class="direction_leftli">
+						  <a class="dir_left_link" href="/soft-stuff-toy-delivery-India/">SOFT TOYS</a>
+						  </li>
+						  <li class="direction_rightli">
+						  <a class="dir_right_link" href="/chocolates-delivery-India/">CHOCOLATES</a>
+						  </li>
+						  <li class="direction_leftli">
+						  <a class="dir_left_link" href="/dry-fruit-delivery-India/">DRY FRUITS</a>
+						  </li>
+						  <li class="direction_rightli">
+						  <a class="dir_right_link" href="/mithai-sweets-delivery-India/">MITHAI</a>
+						  </li>
+						   
+						  </ul>
+						  
+				</div>		  
+		  </div>
+	  
+	  
+	  
+	  
+	  
+	  <div style="position:relative;width:999px;background:#98bf26;height:2px;">
+	   
+	  </div>
+	  
+	  
+	  
+	  
+	  
+</div>
+<!-- ############################################### -->
+
+
+ 
+	<!-- ################################################# --> 
+  <div class="product_icon_links" style="background:#f7f7f7;padding:0px;border:0px solid #e5e5e5;margin-top:5px;margin-bottom:5px;width:100%; float:center;display:none">
+	  
+				  <div style="padding-left:20px;float:left;width:10%">
+				  <a class="flr_icon_flower flr_icon jqtips1" href="/flower-bouquet-delivery-India/" title="FLOWERS"><img alt="Flowers" border="0" src="/images/flr_icon_flower.jpg" style="width:53px;height:53px;"/></a>
+				  </div>
+				   <div style=" float:left;;width:10%">
+				<a class="flr_icon_cake flr_icon jqtips1" href="#" title="CAKES"><img alt="Cake" border="0" src="/images/flr_icon_cake.jpg" style="width:53px;height:53px;"/></a>
+				  </div>
+				   
+				   <div style=" float:left;;width:10%">
+				 <a class="flr_icon_chocolates flr_icon jqtips1" href="/chocolates-delivery-India/" title="CHOCOLATES"><img alt="Chocolates" border="0" src="/images/flr_icon_chocolates.jpg" style="width:53px;height:53px;"/></a>
+				  </div>
+				   <div style=" float:left;;width:10%">
+				 <a class="flr_icon_mithai flr_icon jqtips1" href="/mithai-sweets-delivery-India/" title="MITHAI"><img alt="Mithai" border="0" src="/images/flr_icon_mithai.jpg" style="width:53px;height:53px;"/></a>
+				  </div>
+				   <div style=" float:left;;width:10%">
+				 <a class="flr_icon_fruit flr_icon jqtips1" href="/fruits-delivery-India/" title="FRUITS"><img alt="Fruits" border="0" src="/images/flr_icon_fruit.jpg" style="width:53px;height:53px;"/></a>
+				  </div>
+				   <div style=" float:left;;width:10%">
+				 <a class="flr_icon_dryfruit flr_icon jqtips1" href="/dry-fruit-delivery-India/" title="DRY FRUITS"><img alt="Dry Fruits" border="0" src="/images/flr_icon_dryfruits.jpg" style="width:53px;height:53px;"/></a>
+				  </div>
+				  
+				  <div style=" float:left;;width:10%">
+				 <a class="flr_icon_teddy flr_icon jqtips1" href="/soft-stuff-toy-delivery-India/" title="SOFT TOYS"><img alt="Soft Toys" border="0" src="/images/flr_icon_teddy.jpg" style="width:53px;height:53px;"/></a>
+				  </div>
+				  
+				  <div style=" float:left;;width:10%">
+				  <a class="flr_icon_combo flr_icon jqtips1" href="/flowers-combo-India/" title="COMBO"><img alt="Flower Combo" border="0" src="/images/flr_icon_combo.jpg" style="width:53px;height:53px;"/></a>
+				  </div>
+				  
+				  <div style=" float:left;;width:10%">
+				 <a class="flr_icon_makeitbig flr_icon jqtips1" href="/big-flowers-hamper-India/" title="MIB HAMPERS"><img alt="Big Hampers" border="0" src="/images/flr_icon_makeitbig.jpg" style="width:53px;height:53px;"/></a>
+				  </div>
+				  
+				   <div style="border:0px solid #ff9900; ">
+				 <img alt="Gifts" src="/images/flr_icon_combo.jpg"/>
+				  </div>
+	  
+	  </div>
+	  
+	 	<!-- ################################################# -->
+ 
+  
+ 
+ <!-- ################################################# -->
+ 
+ 
+ 
+ 
+  <div style=" width:999px;margin-top:5px;border-top:0px solid #81b435; border-bottom:1px dotted #999999; clear:both;height:32px;">
+  <div style="width:100%;height:100%;background:#61338d;border-top:0px solid #ffffff;font-size:12pt;line-height:32px;color:#f7f7f7;">
+   New Online Florist in India -  Online Flowers &amp; Gifts Home Delivered. Send Flower Online for Same Day and Mid Night Delivery 
+  </div>
+  </div>
+	
+	 <!-- ################################################# -->
+	 
+	<div style=" width:999px;margin-top:5px;border-top:0px solid #81b435; border-bottom:1px dotted #999999; clear:both;font-size:9pt;line-height:1.5;color:#666666;text-align:left">
+	
+		  <ul class="ul_st">
+		  <li style="float:left;width:320px;">
+		  
+		  	<div style="margin-left:20px;">
+			  <span style="font-size:14pt;color:#83b633">
+			  <img alt="NIF Logo" src="images/n_nif_emblem_big.jpg" style="margin-top:10px;"/>
+			  Welcome to NewIndiaFlorist.com 
+			    
+			  </span>
+			  
+			 <span class="italic_title"> Online Flowers &amp; Gifts Delivery 
+by Local Florist in India
+</span>
+
+Flowers are a Gift from the heaven. From the garden of Heaven it is every where and part of every occassion.
+Each flower mean something and say some thing and represent emotions. There is no way to hesitate flower as a gift.
+The Flower Aroma is so pleasant that it makes every body happy. Flowers are symbol of Love, Friendship, Appreciation and compliments.
+ Our specially created <b>Flowers Bouquet</b> are sure will spread happiness and bring smile. <b>Send Flowers and Gift</b> with us and assure same day
+ and mid night delivery.<br/>
+Dont Miss to send Bright , Colorful, Aromatic and Designer <b>Flower and Cake</b> to some one you love from one of the <b>best Florist in India</b>.
+
+
+
+		  	</div>
+		  	
+		  </li>
+		  
+		  <li style="border-left:1px dotted #999999;display:table-cell">
+		  
+		    	<div style="margin-left:10px;padding:10px;text-align:justify;color:#666666;line-height:2">
+				<h1 style="margin-bottom:0px;line-height:1">Online Florist in India</h1>		    	
+				<h2 style="margin-top:0px;">Flower Gift and Bouquet Delivery services in India.</h2>
+		   <b>New India Florist</b> - Online Flower gifting solution with state of the art technology enhancement. <b>Send flowers to India </b>in so easy and delightful way. Order online and get <b>Gift &amp; Flower delivery</b> home delivery at your doorstep. We are online florist in India for <b>Bouquet delivery in India</b>. We cater to more than 1400 Cities &amp; deliver to the World. Gifting flower Bouquet is difficult task but not with us. Especially when you are not with your loved ones doesn�t matter how much far you are, we will help you to send gifts, cakes, chocolates, mithai, sweets, Hampers, exclusive gifts, and Flowers Bouquets to your home on same day as well as midnight. We have different <b>Gift and Flower Bouquet delivery services </b>in different cities across India. Send Flowers Online with convenience of your any time 24/7 365 days. We as <b>Online Florist </b>will deliver all your gift &amp; flowers Bouquet as per your order. New India Florist is a name you can trust, we provide 100% satisfaction and money back guarantee. A Local Florist Flower Shop nearby you. 
+		  
+ <br/>
+In our <b>Flower Shop Online</b> we have Fresh Flower bunches, Fresh Flower Arrangement, Basket of Fresh Flowers, Vase Flowers Arrangement, <b>Birthday Flowers</b>, Anniversary Flowers, Gifting Flowers, <b>Birthday Cakes</b>, Anniversary Cakes, Eggless Cakes, Gifts, Mithai, Chocolates, Fresh Fruits, etc. You can buy from our <b>online Florist shop</b>. Flowers Like Rose, Bunch of Roses, Basket of Roses, Designer Arrangement of Roses, Gerberas, Lilies, Carnations, Orchids, and all Exotic Flowers etc. Contact us for <b>Florist delivery</b> in India.
+
+	
+		
+	
+		    	</div>
+		    	
+		    	<div style="margin-left:10px;text-align:justify;border-bottom:3px solid #ff9900">
+		    	</div>
+		  </li>
+		  </ul>
+  </div>
+ <!-- ################################################# -->
+
+  
+  
+	
+	<!-- ################################################# -->
+	 
+	<div style=" width:999px;margin-top:10px;border-top:3px solid #f7f7f7;   clear:both;font-size:9pt;line-height:1.5;color:#666666;text-align:left">
+	
+	</div>
+	
+	<div style=" width:999px;margin-top:10px;border-top:0px solid #e5e5e5;   clear:both;font-size:9pt;line-height:1.5;color:#666666;text-align:left">
+	
+	<ul class="highlights ul_st" id="highlights">
+
+<li style="margin-right:6px;">
+	<a href="#"><img alt="Flowers Combo" border="0" src="/images/savemoneyoncombo.jpg"/></a>
+
+	</li>
+<li style="margin-right:6px;">
+
+	<a href="#"><img alt="Corporate Deals" border="0" src="/images/corporatedeals.jpg"/></a>
+	</li>	 
+	 
+	<li style="margin-right:6px;">
+	<a href="/big-flowers-hamper-India/"><img alt="Big Hampers" border="0" src="/images/makeitbig.jpg"/></a>
+
+	</li> 
+
+	<li style="margin-right:0px;">
+
+	<a href="#"><img alt="Bulk Orders" border="0" src="/images/bulkorders.jpg"/></a> 
+	</li> 	
+	
+	</ul>
+	
+ 
+
+<!--	
+	<li style="margin-right:6px;" >
+	<a href="aaa" ><img src="images/savemoneyoncombo.jpg"  border="0" alt=""  /></a>
+	<a href="aaa" ><img src="images/corporatedeals.jpg"  border="0" alt=""  /></a>
+	</li>
+	<li  style="margin-right:6px;" >
+	<a href="aaa" ><img src="images/hotdealoftheday.jpg"  border="0" alt=""  /></a>
+	</li>
+	<li  style="margin-right:6px;" >
+	<a href="aaa" ><img src="images/makeitbig.jpg"  border="0" alt=""  /></a>
+	<a href="aaa" ><img src="images/sendflowerstocelebrity.jpg"  border="0" alt=""  /></a>
+	</li>
+	<li>
+	<a href="aaa" ><img src="images/discount20percentoff.jpg"  border="0" alt=""  /></a>
+	<a href="aaa" ><img src="images/bulkorders.jpg"  border="0" alt=""  /></a>
+	</li>
+	</ul>
+-->		
+	<ul class="bottombanner ul_st" id="bottombanner">
+		<li class="fl_left">
+	<a href="#"><img alt="Serenades" border="0" src="images/serenades.jpg"/></a>
+	 
+	</li>
+	<li class="fl_left" style="margin-left:16px;">
+	<a href="#"><img alt="Call +91 8238366333 to Order by Phone" border="0" src="images/orderbyphone.jpg"/></a>
+	 
+	</li>
+
+	
+	
+	</ul>
+	
+	</div>
+ 
+	
+	
+	
+	
+	<!-- ########################################################## -->
+	
+	
+	 
+	
+	
+
+</div>
+
+
+
+
+
+
+
+
+	<!-- footer ########################################################## -->
+		<div style="position:relative;border-top:1px dashed #ffffff;background:#ffffff;width:100%;clear:both;">	
+				<div style="position:relative;border-top:1px dashed #cccccc;border-bottom:1px solid #ffffff;background:#e8e8e8;width:100%;clear:both;margin-top:20px;height:800px;">	
+		
+		
+	 
+	
+	<div align="center" style="margin-top:5px;position:relative;border:0px solid red;width:999px; display:block;margin-left:auto;margin-right:auto;clear:both;text-align:left">	
+	 
+	<!--	<div style="padding:10px;border:0px dotted #cccccc;background:#ffffff;clear:both;margin-bottom:7px;text-align:center "  >
+	  <img src="/discount_banner.jpg" border=0 alt="discount banner" >
+	  </div> 
+	  -->
+	  
+		<ul>
+		
+		
+			<li class="fl_left" style="margin-right:10px;width:170px;height:160px;">
+				<ul>
+					<li>
+						<div style="width:160px;height:20px;border-bottom:1px dotted #cccccc;"> <b>New India Florist</b> </div>
+					</li>
+					<li>
+						<a class="bottom_links" href="/about/">About us</a>
+					</li>
+					
+					
+					
+					 
+										
+					 <!--
+					<li>
+						<a href="#" class="bottom_links">Faqs</a>
+					</li>
+					-->
+				
+					<li>
+						<a class="bottom_links" href="/paynow/">Pay Now - Make Payment</a>
+					</li>
+					
+					
+					 <li>
+						<a class="bottom_links" href="#">Customer Testimonial</a>
+					</li>
+					
+					 <li>
+						<a class="bottom_links" href="/how-to-order/">How to Order</a>
+					</li>
+				 <li>
+						<a class="bottom_links" href="/vendor_register.php">Florist Register</a>
+					</li>
+					<li>
+						<a class="bottom_links" href="http://newindiaflorist.wordpress.com/" target="_blank">Florist Blog</a>
+					</li>
+					<li>
+						<a class="bottom_links" href="/contact/">Contact us</a>
+					</li>
+					
+				</ul>			
+			</li>
+			
+			
+			
+			 <li class="fl_left" style="height:160px;width:150px;">
+				<ul>
+					<li>
+						<div style="width:140px;height:20px;border-bottom:1px dotted #cccccc;"> Product Categories </div>
+					</li>
+					<li>
+						<a class="bottom_links" href="/flower-bouquet-delivery-India/">Fresh Flowers</a>
+					</li>
+			<!-- removed for val		<li>
+						<a href="/cake-delivery-India/" class="bottom_links">Cakes</a>
+					</li>					
+					 
+					<li>
+						<a href="/eggless-cake-delivery-India/" class="bottom_links">Eggless Cakes</a> -->
+					
+					<li>
+						<a class="bottom_links" href="/chocolates-delivery-India/">Chocolates</a>
+					</li>
+					<li>
+						<a class="bottom_links" href="/mithai-sweets-delivery-India/">Mithai</a>
+					</li>
+					<li>
+						<a class="bottom_links" href="/fruits-delivery-India/">Fresh Fruits</a>
+					</li>
+					 <li>
+						<a class="bottom_links" href="/dry-fruit-delivery-India/">Dry Fruits</a>
+					</li>
+					
+				</ul>			
+			</li>
+			
+			
+			
+			
+			 <li class="fl_left" style="height:160px;width:170px">
+				<ul>
+					<li>
+						<div style="width:160px;height:20px;border-bottom:1px dotted #cccccc;"> Policies </div>
+					</li>
+					 <li>
+						<a class="bottom_links" href="/terms-and-condtions/" rel="nofollow">Terms &amp; Conditions</a>
+					</li>
+					<li>
+						<a class="bottom_links" href="/privacy-policy/" rel="nofollow">Privacy Policy</a>
+					</li>
+					<li>
+						<a class="bottom_links" href="/shipping-policy/" rel="nofollow">Shipping Policy</a>
+					</li>					
+					 
+					<li>
+						<a class="bottom_links" href="/cancellation/" rel="nofollow">Refund &amp; Cancellation</a>
+					</li>
+					<li>
+						<a class="bottom_links" href="/disclaimer/" rel="nofollow">Disclaimer</a>
+					</li>
+					<li>
+						<a class="bottom_links" href="/contact/">Complains Resolutions</a>
+					</li>
+				 
+					 
+					
+				</ul>			
+			</li>
+			
+		 
+			 <li class="fl_left" style="height:160px;width:180px">
+				<ul>
+					<li>
+						<div style="width:170px;height:20px;border-bottom:1px dotted #cccccc;"> Payment Method </div>
+					</li>
+						<li style="line-height:1.5">
+						Credit Cards / Debit Cards<br/>
+						<img alt="Visa Card Accepted" src="/images/visa.png"/>
+						<img alt="Master Card Accepted" src="/images/mastercard.png"/>
+						<img alt="American Express Card Accepted" src="/images/amex.png"/>
+						<img alt="JCB Card Accepted" src="/images/jcb.png"/>
+						<img alt="Dinners Club Card Accepted" src="/images/diners.png"/>
+						<img alt="Maestro Card Accepted" src="/images/maestro.png"/>
+						 
+						 
+						<br/>
+						Net Banking 
+						<img alt="Internet Bank Payment Accepted" src="/images/bank.png" style="vertical-align:middle"/>
+						
+						<br/>
+						Cash Cards<br/>
+						 
+					 
+						 
+						Cash on Delivery*<br/>
+						 
+					
+						
+						<a href="javascript:void(0)" onclick="javascript:window.open('https://seal.godaddy.com/verifySeal?sealID=WMkD1kOwl8mDg5wWrLu5Fv6RPn1N0ipB8OvN8Q3PNsuNHElGHwKjVgVU','sslsecured','menubar=no,scrollbars=no,toolbar=no,top=100px,left=100px,width=600px,height=450px')"><img alt="100% Secure Website and Payments" src="/sslsecured.jpg"/></a>
+							<br/>
+						
+					</li>
+					 
+					
+				</ul>			
+			</li>
+			
+			 <li class="fl_left" style="height:160px;width:280px">
+				<ul>
+					<li>
+						<div class="rcor menushadow" style="margin-left:25px;margin-top:15px;width:250px;height:80px;border:1px dotted #cccccc;background:#f7f7f7;"> 
+						<p style="margin-left:20px;line-height:30px;font-size:14pt;margin-top:10px;margin-bottom:5px;">
+						<img alt="Call to Order by Phone" border="0" src="/images/n_phoneicon.jpg" style="vertical-align: middle;"/> +91 82 383 66333
+						</p>
+						<p style="margin-left:20px;line-height:30px;font-size:13pt;margin-top:0px;margin-bottom:5px;">
+						<img alt="Email us" border="0" src="/images/n_email_icon.jpg" style="vertical-align: middle;"/> sales@newindiaflorist.com
+						</p>
+						 </div>
+					</li>
+					 
+					 
+					
+				</ul>			
+			</li>
+			
+			
+			 
+		</ul>
+		
+	<div align="center" style="margin-top:5px;position:relative;border:0px solid red;width:999px; display:block;margin-left:auto;margin-right:auto;clear:both;text-align:right">	
+	 <a class="s_icon_6" href="https://plus.google.com/114760411457007998629" rel="nofollow"></a>
+	   <a class="s_icon_5" href="http://www.pinterest.com/newindiaflorist" rel="nofollow"></a>
+	    <a class="s_icon_4" href="http://www.linkedin.com/company/new-india-florist" rel="nofollow"> </a>
+	     <a class="s_icon_3" href="http://www.youtube.com/user/NewIndiaFlorist" rel="nofollow"> </a>
+	      <a class="s_icon_2" href="http://www.twitter.com/newindiaflorist" rel="nofollow"> </a>
+	       <a class="s_icon_1" href="http://www.facebook.com/newindiaflorist" rel="nofollow"> </a>
+	 </div>
+	 
+	 
+	 <!-- ####################################### -->
+	 <div align="center" style="margin-top:5px;position:relative;display:inline;border:0px solid red;width:999px; display:block;margin-left:auto;margin-right:auto;clear:both;text-align:left">	
+	 
+	 <div class="fb-like-box" data-header="false" data-href="http://www.facebook.com/newindiaflorist" data-show-border="true" data-show-faces="true" data-stream="false" data-width="292" style="float:right;margin-top:25px;background:#f7f7f7"></div>
+	 
+	 <div style="width:98%;height:20px;border-bottom:1px dotted #cccccc;font-size:11pt">Delivery Locations</div>
+	 <ul>
+	  
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Agra/" title="Agra florist flower bouquet delivery">Agra</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Ahmedabad/" title="Ahmedabad florist flower bouquet delivery">Ahmedabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Ajmer/" title="Ajmer florist flower bouquet delivery">Ajmer</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Allahabad/" title="Allahabad florist flower bouquet delivery">Allahabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Amritsar/" title="Amritsar florist flower bouquet delivery">Amritsar</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Aurangabad/" title="Aurangabad florist flower bouquet delivery">Aurangabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Banaras/" title="Banaras florist flower bouquet delivery">Banaras</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Bangalore/" title="Bangalore florist flower bouquet delivery">Bangalore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Baroda/" title="Baroda florist flower bouquet delivery">Baroda</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Bhilai/" title="Bhilai florist flower bouquet delivery">Bhilai</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Bhopal/" title="Bhopal florist flower bouquet delivery">Bhopal</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Bhubaneshwar/" title="Bhubaneshwar florist flower bouquet delivery">Bhubaneshwar</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Bombay/" title="Bombay florist flower bouquet delivery">Bombay</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Calcutta/" title="Calcutta florist flower bouquet delivery">Calcutta</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Chandigarh/" title="Chandigarh florist flower bouquet delivery">Chandigarh</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Chennai/" title="Chennai florist flower bouquet delivery">Chennai</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Cochin/" title="Cochin florist flower bouquet delivery">Cochin</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Coimbatore/" title="Coimbatore florist flower bouquet delivery">Coimbatore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Dehradun/" title="Dehradun florist flower bouquet delivery">Dehradun</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Delhi/" title="Delhi florist flower bouquet delivery">Delhi</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Delhi-NCR/" title="Delhi-NCR florist flower bouquet delivery">Delhi-NCR</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Faridabad/" title="Faridabad florist flower bouquet delivery">Faridabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Gandhinagar/" title="Gandhinagar florist flower bouquet delivery">Gandhinagar</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Ghaziabad/" title="Ghaziabad florist flower bouquet delivery">Ghaziabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Goa-Margoa/" title="Goa-Margoa florist flower bouquet delivery">Goa-Margoa</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Greater-Noida/" title="Greater Noida florist flower bouquet delivery">Greater Noida</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Guntur/" title="Guntur florist flower bouquet delivery">Guntur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Gurgaon/" title="Gurgaon florist flower bouquet delivery">Gurgaon</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Guwahati/" title="Guwahati florist flower bouquet delivery">Guwahati</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Gwalior/" title="Gwalior florist flower bouquet delivery">Gwalior</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Howrah/" title="Howrah florist flower bouquet delivery">Howrah</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Hyderabad/" title="Hyderabad florist flower bouquet delivery">Hyderabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Indore/" title="Indore florist flower bouquet delivery">Indore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Jabalpur/" title="Jabalpur florist flower bouquet delivery">Jabalpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Jaipur/" title="Jaipur florist flower bouquet delivery">Jaipur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Jalandhar/" title="Jalandhar florist flower bouquet delivery">Jalandhar</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Jammu/" title="Jammu florist flower bouquet delivery">Jammu</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Jamshedpur/" title="Jamshedpur florist flower bouquet delivery">Jamshedpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Kanpur/" title="Kanpur florist flower bouquet delivery">Kanpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Kochi/" title="Kochi florist flower bouquet delivery">Kochi</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Kolhapur/" title="Kolhapur florist flower bouquet delivery">Kolhapur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Kolkata/" title="Kolkata florist flower bouquet delivery">Kolkata</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Lucknow/" title="Lucknow florist flower bouquet delivery">Lucknow</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Ludhiana/" title="Ludhiana florist flower bouquet delivery">Ludhiana</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Madurai/" title="Madurai florist flower bouquet delivery">Madurai</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Mangalore/" title="Mangalore florist flower bouquet delivery">Mangalore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Margoa/" title="Margoa florist flower bouquet delivery">Margoa</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Meerut/" title="Meerut florist flower bouquet delivery">Meerut</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Mohali/" title="Mohali florist flower bouquet delivery">Mohali</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Moradabad/" title="Moradabad florist flower bouquet delivery">Moradabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Mumbai/" title="Mumbai florist flower bouquet delivery">Mumbai</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Mysore/" title="Mysore florist flower bouquet delivery">Mysore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Nagpur/" title="Nagpur florist flower bouquet delivery">Nagpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Nashik/" title="Nashik florist flower bouquet delivery">Nashik</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Navi-Mumbai/" title="Navi Mumbai florist flower bouquet delivery">Navi Mumbai</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Nellore/" title="Nellore florist flower bouquet delivery">Nellore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/New-Delhi/" title="New Delhi florist flower bouquet delivery">New Delhi</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Noida/" title="Noida florist flower bouquet delivery">Noida</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Panchkula/" title="Panchkula florist flower bouquet delivery">Panchkula</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Panipat/" title="Panipat florist flower bouquet delivery">Panipat</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Patiala/" title="Patiala florist flower bouquet delivery">Patiala</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Patna/" title="Patna florist flower bouquet delivery">Patna</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Pondicherry/" title="Pondicherry florist flower bouquet delivery">Pondicherry</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Pune/" title="Pune florist flower bouquet delivery">Pune</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Raipur/" title="Raipur florist flower bouquet delivery">Raipur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Ranchi/" title="Ranchi florist flower bouquet delivery">Ranchi</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Roorkee/" title="Roorkee florist flower bouquet delivery">Roorkee</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Saharanpur/" title="Saharanpur florist flower bouquet delivery">Saharanpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Sahibabad/" title="Sahibabad florist flower bouquet delivery">Sahibabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Salem/" title="Salem florist flower bouquet delivery">Salem</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Secunderabad/" title="Secunderabad florist flower bouquet delivery">Secunderabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Surat/" title="Surat florist flower bouquet delivery">Surat</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Thane/" title="Thane florist flower bouquet delivery">Thane</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Udaipur/" title="Udaipur florist flower bouquet delivery">Udaipur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Vadodara/" title="Vadodara florist flower bouquet delivery">Vadodara</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Varanasi/" title="Varanasi florist flower bouquet delivery">Varanasi</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Vellore/" title="Vellore florist flower bouquet delivery">Vellore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Visakhapatnam/" title="Visakhapatnam florist flower bouquet delivery">Visakhapatnam</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/flower-bouquet/Vizag/" title="Vizag florist flower bouquet delivery">Vizag</a>
+		</li>
+		 
+		</ul>
+	 </div>
+		
+		
+	 <!-- ####################################### -->
+	 <div align="center" style="margin-top:5px;position:relative;border:1px solid transparent;width:999px; display:block;margin-left:auto;margin-right:auto;clear:both;text-align:left">	
+	 <div style="margin-top:25px;width:98%;height:20px;border-bottom:1px dotted #cccccc;font-size:11pt">Remote / Small Cities Delivery Locations</div>
+	 <ul>
+		  
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Datia/" title="Datia florist flower bouquet delivery">Datia</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Panvel-/" title="Panvel  florist flower bouquet delivery">Panvel </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Hadapsar/" title="Hadapsar florist flower bouquet delivery">Hadapsar</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Alwar-/" title="Alwar  florist flower bouquet delivery">Alwar </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Zirakpur/" title="Zirakpur florist flower bouquet delivery">Zirakpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Payyanur-/" title="Payyanur  florist flower bouquet delivery">Payyanur </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Kollam/" title="Kollam florist flower bouquet delivery">Kollam</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Ulhasnagar/" title="Ulhasnagar florist flower bouquet delivery">Ulhasnagar</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Nadiad/" title="Nadiad florist flower bouquet delivery">Nadiad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Kharagpur/" title="Kharagpur florist flower bouquet delivery">Kharagpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Alappuzha/" title="Alappuzha florist flower bouquet delivery">Alappuzha</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Hoshiarpur/" title="Hoshiarpur florist flower bouquet delivery">Hoshiarpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Trichy/" title="Trichy florist flower bouquet delivery">Trichy</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Pinjore/" title="Pinjore florist flower bouquet delivery">Pinjore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Solapur/" title="Solapur florist flower bouquet delivery">Solapur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Pathanamthitta/" title="Pathanamthitta florist flower bouquet delivery">Pathanamthitta</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Vijayawada/" title="Vijayawada florist flower bouquet delivery">Vijayawada</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Alwaye-/" title="Alwaye  florist flower bouquet delivery">Alwaye </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Anantapur-/" title="Anantapur  florist flower bouquet delivery">Anantapur </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Ujjain/" title="Ujjain florist flower bouquet delivery">Ujjain</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Bareilly-/" title="Bareilly  florist flower bouquet delivery">Bareilly </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Bulandshahr-/" title="Bulandshahr  florist flower bouquet delivery">Bulandshahr </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Pollachi/" title="Pollachi florist flower bouquet delivery">Pollachi</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Cuddalore/" title="Cuddalore florist flower bouquet delivery">Cuddalore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Ernakulam-/" title="Ernakulam  florist flower bouquet delivery">Ernakulam </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Bardoli/" title="Bardoli florist flower bouquet delivery">Bardoli</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Kurukshetra-/" title="Kurukshetra  florist flower bouquet delivery">Kurukshetra </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Kannur/" title="Kannur florist flower bouquet delivery">Kannur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Vejalpur/" title="Vejalpur florist flower bouquet delivery">Vejalpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Cuddapah-/" title="Cuddapah  florist flower bouquet delivery">Cuddapah </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Kasaragod/" title="Kasaragod florist flower bouquet delivery">Kasaragod</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Chandannagar/" title="Chandannagar florist flower bouquet delivery">Chandannagar</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Thiruvallur/" title="Thiruvallur florist flower bouquet delivery">Thiruvallur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Guruvayoor/" title="Guruvayoor florist flower bouquet delivery">Guruvayoor</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Jagraon/" title="Jagraon florist flower bouquet delivery">Jagraon</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Deoria-/" title="Deoria  florist flower bouquet delivery">Deoria </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Kozhenchery-/" title="Kozhenchery  florist flower bouquet delivery">Kozhenchery </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Nalgonda/" title="Nalgonda florist flower bouquet delivery">Nalgonda</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Dharmapuri-/" title="Dharmapuri  florist flower bouquet delivery">Dharmapuri </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Kapurthala/" title="Kapurthala florist flower bouquet delivery">Kapurthala</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Gorakhpur-/" title="Gorakhpur  florist flower bouquet delivery">Gorakhpur </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Amravati/" title="Amravati florist flower bouquet delivery">Amravati</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Ferozabad/" title="Ferozabad florist flower bouquet delivery">Ferozabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Barnala-/" title="Barnala  florist flower bouquet delivery">Barnala </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Rajnandgaon/" title="Rajnandgaon florist flower bouquet delivery">Rajnandgaon</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Jaunpur-/" title="Jaunpur  florist flower bouquet delivery">Jaunpur </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Thiruvananthapuram/" title="Thiruvananthapuram florist flower bouquet delivery">Thiruvananthapuram</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Bahadurgarh/" title="Bahadurgarh florist flower bouquet delivery">Bahadurgarh</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Karur-/" title="Karur  florist flower bouquet delivery">Karur </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Muzaffarnagar-/" title="Muzaffarnagar  florist flower bouquet delivery">Muzaffarnagar </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Kottayam/" title="Kottayam florist flower bouquet delivery">Kottayam</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Dindigul/" title="Dindigul florist flower bouquet delivery">Dindigul</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Vidyanagar/" title="Vidyanagar florist flower bouquet delivery">Vidyanagar</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Bhusaval-/" title="Bhusaval  florist flower bouquet delivery">Bhusaval </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Bhimavaram-/" title="Bhimavaram  florist flower bouquet delivery">Bhimavaram </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Chittorgarh/" title="Chittorgarh florist flower bouquet delivery">Chittorgarh</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Wani/" title="Wani florist flower bouquet delivery">Wani</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Jodhpur/" title="Jodhpur florist flower bouquet delivery">Jodhpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Hanumangad-/" title="Hanumangad  florist flower bouquet delivery">Hanumangad </a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="bottom_cities_list" href="/r/flower-bouquet/Sirhind/" title="Sirhind florist flower bouquet delivery">Sirhind</a>
+		</li>
+		 
+		</ul>
+	 </div>
+	 <!-- ################################################ -->		
+		
+		
+	</div>	
+	
+	</div>
+	 
+</div>
+
+<div style="position:relative;border-top:0px solid #999999;background:#e5e5e5;width:100%;clear:both;margin-top:0px;height:80px;">	
+
+<div align="center" style="margin-top:0px;position:relative;border:1px solid transparent;width:999px; display:block;margin-left:auto;margin-right:auto;clear:both;text-align:left">	
+
+	 <div style="margin-top:0px;width:98%;height:20px;border-bottom:1px dotted #cccccc;font-size:11pt">NIF - New India Florist Active Coupons</div>
+	 
+<!-- CouponDunia badge begins -->
+<a href="http://www.coupondunia.in" target="_blank" title="Find Our Coupons on CouponDunia">
+<img alt="Find Our Coupons on CouponDunia" height="40" src="http://www.coupondunia.in/media/coupondunia_badge.png" style="padding: 5px; cursor: hand; border:0" width="105"/>
+</a>
+<!-- CouponDunia badge ends -->	 
+ 
+	 
+<a class="bottom_cities_list" href="http://www.couponrani.com/newindiaflorist-coupons">Newindiaflorist Coupons</a>
+<a class="bottom_cities_list" href="http://couponpolice.com/store/newindiaflorist/">Couponpolice</a>
+
+
+
+
+</div>
+</div>
+
+<div style="position:relative;border-top:2px solid #999999;background:#767689;width:100%;clear:both;margin-top:0px;height:110px;">	
+		<div align="center" style="margin-top:5px;position:relative;border:0px solid red;width:999px; display:block;margin-left:auto;margin-right:auto;clear:both;text-align:left">	
+	
+		<div class="fl_left">
+			<img alt="NIF LOGO" border="0" src="/images/n_nif_emboss.jpg"/>
+		</div>
+		<div class="fl_left">
+			 <p class="italic_title" style="color:#e5e5e5;margin-top:50px;margin-left:24px;">
+			 <!-- Because every moment is Special -->
+			 </p>
+		</div>
+		<div class="fl_left">
+			 <p style="color:#cccccc;margin-top:50px;margin-left:120px;">
+			 (c) Copyright 2013-14. <b>New India Florist</b> all rights reserved.
+			 <br/>
+			 <a href="http://www.magentocommerce.com/" rel="nofollow" style="color:#e5e5e5;text-decoration:none;" target="_blank">Powered by : Magento ®</a>
+			 </p>
+		</div>
+		
+		
+		<div class="fl_right">
+		<br/><br/>
+			<a href="javascript:void(0)" onclick="javascript:window.open('https://seal.godaddy.com/verifySeal?sealID=WMkD1kOwl8mDg5wWrLu5Fv6RPn1N0ipB8OvN8Q3PNsuNHElGHwKjVgVU','sslsecured','menubar=no,scrollbars=no,toolbar=no,top=100px,left=100px,width=600px,height=450px')"><img alt="100% Secure Website and Payments" src="/sslsecured.jpg"/></a> 
+		</div>
+		
+		
+						 
+		
+		</div>
+		</div>
+
+
+	<!-- footer ends ########################################################## -->
+ 
+
+
+
+<!--
+New and Modern Way to deliver online Gifts and Flowers in India
+-->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?1DVkovPZFhOLEZuUDN5jbnozrXSnyaCw';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+<!--End of Zopim Live Chat Script-->
+
+<br/>
+<br/>
+
+
+
+</center></body></html>

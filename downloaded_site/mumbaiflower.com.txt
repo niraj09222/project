@@ -1,0 +1,1844 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<link href="/images1/mfl_favicon.ico" rel="shortcut icon"/>
+<link href="/images1/mfl_favicon.ico" rel="icon" type="/image/ico"/>
+  
+ 
+ 
+ 
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+ 
+ 		
+		<title>Mumbai Flowers:   Flowers Delivery in every corner of Mumbai | Send Flower Bouquet,Midnight,Sameday Mumbai Online. Flowers and Cake to Mumbai by online Mumbai Florist </title>
+		 <meta content=" Mumbai Flowers, 4 Star Rated Florist, We Provide Flowers Delivery in every corner of Mumbai | Send Flower Bouquet,Midnight,Sameday in Mumbai Online. Flowers and Cake to Mumbai by Online Mumbai Florists. Mumbai: Yes, Thane: Yes, Dombivali: Yes, Kalyan: Yes and home delivery all over Mumbai. Register and Get Free Discount Coupons and Promocodes " name="Description"/>
+		 <meta content="Mumbai, Send Flowers Mumbai, Florist Mumbai, Flowers Delivery Mumbai, Mumbai Florists, Online Florist Mumbai,   Flower Shop Mumbai, Florist Shop Mumbai, Online Florist Mumbai." name="Keywords"/>
+		 
+		 
+ 
+ 
+<meta content="no" http-equiv="imagetoolbar"/>
+ <link href="/flick/jquery-ui-1.9.0.custom.css" media="screen,print" rel="stylesheet" type="text/css"/>
+<link href="/mumbaiflower.css" media="screen,print" rel="stylesheet" type="text/css"/>
+<link href="fuf_files/slider.css" rel="stylesheet" type="text/css"/>
+
+<!-- jQuery Main Library -->
+   
+<script src="/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="/jui/jquery-ui-1.9.0.custom.min.js" type="text/javascript"></script>
+<!-- jQuery UI Library -->
+   
+ 
+
+<!-- Include the jQuery files -->
+<!-- 
+
+<script type="text/javascript" src="/jquery.hoverIntent_min.js"   ></script>
+
+ 
+<script type="text/javascript" src="/jquery-migrate-1.2.1.min.js"      ></script>
+
+<script type="text/javascript" src="/jquery.cycle.all.js"   ></script>
+-->
+
+<script language="javascript" src="/homecycle.js" type="text/javascript"></script>
+<script language="javascript" src="/inlinepage.js" type="text/javascript"></script>
+ 
+<script>
+
+$(document).ready(function() {
+ 
+ 
+ 
+ 
+ $(window).scroll(function() {
+    if ($(this).scrollTop()) {
+        $('#toTop:hidden').stop(true, true).fadeIn();
+       
+        $("#topnav_container").css({"background":"#f9f9f9","position":"fixed","top":"0","box-shadow":"0px 5px 5px #999999","width":"100%","z-index":"999999"});
+    } else {
+        $('#toTop').stop(true, true).fadeOut();
+        $("#topnav_container").css("position","relative");
+    }
+});
+
+$('#toTop').on('click', scrollToTop);
+ 
+ 	});
+ 	
+function scrollToTop() {
+    verticalOffset = typeof(verticalOffset) != 'undefined' ? verticalOffset : 0;
+    element = $('body');
+    offset = element.offset();
+    offsetTop = offset.top;
+    $('html, body').animate({scrollTop: offsetTop}, 500, 'linear');
+} 	
+ 	
+</script>
+  
+  
+  
+  
+  
+ 
+
+<!--[if IE 8]>
+<style>
+
+ul#topnav li .sub {	
+	top: 42px;
+	left: -3px;
+ 	filter: progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=90, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=180, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=270, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=360, Strength=3);
+}
+.first-level-hover{
+	left: -3px;
+	top: -6px;
+    text-indent:4.1mm !important;
+	filter: progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=0, Strength=3)  progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=90, Strength=3)  progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=270, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=360, Strength=3);
+}
+</style>
+ <![endif]-->
+<!--[if IE 7]>
+ <style>
+ ul#topnav li .sub {	
+	top: 42px;
+	left: 3px;
+ 	filter: progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=90, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=180, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=270, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=360, Strength=3);
+}
+ .first-level-hover{
+ 	left: 3px;
+	top: -6px;
+    text-indent:10px !important;
+	filter: progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=0, Strength=3)  progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=90, Strength=3)  progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=270, Strength=3) progid:DXImageTransform.Microsoft.Shadow(color='#A0A0A0', Direction=360, Strength=3);    
+ }
+ </style>
+ <![endif]-->
+
+
+
+
+ <link href="/fancyboxjs/jquery.fancybox.css" media="screen" rel="stylesheet" type="text/css"/>   
+ 	<!-- Add fancyBox main JS and CSS files -->
+	<script src="/fancyboxjs/jquery.fancybox_min.js" type="text/javascript"></script>
+ 
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+</script>
+ <!-- ######################################## -->
+ 
+ <!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?2KhL90NZBkSq1nLm2oZrBOgfSAxlH6U9';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+<!--End of Zopim Live Chat Script-->
+ 
+ 
+
+</head>
+
+
+<!-- ########################## METAEND ##################### -->
+ 
+<body>
+
+<div id="fb-root"></div>
+
+
+ 
+
+
+
+
+
+
+
+ 
+  
+  
+  
+  
+ <!-- ########################### -->
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+<!-- ########################## HEADER START ##################### -->
+
+
+
+<!-- ################## Analytics code ############################ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-11351006-5', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+<!-- ################## Analytics code ############################ -->
+
+
+
+
+
+
+
+
+
+
+
+
+<center>
+<table cellpadding="0" cellspacing="0" style="width:100%">
+<tbody><tr>
+<td align="center" style="background:#cc0066 url(/val_back.png);height:110px;" valign="top">
+
+	<table align="center" cellpadding="0" cellspacing="0" style="width:1100px;height:110px; ;background-repeat:no-repeat; ">
+	<tbody><tr>
+	
+ 
+	
+	
+	
+	<td style="padding-left:15px;" valign="middle">
+	<a href="/" itemprop="brand" itemscope="" itemtype="http://schema.org/Brand" title="Mumbai Flowers - Same Day and Midnight Flower Bouquet Delivery in Mumbai"><img alt="Mumbai Flower-Florist" itemprop="logo" src="/images1/mumbaiflowerlogo3.png"/></a>   
+	 <span class="clr_ff sz_3" style="display:inline;margin-left:45px;font-weight:normal;letter-spacing:0;font-family: 'Open Sans', sans-serif;">Flower Bouquet Delivery in Every Corner of Mumbai</span>
+	</td>
+	
+	<td valign="top">
+	<img src="/images1/liverating.png"/>
+	</td>
+	<td align="right" style="padding-top:5px">
+	
+		<a class="top_links_rev" href="/member_register.php" rel="nofollow">Register</a>  <span class="clr_ff">·</span>
+		<a class="top_links_rev" href="/login_n.php" rel="nofollow">Login</a>
+		<br/>
+		
+	
+	<a class="top_links_rev" href="/trackorder/">TRACK AN ORDER</a> 
+	<span class="clr_ff">·</span>
+	 <a class="top_links_rev" href="/contact/">CONTACT</a>
+	   
+	<br/>
+	<a class="top_links_rev" href="/cart/" style="margin-bottom:5px;;line-height:26px"><img src="/images1/cart_img.png"/> VIEW CART (0)</a>
+	<br/>
+	
+ 
+	<span class="clr_ff sz_2 ">
+	+91 7600507585, sales@mumbaiflower.com <br/>
+	</span>
+ 
+ 
+
+
+
+  
+      <div style="display:none;"> 
+       
+        <form action="#" id="Form1" method="get" name="searchform" style="margin-top:7px">
+          
+           
+           <div> 
+		   <span class="search">SEARCH</span>
+           
+		   <span>
+          <input autocomplete="off" class="search" name="search" style="height:25px;border:0;padding:0;" type="text" value=""/>
+          </span>
+          
+          <span>
+		  <input border="0" style="background:#939ecc url(images1/HP_Search.png);border:0;height:25px;width:25px;color:#939ecc;text-align:left;" type="submit" value="&gt;"/>
+		  </span>
+		  
+		   </div>
+          
+		   
+		  
+           
+          
+        </form>
+      </div>
+
+
+	</td>
+	</tr>
+	</tbody></table>
+
+
+</td>
+</tr>
+<tr>
+<td class="itemzshadow" style="background:#f1f1f1;height:45px;">
+	<table align="center" cellpadding="0" cellspacing="0" style="width:1100px;border:0px solid #ff0000">
+	<tbody><tr>
+	<td>
+		<!-- end of header_container -->
+
+
+
+
+
+
+
+<div id="topnav_container">
+ 
+  <div class="clearfix" id="topnav_inner"> 
+<div style="position:relative"><div style="position:absolute;left:-40px;z-index:999"><img src="/images1/lowcost.png"/></div></div>
+
+<ul id="topnav">
+ 
+  <li><a class="first-level flink" href="/flower-bouquet-delivery-mumbai/" title=""><img src="/images1/or-arrow_v.png"/> Flowers</a>
+    <div class="subheader"></div>   
+  </li>
+   
+
+  
+ 
+  <li class="append_menu"><a class="first-level " href="/cake-delivery-mumbai/" title=""><img src="/images1/or-arrow.png"/> Cakes</a>
+    <div class="subheader"></div>
+    <div class="sub">
+      <ul>
+      		<li><a href="/cake-delivery-mumbai/">Regular Cakes</a></li>
+			<li><a href="/eggless-cake-delivery-mumbai/">Egg Less Cakes</a></li>
+ 
+			<li><a href="/5star-cake-delivery-mumbai/">5 Star Cakes</a></li>
+ 
+        
+      </ul>
+    </div>
+  </li>
+ 
+   <li><a class="first-level flink" href="/chocolates-delivery-mumbai/" title="">Chocolates</a>
+    <div class="subheader"></div>
+   
+  </li>
+  
+<!--
+  
+  <li><a class="first-level  flink" href="/fruits-delivery-mumbai/" title=""  >Fruits</a>
+    <div class="subheader"></div>   
+  </li>  
+-->
+
+  
+  <li class="append_menu"><a class="first-level " href=" " title=""><img src="/images1/or-arrow.png"/> By Price</a>
+    <div class="subheader" style="display: none;"></div>
+    <div class="sub" style="display: none; width: 200px;">
+      <ul>
+       		 <li><a href="/flower-price-0-to-700/">Below Rs. 700</a></li>
+			<li><a href="/flower-price-700-to-3000/">Rs. 700 - 3000</a></li>
+			<li><a href="/flower-price-3000-to-5000/">Rs. 3000 - 5000</a></li>
+		
+         </ul>
+    </div>
+  </li>
+  
+<!--
+     <li><a class="first-level  flink" href="/best-seller-flowers-mumbai/" title=""  >Best Seller</a></li>
+-->    
+
+
+ <li style="font-color:#ff0000 !important"><a class="first-level-override flink" href="/best-seller-flowers-mumbai/" style="color:#c10000 !important" title="">Best Sellers</a></li>
+ 
+ <!--
+   
+  <li style="font-color:#ff0000 !important"  ><a class="first-level-override flink" href="/send-rakhi-gift-to-mumbai/" title="" style="font-color:red !important" rel="nofollow" >Rakhi Special</a></li>
+   -->
+
+ 
+  <li><a class="first-level flink" href="/flowers-combo-mumbai/" title="">Combo</a>
+    <div class="subheader"></div>   
+  </li>  
+ 
+  
+   <!--
+      <li><a class="first-level  first-level-override-red  flink" style=" background:orange" href="/send-diwali-gift-to-mumbai/" title=""  rel="nofollow"   >Diwali Special</a>
+    <div class="subheader"></div>   
+  </li>  
+  -->
+ 
+   <li><a class="first-level flink" href="/mumbai-sameday-delivery-areas/" title="">Delivery Areas</a>
+    <div class="subheader"></div>   
+  </li>  
+    
+	
+	
+	 
+    
+    <!-- 
+    <li><a class="first-level  first-level-override-red  flink" href="/send-diwali-gift-to-mumbai/" title=""  rel="nofollow"   >Diwali Special</a>
+    <div class="subheader"></div>   
+  </li>  
+  -->
+  
+  <!--
+  
+    <li><a class="first-level  first-level-override-red  flink" href="/send-rakhi-gift-to-mumbai/" title=""  rel="nofollow"   >Rakhi Special</a>
+    <div class="subheader"></div>   
+  </li>  
+ -->
+ 
+ 
+ 
+  
+  <li class="append_menu"><a class="first-level first-level-override " href="" title=""> Same Day</a>
+ 
+    <div class="subheader"></div>
+    <div class="sub">
+      <ul>    
+
+<!--
+	     <li ><a href="/send-rakhi-gift-to-mumbai/" style="color:#ff0000 !important" rel="nofollow" >Rakhi Special</a></li>  
+-->
+       <li><a href="/flower-bouquet-delivery-mumbai/">Flowers</a></li>
+	 
+		<li><a href="/cake-delivery-mumbai/">Premium Cakes</a></li>	 
+		<li><a href="/eggless-cake-delivery-mumbai/">Eggless Cake</a></li>	
+		<li><a href="/5star-cake-delivery-mumbai/">5 Star Cakes</a></li>	
+       
+	   <li><a href="/chocolates-delivery-mumbai/">Chocolates</a></li>
+       <li><a href="/fruits-delivery-mumbai/">Fresh Fruits</a></li>
+       <li><a href="/dry-fruit-delivery-mumbai/">Dry Fruits</a></li>
+       <li><a href="/mithai-sweets-delivery-mumbai/">Mithai &amp; Sweets</a></li>
+       <li><a href="/soft-stuff-toy-delivery-mumbai/">Soft Toys</a></li>
+     
+	   <li><a href="/flowers-combo-mumbai/">Flower Combo</a></li>
+     
+       
+ 
+      </ul>
+    </div>
+     <div style="position:absolute;top:40px;left:80px;z-index:5000">
+  <img src="/images1/nit.png"/>
+  </div>
+  </li>
+  
+  
+  
+</ul>
+
+ </div>
+</div>
+
+
+ 
+
+ 
+
+	</td>
+	</tr>
+	</tbody></table>
+
+</td>
+</tr>
+
+ 
+
+
+</tbody></table>
+
+  
+  <!-- ########################## HEADERENDS ##################### -->
+
+
+
+
+
+
+
+ 
+		 
+			  
+				 
+	  
+	  		 
+				 
+				 
+			  
+ 
+	 
+ 			 
+				  
+ 
+  
+   <!-- ########################## BODY START ##################### -->
+ 
+
+
+
+<div id="main_container">
+
+  
+
+	
+
+ 			<div id="slide-container" style="position:relative; ">
+  		 
+						 <div class="slider" id="slide-nav " style="z-index:10;position:absolute;  ">
+						 
+						 	<a class="homenav1" href="/flower-bouquet-delivery-mumbai/"></a>
+						  	<a class="homenav2" href="/flower-bouquet-delivery-mumbai/"></a>
+						   
+						   	<a class="homenav3" href="#"></a>
+						   	
+						    <a class="homenav4" href="#"></a> 
+							<a class="homenav5" href="#"></a>				 
+						  
+						 </div>
+				 
+						 	<div id="slides" style=" position:absolute;left:240px;z-index:9;border-left:2px dotted #99cc33 ">				     	
+					 <!--			  
+						 <img src="images1/diwali-bg.png"  alt="2~1" style="width:860px;height:319px"  onclick="window.location='/send-diwali-gift-to-mumbai/';"  rel="nofollow">	 
+						 
+						 
+					 <img src="images1/rakhi-bg.png"  alt="2~1" style="width:860px;height:319px"  onclick="window.location='/send-rakhi-gift-to-mumbai/';" >		 
+						 
+						 
+						 -->
+						
+					 
+								 <img alt="2~1" onclick="window.location='/flower-bouquet-delivery-mumbai/';" src="images1/one-bg.png" style="width:860px;height:319px"/>
+							
+							
+								 
+								     <img alt="1~2" onclick="window.location='/flowers-combo-mumbai/';" src="images1/4.png" style="width:860px;height:319px"/>
+ 					 		     
+								   
+								
+							 <!-- Valentine 
+								  <img src="/images1/val-bg.png"  alt="5~1" style="width:860px;height:319px"  onclick="window.location='/best-seller-flowers-mumbai/';" >
+								     
+								     <img src="/images1/val-bg-1.png"  alt="5~1" style="width:860px;height:319px"  onclick="window.location='/best-seller-flowers-mumbai/';" >
+					 	     -->
+								  
+								   
+								   
+								<!--   Diwali
+								  <img src="images1/mumbai_diwali.jpg"  alt="5~1" style="width:860px;height:319px"  onclick="window.location='/flower-bouquet-delivery-mumbai/';" >
+								     
+								     <img src="images1/mumbai_diwali.jpg"  alt="5~1" style="width:860px;height:319px"  onclick="window.location='/flower-bouquet-delivery-mumbai/';" >
+								     
+								 -->
+								
+							
+							
+							<!--
+								  <img src="images1/one-bg.png"  alt="5~1" style="width:860px;height:319px"  onclick="window.location='/flower-bouquet-delivery-mumbai/';" >
+							 
+								  <img src="images1/2-bg.png"  alt="1~2"  style="width:860px;height:319px"   onclick="window.location='/flower-bouquet-delivery-mumbai/';"  > 
+								   <img src="images1/3.png"  alt="2~3" style="width:860px;height:319px"   onclick="window.location='/flowers-combo-mumbai/';"  > 								 
+								  <img src="images1/4.png"  alt="3~4"  style="width:860px;height:319px"   onclick="window.location='/flowers-combo-mumbai/';"  > 								  
+								  <img src="images1/5.png"  alt="4~5"  style="width:860px;height:319px"   onclick="window.location='/cake-delivery-mumbai/';"  > 	
+								  -->
+								  						  								 
+						     </div>
+			 
+     		</div>
+     		
+     <!--
+	 <div style="border-bottom:1px solid #ff0000;width:1000px; margin:auto;" >		
+     </div>   
+     -->
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div id="subnav_wrapper2">
+  <div id="subnav_container2">
+     
+     
+    <div class="subnav2"><a href="/flower-bouquet-delivery-mumbai/"><span>Flowers</span></a></div>
+    <div class="subnav2"><a href="#"><span>Cakes</span></a></div>
+    <div class="subnav2"><a href="/chocolates-delivery-mumbai/"><span>Chocolates</span></a></div>
+    <div class="subnav2"><a href="#"><span>Fruits</span></a></div>
+    <div class="subnav2"><a href="#"><span>Combo</span></a></div>
+    <div class="subnav2"><a href="#"><span>Hampers</span></a></div>
+  </div>
+</div>
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--- ############################################ ---->
+ 
+ 
+ 
+<div style="border-bottom:0px solid #ff0000;width:1100px; margin:auto;">
+	<ul class="prul">
+	
+ 	 	  
+ 	 	  
+	 <li class="prlist_li" style="width:172px">
+	 
+	 			
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+				
+							<a href="/item/4072/my-heart-for-you/"><img alt="Bunch of 40 Red Roses nicely decorated with filler and ribbons and packed with Paper Packing." border="0" class="pimg" src="/product_thumbs/thumb_4072.jpg" style="width:164px"/></a>
+				</td>			
+				</tr>
+				<tr> 
+				<td class="desctd">
+				
+						<div class="pname_div">
+						<a class="plink" href="/item/4072/my-heart-for-you/">My Heart for You						</a> 
+						</div>	
+						 
+							<a class="prlink" href="/item/4072/my-heart-for-you/">Rs. 1145</a> <br/>
+							<a class="buynow_link" href="/item/4072/my-heart-for-you/"> BUY NOW </a>
+				</td>			
+				</tr>			
+				</tbody></table>			
+					 	
+		</li> 	
+		
+	  	  
+ 	 	  
+	 <li class="prlist_li" style="width:172px">
+	 
+	 			
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+				
+							<a href="/item/1774/vibrant-hues/"><img alt="Bunch of 20 Mixed Color Roses nicely decorated with fillers and Ribbons." border="0" class="pimg" src="/product_thumbs/thumb_1774.jpg" style="width:164px"/></a>
+				</td>			
+				</tr>
+				<tr> 
+				<td class="desctd">
+				
+						<div class="pname_div">
+						<a class="plink" href="/item/1774/vibrant-hues/">Vibrant Hues						</a> 
+						</div>	
+						 
+							<a class="prlink" href="/item/1774/vibrant-hues/">Rs. 675</a> <br/>
+							<a class="buynow_link" href="/item/1774/vibrant-hues/"> BUY NOW </a>
+				</td>			
+				</tr>			
+				</tbody></table>			
+					 	
+		</li> 	
+		
+	  	  
+ 	 	  
+	 <li class="prlist_li" style="width:172px">
+	 
+	 			
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+				
+							<a href="/item/4085/birthday-blush/"><img alt="Bunch of 12 Carnations nicely decorated with fillers and ribbons." border="0" class="pimg" src="/product_thumbs/thumb_4085.jpg" style="width:164px"/></a>
+				</td>			
+				</tr>
+				<tr> 
+				<td class="desctd">
+				
+						<div class="pname_div">
+						<a class="plink" href="/item/4085/birthday-blush/">Birthday Blush						</a> 
+						</div>	
+						 
+							<a class="prlink" href="/item/4085/birthday-blush/">Rs. 545</a> <br/>
+							<a class="buynow_link" href="/item/4085/birthday-blush/"> BUY NOW </a>
+				</td>			
+				</tr>			
+				</tbody></table>			
+					 	
+		</li> 	
+		
+	  	  
+ 	 	  
+	 <li class="prlist_li" style="width:172px">
+	 
+	 			
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+				
+							<a href="/item/4073/for-my-mother/"><img alt="Bunch of 12 Pink Color Carnations nicely decorated with filler and ribbons." border="0" class="pimg" src="/product_thumbs/thumb_4073.jpg" style="width:164px"/></a>
+				</td>			
+				</tr>
+				<tr> 
+				<td class="desctd">
+				
+						<div class="pname_div">
+						<a class="plink" href="/item/4073/for-my-mother/">For my Mother						</a> 
+						</div>	
+						 
+							<a class="prlink" href="/item/4073/for-my-mother/">Rs. 545</a> <br/>
+							<a class="buynow_link" href="/item/4073/for-my-mother/"> BUY NOW </a>
+				</td>			
+				</tr>			
+				</tbody></table>			
+					 	
+		</li> 	
+		
+	  	  
+ 	 	  
+	 <li class="prlist_li" style="width:172px">
+	 
+	 			
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+				
+							<a href="/item/1029/lovely-red-roses/"><img alt="Bunch of 12 Lovely Red Roses to impress your loved once with romantic fragrance, its like bringing valentines day today." border="0" class="pimg" src="/product_thumbs/thumb_1029.jpg" style="width:164px"/></a>
+				</td>			
+				</tr>
+				<tr> 
+				<td class="desctd">
+				
+						<div class="pname_div">
+						<a class="plink" href="/item/1029/lovely-red-roses/">Lovely Red Roses						</a> 
+						</div>	
+						 
+							<a class="prlink" href="/item/1029/lovely-red-roses/">Rs. 399</a> <br/>
+							<a class="buynow_link" href="/item/1029/lovely-red-roses/"> BUY NOW </a>
+				</td>			
+				</tr>			
+				</tbody></table>			
+					 	
+		</li> 	
+		
+	  	  
+ 	 	  
+	 <li class="prlist_li" style="width:172px">
+	 
+	 			
+				 <table align="center">
+				<tbody><tr> 
+				<td class="imagetd">
+				
+							<a href="/item/4089/love-desire/"><img alt="Bunch of 12 Mixed Color Roses nicely decorated with fillers and ribbons, and Half Kg. High Quality Chocolate Truffle Cake." border="0" class="pimg" src="/product_thumbs/thumb_4089.jpg" style="width:164px"/></a>
+				</td>			
+				</tr>
+				<tr> 
+				<td class="desctd">
+				
+						<div class="pname_div">
+						<a class="plink" href="/item/4089/love-desire/">Love Desire						</a> 
+						</div>	
+						 
+							<a class="prlink" href="/item/4089/love-desire/">Rs. 1195</a> <br/>
+							<a class="buynow_link" href="/item/4089/love-desire/"> BUY NOW </a>
+				</td>			
+				</tr>			
+				</tbody></table>			
+					 	
+		</li> 	
+		
+	 		
+			
+	</ul>		
+</div>   
+
+
+
+<!-- -------------------- ################################## ------------------- -->
+
+<br style="clear:both;"/>
+<br/>
+<div style="border-bottom:0px solid #ff0000;width:1100px; margin:auto;">
+ 
+<ul class="ul_class">
+<li><a href="/flowers-combo-mumbai/"><img alt="Birthday Flowers Combo" src="/images1/ban1.jpg"/></a></li>
+<li><a href="/flower-bouquet-delivery-mumbai/"><img alt="Flower Bouquet Delivery" src="/images1/ban2.jpg"/></a></li>
+<li><a href="/flower-bouquet-delivery-mumbai/"><img alt="Flower Bouquet Delivery" src="/images1/ban3.jpg"/></a></li>
+<li><a href="#"><img alt="Birthday Cake Delivery" src="/images1/ban4.jpg"/></a></li>
+</ul>
+<br style="clear:both;"/><br style="clear:both;"/>
+<div style="padding:20px;border-top:4px double #e5e5e5;border-bottom:4px double #e5e5e5;color:#999999;font-size:12pt;font-family:arial;line-height:25px; ">
+
+Tags: Mumbai Florist, <b>Flowers Delivery Mumbai</b>, <b>Send Flowers Online in Mumbai</b>, <b>Bouquet Delivery in Mumbai</b>, Mumbai Online Florist.
+Same Day Flowers Delivery in Mumbai. <b>Mid Night Flowers Delivery in Mumbai</b>.
+
+</div>
+
+
+
+
+
+
+
+<div style=" height:95px;width:545px;float:left;text-align:left;border-right:1px solid #e5e5e5;color:#999999">
+<span class="sz_2 " style="display:block;border-bottom:1px dotted #cccccc;margin-bottom:10px;">Great Discounts @ Mumbai Flower</span>
+
+<script>
+
+
+function email_val(){
+	e_val=$("#email").val();
+	if (e_val=="Enter your Email"){
+		$("#email").val('');
+	}
+	
+	if (e_val==""){
+		$("#email").val('Enter your Email');
+	}
+	
+}
+
+$( "#subform" ).submit(function( event ) {
+alert( "Handler for .submit() called." );
+e_val=$("#email").val();
+		if (e_val != "Enter your Email"  && e_val != ""  ){
+			 
+			 $.post( "/subscribe.php", $( "#subform" ).serialize(),function( data ){
+				$( "#subscribe" ).html( data );
+			});
+			 
+		}else{
+		 	alert("Enter email address");
+			return false;
+		}
+event.preventDefault();
+});
+
+ 
+
+</script>
+
+Enter your email to get futurastic offers for special events and great discounts:
+
+<div style="margin-top:10px">
+ 
+<form action="/subscribe.php" id="subform" method="post">
+<input id="email" name="email" onblur="email_val()" onfocus="email_val()" style="width:350px;height:25px;color:#999999;border:1px solid #e5e5e5;background:transparent url(images1/emailicon.png) no-repeat;background-position:10px  8px;padding-left:35px" type="text" value="Enter your Email"/> 
+<input class="submit_btn " name="submit_btn" style="margin-left:10px; padding:3px;font-weight:bold; " type="submit" value="I am In  "/>
+ 
+</form>
+ 
+</div>
+</div>
+
+<div style=" height:95px;width:535px;margin-left:10px;float:right; color:#999999;text-align:left; ">
+<span class="sz_2 " style="display:block;border-bottom:1px dotted #cccccc">Be Friend, Join the Circle</span>
+
+			<div class="fb-like" data-action="like" data-href="https://www.facebook.com/mumbaiflowers" data-layout="standard" data-share="true" data-show-faces="true" style="margin-top:10px"></div>
+
+<br/>
+
+<a class="twitter-follow-button" data-show-count="false" href="https://twitter.com/MumbaiMf">Follow @MumbaiMf</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+
+
+<!-- Place this tag where you want the +1 button to render. -->
+<div class="g-plusone" data-annotation="inline" data-size="medium" data-width="300"></div>
+
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+</div>
+
+
+
+
+
+<br style="clear:both;"/><br style="clear:both;"/>
+
+<div style="padding:5px;border-top:4px double #e5e5e5;border-bottom:4px double #e5e5e5;color:#635da7;font-size:14pt;font-family:arial;line-height:25px;">
+<img alt="Flower" src="images1/fl1.jpg"/>
+Mumbai Flowers Online, <b>Same Day and Mid Night Flower Delivery in Mumbai</b>, Guaranteed Delivery or Money Back* .
+<img alt="Bouquet" src="images1/fl2.jpg"/>
+</div>
+
+
+
+<div style="   text-align:left; color:#999999;  height:190px;margin-top:15px;">
+<span class="sz_2 " style="display:block;border-bottom:1px dotted #cccccc; ">Words from our Valued Customers</span>
+
+	 
+		
+		<div class="feedback_div rcor1"> 
+		"Hello Team Members,
+       I got to hear that the items mentioned for the delivery were of good standard. Hope to avail your services again in the future some time.
+<br/>
+Thanks &amp; best regards"
+		<div style="position:relative">
+		<div class="feedback_sign">Saurabh Das</div>
+		</div>
+		</div> 
+
+		<div class="feedback_div rcor1"> 
+		"Thank you ! Good job on the on time delivery.<br/>
+
+Sent from my iPhone"
+		<div style="position:relative">
+		<div class="feedback_sign">Andrew Gomez</div>
+		</div>
+		</div>				
+
+		<div class="feedback_div rcor1"> 
+		"Service was admirable although it was pretty much delayed.<br/>
+If I ignore that thing it was good.<br/>
+
+Thanks"
+		<div style="position:relative">
+		<div class="feedback_sign">Pankaj Kumar Sharma</div>
+		</div>
+		</div>
+		
+		<div class="feedback_div rcor1"> 
+		"Thank you so much .........I really appreciate ur services. :)"<br/><br/>
+		<div style="position:relative">
+		<div class="feedback_sign">Shikha Singh</div>
+		</div>
+		</div>
+		
+
+
+
+
+</div>		
+		  
+
+
+ 
+
+
+
+
+
+
+
+
+
+<div style="padding:10px;border-top:4px double #e5e5e5;border-bottom:4px double #e5e5e5;color:#999999;font-size:12pt;font-family:arial;line-height:25px; ">
+
+Tags:  
+<b>Birthday Flowers Mumbai</b>, 
+Anniversary Gifts Mumbai, 
+<b>Eggless Cake Mumbai</b>, 
+Best Florist Mumbai, 
+<b>Same day Flowers Mumbai</b>, 
+Local Florist Mumbai, 
+<b>Flowers Combo Mumbai</b>, 
+<b>Flowers &amp; Cake Delivery Mumbai</b>,
+Mumbai Online Florists,
+<b>Send Flower Bouquet in Mumbai</b>
+ 
+
+</div>
+
+ 
+</div>
+
+
+
+</center>
+
+<br style="clear:both;"/><br/><br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- ########################## BODY ENDS ##################### -->
+
+  
+  
+   
+  <!-- ########################## FOOTER STARTS ##################### -->
+ <br/><br/>  <br/><br/>
+
+
+
+ 
+<center>
+<table cellpadding="0" cellspacing="0" style="width:100%;background:#cc0066 ;background-repeat:repeat-x;height:25px">
+<tbody><tr>
+<td align="center" valign="top">
+ 
+</td>
+</tr>
+</tbody></table>
+
+<table cellpadding="0" cellspacing="0" style="width:100%;background:#adadad url(/images1/bg_footerShadow.gif);background-repeat:repeat-x">
+<tbody><tr>
+<td align="center" valign="top">
+
+<table style="width:1110px">
+<tbody><tr>
+<td>
+<br/>
+
+<div style="padding:5px;border-top:4px double #999999;border-bottom:4px double #999999;color:#f7f7f7;font-size:12pt;font-family:arial;line-height:25px;text-align:center;position:relative; ">
+<div style="position:absolute;left:1110px;top:-46px">
+<img src="/images1/liverating.png"/>
+</div>	
+<span class="osg " style="font-size:48px;line-height:65px">	JOIN OVER <span style="color:#cc0066"><b>1.5 LAC</b></span> SATISFIED CUSTOMERS</span>
+	<br/>
+Flowers with Same Day and Mid Night Delivery Available, Mumbai Flower Guarantee the Florist Created Flowers Arrangment will be Delivered Sameday!*
+
+	
+</div>
+
+<div style="padding:5px; border-bottom:4px double #999999;color:#f7f7f7;font-size:12pt;font-family:arial;clear:both ;height:200px ">
+	
+<ul class="ul_class" style="margin-left:100px">
+
+<li style="width:150px">
+<br/>
+<span class="sz_2">	Mumbai Flowers</span>
+<br/> 
+<a class="white_links" href="/about/" rel="nofollow">About</a><br/>
+<a class="white_links" href="/contact/">Contact Us</a><br/>
+<a class="white_links" href="/trackorder/" rel="nofollow">Track Order</a><br/>
+
+<a class="white_links" href="/flower-bouquet-delivery-mumbai/">Send Fresh Flowers</a><br/>
+<!-- removed for valentine
+<a href="/cake-delivery-mumbai/" class="white_links" >Send Birthday Cakes</a><br>
+--> 
+</li> 
+
+<li style="width:100px">
+<br/>
+<span class="sz_2">  Products</span>
+<br/> 
+<a class="white_links" href="/flower-bouquet-delivery-mumbai/">Flowers</a><br/>
+<!-- removed for valentine
+<a href="/cake-delivery-mumbai/" class="white_links" >Cakes</a><br>
+<a href="/eggless-cake-delivery-mumbai/" class="white_links" >Egg Less Cake</a><br>
+<a href="/5star-cake-delivery-mumbai/" class="white_links" >5 Star Cake</a><br>
+-->
+
+<a class="white_links" href="/chocolates-delivery-mumbai/">Chocolates</a><br/>
+
+
+</li> 
+<li style="width:135px">
+<br/>
+<span class="sz_2">	   </span>
+<br/> 
+<a class="white_links" href="/fruits-delivery-mumbai/">Fruits</a><br/>
+<a class="white_links" href="/mithai-sweets-delivery-mumbai/">Mithai</a><br/>
+<a class="white_links" href="/soft-stuff-toy-delivery-mumbai/">Soft Toys</a><br/>
+<a class="white_links" href="/flowers-combo-mumbai/">Flower Combo</a><br/>
+<a class="white_links" href="#">Hampers</a><br/>
+</li> 
+<li style="width:185px">
+<br/>
+<span class="sz_2">	Services</span>
+<br/>  
+<a class="white_links" href="#">Same Day Delivery</a><br/>
+<a class="white_links" href="#">Mid Night Delivery</a><br/>
+<a class="white_links" href="/flower-bouquet-delivery-mumbai/">Bouquet Delivery online</a><br/>
+<a class="white_links" href="/cake-delivery-mumbai/">Cake Delivery online</a><br/>
+<a class="white_links" href="/chocolates-delivery-mumbai/">Chocolates Delivery </a><br/>
+</li> 
+
+<li style="width:160px">
+<br/>
+<span class="sz_2">	Policies</span>
+<br/> 
+<a class="white_links" href="/terms-and-condtions/" rel="nofollow">Terms &amp; Conditions</a><br/>
+<a class="white_links" href="/disclaimer/" rel="nofollow">Disclaimer</a><br/>
+<a class="white_links" href="/privacy-policy/" rel="nofollow">Privacy Policy</a><br/>
+<a class="white_links" href="/cancellation/" rel="nofollow">Refund Policy</a><br/>
+<a class="white_links" href="#">Payment Methods</a><br/>
+</li> 
+
+
+ 
+ 
+ <li style="width:150px">
+<br/>
+<span class="sz_2">	Top Locations</span>
+<br/> 
+<a class="white_links" href="/a/florist-delivery/Andheri/">Andheri</a><br/>
+<a class="white_links" href="/a/florist-delivery/Bandra/">Bandra</a><br/>
+<a class="white_links" href="/a/florist-delivery/Navi-Mumbai/">Navi Mumbai</a><br/>
+<a class="white_links" href="/a/florist-delivery/Thane/">Thane</a><br/>
+<a class="white_links" href="/mumbai-sameday-delivery-areas/">All Delivery Areas</a><br/>
+</li> 
+ 
+  
+ 
+</ul>
+
+
+	
+</div>
+
+
+	
+	<br style="clear:both;"/>
+<div style="padding:5px; border-bottom:4px double #999999;color:#f7f7f7;font-size:12pt;font-family:arial;line-height:25px;text-align:center ">
+	<img src="/images1/payment-methods.png"/> 	<img alt="Mumbai Flower Bouquet Delivery" src="/images1/mumbaiflowerlogo3.png" style="width:240px;margin-right:40px;margin-left:40px"/> 	<img src="/images1/safe-secure-bottom.png"/><br/>
+Copyright © 2014 Mumbai Flower - Online Florist Mumbai. All rights reserved.
+	
+</div>
+
+
+<div class="foot_text" style="padding:5px;border-bottom:4px double #cccccc;color:#e5e5e5;font-size:9pt;font-family:arial;  text-align:left;">
+
+   <br/>
+   
+    
+   
+   
+   <h1>Send Flowers, Designer Bouquet Delivery in Mumbai</h1>
+ 
+<p>Flowers is best ever gift among girls and womens, Flowers brings Sensitivity, Good feelings, Emotions, Love and Fruitfulness in Relationship, <b>Send Flowers to Mumbai Online</b> and cheer up any occasions . Mumbai Flower, an Online Florist of Mumbai rated 4 star in <b>low cost Flowers delivery in Mumbai</b>. We provide <b>Bouquet delivery services </b>in Mumbai, Thane, Navi Mumbai, Kalyan, Dombivali , Mulund and all over Mumbai. Contact us for Flowers, Cakes, Egg less Cakes, 5 Star Cakes, Imported Chocolates, Fruits and Flowers Combos to Delivery in Mumbai.</p>
+<h1>
+Mumbai Flowers:   Flowers Delivery in every corner of Mumbai | Send Flower Bouquet,Midnight,Sameday Mumbai Online. Flowers and Cake to Mumbai by online Mumbai Florist
+</h1>
+<p>
+Mumbai Flowers, 4 Star Rated Florist, We Provide Flowers Delivery in every corner of Mumbai | Send Flower Bouquet,Midnight,Sameday in Mumbai Online. Flowers and Cake to Mumbai by Online Mumbai Florists. Mumbai: Yes, Thane: Yes, Dombivali: Yes, Kalyan: Yes and home delivery all over Mumbai. Register and Get Free Discount Coupons and Promocodes
+</p>
+
+
+<h1>Online Flowers &amp; Gifts for every occasions.</h1>
+<p><b>Flowers Delivery online in Mumbai</b>. Book Online, order for Flowers &amp; Gifts for home delivery in Mumbai. Send Flowers online to Mumbai. We provide online flowers delivery services in Mumbai and across Mumbai, book order through our secure website and payment gateway, pay online through credit card, debit card and internet banking. Online luxurious flowers from Lilies to Roses to Orchids, etc are available online for <b>same day and mid night delivery in Mumbai</b>.</p>
+
+<h1>Premium, all time favorite cakes as Birthday Gifts</h1>
+<p>Any occasion is not complete without cake,  whether its a birthday, anniversary or any other occasion, cakes are as important as anything. Choose from our <b>premium quality Cakes, Egg less Cakes, 5 Star Cakes</b> and Flowers &amp; Cake Combos for same day and midnight delivery in Mumbai.</p>
+
+<h1>Mumbai Flower &amp; Florist</h1>
+<p><b>Florist shop in Mumbai</b>, online florist shop for flowers and gifts delivery in Mumbai. We provide best quality, low cost florist deliveries in Mumbai  and around Mumbai. Free express delivery will be provided by our <b>low cost online florist in Mumbai</b>.</p>
+
+<h1>Services at Par</h1>
+<p>We provide Flowers, Cakes and Gifts Delivery for Same day, Fixed Time, Midnight, Remote Locations and other locations in Mumbai, India and International.</p>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+	
+ 
+	<p>
+	 
+	Tags: Mumbai Flowers, <b>Flowers Delivery in Mumbai</b>, <b>Send Flowers to Mumbai</b>,<b>Online FLorist in Mumbai</b>.
+	<br/>
+	<b>Online Florist</b>, Roses Delivery, <b>Bouquet of Flowers</b>, Birthday, Anniversary, Mumbai Florist.
+	</p>
+	
+	<p>
+	We provide <b>florist delivery online </b>in 
+	
+	Mumbai, 
+ 
+	  
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Versova/" title="Versova florist flowers bouquet &amp; Gift delivery">Versova</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Malabar-Hill/" title="Malabar Hill florist flowers bouquet &amp; Gift delivery">Malabar Hill</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Trombay/" title="Trombay florist flowers bouquet &amp; Gift delivery">Trombay</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Navi-Mumbai/" title="Navi Mumbai florist flowers bouquet &amp; Gift delivery">Navi Mumbai</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/MahaLaxmi/" title="MahaLaxmi florist flowers bouquet &amp; Gift delivery">MahaLaxmi</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Mahul/" title="Mahul florist flowers bouquet &amp; Gift delivery">Mahul</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/New-Link-Road/" title="New Link Road florist flowers bouquet &amp; Gift delivery">New Link Road</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Azad-Nagar/" title="Azad Nagar florist flowers bouquet &amp; Gift delivery">Azad Nagar</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Kurla/" title="Kurla florist flowers bouquet &amp; Gift delivery">Kurla</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Sion-East/" title="Sion East florist flowers bouquet &amp; Gift delivery">Sion East</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Dahisar-West/" title="Dahisar West florist flowers bouquet &amp; Gift delivery">Dahisar West</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Mahim/" title="Mahim florist flowers bouquet &amp; Gift delivery">Mahim</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Chembur-East/" title="Chembur East florist flowers bouquet &amp; Gift delivery">Chembur East</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Kemps-Corner/" title="Kemps Corner florist flowers bouquet &amp; Gift delivery">Kemps Corner</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Haji-Ali/" title="Haji Ali florist flowers bouquet &amp; Gift delivery">Haji Ali</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Bhulabhai-Desai-road/" title="Bhulabhai Desai road florist flowers bouquet &amp; Gift delivery">Bhulabhai Desai road</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Rampada/" title="Rampada florist flowers bouquet &amp; Gift delivery">Rampada</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/W-H-Marg/" title="W H Marg florist flowers bouquet &amp; Gift delivery">W H Marg</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/New-Panvel/" title="New Panvel florist flowers bouquet &amp; Gift delivery">New Panvel</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Navpada/" title="Navpada florist flowers bouquet &amp; Gift delivery">Navpada</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Kanjurmarg-West/" title="Kanjurmarg West florist flowers bouquet &amp; Gift delivery">Kanjurmarg West</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Altamount-Road/" title="Altamount Road florist flowers bouquet &amp; Gift delivery">Altamount Road</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Kolshet-Road/" title="Kolshet Road florist flowers bouquet &amp; Gift delivery">Kolshet Road</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Parel-East/" title="Parel East florist flowers bouquet &amp; Gift delivery">Parel East</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Ghatkopar-East/" title="Ghatkopar East florist flowers bouquet &amp; Gift delivery">Ghatkopar East</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Kannamwar-Nagar/" title="Kannamwar Nagar florist flowers bouquet &amp; Gift delivery">Kannamwar Nagar</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Malad-West/" title="Malad West florist flowers bouquet &amp; Gift delivery">Malad West</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Byculla-East/" title="Byculla East florist flowers bouquet &amp; Gift delivery">Byculla East</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Himalaya-House/" title="Himalaya House florist flowers bouquet &amp; Gift delivery">Himalaya House</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Panvel/" title="Panvel florist flowers bouquet &amp; Gift delivery">Panvel</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Malad-East/" title="Malad East florist flowers bouquet &amp; Gift delivery">Malad East</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Khar/" title="Khar florist flowers bouquet &amp; Gift delivery">Khar</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Nepean-Sea-Road/" title="Nepean Sea Road florist flowers bouquet &amp; Gift delivery">Nepean Sea Road</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Crawford-Market/" title="Crawford Market florist flowers bouquet &amp; Gift delivery">Crawford Market</a>,
+		  
+	
+	 
+	 
+		  <a class="top_links_rev" href="/a/florist-delivery/Dombivali/" title="Dombivali florist flowers bouquet &amp; Gift delivery">Dombivali</a>,
+		  
+		 
+	 
+ 
+ etc. <b>Order online for Same Day and Mid Night Delivery in Mumbai</b>.
+	
+</p>	 
+</div>	
+
+
+
+
+
+
+
+<div class="foot_text" style="padding:5px;border-bottom:4px double #cccccc;color:#e5e5e5;font-size:9pt;font-family:arial;  text-align:left;line-height:2">
+<!-- ###################################################################################################### -->
+
+
+ <br/><br/>
+	 
+	 <!-- ####################################### -->
+ 
+	 <h1>Some of the Delivery Locations</h1>
+	 <ul>
+	  
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Agra/" title="Agra florist flower bouquet delivery">Agra</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Ahmedabad/" title="Ahmedabad florist flower bouquet delivery">Ahmedabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Ajmer/" title="Ajmer florist flower bouquet delivery">Ajmer</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Allahabad/" title="Allahabad florist flower bouquet delivery">Allahabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Amritsar/" title="Amritsar florist flower bouquet delivery">Amritsar</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Aurangabad/" title="Aurangabad florist flower bouquet delivery">Aurangabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Banaras/" title="Banaras florist flower bouquet delivery">Banaras</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Bangalore/" title="Bangalore florist flower bouquet delivery">Bangalore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Baroda/" title="Baroda florist flower bouquet delivery">Baroda</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Bhilai/" title="Bhilai florist flower bouquet delivery">Bhilai</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Bhopal/" title="Bhopal florist flower bouquet delivery">Bhopal</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Bhubaneshwar/" title="Bhubaneshwar florist flower bouquet delivery">Bhubaneshwar</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Bombay/" title="Bombay florist flower bouquet delivery">Bombay</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Calcutta/" title="Calcutta florist flower bouquet delivery">Calcutta</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Chandigarh/" title="Chandigarh florist flower bouquet delivery">Chandigarh</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Chennai/" title="Chennai florist flower bouquet delivery">Chennai</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Cochin/" title="Cochin florist flower bouquet delivery">Cochin</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Coimbatore/" title="Coimbatore florist flower bouquet delivery">Coimbatore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Dehradun/" title="Dehradun florist flower bouquet delivery">Dehradun</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Delhi/" title="Delhi florist flower bouquet delivery">Delhi</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Delhi-NCR/" title="Delhi-NCR florist flower bouquet delivery">Delhi-NCR</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Faridabad/" title="Faridabad florist flower bouquet delivery">Faridabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Gandhinagar/" title="Gandhinagar florist flower bouquet delivery">Gandhinagar</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Ghaziabad/" title="Ghaziabad florist flower bouquet delivery">Ghaziabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Greater-Noida/" title="Greater Noida florist flower bouquet delivery">Greater Noida</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Guntur/" title="Guntur florist flower bouquet delivery">Guntur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Gurgaon/" title="Gurgaon florist flower bouquet delivery">Gurgaon</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Guwahati/" title="Guwahati florist flower bouquet delivery">Guwahati</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Gwalior/" title="Gwalior florist flower bouquet delivery">Gwalior</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Howrah/" title="Howrah florist flower bouquet delivery">Howrah</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Hyderabad/" title="Hyderabad florist flower bouquet delivery">Hyderabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Indore/" title="Indore florist flower bouquet delivery">Indore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Jabalpur/" title="Jabalpur florist flower bouquet delivery">Jabalpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Jaipur/" title="Jaipur florist flower bouquet delivery">Jaipur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Jalandhar/" title="Jalandhar florist flower bouquet delivery">Jalandhar</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Jammu/" title="Jammu florist flower bouquet delivery">Jammu</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Jamshedpur/" title="Jamshedpur florist flower bouquet delivery">Jamshedpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Kanpur/" title="Kanpur florist flower bouquet delivery">Kanpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Kochi/" title="Kochi florist flower bouquet delivery">Kochi</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Kolhapur/" title="Kolhapur florist flower bouquet delivery">Kolhapur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Kolkata/" title="Kolkata florist flower bouquet delivery">Kolkata</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Lucknow/" title="Lucknow florist flower bouquet delivery">Lucknow</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Ludhiana/" title="Ludhiana florist flower bouquet delivery">Ludhiana</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Madurai/" title="Madurai florist flower bouquet delivery">Madurai</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Mangalore/" title="Mangalore florist flower bouquet delivery">Mangalore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Meerut/" title="Meerut florist flower bouquet delivery">Meerut</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Mohali/" title="Mohali florist flower bouquet delivery">Mohali</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Moradabad/" title="Moradabad florist flower bouquet delivery">Moradabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Mumbai/" title="Mumbai florist flower bouquet delivery">Mumbai</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Mysore/" title="Mysore florist flower bouquet delivery">Mysore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Nagpur/" title="Nagpur florist flower bouquet delivery">Nagpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Nashik/" title="Nashik florist flower bouquet delivery">Nashik</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Navi-Mumbai/" title="Navi Mumbai florist flower bouquet delivery">Navi Mumbai</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Nellore/" title="Nellore florist flower bouquet delivery">Nellore</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/New-Delhi/" title="New Delhi florist flower bouquet delivery">New Delhi</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Noida/" title="Noida florist flower bouquet delivery">Noida</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Panchkula/" title="Panchkula florist flower bouquet delivery">Panchkula</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Panipat/" title="Panipat florist flower bouquet delivery">Panipat</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Patiala/" title="Patiala florist flower bouquet delivery">Patiala</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Patna/" title="Patna florist flower bouquet delivery">Patna</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Pondicherry/" title="Pondicherry florist flower bouquet delivery">Pondicherry</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Pune/" title="Pune florist flower bouquet delivery">Pune</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Raipur/" title="Raipur florist flower bouquet delivery">Raipur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Ranchi/" title="Ranchi florist flower bouquet delivery">Ranchi</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Roorkee/" title="Roorkee florist flower bouquet delivery">Roorkee</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Saharanpur/" title="Saharanpur florist flower bouquet delivery">Saharanpur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Sahibabad/" title="Sahibabad florist flower bouquet delivery">Sahibabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Salem/" title="Salem florist flower bouquet delivery">Salem</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Secunderabad/" title="Secunderabad florist flower bouquet delivery">Secunderabad</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Surat/" title="Surat florist flower bouquet delivery">Surat</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Thane/" title="Thane florist flower bouquet delivery">Thane</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Udaipur/" title="Udaipur florist flower bouquet delivery">Udaipur</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Vadodara/" title="Vadodara florist flower bouquet delivery">Vadodara</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Varanasi/" title="Varanasi florist flower bouquet delivery">Varanasi</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Visakhapatnam/" title="Visakhapatnam florist flower bouquet delivery">Visakhapatnam</a>
+		</li>
+	
+	 
+		<li class="fl_left">
+		<a class="top_links_rev" href="/flower-bouquet/Vizag/" title="Vizag florist flower bouquet delivery">Vizag</a>
+		</li>
+		 
+		</ul>
+	  
+		
+	<b>Send Flowers, Bouquet, Cake , Gifts Delivery to all location and every corner of Mumbai	</b>
+	 <br/>
+	 
+	 <br style="clear:both"/>	
+	 
+		
+
+
+<!-- ###################################################################################################### -->
+
+	</div>
+</td>
+</tr>
+</tbody></table>
+ 
+</td>
+</tr>
+</tbody></table>
+
+
+	 
+</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+	 </body></html>

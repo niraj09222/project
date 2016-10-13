@@ -1,0 +1,2183 @@
+<!DOCTYPE html>
+<html class="no-js" dir="ltr" lang="en-US" xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<title>Flower Delivery Online | India's No.1 Florist - Ferns N Petals</title>
+<meta content="Flower Delivery Online | India's Largest Florist - Ferns N Petals" name="title"/>
+<meta content="ferns n petals, flower delivery, send flowers to india, buy flowers online, online florist, fnp" name="keywords"/>
+<meta content="Flowers, Gifts or Cakes 🎁 - We promise a delivery in 4 hours  across India with FREE shipping!! Order from Ferns N Petals, India's largest online florist catering to personal, corporate floral &amp; gifting needs." name="description"/>
+<meta content="Flowers online in India - Delivery by India's No.1 Florist network, Ferns N Petals (FNP.COM)" name="abstract"/>
+
+<meta content="7FC292BC7E1EEEB5CE942BE4A9526120" name="msvalidate.01"/>
+	<link href="http://www.fnp.com/" rel="canonical"/>
+	<link href="http://m.fnp.com/" media="only screen and (max-width: 1024px)" rel="alternate"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <link href="http://i4.fnp.com/assets/images/favicon.ico" rel="shortcut icon"/>
+	
+	<style>body {background: #fff;color: #222;cursor: auto;font-style: normal;font-weight: normal;line-height: 1.2;margin: 0;padding: 0;position: relative;}#maintoolbar {background: #7bc682 none repeat scroll 0 0;box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);height: 75px;max-height: 85px;max-width: 100%;min-height: 85px;min-width: 900px;padding: 0px 0 5px;position: fixed;top: 0;transition: all 0.5s ease-in-out 0.1s;z-index: 1000;}.row {margin: 0 auto;max-width: 1600px;width: 100%;}#infotools, #navigationtools {padding-left: 0;padding-right: 0;}@media only screen and (min-width: 64.0625em).column, .columns {position: relative;//padding-left: 0.9375rem;//padding-right: 0.9375rem;float: left;}@media only screen and (min-width: 40.0625em){.medium-5 {width: 41.66667%;}}header ul {vertical-align: middle;white-space: nowrap;padding: 4px 0 0;}header #maintoolbar ul#navigationtools>li:first-child {padding: 8px 22px 8px 8px;}header #maintoolbar ul>li {display: inline-block;padding: 8px 22px 8px 6px;vertical-align: middle;}#navmenubar>ul>li.ui-state-default a{display: none;}#navmenubar {background: #62af69;font-size: inherit;clear: both;padding: 0;height: 35px;border-radius: 0;border: #62af69;padding-top: 1px;padding-bottom: 1px;z-index: 1005;}#navmenubar>ul {border: none;text-align: center;width: 100%;min-width: 175px;background: #62af69;/* background: transparent; */content: none;margin-top: -3px;border: none;}#maintoolbar #navmenubar>ul>li {display: inline-block !important;float: none;margin-right: 0;padding: 0px 15px 0px 15px;vertical-align: middle;border: none;border-radius: 5px 5px 0 0;}header #maintoolbar #navmenubar ul>li{display: block;}header button {background: rgba(0, 0, 0, 0) url("http://i5.fnp.com/assets/images/iconSpriteBg.png") no-repeat scroll 0 5px;border: medium none;cursor: pointer;height: 50px;margin: 0;padding: 0;position: relative;transition: none 0s ease 0s;width: 50px;}#browse:before {color: #1e7e27;content: "Shop";font-family: "roboto slab";font-size: 14px;font-weight: 400;left: 2px;letter-spacing: 2px;position: absolute;text-align: center;top: -13px;width: 100%;}#navigationtools #mobileapp {width: 40px;background-position: -58px 5px;}#navigationtools #deliveryclock {background-position: -98px 5px;}#navigationtools #tomorrowdelivery {background-position: -98px 5px;}#navigationtools #search {background-position: -143px 5px;}#fnplogo {vertical-align: middle;padding: 0;height: 79px;text-align: center;}a {display: inline-block;text-decoration: none;}#fnplogo img {width: 80% !important;}@media only screen and (min-width: 64.0625em){.column, .columns {position: relative;padding-left: 0.9375rem;padding-right: 0.9375rem;float: left;}}#infotools {margin: 0;//padding-right: 34px;padding-top: 0;text-align: right;width: 40%;}header ul#infotools>li {padding: 6px 6px 6px 14px;}#infotools #franchise {background: rgba(0, 0, 0, 0) none repeat scroll 0 0;color: #1e7e27;min-height: 10px;margin-bottom: 16px;font-family: "roboto slab";font-size: 14px;font-weight: 100;height: auto;padding-bottom: 0;text-decoration: none;width: auto;display: block;}#infotools #bulkorders {background: rgba(0, 0, 0, 0) none repeat scroll 0 0;color: #1e7e27;display: block;font-family: "roboto slab";font-size: 14px;font-weight: 100;height: auto;margin-top: -5px;width: auto;min-height: 20px;}ul.logindropdown, ul.currencydropdown {display: none;position: absolute;margin: 5px 0 0 0;z-index: 99999;}#infotools #cart {position: relative;background-position: -308px 5px;width: 47px;position: relative;}a{outline:none;}#navigationtools{margin: 0;}#infotools #help {background-position: -190px 5px;}#infotools #trackorder {background-position: -234px 5px;width: 46px;}#infotools #login {background-position: -271px 5px;width: 45px;}#infotools #cart:hover, #infotools li #cart.selected {background-position: -308px -46px;}#infotools #currencyicon .WebRupee {font-size: 35px;}span.WebRupee {font-family: 'WebRupee' !important;}#infotools #currencyicon {background: none;color: #1e7e27;}#currencyicon {font-size: 25px;}#infotools #login:hover, #infotools li #login.selected {background-position: -271px -46px;}.maintitle {font-size: 26px;text-align: center;margin: 10px 0 15px 0;font-weight: 300;}h1::before, h1::after {content: "";height: 1px;width: 141px;display: inline-block;height: 1px;width: 137px;background: url("http://i5.fnp.com/assets/images/iconSpriteBg.png") no-repeat -6px -542px;vertical-align: middle;}h1::after {background-position: -144px -542px;}.mainsubtitle {color: #222;font-size: 20px;font-weight: 300;margin-top: -10px;text-align: center;}span.highlight {color: #59b5d7;}.productsection h2 {margin-bottom: 20px;margin-top: 20px;margin-left: 35px;margin-right: 35px;}.productlisting a {border-bottom: 1px solid rgba(0, 0, 0, 0);line-height: 27px;text-decoration: none;}main a {color: #31afac;text-decoration: none;}#morelinks>h3, main h2 {font-size: 18.8px;color: #59b5d7;}@media only screen and (min-width: 40.0625em){.medium-block-grid-5 > li:nth-of-type(1n) {clear: none;}}figure{margin:0;padding:0;border:0;}.menu {background: #89e0e8;margin-top: 5px;border-top: 1px solid #36c2cf;border-bottom: 1px solid #36c2cf;}#topbarcontainer {max-width: 1600px;background: #fff;width: 100%;z-index: 1;/* width: calc(100% - 0.8em); */padding-top: 15px;/* box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5); */}.f-dropdown.content {display: none;left: -9999px;list-style: none;margin-left: 0;position: absolute;background: #FFFFFF;border: solid 1px #cccccc;font-size: 0.875rem;height: auto;max-height: none;padding: 1.25rem;width: 100%;z-index: 89;max-width: 200px;}.top-bar-section ul {height: 100% !important;}.top-bar-section ul {display: block;font-size: 16px;height: auto;margin: 0;padding: 0;width: 100%;}@media only screen and (min-width: 40.0625em){.top-bar-section ul {display: inline;height: auto !important;width: auto;}}.left {float: left !important;}.top-bar-section {left: 0;position: relative;width: auto;transition: left 300ms ease-out;}.top-bar-section .has-dropdown {position: relative;}.top-bar-section ul li {background: none;color: #515151;}.top-bar-section ul li {padding: 0 !important;}.menu .top-bar {line-height: 3.375rem;height: 3.375rem;}@media only screen and (min-width: 40.0625em){.top-bar-section ul li {float: left;}}@media only screen and (min-width: 40.0625em){.top-bar-section ul li {float: left;}}.menu .top-bar-section li.has-dropdown:first-child>a {border-left: 0.1rem solid #36c2cf;}.menu .top-bar-section li.has-dropdown a {font-size: 1.1rem;color: #17929d;/* line-height: 3.375rem; */height: 3.375rem;z-index: 5000;text-decoration: none;background: none;font-family: "Raleway",sans-serif;}@media only screen and (min-width: 40.0625em){.top-bar-section li:not(.has-form) a:not(.button) {background: #333333;line-height: 2.8125rem;padding: 0 0.9375rem;}}@media only screen and (min-width: 40.0625em){.top-bar-section .has-dropdown > a {padding-right: 2.1875rem !important;}}.menu .top-bar-section li.has-dropdown a.label {background: none;color: #fff !important;text-transform: capitalize;}.right {float: right !important;}ul li {list-style: none;}.menu .top-bar-section li.has-dropdown>a {border-right: 0.1rem solid #36c2cf;border-left: 0.1rem solid transparent;}#mainbanner {padding-top: 75px;margin-bottom: 5px;position: relative;}#mainbanner img {min-height: 270px;}#mainbanner h1 {color: #fff;font-family: "alex brush";font-size: 3.6vw;font-weight: lighter;letter-spacing: 0.15px;position: absolute;right: 11px;top: 40%;width: 50%;}#mainbanner > .categorydescription {color: #555;font-family: "roboto slab";font-size: 0.8em;height: 140px;line-height: 23px;position: absolute;right: 10px;top: 57%;width: 50%;}.reveal-modal {border-radius: 3px;display: none;position: absolute;top: 0;visibility: hidden;width: 100%;z-index: 1005;left: 0;background-color: #FFFFFF;padding: 1.875rem;border: solid 1px #666666;box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);}.row {margin: 0 auto;max-width: 1600px;width: 100%;}.column, .columns {padding-left: 0.9375rem;padding-right: 0.9375rem;width: 100%;float: left;}@media only screen and (min-width: 40.0625em){.medium-2 {width: 16.66667%;}}@media only screen and (min-width: 40.0625em){.medium-5 {width: 41.66667%;}}.leftnav {float: right;height: auto;}.navigation>div {display: inline-block;}#sort {width: 150px;overflow: visible;cursor: pointer;padding-top: 0px;padding-bottom: 0px;height: 25px;background-color: #fff;}@media only screen and (min-width: 40.0625em){.medium-block-grid-5 > li:nth-of-type(5n+1) {clear: both;}}[class*="block-grid-"] > li {display: block;float: left;height: auto;padding: 0 0.625rem 1.25rem;}[class*="block-grid-"], [class*="block-grid-"]>li {margin: 0;padding: 0;text-align: center;}.productlisting li {border: 1px solid #fff;}@media only screen and (min-width: 40.0625em){.medium-block-grid-5 > li {list-style: none;width: 17%;}}#filtersOptions {display: none;}.productlisting>ul a {width: 100%;min-width: 0;border: 1px solid #fff;}/*.productsection a img {width: 100%;}*/.productlisting ul.medium-block-grid-5 {margin-left: 35px;margin-right: 35px;}[class*="block-grid-"] {display: block;padding: 0;margin: 0 -0.625rem;}[class*="block-grid-"]>li {padding-top: 20px;padding-right: 30px;}.moredata {/*visibility: hidden;*/overflow: visible;max-height: 30px;}.productlisting .p-name {line-height: 2em;color: #909090;}.p-name {font-size: 13px;}.h-price {font-size: 13px;font-weight: bold;}.webprice {font-family: "roboto slab";display: block;color: #242424;font-weight: bold;}.column, .columns {padding-left: 0.4em;padding-right: 0.4em;}.medium-block-grid-2 > li.fernsabout {list-style: outside none none;width: 60%;}@media only screen and (min-width: 40.0625em){.medium-block-grid-2 > li:nth-of-type(2n+1) {clear: both;}}li.fernsabout {padding-right: 30px;}.tab-active {display: block;}.tabbes {float: left;width: 100%;padding: 10px;text-align: left;// display: none;}.medium-block-grid-2 > li.fernscontact {list-style: outside none none;width: 40%;}.registerfrm {border: 1px solid #70caed;float: right;margin-right: 10px;position: relative;width: 84%;}.registerfrm > * {width: 80%;}.regiterfrmtitle {margin: 30px auto;}.registerfrm>* {display: block;text-align: center;width: 63%;margin: 0px auto;}.registerfrm input[type="text"], .registerfrm input[type="email"], .registerfrm input[type="number"], .registerfrm input[type="tel"], .registerfrm textarea {height: auto;font-size: 16px;margin-bottom: 35px;padding: 0 0 0 5px;font-family: "roboto slab";font-weight: 100;border: 0 solid #888787;border-bottom-width: 1px;min-height: 0;box-shadow: none;}.registerfrm form > button[type="submit"] {margin-left: 15%;}.registerfrm form>button[type='submit'] {border-color: #f97d00;width: 70%;font-size: 1.4em;font-family: "roboto slab";font-weight: 100;margin-bottom: 30px;border-radius: 0px;background-color: #f78828;transition: background-color 0ms ease-out, color 100ms ease-out;}.registerfrm span.franformtitle {font-size: 1.8em;}.registerfrm span.franformtitle {font-size: 2.5rem;text-transform: capitalize;letter-spacing: 0.1rem;color: #59b5d7;/* padding: 20px 0; */}#login #loggedinuser{display : none;}#totalproductcount{display : none;}.productnav {margin-left: 40px;margin-bottom: 30px;}#breadcrumbs>a::after {content: " > ";}#breadcrumbs a:hover {color: #31afac;}#breadcrumbs span {color: #31afac;}#breadcrumbs * {text-decoration: none;color: #000;font-size: 1.2em;font-family: "roboto slab";font-weight: 300;letter-spacing: 0.15px;}main a {text-decoration: underline;color: #31afac;text-decoration: none;}a {display: inline-block;text-decoration: none;outline: medium none;}a {outline: none;}a {display: inline-block;text-decoration: none;}div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {margin: 0;padding: 0;}*, *:before, *:after {box-sizing: inherit;}*, *:before, *:after {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}.prodimgslider #product {width: 364px;height: 364px;}.product-selected {text-align: center;}.row .row {margin: 0 -0.4em;max-width: none;width: auto;}@media only screen and (min-width: 64.0625em){.large-4 {width: 33.33333% !important;}}.column + .column:last-child, .columns + .column:last-child, .column + .columns:last-child, .columns + .columns:last-child {float: right;}.xpress-product-form {text-align: center;border: 1px solid #7bccdd;padding-left: 0.9375rem;padding-right: 0.9375rem;min-height: 428px;position: relative;z-index: 900;width: 21.5em;background: white;}@media only screen and (min-width: 64.0625em){.large-3 {width: 25%;}}@media only screen and (min-width: 64.0625em){.column, .columns {position: relative;padding-left: 0.9375rem;padding-right: 0.9375rem;float: left;}}@media only screen and (min-width: 64.0625em){.large-push-5 {position: relative;left: 41.66667%;right: auto;}}.row .row:before, .row .row:after {content: " ";display: table;}.xpress-product-form form {padding: 0 7px;}form {margin: 0 0 0;}.price-block {position: relative;margin-bottom: 30px;}.pricediv {color: #7bccdd;font-family: "roboto slab";font-size: 1.7em;padding-top: 20px;text-align: center;width: 100%;font-weight: 300;}span {display: inline-block;}.inputdiv {position: relative;}#cartToolTip {display: none;}.xpress-product-form form button#addToCart {background: #62af69;margin-top: 0;border: 1px solid #62af69;}.xpress-product-form form input[type="text"] {height: auto;padding: 0 0 0 5px;border: 0 solid #2272b1;border-bottom-width: 1px;min-height: 0;font-family: "roboto slab";font-weight: 100;box-shadow: none;}input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], textarea {-webkit-appearance: none;background-color: #fff;border: 1px solid #cccccc;box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);color: #000;font-size: inherit;margin: 0 0 0 0;padding: 0;padding: 0 0 0 0.57rem;min-height: 34px;height: auto;width: 100%;border-radius: 0;vertical-align: top;box-sizing: border-box;transition: none;}.selectedLocality {font-size: 0.8em;text-align: left;width: 100%;padding-left: 5px;padding-bottom: 5px;color: #888787;background-color: #ffffca;display: none !important;}#pincodeAlert {margin-bottom: 0;}#pincodeAlert, #dateAlert {display: none;}#contextcity {margin-top: 7px;color: #7ec9e8;padding-left: 10px;width: 100%;text-align: right;display: none;text-transform: capitalize;}#removecitycontext {margin-left: 5px;}#datetimelink {width: 100%;margin-bottom: 0;text-align: left;text-decoration: none;border-bottom: 1px solid #2272b1;margin-top: 25px;padding-left: 5px;}.disableClick {pointer-events: none;}.disableClick {color: #999;}#datetimeshipping {margin-top: 25px;text-align: left;padding-left: 10px;border-bottom: 1px solid #2272b1;color: #222;position: relative;display: none;cursor: pointer;}.subvariantblock {position: relative;}.xpress-product-form form button {padding: 9px 0;border-radius: 0;margin-top: 40px;width: 92%;font-size: 1.5em;font-weight: 100;font-family: "roboto slab";margin-left: 4%;margin-right: 4%;}button.primary, button[type="submit"], button.icon.primary, button.icon[type="submit"], .button.primary, .button[type="submit"], a.button.primary, a.button[type="submit"], input[type=button].primary, input[type=button][type="submit"], input[type=submit].primary, input[type=submit][type="submit"], input[type=reset].primary, input[type=reset][type="submit"] {margin-bottom: 0.8em;cursor: pointer;font-size: 1rem;font-weight: bold;transition: background-color 500ms ease-out, color 500ms ease-out;color: #fff;border-radius: 0.35rem;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;background: #f78828;border: 1px solid #da7532;background: linear-gradient(to bottom,#f78828 0,#dd771f 100%);border-radius: 4px;outline: 0;color: #f9f9f9;text-transform: uppercase;cursor: pointer;text-shadow: 0 0 1px rgba(0,0,0,0.33);}.formfooter {position: absolute;bottom: 10px;left: 0px;right: 0px;}.timeleft {font-family: "roboto slab";font-size: 3em;font-weight: 100;color: #eaeaea;}.timeellapse>div span {display: block;font-family: "roboto slab";font-weight: 100;color: #eaeaea;}.timeellapse>div {display: inline-block;margin-left: 5px;}.deltxt {font-size: 1.3em;}.deliveryDay {display: inline-block;font-weight: 100;font-family: "roboto slab";}@media only screen and (min-width: 64.0625em){.large-5 {width: 41.66667%;}}.product-heading {display: flex;justify-content: center;}@media only screen and (min-width: 64.0625em){.large-8 {width: 66.66667%;}}@media only screen and (min-width: 64.0625em){.large-pull-3 {position: relative;right: 25%;left: auto;}}.item-heading {width: 250px;color: #565656;font-family: "roboto slab";font-weight: 300;white-space: nowrap;overflow: hidden !important;text-overflow: ellipsis;height: 27px;}h1 {font-size: 25.2px;font-weight: bold;}.product-heading div:last-child {align-self: center;}.prodinfobarblock {display: flex;justify-content: center;}.prodinfobarblock>.row>.columns:first-child {padding-right: 0;}@media only screen and (min-width: 64.0625em){.large-10 {width: 83.33333%;}}.scroll-pane {width: 100%;height: 200px;overflow: hidden;outline: none;}.tab {background-color: #FFF;float: left;margin-bottom: 0px;width: 100%;}.item-heading::before {background: url("");width: 0;}h1::before, h1::after {content: "";height: 1px;width: 141px;display: inline-block;height: 1px;width: 137px;background: url("http://i5.fnp.com/assets/images/iconSpriteBg.png") no-repeat -6px -542px;vertical-align: middle;}*, *:before, *:after {box-sizing: inherit;}*, *:before, *:after {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}@media only screen and (min-width: 64.0625em){.large-4 {width: 33.33333%;}}.row .row:before, .row .row:after {content: " ";display: table;}@media only screen and (min-width: 64.0625em){.large-10 {width: 83.33333%;}}@media only screen and (min-width: 40.0625em){.medium-11 {width: 91.66667%;}}.prodinfobar>.viewed {float: left;}.skucode {font-style: italic;font-weight: 100;color: #d1d1d1;font-size: 12px;}#tabs.ui-widget-content {border: none;background: none;}#tabs .tabs-menu, #addontabs .tabs-menu {background: #fff;}#tabs .ui-state-default, #tabs .ui-widget-content .ui-state-default, #tabs .ui-widget-header .ui-state-default, #tabs .ui-state-hover, #addontabs .ui-state-default, #addontabs .ui-widget-content .ui-state-default, #addontabs .ui-widget-header .ui-state-default, #addontabs .ui-state-hover {border: none;background: none;}#tabs ul li:first-child {max-width: 10em;}#tabs .ui-state-active, #tabs .ui-widget-content .ui-state-active, #tabs .ui-widget-header .ui-state-active#addontabs .ui-widget-content .ui-state-active, #addontabs .ui-widget-header .ui-state-active {background: #fff !important;border: none;}@media only screen and (min-width: 40.0625em){.medium-3 {width: 25%;}}@media only screen and (min-width: 40.0625em){.medium-5 {width: 41.66667%;}}@media only screen and (min-width: 40.0625em){.medium-4 {width: 33.33333%;}}#tab-1, #tab-2, #tab-3 {padding-left: 0;}#tabs ul li a{padding: .5em 1em;}#tabs{position:relative;}.row .row:after {clear: both;}div.scroll-pane ul li, #tabs div.scroll-pane ul li {max-width: 100%;}#tab-2, #tab-3  {display: none;}main p {font-size: 13px;color: #242424;line-height: 16px;margin-bottom: 15px;text-align: justify;}p {position: relative;}p, blockquote {margin: 0.5rem 0;}table {border: solid 1px #E9E9E9;table-layout: auto;width: 100%;border-spacing: 0;background: 0 0;margin: 0;margin-bottom: .8em;}.rc-table, table {border-color: #e4d7c5;}table {border-collapse: collapse;border-spacing: 0;}table tbody tr td, table tbody tr th, table tfoot tr td, table tfoot tr th, table thead tr th, table tr td {display: table-cell;line-height: 1.2857142857rem;}table td, table th, table td, table th {border-width: 1px 0 0 1px;border-color: #E9E9E9;border-style: solid;}table tr th, table tr td {color: #222222;font-size: 0.875rem;padding: 0.5625rem 0.625rem;text-align: left;}table td, table th, table td, table th {border-width: 1px 0 0 1px;border-color: #E9E9E9;border-style: solid;}.rc-table th, .rc-table td, table th, table td {border-width: 1px 0 0 1px;border-color: #E9E9E9;border-style: solid;}table tr.even, table tr.alt, table tr:nth-of-type(even) {background: #F9F9F9;}table tbody td a {color: #333;}a {display: inline-block;text-decoration: none;}footer {float: left;width: 100%;position: relative;background: #f2f2f2;}.row .row:before, .row .row:after {content: " ";display: table;}.row .row:after {clear: both;}[class*="block-grid-"]:after {clear: both;}[class*="block-grid-"]:before, [class*="block-grid-"]:after {content: " ";display: table;}#footer .medium-block-grid-3 {height: 125px;border-bottom: 1px solid #fff;padding-left: 100px;padding-right: 100px;}#footer .medium-block-grid-3 > li {height: 100%;border-right: 1px solid #fff;}@media only screen and (min-width: 40.0625em){.medium-block-grid-3 > li:nth-of-type(3n+1) {clear: both;}}@media only screen and (min-width: 40.0625em){.medium-block-grid-3 > li:nth-of-type(1n) {clear: none;}}@media only screen and (min-width: 40.0625em){.medium-block-grid-3 > li {list-style: none;width: 33.33333%;}}#subscribe>h6 {text-align: left;margin-right: 0;}#brands {padding-bottom: 20px;border-bottom: 1px solid #fff;}#morelinks {padding-top: 20px;}#morelinks>ul>li:first-child {padding-left: 0;}#morelinks>ul>li {border-right: 1px solid #9e9e9e;font-size: 13px;line-height: 23.3px;padding: 0 10px 0 5px;}#morelinks>ul>li {display: inline;white-space: nowrap;}#socialtoolbar h6 {margin-bottom: 15px;margin-left: .8em;}#footer h6 {font-size: 0.875em;text-transform: uppercase;text-align: center;color: #666666;margin-bottom: 15px;}#subscribeform>input[type=email] {font-size: 13px;font-family: "roboto slab";font-weight: 100;padding: 10.5px 6.67px 6.67px 39.64px;background: url("http://i5.fnp.com/assets/images/iconSpriteBg.png") 16px -776px no-repeat;background-color: #fff;border-right-width: 0px;border-top: 1px solid #a3a5a6;border-bottom: 1px solid #a3a5a6;border-left: 1px solid #a3a5a6;display: inline-block;width: 60%;margin-bottom: 0;vertical-align: middle;}#subscribeform #htfield {display: none;}#subscribeform>button {border-radius: 0;font-size: .9rem;line-height: 1em;height: 2.65rem;display: inline-block;}#footer .medium-block-grid-3 > li {height: 100%;border-right: 1px solid #fff;}ul #socialtoolbar>ul {margin-left: 10px;}#socialtoolbar>ul>li {display: inline-block;}#socialtoolbar>ul>li>a {width: 30px;height: 30px;position: relative;overflow: hidden;}#socialtoolbar>ul>li>a>img {position: relative;top: -697px;max-width: 700px;top: -697px;}a img {border: none;}#tw>img {left: -34px;}#pt>img {left: -68px;}#gp>img {left: -101px;}child {border: none;}#footer .medium-block-grid-3 > li {height: 100%;border-right: 1px solid #fff;}#securetransactions {position: relative;}#securetransactions>.payopt {position: relative;overflow: hidden;height: 28px;width: 243px;margin: 15px auto;text-align: center;}#securetransactions .payopt>img {left: -145px;top: -737px;position: relative;max-width: 700px;overflow: hidden;}#securetransactions>div>img {left: -0;/* top: -737px; */bottom: 15px;position: relative;max-width: 700px;overflow: hidden;}#securetransactions>.walletopt {bottom: -5px;position: absolute;left: -28px;right: 0;}[class*="block-grid-"]:after {clear: both;}img {display: inline-block;vertical-align: middle;}[class*="block-grid-"], [class*="block-grid-"]>li {margin: 0;padding: 0;text-align: center;}[class*="block-grid-"] {display: block;padding: 0;margin: 0 -0.625rem;}#footer [class*="block-grid-"] > li.footerlinks {border: none;text-align: left;}#footer .footerlinks>h6 {font-size: 11px;font-weight: 100;color: #59b5d7;text-transform: uppercase;margin-bottom: 6px;text-align: left;}.footerlinks>ul>li>a {margin: 5.5px 0;font-size: 0.9em;color: #6a6a6a;font-family: "roboto slab";font-weight: 100;}.footuncollapse {padding-left: 100px;padding-right: 100px;}.top-bar-section ul>li>a{display:none;}@media only screen and (min-width: 40.0625em){.medium-block-grid-5 > li {list-style: none;width: 20%;}}.productlisting #searchProductListing .pidloadeddefault{padding-top: 20px;padding-right: 30px;}</style>
+
+
+
+
+
+
+
+
+   
+    <script>
+        var cookieDomain = "fnp.com";
+        var cdnHost = "http://i4.fnp.com";
+        var cdnJSONHost = "";
+        var secureHostNameToUse = "secure.fnp.com";
+    </script>
+  
+<meta content="Apache OFBiz" name="generator"/>
+</head>
+<body class="ng-scope" data-ng-app="fnp">
+	 <!-- Google Tag Manager -->
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-MV7NN7" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MV7NN7');</script>
+<!-- End Google Tag Manager -->
+<header>
+	<div class="row collapse" id="maintoolbar">
+			<ul class="medium-5 columns" id="navigationtools" role="toolbar">
+<!--            @Susant this 'modalname' Handles all Foundation Reveal Inside JS-->
+			<!--<li>
+				<button id="browse" modalname="modalhamburgermenu" title="Browse FNP"></button>onclick="$('#modalhamburgermenu').foundation('reveal','open');"
+			</li>-->
+			<li>
+				<button class="needtodayclock" id="deliveryclock" onclick="parent.location='/same-day-delivery-gifts'" title="Same Day Delivery"></button>
+			</li>
+			<li>    
+				<button id="mobileapp" onclick="parent.location='/info/international'" title="International Delivery"></button><!--onclick="parent.location='/info/android-app'"-->
+			</li>
+			
+			<li>
+				<button id="search" modalname="modalsearch" title="Search"></button><!--onclick="$('#modalsearch').foundation('reveal','open'); $('#fnpsearch').focus();"-->
+			</li>
+			<li id="otherOptions">
+			     
+			</li>
+		</ul>
+		<div class="medium-2 columns" id="fnplogo">
+
+			<a href="http://www.fnp.com/" target="_self"><img alt="Online Flower Delivery - Ferns N Petals" src="http://i6.fnp.com/assets/images/logo.png"/></a>
+		</div>
+		<ul class="medium-5 columns" id="infotools">
+			<li>
+				<button id="franchise" onclick="window.location='http://www.fnp.com/info/franchise-programme'" title="Franchise">Franchise</button>
+				<button id="bulkorders" onclick="window.location='http://corporate.fnp.com/'" title="Corporate">Corporate</button>
+			</li>
+			<li>
+				<button id="help" onclick="parent.location='/info/contact-us'" title="Help"></button> <!--onclick="$('#modalhelp').foundation('reveal','open');"-->
+			</li>
+			<li>
+				<button id="trackorder" onclick="parent.location='/info/contact-us?axn=track-order'" title="Track Your Order"></button> <!--onclick="$('#modaltrackorder').foundation('reveal','open');"-->
+			</li>
+			
+			<li id="loginguser" ng-controller="LoginCntrl as app">			
+				<button class="close-reveal-modal" id="login" modalname="modallogin" title="{{app.fullname || 'Login'}}">
+					<span id="loggedinuser" ng-cloak="">
+					       {{app.fullname | limitTo:10}} <span ng-if="app.fullname.length&gt;10">…</span>
+					</span>
+				</button>
+				<ul class="logindropdown">
+					<li>
+						<div class="accountinfo">
+							<table class="account">
+								<tbody>
+									<tr>
+										<td><a href="https://secure.fnp.com/account/my-account"> My Profile </a></td>
+									</tr>
+									<tr>
+										<td><a href="https://secure.fnp.com/account/myaddressbook"> My Address book</a></td>
+									</tr>
+									<tr>
+										<td><a href="https://secure.fnp.com/account/reminder">My Reminder</a></td>
+									</tr>
+									<tr>
+										<td><a href="https://secure.fnp.com/account/my-order">My Orders</a></td>
+									</tr>
+									<tr>
+										<td><a href="https://secure.fnp.com/account/redemptions">Redemptions</a></td>
+									</tr>	
+									<tr data-ng-if="!isOAuthUser">
+										<td><a href="https://secure.fnp.com/account/changepassword?mode=change">Reset Password</a></td>
+									</tr>
+									<tr>
+							            <td><a href="https://secure.fnp.com/control/logout?to=/">Sign Out</a></td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</li>
+				</ul>
+			</li>
+			<li id="cartcount" ng-controller="CartCntrl as app">
+				<button id="cart" modalname="modalcart" ng-click="app.getCart()" ng-init="app.getCart()" title="View Cart"><span ng-bind="cartCount" ng-if="cartCount!=0"></span></button>  <!--onclick="$('#modalcart').foundation('reveal','open');"-->
+<!--                <span id="cartToolTip">Product Is Added to Cart</span>-->
+                <div class="alert-box success radius" data-alert="" id="cartToolTip">
+                  <div>
+                      <span>Gift (s) has been added to your cart</span>
+                      <div><button class="viewcart" onclick="showCart();">VIEW CART</button>
+                          <button class="proceedcheckout" onclick="proceedToCheckOut();">PROCEED TO CHECKOUT</button></div>
+                  </div>
+                  <a class="close" href="#">X</a>
+                </div>
+			</li>
+			<li id="currencyconversion">
+			    <button id="currencyicon" title="Currency"><span class="WebRupee">₹</span></button>
+			    <ul class="currencydropdown" style="display: none;">
+                    <li>
+                        <div class="currencyinfo"></div>
+                    </li>
+                </ul>
+            </li>
+		</ul>
+	<div id="navmenubar"></div>
+	</div>	
+	<div aria-hidden="true" aria-labelledby="modalTitle" class="reveal-modal row" data-reveal="" id="newuserdialog" role="dialog">
+		<span class="subscribeformtext">Shhh...It's our secret!</span>
+		<span class="subscribeformsubtext"><span>Curated Gift Ideas</span>,<span>you wouldn't want to miss!</span>
+
+	    	<form class="form-grid" data-ng-controller="FormCntrl as app" data-ng-submit="subscribeform.$valid &amp;&amp; app.subscribe()" id="subscribeform" name="subscribeform" novalidate="">
+			 
+            	<input autocomplete="off" data-ng-class="{'error':subscribeform.emailId.$invalid &amp;&amp; subscribeform.$submitted}" data-ng-model="app.emailId" id="emailId" name="emailId" ng-change="app.changeEmail()" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" placeholder="Enter your email id" required="" type="email"/>
+                <div id="htfield">
+    				<input class="inputdashed mandatory addressfield" data-ng-init="app.honeytrapfield='' " data-ng-model="app.honeytrapfield" name="honeytrap" ng-trim="false" placeholder="" type="text"/>
+				</div>
+                <div class="alert-box alert alert-bottom" data-alert="" data-ng-cloak="" data-ng-if="subscribeform.emailId.$error.required &amp;&amp; subscribeform.$submitted">
+                    Email is required 
+                </div>
+                <div class="alert-box alert alert-bottom" data-alert="" data-ng-cloak="" data-ng-if="subscribeform.emailId.$error.pattern &amp;&amp; subscribeform.$submitted">
+                    Invalid email address.
+                </div>
+                <div class="success alert-box alert alert-bottom" data-alert="" data-ng-cloak="" data-ng-if="subscribeform.$valid &amp;&amp; subscribeform.$submitted &amp;&amp; app.subscribesuccess">
+                    Thank you for subscribing.We'll get the best gift ideas for you.
+                </div>
+                <div class="error alert-box alert alert-bottom" data-alert="" data-ng-cloak="" data-ng-if="subscribeform.$valid &amp;&amp; subscribeform.$submitted &amp;&amp; app.subscribefail">
+                     You have already subscribed.
+                </div>
+                <button class="btn postfix" type="submit">SUBMIT</button>
+				
+            </form>
+			<a class="subsrbnothanks" href="javascript:void(0);">No, Thank you</a>
+			<a aria-label="Close" class="close-reveal-modal" href="javascript:void(0);">X</a>
+			
+	</span></div>
+	
+		<img alt="Banner 3" id="mainbannerph" src="http://i4.fnp.com/images/ban/l/banner-default.jpg" style="width:100%;padding-top:75px;"/>
+	<div class="row collapse">
+		<div class="columns end">
+			<aside id="mainbanner">
+			</aside>
+		</div>
+	</div>
+</header>
+
+<main itemscope="" itemtype="http://schema.org/Service">
+	<meta content="Gifting" itemprop="serviceType"/>
+
+	  
+	
+
+
+	<div class="content-messages errorMessage" id="content-messages" style="padding-top: 0px;;display:none;">
+	<ul>
+	  
+	</ul>
+	</div>
+	
+<h1 class="maintitle">
+	<span class="highlight">Perfect Gifts</span> Make Those Moments Memorable</h1>
+<p class="mainsubtitle"><span class="highlight">4 Hour Delivery</span> &amp; Free Shipping in India. 20,613 Gift Ideas for your Beloved</p>
+
+
+ 
+		<section class="productsection" id="best-sellers-1">
+				<div class="productlisting">
+					<h2><a href="/flowers/birthday" title="Birthday Flowers Online">Flowers for birthday
+</a></h2>
+					<ul class="medium-block-grid-5">
+    			            
+    			            
+				    		
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP7577" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/enigmatic-red-roses" itemprop="url">
+				<figure data-display-tag="">
+							<img alt="Enigmatic 8 Red Roses" class="u-photo" itemprop="image" src="http://i5.fnp.com/images/pr/m/enigmatic-red-roses.jpg" title="Enigmatic Red Roses"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Enigmatic Red Roses</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="399" itemprop="price"/>
+			<span class="WebRupee">₹</span> 399
+						</span>
+						  <span class="priceInINR" style="display:none;">399</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP369" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/perfect-combo-to-gift" itemprop="url">
+				<figure data-display-tag="">
+							<img alt="Perfect Combo To Gift - Bunch of 12 Yellow Roses with 500gm Blackforest Cake." class="u-photo" itemprop="image" src="http://i6.fnp.com/images/pr/m/perfect-combo-to-gift.jpg" title="Perfect Combo To Gift"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Perfect Combo To Gift</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="1349" itemprop="price"/>
+			<span class="WebRupee">₹</span> 1349
+						</span>
+						  <span class="priceInINR" style="display:none;">1349</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP153" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/the-sweet-surprises" itemprop="url">
+				<figure data-display-tag="">
+							<img alt="The Sweet Surprises - Basket arrangement of 15 Red Roses." class="u-photo" itemprop="image" src="http://i4.fnp.com/images/pr/m/the-sweet-surprises.jpg" title="The Sweet Surprises"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> The Sweet Surprises</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="799" itemprop="price"/>
+			<span class="WebRupee">₹</span> 799
+						</span>
+						  <span class="priceInINR" style="display:none;">799</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP757" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/luxurious-lillies" itemprop="url">
+				<figure data-display-tag="">
+							<img alt="Luxurious Lillies - Bunch of 6 oriental pink lilies with paper packing." class="u-photo" itemprop="image" src="http://i5.fnp.com/images/pr/m/luxurious-lillies.jpg" title="Luxurious Lillies"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Luxurious Lillies</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="2049" itemprop="price"/>
+			<span class="WebRupee">₹</span> 2049
+						</span>
+						  <span class="priceInINR" style="display:none;">2049</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP0076" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/make-up-her-mood-today" itemprop="url">
+				<figure data-display-tag="">
+							<img alt="Make Up Her Mood Today - Glass vase arrangement of 20 Yellow Roses, 3 Yellow asiatic lilies." class="u-photo" itemprop="image" src="http://i6.fnp.com/images/pr/m/make-up-her-mood-today.jpg" title="Make Up Her Mood Today"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Make Up Her Mood Today</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="1499" itemprop="price"/>
+			<span class="WebRupee">₹</span> 1499
+						</span>
+						  <span class="priceInINR" style="display:none;">1499</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+					</ul>
+				</div>
+				<div class="productlisting">
+					<h2><a href="/flowers-n-cakes" title="Cake and Flower Delivery">Flowers N Cakes
+</a></h2>
+					<ul class="medium-block-grid-5">
+    			            
+    			            
+				    		
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP2836" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/flower-cake-hamper" itemprop="url">
+				<figure data-display-tag="">
+							<img alt="Flower Cake Hamper - Bunch of 12 Red Roses with 5 cadbury chocolates, Soft toy and 500gm Chocolate Cake." class="u-photo" itemprop="image" src="http://i4.fnp.com/images/pr/m/flower-cake-hamper.jpg" title="Flower Cake Hamper"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Flower Cake Hamper</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="1649" itemprop="price"/>
+			<span class="WebRupee">₹</span> 1649
+						</span>
+						  <span class="priceInINR" style="display:none;">1649</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP172" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/mix-love" itemprop="url">
+				<figure data-display-tag="">
+							<img alt="Mix Love - Bunch of 12 Mix colour roses with 500gm Pineapple Cake." class="u-photo" itemprop="image" src="http://i5.fnp.com/images/pr/m/mix-love.jpg" title="Mix Love"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Mix Love</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="1399" itemprop="price"/>
+			<span class="WebRupee">₹</span> 1399
+						</span>
+						  <span class="priceInINR" style="display:none;">1399</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP5306" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/palatable-love" itemprop="url">
+				<figure data-display-tag="">
+							<img alt="Irresistible Love" class="u-photo" itemprop="image" src="http://i6.fnp.com/images/pr/m/palatable-love.jpg" title="Palatable Love"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Palatable Love</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="1249" itemprop="price"/>
+			<span class="WebRupee">₹</span> 1249
+						</span>
+						  <span class="priceInINR" style="display:none;">1249</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP2321" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/chocolate-cake-and-roses" itemprop="url">
+				<figure data-display-tag="">
+							<img alt="Chocolate Cake and Roses" class="u-photo" itemprop="image" src="http://i4.fnp.com/images/pr/m/chocolate-cake-and-roses.jpg" title="Chocolate Cake and Roses"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Chocolate Cake and Roses</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="1249" itemprop="price"/>
+			<span class="WebRupee">₹</span> 1249
+						</span>
+						  <span class="priceInINR" style="display:none;">1249</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP379" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/something-special-for-you" itemprop="url">
+				<figure data-display-tag="">
+							<img alt="Something Special For You - Bunch of 6 Purple Orchids with 500gm Chocolate Truffle Cake." class="u-photo" itemprop="image" src="http://i5.fnp.com/images/pr/m/something-special-for-you.jpg" title="Something Special For You"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Something Special For You</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="1499" itemprop="price"/>
+			<span class="WebRupee">₹</span> 1499
+						</span>
+						  <span class="priceInINR" style="display:none;">1499</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+					</ul>
+				</div>
+	</section>
+		<section class="productsection" id="best-sellers-2">
+                <a href="/cakes">
+            <img alt="Online Cake Delivery" class="lazy" data-imageurl="http://i4.fnp.com/images/cat/l/bestsellers2.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+                </a>
+				<div class="productlisting">
+					<h2><a href="/cakes" title="Online Cake Delivery">All Cakes
+</a></h2>
+					<ul class="medium-block-grid-5">
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="CAKE10508" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/truffle-cake" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Truffle Cake Half Kg" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/truffle-cake.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Truffle Cake</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="749" itemprop="price"/>
+			<span class="WebRupee">₹</span> 749
+						</span>
+						  <span class="priceInINR" style="display:none;">749</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="CAKE9797" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/butterscotch-cake" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Butterscotch Cake Half kg" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/butterscotch-cake.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Butterscotch Cake</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="749" itemprop="price"/>
+			<span class="WebRupee">₹</span> 749
+						</span>
+						  <span class="priceInINR" style="display:none;">749</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="CAKE9798" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/chocolate-cake" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Chocolate Cake Half kg" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/chocolate-cake.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Chocolate Cake</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="599" itemprop="price"/>
+						           <span class="oldprice">			<span class="WebRupee">₹</span> 749
+</span> 
+			<span class="WebRupee">₹</span> 599
+						</span>
+						  <span class="priceInINR" style="display:none;">599</span>
+						  <span class="oldpriceInINR" style="display:none;">749</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="CAKE8778" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/red-velvet-heart-cake" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Red Velvet Heart Cake 1kg" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/red-velvet-heart-cake.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Red Velvet Heart Cake</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="1699" itemprop="price"/>
+			<span class="WebRupee">₹</span> 1699
+						</span>
+						  <span class="priceInINR" style="display:none;">1699</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="CAKE8743" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/half-n-half-cake" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Half N Half Cake Half kg" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/half-n-half-cake.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Half N Half Cake</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="999" itemprop="price"/>
+			<span class="WebRupee">₹</span> 999
+						</span>
+						  <span class="priceInINR" style="display:none;">999</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:24+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+					</ul>
+				</div>
+				<div class="productlisting">
+					<h2><a href="/designer-cakes" title="Send Designer Cakes Online">Designer Cakes
+</a></h2>
+					<ul class="medium-block-grid-5">
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="CAKE7078" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/chocolaty-1st-birthday-cake" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Chocolaty 1st Birthday Cake 2kg" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/chocolaty-1st-birthday-cake.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Chocolaty 1st Birthday Cake</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="3299" itemprop="price"/>
+			<span class="WebRupee">₹</span> 3299
+						</span>
+						  <span class="priceInINR" style="display:none;">3299</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="CAKE7302" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/gym-fondant-cake" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Gym Fondant Cake 2kg" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/gym-fondant-cake.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Gym Fondant Cake</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="3299" itemprop="price"/>
+			<span class="WebRupee">₹</span> 3299
+						</span>
+						  <span class="priceInINR" style="display:none;">3299</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="CAKE6907" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/60-not-out-designer-cake" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="60 Not Out Designer Cake 1kg" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/60-not-out-designer-cake.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> 60 Not Out Designer Cake</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="1699" itemprop="price"/>
+			<span class="WebRupee">₹</span> 1699
+						</span>
+						  <span class="priceInINR" style="display:none;">1699</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="CAKE9296" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/tasty-facebook-cake" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Tasty Facebook Cake 2kg" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/tasty-facebook-cake.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Tasty Facebook Cake</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="3299" itemprop="price"/>
+			<span class="WebRupee">₹</span> 3299
+						</span>
+						  <span class="priceInINR" style="display:none;">3299</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="CAKE9227" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/teachers-scotch-whisky-cake" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Teachers Scotch Whisky Cake 3kg" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/teachers-scotch-whisky-cake.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Teachers Scotch Whisky Cake</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="4599" itemprop="price"/>
+			<span class="WebRupee">₹</span> 4599
+						</span>
+						  <span class="priceInINR" style="display:none;">4599</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+					</ul>
+				</div>
+	</section>
+		<section class="productsection" id="best-sellers-3">
+                <a href="/personalised-gifts">
+            <img alt="Personalised Gifts" class="lazy" data-imageurl="http://i4.fnp.com/images/cat/l/bestsellers3.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+                </a>
+				<div class="productlisting">
+					<h2><a href="/personalised-gifts" title="Personalised Gifts">Personalised Gifts
+</a></h2>
+					<ul class="medium-block-grid-5">
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="COUR871" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/shining-memory-personalized-lamp" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Shining Memory Lamp-1 green colored personalized bottle lamp" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/shining-memory-personalized-lamp.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Shining Memory Personalized Lamp</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="1099" itemprop="price"/>
+			<span class="WebRupee">₹</span> 1099
+						</span>
+						  <span class="priceInINR" style="display:none;">1099</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="COUR1391" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/personalized-couple-mug" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Personalized Couple Mug-printed on black ceramic coffee mug" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/personalized-couple-mug.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Personalized Couple Mug</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="499" itemprop="price"/>
+			<span class="WebRupee">₹</span> 499
+						</span>
+						  <span class="priceInINR" style="display:none;">499</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="COUR2723" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/personalize-photo-cushion" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Photo Cushion-12x12 personalized photo cushion for your beloved" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/personalize-photo-cushion.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Personalize Photo Cushion</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="499" itemprop="price"/>
+			<span class="WebRupee">₹</span> 499
+						</span>
+						  <span class="priceInINR" style="display:none;">499</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="COUR7478" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/pampering-love-personalized-frame" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Personalized tree shaped frame" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/pampering-love-personalized-frame.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Pampering Love Personalized Frame</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="2249" itemprop="price"/>
+			<span class="WebRupee">₹</span> 2249
+						</span>
+						  <span class="priceInINR" style="display:none;">2249</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="PERS531" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/personalized-tickling-time" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Personalized wall clock" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/personalized-tickling-time.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Personalized Tickling Time</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="949" itemprop="price"/>
+			<span class="WebRupee">₹</span> 949
+						</span>
+						  <span class="priceInINR" style="display:none;">949</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+					</ul>
+				</div>
+				<div class="productlisting">
+					<h2><a href="/premium-gifts" title="Send Premium Gifts Online">Premium Gifts
+</a></h2>
+					<ul class="medium-block-grid-5">
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP219" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/authentic-love-100-roses" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Authentic Love 100 Roses" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/authentic-love-100-roses.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Authentic Love 100 Roses</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="3549" itemprop="price"/>
+			<span class="WebRupee">₹</span> 3549
+						</span>
+						  <span class="priceInINR" style="display:none;">3549</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP5338" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/adorable-and-charming-peacock" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Adorable &amp; Charming Peacock" class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/adorable-and-charming-peacock.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Adorable and Charming Peacock</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="3549" itemprop="price"/>
+			<span class="WebRupee">₹</span> 3549
+						</span>
+						  <span class="priceInINR" style="display:none;">3549</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP207" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/long-live-love" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Long Live Love - Life size arrangement of 100 Red roses." class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/long-live-love.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Long Live Love</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="3399" itemprop="price"/>
+			<span class="WebRupee">₹</span> 3399
+						</span>
+						  <span class="priceInINR" style="display:none;">3399</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP2422" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/entire-roses-from-garden" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Entire Roses from Garden - 12 different bunches of 20 Roses each in a glass vase." class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/entire-roses-from-garden.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Entire Roses from Garden</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="9999" itemprop="price"/>
+			<span class="WebRupee">₹</span> 9999
+						</span>
+						  <span class="priceInINR" style="display:none;">9999</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+    			            
+    			            
+				    		
+                                
+    			            
+
+    
+		<li class="h-product pidloadeddefault" data-product-id="EXP2327" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+			<a class="u-url" href="/gift/alluring-beauty" itemprop="url">
+				<figure data-display-tag="">
+            <img alt="Alluring beauty - Life size arrangement of 50 red and white roses and 50 red and white carnations." class="u-photo lazy" data-imageurl="http://i4.fnp.com/images/pr/m/alluring-beauty.jpg" itemprop="image" src="http://i4.fnp.com/assets/images/full_page_loader.gif"/>
+					<figcaption>
+						<span class="p-name" itemprop="name"> Alluring beauty</span> 
+						<span class="h-price webprice">
+							<meta content="INR" itemprop="priceCurrency"/>
+							<meta content="3799" itemprop="price"/>
+			<span class="WebRupee">₹</span> 3799
+						</span>
+						  <span class="priceInINR" style="display:none;">3799</span>
+					</figcaption>
+				</figure>
+				<div class="moredata">
+					<div class="earliestdelivery">
+						Earliest Delivery:
+						<time class="dt-delivery" datetime="2016-10-07T11:02:25+05:30"></time>
+					</div>
+					<div class="infobar">
+						<span class="viewed">0</span><span class="bought">0</span>
+					</div>
+				</div>
+			</a>
+		</li>
+
+					</ul>
+				</div>
+	</section>
+
+	
+
+
+<div class="row uncollapse" style="text-align:justify">
+      <div class="columns">  
+<article>
+<h2 style="margin-bottom:10px">Send Flowers Online with Ferns N Petals (FNP), India's Biggest Florist Chain</h2>
+<p style="text-align:justify">Celebrating happy times by delivering fresh flowers &amp; fabulous gifts to your loved ones is what we at Ferns N Petals is known for, more than 2 decades for now. In 1994 when Ferns N Petals was established, <a href="http://www.fnp.com/flower-bouquets">flower bouquet delivery</a> is the first and only thing that we were doing. Ferns N Petals grew from there to the current <a href="http://www.fnp.com/gifts">gifts</a> family that features the choicest personalised gifts, cakes, chocolates, etc. along with <a href="http://www.fnp.com/artificial-flowers">artificial flowers</a> as well as fresh cut flowers and flower basket. From just 1 flower shop in Delhi during 1994, FNP is now <strong>the largest florist chain &amp; gifting brand in India</strong> with more than 220 stores (and still counting) across all the major cities and towns of India. Along with the widest distribution network, our strong physical &amp; online presence makes us the best choice to send flowers &amp; gifts for deliveries across India and around the globe. The remarkable distribution network and the sheer number of retail stores are something no other online florist and gift delivery service in India has, and this is one big factor that differentiates us from the competition. Same is the biggest reason behind the quality of service and consistency of service delivery across India and abroad, thus making Ferns N Petals the largest floral and gifting brand trusted by <strong>4 million happy customers</strong> across India and abroad. Our master florists &amp; gift experts have quite brilliantly concocted love and emotions together to roll out the best of gifts for all gifting occasions.</p>
+<h2 style="margin-bottom:10px">4 hour Flower Delivery by India's Leading Florist Online</h2>
+<p>People say that we have gotten 20 years older but our creative tanks are growing younger with each passing day. Inspired by current trends, we keep coming up with new floral arrangements &amp; gifts for almost every emotion, celebration, and occasion. With the aim to wow our customers and delivering smiles, we have added a little something that goes into making every 'Delivery' special. We thus deliver flowers or flower basket and other items at the doorsteps of your loved ones with lightning speed in the shortest possible time - as fast as 4 hours of ordering. This helps us deliver the flowers fresh while we are able to exceed the expectations of our customers who always want to surprise their loved ones and Ferns N Petals does the best, every time whether it delivers a bouquet of roses or a flower arrangement of exotic flowers. At Ferns N Petals, <strong>online flower delivery</strong> happens to destinations all over India and abroad. If you are planning to order flowers online and you want the same day delivery of <a href="http://www.fnp.com/flowers/delhi">flowers to Delhi</a> or looking for online flower delivery in Mumbai or bouquet delivery in Mumbai by the best <a href="http://www.fnp.com/flowers/mumbai">florist in Mumbai</a>, Bangalore, Hyderabad or any other city of India, FNP is the ideal choice. To put it straight, Ferns N Petals is the only online flower shop that has a real florist network across India that actually differentiates the from other so-called online florists who work with third party florists for their deliveries.</p>
+<h2 style="margin-bottom:10px">Wide Variety of Fresh Cut Flowers</h2>
+<p>Roses are the top selling cut flowers at Ferns N Petals like the way it happens across the world because roses are the most popular among flowers. We deliver a wide variety of cut flowers besides roses viz., Lilies (second most popular flower at Ferns N Petals after roses), Carnations, Orchids, Gerberas, Daisies, and even such other seasonal cut flowers &amp; imported cut flowers like Tulips. Ferns N Petals delivers all cut flowers that our customers want to send their dear ones.</p>
+<p>All the fresh cut flowers - whether it be roses, lilies, carnations or other flowers, Ferns N Petals always delivers those flowers, fresh to the customers in the form and design that they request. We thus have the cut flowers in wide collection of forms and designs including bouquets &amp; bunches, flower arrangements, etc. When it comes to flower bouquets, they are available in different designs &amp; wrappings including cello &amp; colorful paper wrappings. At Ferns N Petals, we discourage people from ordering cello wrapped bouquets because they are not environment-friendly. When it comes to flower arrangements, they are available as vase arrangements, basket arrangements potted arrangements or boxed arrangements while each of these containers also are available in wide variety of colors &amp; designs to suit varied requirements of our customers.</p>
+<h2 style="margin-bottom:10px">Adding more to Flowers</h2>
+<p>While Ferns N Petals has been the largest florist chain in India for more than 2 decades, it has stepped into gifting beyond flowers and is now the leader in the India. Ferns N Petals thus has now gone beyond just being floral and is undertaking <a href="http://www.fnp.com/cakes">online cake delivery</a> and also catering to beyond the floral gifting needs on special occasions – whether it be <a href="http://www.fnp.com/gifts/valentines-day">Valentine gifts</a>, Rakhi for Raksha Bandhan, Mother's Day, Diwali or Bhai Dooj. Sending flowers and other items with the FNP is now just a click away. With our services, you can also <strong>send flowers to India</strong> from USA, or from other countries viz., UK, Australia or from any part of the world within a short time of just 4 hours of ordering either on the website FNP.com, the mobile app (currently supporting only Android &amp; getting the iOS ready in the months to come) or even by ordering over the phone. Ferns N Petals is the most reputed online florist and gifting service in India with more than 20 years of exceptional service, having a satisfied customer base of 4 million. At Ferns N Petals, we know that we are delivering emotions to the loved ones and also understand that timely delivery is a must in making those moments memorable. We go all the way to make sure that when you buy flowers online from FNP, they are delivered on time, which you choose when you checkout with us. We also provide custom delivery services such as midnight delivery and also take up fixed time delivery besides the same day flower delivery for all occasions. You can send flowers to Mumbai, <a href="http://www.fnp.com/gifts/delhi">gifts to Delhi</a>, Mumbai, Bangalore, Kolkata and other cities &amp; town across India and worldwide.</p>
+<h2>Multiply the festive joy with special Karwa Chauth gifts from Ferns N Petals</h2><p>
+The festival of Karwa Chauth is nothing but a true manifestation of love that you have so held tightly for the one you love. To commemorate the special bond, we have come up with special <a href="http://www.fnp.com/gifts/karwa-chauth">Karwa Chauth gifts</a> that will make the celebration a memorable one for your spouse. Ferns N Petals have round up some popular gifts options which are not just affordable but at the same time can be delivered with utmost ease to the destination of your choice.</p>
+<p>If you are looking for a spectacular range of <a href="http://www.fnp.com/gifts/karwa-chauth/for-wife">Karwa Chauth gifts for wife</a>, you can order fresh and fragrant flowers which have been plucked from our floral farms. Or else, you can even delight her with a traditional range of Karwa Chauth thalis beautifully designed by our in-house designers. The thalis can be very well complemented with authentic Indian sweets which pump up the festivity of the occasion. </p><h2>Send thoughtful Diwali gifts to loved ones from Ferns N Petals</h2><p>The festival of Diwali is incomplete without <a href="http://www.fnp.com/sweets/diwali">Diwali sweets</a>, lights and crackers. At Ferns N Petals, we have selectively chosen all of these and much more to be delivered to you loved ones. Shop for an amazing collection of sweets which have been prepared using fresh ingredients to ensure that the best is delivered to your loved ones.</p><p>Want to treat your family with something big? Shop for our exclusive <a href="http://www.fnp.com/gift-hampers/diwali">Diwali hampers</a> which have a selective assortment of sweets, dry fruits, earthen diyas, crackers and much more at a very nominal price range. All these gifts are gorgeously packed and delivered to the destination of your choice with absolute ease.</p><p>Our portal hosts wide variety of religious idols, home décor items and other thoughtful <a href="http://www.fnp.com/gifts/diwali">Diwali gifts</a> which will make great presents for your loved ones. Diwali gifts that we have can be delivered the same day too with the help of our express delivery options. So, what are you waiting for? Send gifts to your loved ones and spread the joy and happiness of the festival.</p><h2>The Best Bhai Dooj Gifts At Your Disposal With Ferns N Petals</h2><p>The festival of Bhai Dooj celebrated on the fifth and last day of Diwali pays homage to the bonding of love that exists between a brother and a sister. On this auspicious occasion, brothers pay a visit to their beloved sisters, with the latter gracing the former with a <a href="http://www.fnp.com/gifts/bhai-dooj">Bhai Tikka gifts</a>, followed by an exchange of offerings. When it comes to offerings, Ferns N Petals have come forth with an assortment of the most apt Bhai Dooj gifts that not only tend to stay faithful to the spirit of the festivity but are also culturally rich.</p><p>When it comes to Bhaubeej gifts, the online platform of the company is laden with offerings for both brothers and sisters and since we harbor such an impeccable collection of Bhaidooj gift hampers and chocolates, we can safely claim that siblings shall never fall short of presents for one another. From a congregation of delectable chocolates, flowers of the likes of roses, lilies and others, mementos of the likes of personalized coffee mugs, cushions et al to dry fruits, traditional sweets and accessories, when it comes to Bhai Dooj gifts that shall be cherished for long, we have the best, we have them all.</p>
+<style>
+  .blogs{
+    float:left;
+    width:100%;
+  }
+  .blogs li {
+    float: left;
+    margin-right: 2%;
+    width: 31%;
+  }
+  .blogs li:last-child{
+    float:right;
+  }
+  h6{
+    font-size:14px;
+    font-weight:bold;
+    margin:10px 0;
+    line-height:20px;
+  }
+  .blogs h6 i{
+    display:block;
+    width:100%;
+  }
+</style>
+<h3 style="margin-bottom:10px">Interesting Reads from our Blog</h3>
+<ul class="blogs">
+<li>
+<h6>Gardening for the Li’l Birdie!<i> Published on Oct 04, 2016</i></h6>
+<p>Your garden is incomplete without the sound of chirping of birds. It brings in joy and calmness to every soul. Imagine yourself sipping your tea on a pleasant winter morning <a href="http://www.fnp.com/blog/attract-birds-to-garden/" target="_blank"> Read More...</a>
+</p>
+</li>
+<li>
+<h6>September Birth Flower: Aster<i> Published on Sep 22, 2016</i></h6>
+<p>
+The month of September, when observed from the Indian perspective, marks the subsidy of the oppression of the blistering heat of the August sun, thereby inducing the environment <a href="http://www.fnp.com/blog/september-birth-flower-aster/" target="_blank"> Read More...</a>
+</p>
+</li>
+<li>
+<h6>Say Yes To Chocolates<i> Published on Sep 20, 2016</i></h6>
+<p>
+Everyone’s favourite, the heavenly pieces of sweetened cocoa is known for calming mood and bringing smile on faces. Irrespective of age and gender, chocolate has the power to build <a href="http://www.fnp.com/blog/say-yes-chocolates/" target="_blank"> Read More...</a>
+</p>
+</li>
+</ul>
+</article>
+</div>
+</div><script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"url": "http://www.fnp.com/",
+	"potentialAction": {
+		"@type": "SearchAction",
+		"target": "http://www.fnp.com/search?qs={search_term_string}",
+		"query-input": "required name=search_term_string"
+	}
+}
+</script>
+
+
+<!-- Toolbar dialog screens -->
+    <div aria-hidden="true" aria-labelledby="trackordertitle" class="reveal-modal toolbardialog" data-reveal="" data-reveal-init="" id="modaltrackorder" role="dialog">
+        <h4 id="trackordertitle">Track Your Order</h4>
+        <h5><span>Your <img alt="" class="smiley" src="http://i6.fnp.com/assets/images/transparent.gif"/> is our promise!</span> 
+        <span> No frowns. If any, we'll tilt the curve</span></h5>
+        <form novalidate="">
+            <div class="row trackorderfrm">
+                <div class="medium-4 columns"> </div>
+                <div class="medium-4 columns">
+                    <div class="row">
+                        <div class="medium-2 columns"> </div>
+                        <div class="medium-8 columns">
+                            <input class="trackinputs" id="trackorderid" pattern="[1-9]{4,6}" placeholder="Enter Order ID" type="text"/>
+                            <div class="alert-box alert radius" data-alert="" id="trackOrderIdError" style="display:none;">
+                           </div>
+                        </div>
+                        <div class="medium-2 columns"> </div>
+                    </div>
+				</div>
+                 <div class="medium-4 columns"> </div>
+            </div>
+            <div class="row buttonrow">
+                <button class="call2axn" onclick="trackYourOrder();">Track Now</button>
+            </div>
+        </form>
+        <a aria-label="Close" class="close-reveal-modal" href="javascript:void(0);">X</a>
+    </div>
+	<div aria-hidden="true" aria-labelledby="helptitle" class="row collapse reveal-modal toolbardialog" data-reveal="" data-reveal-init="" id="modalhelp" role="dialog">
+        <div class="row collapse">
+            <div class="columns">
+		      <h4 id="helptitle">Talk To Us</h4>
+            </div>
+        </div>
+        <div class="row collapse">
+            <div class="columns">
+		      <h5>We have answers right now!</h5>
+            </div>
+        </div>
+		<ul class="helpoptions medium-block-grid-2">
+			<li class="" id="phone"><h6>Call us on </h6><a href="tel:+919212422000">+91 9212422000</a></li>
+            <li id="faq"><h6>Need Answers? </h6><a href="/info/faq">Check Out Our FAQs page</a></li>
+            <li id="contact"><h6>Contact Us</h6><a href="/info/contact-us">Contact Us</a></li>
+		</ul>
+		<a aria-label="Close" class="close-reveal-modal" href="javascript:void(0);">X</a>
+	</div>
+    <div aria-hidden="true" aria-labelledby="samedaydeliverytitle" class="row collapse reveal-modal toolbardialog" data-reveal="" data-reveal-init="" id="modalclock" role="dialog">
+    <div class="row">
+        <div class="columns">
+            <h4 id="samedaydeliverytitle">Same day delivery available in 350+ cities</h4>
+        </div>
+    </div>
+    <div class="row">
+        <div class="columns">
+            <span class="elapsetimetext">Only <time id="cutoffTime">--:--:--</time> remaining for <span id="daylabel">today's</span> delivery</span>
+        </div>
+    </div>
+    <div class="row buttonrow">
+    	<form action="/search" name="samedaydeliveryform">
+    		<input id="samedaydeliverydate" name="deliverydate" type="hidden" value="07-10-2016"/>
+        	<button class="call2axn">Gift Now</button>
+        </form>
+    </div>
+<div class="row lightbottombar">
+    <div class="row">
+        <div class="large-1 columns">
+             
+        </div>
+        <div class="medium-4 large-4 columns">
+            <span class="bottombartext">Are you in a hurry? </span><span class="bottombartext1 ">Quick Shop</span>
+        </div>
+        <div class="large-6 medium-8 columns">
+            <form action="/search" class="row quickfrm ui-front">
+                <div class="medium-3 columns">
+                    <input class="shoptxtbox quickshopoccasion" data-isselected="false" name="OCCASION_TAGS" onchange="disableShopNow(this)" placeholder="Select Occasion" type="text" value=""/>
+                </div>
+	                <div class="medium-3 columns">
+	                    <input class="shoptxtbox quickshopcity" name="localityname" onchange="disableShopNow(this)" placeholder="City" title="Enter locality or pincode(eg., Vikaspuri, Delhi or 110018)" type="text" value=""/>
+		                <input class="quickshopplaceid" name="pincode" type="hidden" value=""/>
+		                <input class="quickshopplaceid" name="latlon" type="hidden" value=""/>
+	                </div>
+                
+                <div class="medium-3 columns">
+                    <input class="shoptxtbox quickshopdeliverydate" name="deliverydate" type="hidden" value=""/>
+                    <input class="shoptxtbox quickshopdeliverydate pickdate" placeholder="Delivery Date" readonly="readonly" type="text"/> 
+                </div>
+                <div class="medium-3 columns">
+                    <button class="call2axn quickshopbtn" disabled="disabled" type="submit">SHOP NOW</button>
+                </div>
+                <input name="FNP_CURRENT_CATALOG_ID" type="hidden" value="india"/>
+            </form>
+        </div>
+        <div class="large-1 columns">
+             
+        </div>
+         <div class="clearside"></div>
+    </div>
+</div>
+    <a aria-label="Close" class="close-reveal-modal" href="javascript:void(0);">X</a>
+</div>
+	<div aria-hidden="true" aria-labelledby="searchtitle" class="toolbardialog row collapse reveal-modal" data-reveal="" data-reveal-init="" id="modalsearch" role="dialog">
+        <div class="row">
+            <div class="columns">
+                <h4 id="searchtitle">20,613 gifts to choose from</h4> 
+            </div>
+        </div>
+		<form action="/search" class="row searchfrm ui-front" id="searchform">
+            <div class="medium-10 columns">
+            	<input id="FNP_CURRENT_CATALOG_ID" name="FNP_CURRENT_CATALOG_ID" type="hidden" value="india"/>
+            	<input autofocus="" id="fnpsearch" name="qs" onkeyup="highlight(this)" placeholder="Enter text to search" type="search"/>
+            </div>
+            <div class="medium-2 searchbtn columns" disabled="disabled">
+                <button class="searchbtn" disabled="disabled" id="searchFormButton" type="button">Search</button>
+<!--               <input class="searchbtn" type="button" id="searchFormButton" value="Searc"/>-->
+            </div>
+		</form>
+<div class="row lightbottombar">
+    <div class="row">
+        <div class="large-1 columns">
+             
+        </div>
+        <div class="medium-4 large-4 columns">
+            <span class="bottombartext">Are you in a hurry? </span><span class="bottombartext1 ">Quick Shop</span>
+        </div>
+        <div class="large-6 medium-8 columns">
+            <form action="/search" class="row quickfrm ui-front">
+                <div class="medium-3 columns">
+                    <input class="shoptxtbox quickshopoccasion" data-isselected="false" name="OCCASION_TAGS" onchange="disableShopNow(this)" placeholder="Select Occasion" type="text" value=""/>
+                </div>
+	                <div class="medium-3 columns">
+	                    <input class="shoptxtbox quickshopcity" name="localityname" onchange="disableShopNow(this)" placeholder="City" title="Enter locality or pincode(eg., Vikaspuri, Delhi or 110018)" type="text" value=""/>
+		                <input class="quickshopplaceid" name="pincode" type="hidden" value=""/>
+		                <input class="quickshopplaceid" name="latlon" type="hidden" value=""/>
+	                </div>
+                
+                <div class="medium-3 columns">
+                    <input class="shoptxtbox quickshopdeliverydate" name="deliverydate" type="hidden" value=""/>
+                    <input class="shoptxtbox quickshopdeliverydate pickdate" placeholder="Delivery Date" readonly="readonly" type="text"/> 
+                </div>
+                <div class="medium-3 columns">
+                    <button class="call2axn quickshopbtn" disabled="disabled" type="submit">SHOP NOW</button>
+                </div>
+                <input name="FNP_CURRENT_CATALOG_ID" type="hidden" value="india"/>
+            </form>
+        </div>
+        <div class="large-1 columns">
+             
+        </div>
+         <div class="clearside"></div>
+    </div>
+</div>
+		<a aria-label="Close" class="close-reveal-modal" href="javascript:void(0);">X</a>
+	</div>
+	<div aria-hidden="true" aria-labelledby="logintitle" class="reveal-modal toolbardialog" data-reveal="" data-reveal-init="" id="modallogin" role="dialog">
+<div class="page-wrap row" data-ng-controller="NewLoginCntrl as app">
+    <div class="columns">
+        <div class="row" data-ng-cloak="">
+            <div class="columns">
+                <h4 class="signtitle" data-ng-bind="app.logintitle">Welcome to Ferns N Petals</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="loginsocial medium-5 columns"><span>Sign <span ng-if="app.loginaction!='signup'">in</span><span ng-if="app.loginaction=='signup'">up</span> with your social account</span>
+<span class="socialtxt2">No posts on your behalf, promise !</span>
+<form action="https://secure.fnp.com/control/facebookRedirect" class="text-center" method="post">
+    <button class="facebookbtn"></button>
+    <input name="DONE_PAGE" type="hidden" value="http://www.fnp.com/"/>
+</form>
+<form action="https://secure.fnp.com/control/googleRedirect" class="text-center" method="post">
+    <button class="googleplus"></button>
+    <input name="DONE_PAGE" type="hidden" value="http://www.fnp.com/"/>
+</form>
+</div>
+            <div class="columnseparator medium-2 columns">
+                <span>OR</span>
+            </div>
+            <div class="signupfrm medium-5 columns">
+                <div class="row">
+                    <div class="medium-7 columns">
+                        <div class="row">
+                            <div class="medium-11 columns">
+                                <form class="generallogin signfrminpt" id="loginmodalform" method="post" name="loginmodalform" ng-submit="app.doLogin('secure.fnp.com')" novalidate="">
+                                    <input name="DONE_PAGE" type="hidden" value="http://www.fnp.com/"/>
+                                    <input name="create_allow_password" type="hidden" value="true"/>
+                                    <input name="logintoken" type="hidden" value=""/>
+                                    <input name="requirePasswordChange" ng-if="loginaction=='signup'" type="hidden" value="N"/>
+                                    <div class="logintopalert-box alert-box" data-ng-bind-html="app.errormessage" data-ng-cloak="" data-ng-if="app.errormessage" id="messages"></div>
+                                    <script>
+                                        document.loginErrors = "";
+                                    </script>
+                                    <div class="inputdiv">
+                                        <input class="inputdashed" data-ng-attr-title="{{app.usernametitle}}" data-ng-change="app.forgotpasswordsent=false" data-ng-class="{'error':loginmodalform.USERNAME.$invalid &amp;&amp; loginmodalform.$submitted}" data-ng-keypress="usernameKeyPressed($event)" data-ng-model="app.USERNAME" data-ng-paste="usernameKeyPressed($event)" data-ng-readonly=" app.loginaction=='forgotpassword'" id="USERNAME" maxlength="65" name="USERNAME" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" placeholder="* Email ID" required="required" type="email"/>
+                                        <div class="alert-box alert alert-left" data-alert="" data-ng-if="loginmodalform.USERNAME.$error.required &amp;&amp; loginmodalform.$submitted">
+                                            Email address is required.
+                                        </div>
+                                        <div class="alert-box alert alert-right" data-alert="" data-ng-cloak="" data-ng-if="loginmodalform.USERNAME.$error.pattern &amp;&amp; loginmodalform.$submitted">
+                                            Email ID is not valid.
+                                        </div>
+                                    </div>
+                                    <div class="sendmail">
+                                        <span data-ng-if="app.loginaction=='forgotpassword' &amp;&amp; !app.forgotpasswordsent" id="passwordsent">A temporary password will be sent to your email address when you click on CONTINUE.</span>
+                                    <span data-ng-if="app.forgotpasswordsent" id="passwordsent">A temporary password has been sent to the email address. Please use it to sign in here.</span>
+                                    </div>
+                                    <div class="inputdiv animate-if" data-ng-if="app.loginaction=='signup'">
+                                        <input class="inputdashed" data-ng-class="{'error':loginmodalform.USER_FIRST_NAME.$invalid &amp;&amp; loginmodalform.$submitted}" data-ng-keypress="loginmodalform.$setPristine();" data-ng-model="app.USER_FIRST_NAME" id="USER_FIRST_NAME" maxlength="100" name="USER_FIRST_NAME" placeholder="* Name" required="required" type="text"/>
+                                        <div class="alert-box alert alert-left" data-alert="" data-ng-if="app.loginaction=='signup' &amp;&amp; loginmodalform.USER_FIRST_NAME.$error.required &amp;&amp; loginmodalform.$submitted">
+                                            Name is required.
+                                        </div>
+                                    </div>
+                                    <div class="inputdiv telinput animate-if ui-front" data-ng-if="app.loginaction=='signup'">
+<select class="signupcountrycode" data-ng-init="app.countryCode=(app.countryCode != null &amp;&amp; app.countryCode.length &gt;0) ? app.countryCode : '91'" data-ng-model="app.countryCode" name="countryCode" tabindex="-1">
+    <option title="India " value="91">+91</option>
+    <option title="USA " value="1">+1</option>
+    <option title="Virgin Islands - British " value="84">+1284</option>
+    <option title="Australia " value="61">+61</option>
+    <option title="Singapore " value="65">+65</option>
+    <option title="Qatar " value="974">+974</option>
+    <option title="New Zealand " value="64">+64</option>
+    <option title="Malaysia " value="60">+60</option>
+    <option title="Canada " value="1">+1</option>
+    <option title="United Arab Emirates " value="971">+971</option>
+    <option disabled="disabled" label="---------">--------</option>
+    <option title="Canada " value="1">+1</option>
+    <option title="USA " value="1">+1</option>
+    <option title="Bahamas " value="1242">+1242</option>
+    <option title="Barbados " value="1246">+1246</option>
+    <option title="Anguilla " value="1264">+1264</option>
+    <option title="Antigua &amp; Barbuda " value="1268">+1268</option>
+    <option title="Cayman Islands " value="1345">+1345</option>
+    <option title="Bermuda " value="1441">+1441</option>
+    <option title="Grenada " value="1473">+1473</option>
+    <option title="Turks &amp; Caicos Islands " value="1649">+1649</option>
+    <option title="Montserrat " value="1664">+1664</option>
+    <option title="St. Lucia " value="1758">+1758</option>
+    <option title="Puerto Rico " value="1787">+1787</option>
+    <option title="Dominica " value="1809">+1809</option>
+    <option title="Dominican Republic " value="1809">+1809</option>
+    <option title="Trinidad &amp; Tobago " value="1868">+1868</option>
+    <option title="St. Kitts " value="1869">+1869</option>
+    <option title="Jamaica " value="1876">+1876</option>
+    <option title="Egypt " value="20">+20</option>
+    <option title="Morocco " value="212">+212</option>
+    <option title="Algeria " value="213">+213</option>
+    <option title="Tunisia " value="216">+216</option>
+    <option title="Libya " value="218">+218</option>
+    <option title="Gambia " value="220">+220</option>
+    <option title="Senegal " value="221">+221</option>
+    <option title="Mauritania " value="222">+222</option>
+    <option title="Mali " value="223">+223</option>
+    <option title="Guinea " value="224">+224</option>
+    <option title="Burkina Faso " value="226">+226</option>
+    <option title="Niger " value="227">+227</option>
+    <option title="Togo " value="228">+228</option>
+    <option title="Benin " value="229">+229</option>
+    <option title="Liberia " value="231">+231</option>
+    <option title="Sierra Leone " value="232">+232</option>
+    <option title="Ghana " value="233">+233</option>
+    <option title="Nigeria " value="234">+234</option>
+    <option title="Central African Republic " value="236">+236</option>
+    <option title="Cameroon " value="237">+237</option>
+    <option title="Cape Verde Islands " value="238">+238</option>
+    <option title="Sao Tome &amp; Principe " value="239">+239</option>
+    <option title="Equatorial Guinea " value="240">+240</option>
+    <option title="Gabon " value="241">+241</option>
+    <option title="Congo " value="242">+242</option>
+    <option title="Angola " value="244">+244</option>
+    <option title="Guinea - Bissau " value="245">+245</option>
+    <option title="Seychelles " value="248">+248</option>
+    <option title="Sudan " value="249">+249</option>
+    <option title="Rwanda " value="250">+250</option>
+    <option title="Ethiopia " value="251">+251</option>
+    <option title="Somalia " value="252">+252</option>
+    <option title="Djibouti " value="253">+253</option>
+    <option title="Kenya " value="254">+254</option>
+    <option title="Uganda " value="256">+256</option>
+    <option title="Burundi " value="257">+257</option>
+    <option title="Mozambique " value="258">+258</option>
+    <option title="Zambia" value="260">+260</option>
+    <option 262"="" title="Madagascar +261&lt;/option&gt;
+    &lt;option value=" value="261">+262</option>
+    <option title="Zimbabwe" value="263">+263</option>
+    <option title="Namibia " value="264">+264</option>
+    <option title="Malawi " value="265">+265</option>
+    <option title="Lesotho " value="266">+266</option>
+    <option title="Botswana " value="267">+267</option>
+    <option title="Swaziland " value="268">+268</option>
+    <option title="Comoros " value="269">+269</option>
+    <option title="Mayotte " value="269">+269</option>
+    <option title="South Africa " value="27">+27</option>
+    <option title="St. Helena " value="290">+290</option>
+    <option title="Eritrea " value="291">+291</option>
+    <option title="Aruba " value="297">+297</option>
+    <option title="Faroe Islands " value="298">+298</option>
+    <option title="Greenland " value="299">+299</option>
+    <option title="Greece " value="30">+30</option>
+    <option title="Netherlands " value="31">+31</option>
+    <option title="Belgium " value="32">+32</option>
+    <option title="France " value="33">+33</option>
+    <option title="Spain " value="34">+34</option>
+    <option title="Gibraltar " value="350">+350</option>
+    <option title="Portugal " value="351">+351</option>
+    <option title="Luxembourg " value="352">+352</option>
+    <option title="Ireland " value="353">+353</option>
+    <option title="Iceland " value="354">+354</option>
+    <option title="Malta " value="356">+356</option>
+    <option title="Cyprus South " value="357">+357</option>
+    <option title="Finland " value="358">+358</option>
+    <option title="Bulgaria " value="359">+359</option>
+    <option title="Hungary " value="36">+36</option>
+    <option title="Lithuania " value="370">+370</option>
+    <option title="Latvia " value="371">+371</option>
+    <option title="Estonia " value="372">+372</option>
+    <option title="Moldova " value="373">+373</option>
+    <option title="Armenia " value="374">+374</option>
+    <option title="Belarus " value="375">+375</option>
+    <option title="Andorra " value="376">+376</option>
+    <option title="Monaco " value="377">+377</option>
+    <option title="San Marino " value="378">+378</option>
+    <option title="Vatican City " value="379">+379</option>
+    <option title="Ukraine " value="380">+380</option>
+    <option title="Serbia " value="381">+381</option>
+    <option title="Croatia " value="385">+385</option>
+    <option title="Slovenia " value="386">+386</option>
+    <option title="Bosnia Herzegovina " value="387">+387</option>
+    <option title="Macedonia " value="389">+389</option>
+    <option title="Italy " value="39">+39</option>
+    <option title="Romania " value="40">+40</option>
+    <option title="Switzerland " value="41">+41</option>
+    <option title="Liechtenstein " value="417">+417</option>
+    <option title="Czech Republic " value="42">+42</option>
+    <option title="Slovak Republic " value="421">+421</option>
+    <option title="Austria " value="43">+43</option>
+    <option title="UK " value="44">+44</option>
+    <option title="Denmark " value="45">+45</option>
+    <option title="Sweden " value="46">+46</option>
+    <option title="Norway " value="47">+47</option>
+    <option title="Poland " value="48">+48</option>
+    <option title="Germany " value="49">+49</option>
+    <option title="Falkland Islands " value="500">+500</option>
+    <option title="Belize " value="501">+501</option>
+    <option title="Guatemala " value="502">+502</option>
+    <option title="El Salvador " value="503">+503</option>
+    <option title="Honduras " value="504">+504</option>
+    <option title="Nicaragua " value="505">+505</option>
+    <option title="Costa Rica " value="506">+506</option>
+    <option title="Panama " value="507">+507</option>
+    <option title="Haiti " value="509">+509</option>
+    <option title="Peru " value="51">+51</option>
+    <option title="Mexico " value="52">+52</option>
+    <option title="Cuba " value="53">+53</option>
+    <option title="Argentina " value="54">+54</option>
+    <option title="Brazil " value="55">+55</option>
+    <option title="Chile " value="56">+56</option>
+    <option title="Colombia " value="57">+57</option>
+    <option title="Venezuela " value="58">+58</option>
+    <option title="Guadeloupe " value="590">+590</option>
+    <option title="Bolivia " value="591">+591</option>
+    <option title="Guyana " value="592">+592</option>
+    <option title="Ecuador " value="593">+593</option>
+    <option title="French Guiana " value="594">+594</option>
+    <option title="Paraguay " value="595">+595</option>
+    <option title="Martinique " value="596">+596</option>
+    <option title="Suriname " value="597">+597</option>
+    <option title="Uruguay " value="598">+598</option>
+    <option title="Malaysia " value="60">+60</option>
+    <option title="Australia " value="61">+61</option>
+    <option title="Indonesia " value="62">+62</option>
+    <option title="Philippines " value="63">+63</option>
+    <option title="New Zealand " value="64">+64</option>
+    <option title="Singapore " value="65">+65</option>
+    <option title="Thailand " value="66">+66</option>
+    <option title="Northern Marianas " value="670">+670</option>
+    <option title="Guam " value="671">+671</option>
+    <option title="Norfolk Islands " value="672">+672</option>
+    <option title="Brunei " value="673">+673</option>
+    <option title="Nauru " value="674">+674</option>
+    <option title="Papua New Guinea " value="675">+675</option>
+    <option title="Tonga " value="676">+676</option>
+    <option title="Solomon Islands " value="677">+677</option>
+    <option title="Vanuatu " value="678">+678</option>
+    <option title="Fiji " value="679">+679</option>
+    <option title="Palau " value="680">+680</option>
+    <option title="Wallis &amp; Futuna " value="681">+681</option>
+    <option title="Cook Islands " value="682">+682</option>
+    <option title="Niue " value="683">+683</option>
+    <option title="Kiribati " value="686">+686</option>
+    <option title="New Caledonia " value="687">+687</option>
+    <option title="Tuvalu " value="688">+688</option>
+    <option title="French Polynesia " value="689">+689</option>
+    <option title="Micronesia " value="691">+691</option>
+    <option title="Marshall Islands " value="692">+692</option>
+    <option title="Kazakhstan " value="7">+7</option>
+    <option title="Russia " value="7">+7</option>
+    <option title="Tajikstan " value="7">+7</option>
+    <option title="Turkmenistan " value="7">+7</option>
+    <option title="Uzbekistan " value="7">+7</option>
+    <option title="Georgia " value="7880">+7880</option>
+    <option title="Japan " value="81">+81</option>
+    <option title="Korea South " value="82">+82</option>
+    <option title="Vietnam " value="84">+84</option>
+    <option title="Virgin Islands - British " value="84">+1284</option>
+    <option title="Virgin Islands - US " value="84">+1340</option>
+    <option title="Korea North " value="850">+850</option>
+    <option title="Hong Kong " value="852">+852</option>
+    <option title="Macao " value="853">+853</option>
+    <option title="Cambodia " value="855">+855</option>
+    <option title="Laos " value="856">+856</option>
+    <option title="China " value="86">+86</option>
+    <option title="Bangladesh " value="880">+880</option>
+    <option title="Taiwan " value="886">+886</option>
+    <option title="Turkey " value="90">+90</option>
+    <option title="Cyprus North " value="90392">+90392</option>
+    <option title="India " value="91">+91</option>
+    <option title="Sri Lanka " value="94">+94</option>
+    <option title="Myanmar " value="95">+95</option>
+    <option title="Maldives " value="960">+960</option>
+    <option title="Lebanon " value="961">+961</option>
+    <option title="Jordan " value="962">+962</option>
+    <option title="Syria " value="963">+963</option>
+    <option title="Iraq " value="964">+964</option>
+    <option title="Kuwait " value="965">+965</option>
+    <option title="Saudi Arabia " value="966">+966</option>
+    <option title="Yemen" value="967">+967</option>
+    <option title="Oman " value="968">+968</option>
+    <option title="Yemen" value="969">+969</option>
+    <option title="United Arab Emirates " value="971">+971</option>
+    <option title="Israel " value="972">+972</option>
+    <option title="Bahrain " value="973">+973</option>
+    <option title="Qatar " value="974">+974</option>
+    <option title="Bhutan " value="975">+975</option>
+    <option title="Mongolia " value="976">+976</option>
+    <option title="Nepal " value="977">+977</option>
+    <option title="Iran " value="98">+98</option>
+    <option title="Turkmenistan " value="993">+993</option>
+    <option title="Azerbaijan " value="994">+994</option>
+    <option title="Kyrgyzstan " value="996">+996</option>
+</select>
+                                    <input autocomplete="off" class="number" data-ng-class="{'error':(loginmodalform.CUSTOMER_MOBILE_CONTACT.$invalid &amp;&amp; loginmodalform.$submitted &amp;&amp; loginmodalform.$touched)}" data-ng-keypress="loginmodalform.$setPristine()" data-ng-model="app.CUSTOMER_MOBILE_CONTACT" id="CUSTOMER_MOBILE_CONTACT" maxlength="15" name="CUSTOMER_MOBILE_CONTACT" pattern="[0-9]{1,15}" placeholder="* Mobile" required="" type="tel"/>
+                                        <div class="alert-box alert alert-left" data-alert="" data-ng-cloak="" data-ng-if="loginmodalform.$submitted &amp;&amp; loginmodalform.CUSTOMER_MOBILE_CONTACT.$error.required">
+                                            Phone is required
+                                        </div>
+                                        <div class="alert-box alert alert-left" data-alert="" data-ng-cloak="" data-ng-if="loginmodalform.$submitted &amp;&amp; loginmodalform.CUSTOMER_MOBILE_CONTACT.$error.pattern">
+                                            Phone number is invalid
+                                        </div>
+                                    </div>
+                                    <div class="inputdiv animate-if" data-ng-if="app.loginaction=='login'">
+                                        <input autocomplete="off" class="inputdashed commonpassword" data-ng-class="{'error':loginmodalform.PASSWORD.$invalid &amp;&amp; loginmodalform.$submitted}" data-ng-model="app.PASSWORD" id="password" maxlength="20" name="PASSWORD" pattern="^.{6,20}$" placeholder="Password" required="" title="Password should contain atleast 6 characters and one digit." type="password"/>
+                                        <div class="alert-box alert alert-left" data-alert="" data-ng-if="loginmodalform.PASSWORD.$error.required &amp;&amp; loginmodalform.$submitted">
+                                            Password is required.
+                                        </div>
+                                        <div class="alert-box info alert-left" data-ng-if="app.showpasswordhint || (loginmodalform.PASSWORD.$error.pattern &amp;&amp; loginmodalform.$submitted)">
+                                            Password should contain atleast 6 characters and one digit.
+                                        </div>
+                                    </div>
+                                    <a class="socialtxt2 inputchanger" data-ng-click="app.loginaction = 'forgotpassword'" data-ng-if="app.loginaction=='login' &amp;&amp; !app.forgotpasswordsent" href="javascript:void(0)">Forgot Password?</a>
+                                    <input class="loginbtn" id="frgtlinksbmt" name="loginbtn" ng-disabled="loginmodalform.$invalid || !app.enablesubmit" type="submit" value="CONTINUE"/>
+                                    <div> </div>
+                                    
+                                    <div class="animate-if" data-ng-if="app.loginaction=='logincheck'">New to Ferns N Petals?  <a data-ng-click="app.doLogin('secure.fnp.com')" href="javascript:void(0)">SIGN UP</a></div>
+                                    <div class="animate-if" ng-if="(app.loginaction=='signup') || app.loginaction=='forgotpassword'  || (app.loginaction=='login' &amp;&amp; app.errormessage)">Existing user?  <a href="javascript:void(0)" ng-click="app.init()">Login</a></div>
+                                    <span class="alert-box alert radius" id="msg" style="display:none"></span>
+                                    <span class="socialtxt1 delayshow" data-ng-if="app.forgotpasswordsent">
+                                        Did not receive temporary password yet?
+                                        <a class="signuplink" data-ng-click="newForgotPassword()" href="javascript:void(0)">Resend</a>
+                                    </span>
+                                </form>
+                            </div>
+                            <div class="medium-1 columns">
+                                 
+                            </div>
+                        </div>
+                    </div>
+                    <div class="medium-5 columns">
+                     
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a aria-label="Close" class="close-reveal-modal" href="javascript:void(0);">X</a>
+    </div>
+</div>
+	</div>
+	
+	<div aria-hidden="true" aria-labelledby="hamburgermenutitle" class="reveal-modal toolbardialog" data-reveal="" id="modalhamburgermenu" role="dialog">
+    <h4 id="hamburgermenutitle">We're sure you will walk out with the best gift</h4>
+    <h5 id="firstlevelmenuheader">All Categories</h5>
+    <nav id="hamburgermenu"><ul><li><a href="#tabs-1">Same Day Delivery</a></li><li><a href="#tabs-2">Birthday</a></li><li><a href="#tabs-3">Anniversary</a></li><li><a href="#tabs-4">Occasions</a></li><li><a href="#tabs-5">Gift Type</a></li><li><a href="#tabs-6">Cities</a></li><li><a href="#tabs-7">International</a></li></ul><div id="tabs-1" style="display:inline-block"><h4 id="hamburgermenutitle">We're sure you will walk out with the best gift</h4><div class="scroll-pane-hmbrg"><section><h3>Flowers</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/flowers">All Flowers</a></li><li class="ui-corner-left"><a href="/roses">Roses</a></li><li class="ui-corner-left"><a href="/lilies">Lilies</a></li><li class="ui-corner-left"><a href="/orchids" rel="nofollow">Orchids</a></li><li class="ui-corner-left"><a href="/carnations" rel="nofollow">Carnations</a></li><li class="ui-corner-left"><a href="/mixed-flowers">Mixed flowers</a></li><li class="ui-corner-left"><a href="/premium-gifts">Premium Gifts</a></li></ul></div></section><section><h3>Cakes</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/cakes-same-day-delivery">All Cakes</a></li><li class="ui-corner-left"><a href="/cakes-same-day-delivery">Eggless Cakes</a></li><li class="ui-corner-left"><a href="/muffins">Muffins</a></li></ul></div></section><section><h3>Combos &amp; Gifts</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/same-day-delivery-gifts">All Gifts</a></li><li class="ui-corner-left"><a href="/flowers-n-cakes">Flowers N Cakes</a></li><li class="ui-corner-left"><a href="/flowers-n-chocolates">Flowers N Chocolates</a></li><li class="ui-corner-left"><a href="/flowers-n-teddy-bears">Flowers N Teddy</a></li><li class="ui-corner-left"><a href="/flowers-n-sweets">Flowers N Sweets</a></li><li class="ui-corner-left"><a href="/flowers-n-dry-fruits">Flowers N Dry Fruits</a></li><li class="ui-corner-left"><a href="/flowers-n-greeting-cards">Flowers N Greeting Card</a></li></ul></div></section><section><h3>International</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/usa/flowers">USA</a></li><li class="ui-corner-left"><a href="/uk/flowers">UK</a></li><li class="ui-corner-left"><a href="/uae/flowers">UAE</a></li><li class="ui-corner-left"><a href="/canada/flowers">Canada</a></li><li class="ui-corner-left"><a href="/australia/flowers">Australia</a></li><li class="ui-corner-left"><a href="/singapore/flowers">Singapore</a></li></ul></div></section></div></div><div id="tabs-2" style="display:inline-block"><h4 id="hamburgermenutitle">We're sure you will walk out with the best gift</h4><div class="scroll-pane-hmbrg"><section><h3>Flowers</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/flowers/birthday">Flowers</a></li><li class="ui-corner-left"><a href="/roses/birthday">Roses</a></li><li class="ui-corner-left"><a href="/lilies/birthday">Lilies</a></li><li class="ui-corner-left"><a href="/orchids" rel="nofollow">Orchids</a></li><li class="ui-corner-left"><a href="/carnations" rel="nofollow">Carnations</a></li><li class="ui-corner-left"><a href="/mixed-flowers">Mixed flowers</a></li><li class="ui-corner-left"><a href="/flowers-n-cakes/birthday">Flowers N Cakes</a></li><li class="ui-corner-left"><a href="/flowers-n-chocolates/birthday">Flowers N Chocolates</a></li></ul></div></section><section><h3>Cakes</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/cakes/birthday">Cakes</a></li><li class="ui-corner-left"><a href="/eggless-cakes/birthday">Eggless Cakes</a></li><li class="ui-corner-left"><a href="/photo-cakes/birthday">Photo Cakes</a></li><li class="ui-corner-left"><a href="/designer-cakes/birthday">Designer Cakes</a></li><li class="ui-corner-left"><a href="/chocolate-cakes/birthday">Chocolate Cakes</a></li><li class="ui-corner-left"><a href="/cup-cakes" rel="nofollow">Cupcakes</a></li><li class="ui-corner-left"><a href="/black-forest-cakes" rel="nofollow">Black Forest Cakes</a></li><li class="ui-corner-left"><a href="/muffins">Muffins</a></li></ul></div></section><section><h3>Gifts</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/gifts/birthday">All Birthday Gifts</a></li><li class="ui-corner-left"><a href="/personalised-gifts/birthday">Personalised Gifts</a></li><li class="ui-corner-left"><a href="/plants/birthday" rel="nofollow">Plants</a></li><li class="ui-corner-left"><a href="/chocolates/birthday">Chocolates</a></li><li class="ui-corner-left"><a href="/cushions/birthday">Cushions</a></li><li class="ui-corner-left"><a href="/mugs/birthday">Mugs</a></li><li class="ui-corner-left"><a href="/bottle-lamps" rel="nofollow">Bottle Lamps</a></li><li class="ui-corner-left"><a href="/buddha-collection" rel="nofollow">Buddha Collection</a></li></ul></div></section><section><h3>Cities</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/gifts/birthday/delhi" rel="nofollow">Delhi</a></li><li class="ui-corner-left"><a href="/gifts/birthday/mumbai" rel="nofollow">Mumbai</a></li><li class="ui-corner-left"><a href="/gifts/birthday/bengaluru" rel="nofollow">Bengaluru</a></li><li class="ui-corner-left"><a href="/gifts/birthday/kolkata" rel="nofollow">Kolkata</a></li><li class="ui-corner-left"><a href="/gifts/birthday/chennai" rel="nofollow">Chennai</a></li><li class="ui-corner-left"><a href="/gifts/birthday/hyderabad" rel="nofollow">Hyderabad</a></li><li class="ui-corner-left"><a href="/gifts/birthday/pune" rel="nofollow">Pune</a></li><li class="ui-corner-left"><a href="/gifts/birthday/ahmedabad" rel="nofollow">Ahmedabad</a></li><li class="ui-corner-left"><a href="/gifts/birthday/lucknow" rel="nofollow">Lucknow</a></li></ul></div></section><section><h3>Recipient</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/gifts/birthday/for-him" rel="nofollow">For Him</a></li><li class="ui-corner-left"><a href="/gifts/birthday/for-her" rel="nofollow">For Her</a></li><li class="ui-corner-left"><a href="/gifts/birthday/for-kids" rel="nofollow">Kids</a></li><li class="ui-corner-left"><a href="/gifts/birthday/for-boyfriend" rel="nofollow">Boyfriend</a></li><li class="ui-corner-left"><a href="/gifts/birthday/for-girlfriend" rel="nofollow">Girlfriend</a></li><li class="ui-corner-left"><a href="/gifts/birthday/for-husband" rel="nofollow">Husband</a></li><li class="ui-corner-left"><a href="/gifts/birthday/for-wife" rel="nofollow">Wife</a></li><li class="ui-corner-left"><a href="/gifts/birthday/for-brother" rel="nofollow">Brother</a></li><li class="ui-corner-left"><a href="/gifts/birthday/for-sister" rel="nofollow">Sister</a></li><li class="ui-corner-left"><a href="/gifts/birthday/for-father" rel="nofollow">Father</a></li><li class="ui-corner-left"><a href="/gifts/birthday/for-mother" rel="nofollow">Mother</a></li><li class="ui-corner-left"><a href="/gifts/birthday/for-friend" rel="nofollow">Friend</a></li><li class="ui-corner-left"><a href="/gifts/birthday/for-boss" rel="nofollow">Boss</a></li></ul></div></section></div></div><div id="tabs-3" style="display:inline-block"><h4 id="hamburgermenutitle">We're sure you will walk out with the best gift</h4><div class="scroll-pane-hmbrg"><section><h3>Flowers</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/flowers/anniversary">Flowers</a></li><li class="ui-corner-left"><a href="/roses/anniversary">Roses</a></li><li class="ui-corner-left"><a href="/lilies/anniversary">Lilies</a></li><li class="ui-corner-left"><a href="/flower-bouquets/anniversary">Flower bouquets</a></li><li class="ui-corner-left"><a href="/flowers-n-chocolates/anniversary">Flowers N Chocolates</a></li><li class="ui-corner-left"><a href="/flowers-n-cakes/anniversary">Flowers N Cakes</a></li><li class="ui-corner-left"><a href="/artificial-flowers">Artificial Flowers</a></li></ul></div></section><section><h3>Cakes</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/cakes/anniversary">Cakes</a></li><li class="ui-corner-left"><a href="/eggless-cakes/anniversary">Eggless Cakes</a></li><li class="ui-corner-left"><a href="/photo-cakes/anniversary">Photo Cakes</a></li><li class="ui-corner-left"><a href="/designer-cakes/anniversary">Designer Cakes</a></li><li class="ui-corner-left"><a href="/cup-cakes" rel="nofollow">Cupcakes</a></li><li class="ui-corner-left"><a href="/mango-cakes">Mango cakes</a></li><li class="ui-corner-left"><a href="/chocolate-cakes/anniversary">Chocolate Cakes</a></li></ul></div></section><section><h3>Gifts</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/gifts/anniversary">All Anniversary Gifts</a></li><li class="ui-corner-left"><a href="/personalised-gifts/anniversary">Personalised Gifts</a></li><li class="ui-corner-left"><a href="/plants/anniversary" rel="nofollow">Plants</a></li><li class="ui-corner-left"><a href="/chocolates/anniversary" rel="nofollow">Chocolates</a></li><li class="ui-corner-left"><a href="/jewellery" rel="nofollow">Jewellery</a></li><li class="ui-corner-left"><a href="/home-decor/anniversary" rel="nofollow">Home Decor</a></li></ul></div></section><section><h3>Cities</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/gifts/anniversary/delhi" rel="nofollow">Delhi</a></li><li class="ui-corner-left"><a href="/gifts/anniversary/mumbai" rel="nofollow">Mumbai</a></li><li class="ui-corner-left"><a href="/gifts/anniversary/bengaluru" rel="nofollow">Bengaluru</a></li><li class="ui-corner-left"><a href="/gifts/anniversary/kolkata" rel="nofollow">Kolkata</a></li><li class="ui-corner-left"><a href="/gifts/anniversary/chennai" rel="nofollow">Chennai</a></li><li class="ui-corner-left"><a href="/gifts/anniversary/hyderabad" rel="nofollow">Hyderabad</a></li><li class="ui-corner-left"><a href="/gifts/anniversary/pune" rel="nofollow">Pune</a></li><li class="ui-corner-left"><a href="/gifts/anniversary/ahmedabad" rel="nofollow">Ahmedabad</a></li><li class="ui-corner-left"><a href="/gifts/anniversary/lucknow" rel="nofollow">Lucknow</a></li></ul></div></section></div></div><div id="tabs-4" style="display:inline-block"><h4 id="hamburgermenutitle">We're sure you will walk out with the best gift</h4><div class="scroll-pane-hmbrg"><section><h3>Everyday</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/gifts/birthday">Birthday gifts</a></li><li class="ui-corner-left"><a href="/gifts/anniversary">Anniversary gifts</a></li><li class="ui-corner-left"><a href="/gifts/wedding">Wedding gifts</a></li><li class="ui-corner-left"><a href="/flowers/congratulations" rel="nofollow">Congratulations</a></li><li class="ui-corner-left"><a href="/flowers/get-well-soon" rel="nofollow">Get Well Soon</a></li><li class="ui-corner-left"><a href="/gifts/house-warming" rel="nofollow">House Warming</a></li><li class="ui-corner-left"><a href="/flowers/i-am-sorry" rel="nofollow">I Am Sorry</a></li><li class="ui-corner-left"><a href="/gifts/just-because" rel="nofollow">Just Because</a></li><li class="ui-corner-left"><a href="/gifts/love-n-romance">Love N Romance</a></li><li class="ui-corner-left"><a href="/gifts/new-born">New Baby</a></li><li class="ui-corner-left"><a href="/flowers/sympathy-n-funeral" rel="nofollow">Sympathy N Funeral</a></li><li class="ui-corner-left"><a href="/gifts/thank-you" rel="nofollow">Thank You</a></li><li class="ui-corner-left"><a href="/flowers/miss-you" rel="nofollow">Miss You</a></li><li class="ui-corner-left"><a href="/gifts/thinking-of-you" rel="nofollow">Thinking Of You</a></li></ul></div></section><section><h3>2016 Upcoming Occasions</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/gifts/navratri">Navratri - 1st to 10th Oct</a></li><li class="ui-corner-left"><a href="/gifts/boss-day">Boss’s Day - 16th Oct</a></li><li class="ui-corner-left"><a href="/gifts/karwa-chauth">Karwa Chauth - 19th Oct</a></li><li class="ui-corner-left"><a href="/gifts/dhanteras">Dhanteras - 27th Oct</a></li><li class="ui-corner-left"><a href="/gifts/diwali">Diwali - 30th Oct</a></li><li class="ui-corner-left"><a href="/gifts/bhai-dooj">Bhai Dooj - 1st Nov</a></li><li class="ui-corner-left"><a href="/gifts/childrens-day">Childrens Day - 14th Nov</a></li><li class="ui-corner-left"><a href="/gifts/thanksgiving-day">Thanksgiving Day - 24 Nov</a></li><li class="ui-corner-left"><a href="/gifts/christmas">Christmas - 25th Dec</a></li></ul></div></section><section><h3>2017 Upcoming Occasions</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/gifts/new-year">New Year - 1st Jan</a></li><li class="ui-corner-left"><a href="/gifts/rose-day">Rose Day - 7th Feb</a></li><li class="ui-corner-left"><a href="/gifts/propose-day">Propose Day - 8th Feb</a></li><li class="ui-corner-left"><a href="/gifts/chocolate-day">Chocolate Day - 9th Feb</a></li><li class="ui-corner-left"><a href="/gifts/teddy-day">Teddy Day - 10th Feb</a></li><li class="ui-corner-left"><a href="/gifts/promise-day">Promise Day - 11th Feb</a></li><li class="ui-corner-left"><a href="/gifts/hug-day">Hug Day - 12th Feb</a></li><li class="ui-corner-left"><a href="/gifts/kiss-day">Kiss Day - 13th Feb</a></li><li class="ui-corner-left"><a href="/gifts/valentines-day">Valentine's Day - 14th Feb</a></li><li class="ui-corner-left"><a href="/gifts/womens-day">Women's Day - 8th Mar</a></li><li class="ui-corner-left"><a href="/gifts/holi">Holi - 13th Mar</a></li><li class="ui-corner-left"><a href="/gifts/easter">Easter - 16th Apr</a></li><li class="ui-corner-left"><a href="/gifts/mothers-day">Mother’s Day - 14th May</a></li><li class="ui-corner-left"><a href="/gifts/fathers-day">Father's Day - 18th June</a></li><li class="ui-corner-left"><a href="/gifts/friendship-day">Friendship day - 6th Aug</a></li><li class="ui-corner-left"><a href="/rakhi">Rakshabandhan - 7th Aug</a></li></ul></div></section><section><h3>Karwa Chauth</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/gifts/karwa-chauth">All Gifts</a></li><li class="ui-corner-left"><a href="/gifts/karwa-chauth/for-wife">Gifts for Wife</a></li><li class="ui-corner-left"><a href="/gifts/karwa-chauth/for-bahu">Gifts for Bahu</a></li><li class="ui-corner-left"><a href="/pooja-thali/karwa-chauth">Pooja Thali</a></li><li class="ui-corner-left"><a href="/sargi">Sargi</a></li><li class="ui-corner-left"><a href="/flowers/karwa-chauth">Flowers</a></li><li class="ui-corner-left"><a href="/chocolates/karwa-chauth">Chocolates</a></li><li class="ui-corner-left"><a href="/cosmetics-n-spa-hampers/karwa-chauth">Cosmetics n Spa Hampers</a></li></ul></div></section></div></div><div id="tabs-5" style="display:inline-block"><h4 id="hamburgermenutitle">We're sure you will walk out with the best gift</h4><div class="scroll-pane-hmbrg"><section><h3>Flowers</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/flowers">All Flowers</a></li><li class="ui-corner-left"><a href="/roses">Roses</a></li><li class="ui-corner-left"><a href="/orchids">Orchids</a></li><li class="ui-corner-left"><a href="/lilies">Lilies</a></li><li class="ui-corner-left"><a href="/carnations">Carnations</a></li><li class="ui-corner-left"><a href="/flower-bouquets">Flower Bouquets</a></li><li class="ui-corner-left"><a href="/flower-arrangements">Flower Arrangements</a></li><li class="ui-corner-left"><a href="/basket-arrangements">Basket Arrangements</a></li><li class="ui-corner-left"><a href="/vase-arrangements">Vase Arrangements</a></li><li class="ui-corner-left"><a href="/premium-gifts">Premium Gifts</a></li></ul></div></section><section><h3>Cakes</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/cakes">All Cakes</a></li><li class="ui-corner-left"><a href="/eggless-cakes">Eggless Cakes</a></li><li class="ui-corner-left"><a href="/photo-cakes">Photo Cakes</a></li><li class="ui-corner-left"><a href="/designer-cakes">Designer Cakes</a></li><li class="ui-corner-left"><a href="/heart-shaped-cakes">Heart Shaped Cakes</a></li><li class="ui-corner-left"><a href="/five-star-cakes">Five Star Cakes</a></li><li class="ui-corner-left"><a href="/cup-cakes">Cupcakes</a></li><li class="ui-corner-left"><a href="/chocolate-cakes">Chocolate Cakes</a></li><li class="ui-corner-left"><a href="/red-velvet-cakes">Red velvet cakes</a></li><li class="ui-corner-left"><a href="/butterscotch-cakes">Butter Scotch Cakes</a></li><li class="ui-corner-left"><a href="/black-forest-cakes">Black Forest Cakes</a></li><li class="ui-corner-left"><a href="/muffins">Muffins</a></li></ul></div></section><section><h3>Gifts</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/gifts">All Gifts</a></li><li class="ui-corner-left"><a href="/personalised-gifts">Personalised Gifts</a></li><li class="ui-corner-left"><a href="/chocolates">Chocolates</a></li><li class="ui-corner-left"><a href="/soft-toys">Soft Toys</a></li><li class="ui-corner-left"><a href="/cushions">Cushions</a></li><li class="ui-corner-left"><a href="/mugs">Mugs</a></li><li class="ui-corner-left"><a href="/buddha-collection">Buddha Collection</a></li><li class="ui-corner-left"><a href="/jewellery">Jewellery Gifts</a></li><li class="ui-corner-left"><a href="/bottle-lamps">Bottle Lamps</a></li><li class="ui-corner-left"><a href="/photo-frames">Photo Frames</a></li></ul></div></section><section><h3>Plants</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/plants">All Plants</a></li><li class="ui-corner-left"><a href="/lucky-bamboo">Lucky Bamboo</a></li></ul></div></section><section><h3>Combos</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/flowers-n-chocolates">Flowers N Chocolates</a></li><li class="ui-corner-left"><a href="/flowers-n-cakes">Flowers N Cakes</a></li><li class="ui-corner-left"><a href="/flowers-n-teddy-bears">Flower N Teddy</a></li><li class="ui-corner-left"><a href="/flowers-n-sweets">Flower N Sweets</a></li><li class="ui-corner-left"><a href="/flowers-n-dry-fruits">Flower N Dry Fruit</a></li><li class="ui-corner-left"><a href="/flowers-n-greeting-cards">Flower N Greeting Card</a></li><li class="ui-corner-left"><a href="/teddy-bear-n-chocolates">Teddy Bear &amp; Chocolates</a></li><li class="ui-corner-left"><a href="/gift-baskets">Gift Baskets</a></li><li class="ui-corner-left"><a href="/gift-hampers">Gift Hampers</a></li></ul></div></section></div></div><div id="tabs-6" style="display:inline-block"><h4 id="hamburgermenutitle">We're sure you will walk out with the best gift</h4><div class="scroll-pane-hmbrg"><section><h3>Flowers</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/flowers/delhi">Delhi flowers</a></li><li class="ui-corner-left"><a href="/flowers/bengaluru">Bengaluru flowers</a></li><li class="ui-corner-left"><a href="/flowers/mumbai">Mumbai flowers</a></li><li class="ui-corner-left"><a href="/flowers/chennai">Chennai flowers</a></li><li class="ui-corner-left"><a href="/flowers/gurgaon">Gurgaon flowers</a></li><li class="ui-corner-left"><a href="/flowers/hyderabad">Hyderabad flowers</a></li><li class="ui-corner-left"><a href="/flowers/kolkata">Kolkata flowers</a></li><li class="ui-corner-left"><a href="/flowers/ahmedabad">Ahmedabad flowers</a></li><li class="ui-corner-left"><a href="/flowers/bhopal">Bhopal flowers</a></li><li class="ui-corner-left"><a href="/flowers/lucknow">Lucknow flowers</a></li><li class="ui-corner-left"><a href="/flowers/noida">Noida flowers</a></li><li class="ui-corner-left"><a href="/flowers/pune">Pune flowers</a></li><li class="ui-corner-left"><a href="/info/flowers-delivery-cities">More Cities</a></li></ul></div></section><section><h3>Cakes</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/cakes/delhi">Delhi cakes</a></li><li class="ui-corner-left"><a href="/cakes/bengaluru">Bengaluru cakes</a></li><li class="ui-corner-left"><a href="/cakes/mumbai">Mumbai cakes</a></li><li class="ui-corner-left"><a href="/cakes/chennai">Chennai cakes</a></li><li class="ui-corner-left"><a href="/cakes/gurgaon">Gurgaon cakes</a></li><li class="ui-corner-left"><a href="/cakes/hyderabad">Hyderabad cakes</a></li><li class="ui-corner-left"><a href="/cakes/kolkata">Kolkata cakes</a></li><li class="ui-corner-left"><a href="/cakes/ahmedabad">Ahmedabad cakes</a></li><li class="ui-corner-left"><a href="/cakes/bhopal">Bhopal cakes</a></li><li class="ui-corner-left"><a href="/cakes/lucknow">Lucknow cakes</a></li><li class="ui-corner-left"><a href="/cakes/noida">Noida cakes</a></li><li class="ui-corner-left"><a href="/cakes/pune">Pune cakes</a></li><li class="ui-corner-left"><a href="/info/cake-delivery-cities">More Cities</a></li></ul></div></section><section><h3>Gifts</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/gifts/delhi">Delhi gifts</a></li><li class="ui-corner-left"><a href="/gifts/bengaluru">Bengaluru gifts</a></li><li class="ui-corner-left"><a href="/gifts/mumbai">Mumbai gifts</a></li><li class="ui-corner-left"><a href="/gifts/chennai">Chennai gifts</a></li><li class="ui-corner-left"><a href="/gifts/gurgaon">Gurgaon gifts</a></li><li class="ui-corner-left"><a href="/gifts/hyderabad">Hyderabad gifts</a></li><li class="ui-corner-left"><a href="/gifts/kolkata">Kolkata gifts</a></li><li class="ui-corner-left"><a href="/gifts/ahmedabad">Ahmedabad gifts</a></li><li class="ui-corner-left"><a href="/gifts/bhopal">Bhopal gifts</a></li><li class="ui-corner-left"><a href="/gifts/lucknow">Lucknow gifts</a></li><li class="ui-corner-left"><a href="/gifts/noida">Noida gifts</a></li><li class="ui-corner-left"><a href="/gifts/pune">Pune gifts</a></li><li class="ui-corner-left"><a href="/gifts/ghaziabad">Ghaziabad gifts</a></li><li class="ui-corner-left"><a href="/gifts/indore">Indore gifts</a></li><li class="ui-corner-left"><a href="/gifts/jaipur">Jaipur gifts</a></li><li class="ui-corner-left"><a href="/gifts/kanpur">Kanpur gifts</a></li><li class="ui-corner-left"><a href="/gifts/ludhiana">Ludhiana gifts</a></li><li class="ui-corner-left"><a href="/gifts/patna">Patna gifts</a></li><li class="ui-corner-left"><a href="/gifts/thane">Thane gifts</a></li><li class="ui-corner-left"><a href="/gifts/faridabad">Faridabad gifts</a></li><li class="ui-corner-left"><a href="/info/gifts-delivery-cities">More Cities</a></li></ul></div></section></div></div><div id="tabs-7" style="display:inline-block"><h4 id="hamburgermenutitle">We're sure you will walk out with the best gift</h4><div class="scroll-pane-hmbrg"><section><h3>USA</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/usa/flowers">All Flowers</a></li><li class="ui-corner-left"><a href="/usa/gifts">All Gifts</a></li><li class="ui-corner-left"><a href="/usa/cakes">All Cakes</a></li><li class="ui-corner-left"><a href="/usa/chocolates" rel="nofollow">Chocolates</a></li><li class="ui-corner-left"><a href="/usa/sweets">Sweets</a></li><li class="ui-corner-left"><a href="/usa/gift-baskets">Gift Baskets</a></li><li class="ui-corner-left"><a href="/usa/roses">Roses</a></li></ul></div></section><section><h3>UK</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/uk/flowers">All Flowers</a></li><li class="ui-corner-left"><a href="/uk/gifts">All Gifts</a></li><li class="ui-corner-left"><a href="/uk/cakes">All Cakes</a></li><li class="ui-corner-left"><a href="/uk/chocolates" rel="nofollow">Chocolates</a></li><li class="ui-corner-left"><a href="/uk/gift-baskets">Gift Baskets</a></li><li class="ui-corner-left"><a href="/uk/roses">Roses</a></li></ul></div></section><section><h3>UAE</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/uae/flowers">All Flowers</a></li><li class="ui-corner-left"><a href="/uae/gifts">All Gifts</a></li><li class="ui-corner-left"><a href="/uae/cakes">All Cakes</a></li><li class="ui-corner-left"><a href="/uae/chocolates" rel="nofollow">Chocolates</a></li><li class="ui-corner-left"><a href="/uae/sweets">Sweets</a></li><li class="ui-corner-left"><a href="/uae/gift-baskets">Gift Baskets</a></li><li class="ui-corner-left"><a href="/uae/roses">Roses</a></li></ul></div></section><section><h3>Gifts to Other Countries</h3><div class="scroll-pane-menu"><ul><li class="ui-corner-left"><a href="/australia/gifts">Australia</a></li><li class="ui-corner-left"><a href="/canada/gifts">Canada</a></li><li class="ui-corner-left"><a href="/germany/gifts">Germany</a></li><li class="ui-corner-left"><a href="/indonesia/gifts">Indonesia</a></li><li class="ui-corner-left"><a href="/malaysia/gifts">Malaysia</a></li><li class="ui-corner-left"><a href="/new-zealand/gifts">New Zealand</a></li><li class="ui-corner-left"><a href="/philippines/gifts">Philippines</a></li><li class="ui-corner-left"><a href="/qatar/gifts">Qatar</a></li><li class="ui-corner-left"><a href="/singapore/gifts">Singapore</a></li><li class="ui-corner-left"><a href="/south-africa/gifts">South Africa</a></li><li class="ui-corner-left"><a href="/info/international">Other Countries</a></li></ul></div></section></div></div></nav>
+<div class="row lightbottombar">
+    <div class="row">
+        <div class="large-1 columns">
+             
+        </div>
+        <div class="medium-4 large-4 columns">
+            <span class="bottombartext">Are you in a hurry? </span><span class="bottombartext1 ">Quick Shop</span>
+        </div>
+        <div class="large-6 medium-8 columns">
+            <form action="/search" class="row quickfrm ui-front">
+                <div class="medium-3 columns">
+                    <input class="shoptxtbox quickshopoccasion" data-isselected="false" name="OCCASION_TAGS" onchange="disableShopNow(this)" placeholder="Select Occasion" type="text" value=""/>
+                </div>
+	                <div class="medium-3 columns">
+	                    <input class="shoptxtbox quickshopcity" name="localityname" onchange="disableShopNow(this)" placeholder="City" title="Enter locality or pincode(eg., Vikaspuri, Delhi or 110018)" type="text" value=""/>
+		                <input class="quickshopplaceid" name="pincode" type="hidden" value=""/>
+		                <input class="quickshopplaceid" name="latlon" type="hidden" value=""/>
+	                </div>
+                
+                <div class="medium-3 columns">
+                    <input class="shoptxtbox quickshopdeliverydate" name="deliverydate" type="hidden" value=""/>
+                    <input class="shoptxtbox quickshopdeliverydate pickdate" placeholder="Delivery Date" readonly="readonly" type="text"/> 
+                </div>
+                <div class="medium-3 columns">
+                    <button class="call2axn quickshopbtn" disabled="disabled" type="submit">SHOP NOW</button>
+                </div>
+                <input name="FNP_CURRENT_CATALOG_ID" type="hidden" value="india"/>
+            </form>
+        </div>
+        <div class="large-1 columns">
+             
+        </div>
+         <div class="clearside"></div>
+    </div>
+</div>
+<a aria-label="Close" class="close-reveal-modal" href="javascript:void(0);">X</a>
+</div>
+    
+
+
+    <div aria-hidden="true" aria-labelledby="yourcarttitle" class="reveal-modal toolbardialog" data-reveal="" id="modalcart" role="dialog">
+<div id="cartSummaryId" ng-controller="CartCntrl as app">
+      <span triggerjqueryeventsforcartsummary=""></span>
+	  <div class="row" ng-cloak="" ng-show="cart.items &amp;&amp; cart.items.length == 0">	
+	       <div class="columns textcenter modalcartcolumns">
+	        <div class="row collapse">
+	            <div class="columns">
+	                <h4 id="yourcarttitle">Your Cart</h4>
+	            </div>
+	        </div>
+		        <div class="row">
+			        <div class="medium-1 large-2 columns">
+			             
+			        </div>
+		            <div class="medium-10 large-8 columns">
+		                <div class="row">
+		                    <div class="medium-10 large-10 columns">
+		                        <img alt="frown" class="smiley" id="straightface" src="http://i6.fnp.com/assets/images/transparent.gif"/>
+		                        <h5 id="cartempty">Your cart is empty, so it's sad and lonely</h5>
+		                        <p>Turn its frown upside down: fill it with gifts</p>
+		                    </div>
+		                    <div class="medium-2 large-2 columns">
+		                         
+		                    </div>
+		               </div>
+		            </div>
+		            <div class="medium-1 large-2 columns">
+		                 
+		            </div>
+	    		</div>
+			<div class="row buttonrow crtbtn">
+				<button class="call2axn shopnowbtn" onclick="parent.location='/'">Shop Now</button>
+			</div>
+<div class="row lightbottombar">
+    <div class="row">
+        <div class="large-1 columns">
+             
+        </div>
+        <div class="medium-4 large-4 columns">
+            <span class="bottombartext">Are you in a hurry? </span><span class="bottombartext1 ">Quick Shop</span>
+        </div>
+        <div class="large-6 medium-8 columns">
+            <form action="/search" class="row quickfrm ui-front">
+                <div class="medium-3 columns">
+                    <input class="shoptxtbox quickshopoccasion" data-isselected="false" name="OCCASION_TAGS" onchange="disableShopNow(this)" placeholder="Select Occasion" type="text" value=""/>
+                </div>
+	                <div class="medium-3 columns">
+	                    <input class="shoptxtbox quickshopcity" name="localityname" onchange="disableShopNow(this)" placeholder="City" title="Enter locality or pincode(eg., Vikaspuri, Delhi or 110018)" type="text" value=""/>
+		                <input class="quickshopplaceid" name="pincode" type="hidden" value=""/>
+		                <input class="quickshopplaceid" name="latlon" type="hidden" value=""/>
+	                </div>
+                
+                <div class="medium-3 columns">
+                    <input class="shoptxtbox quickshopdeliverydate" name="deliverydate" type="hidden" value=""/>
+                    <input class="shoptxtbox quickshopdeliverydate pickdate" placeholder="Delivery Date" readonly="readonly" type="text"/> 
+                </div>
+                <div class="medium-3 columns">
+                    <button class="call2axn quickshopbtn" disabled="disabled" type="submit">SHOP NOW</button>
+                </div>
+                <input name="FNP_CURRENT_CATALOG_ID" type="hidden" value="india"/>
+            </form>
+        </div>
+        <div class="large-1 columns">
+             
+        </div>
+         <div class="clearside"></div>
+    </div>
+</div>
+        	<a aria-label="Close" class="close-reveal-modal" href="javascript:void(0);">X</a>
+	   </div>
+	</div> 
+
+   	<div class="row" ng-cloak="" ng-if="cart.items &amp;&amp; cart.items.length != 0">
+			<div class="columns textcenter">
+				<div class="row">
+					<div class="medium-1 large-2 columns">
+						 
+						<!--  SPACER -->
+					</div>
+					<div class="medium-10 large-8 columns">
+						<div class="row collapse">
+							<div class="columns textcenter">
+								<h4 class="filledcartheader">Your Cart</h4>
+							</div>
+						</div>
+						<div class="row cartgrid" style="margin-bottom: 0 !important;">
+							<div class="medium-4 large-4 columns">
+								<p>Products</p>
+							</div>
+							<div class="medium-4 large-3 columns">
+								<p>Send To</p>
+							</div>
+							<div class="medium-2 large-2 columns textcenter">
+								<p style="text-align: center;">Quantity</p>
+							</div>
+							<div class="medium-2 large-3 columns">
+								<p style="text-align: right;">Amount</p>
+							</div>
+						</div>
+						 <div ng-class="{'scroll-pane':(app.currentUrl!='cartsummary')}">
+						 <ul>
+						 	<li>
+							<div class="row cartgrid" ng-init="count=0" ng-repeat="item in cart.items">
+								<div class="medium-4 large-4 columns">
+									<figure>
+											<img alt="{{item.productName}}" class="u-photo" ng-src="http://i4.fnp.com/{{item.productImage}}"/>										<figcaption>
+										    <div class="cart-productname">
+												<input id="cartItemProd_{{$index}}" type="hidden" value="{{$index}}"/>
+												<span class="p-name">{{item.productName}}</span>
+												<span class="rmv" ng-click="app.modifyCart($index)" style="display: block; cursor: pointer;">Remove</span>
+											</div>
+										</figcaption>
+									</figure>
+								</div>
+								<div class="medium-4 large-3 orderaddress columns" ng-if="item.addon=='N' ">
+									<span>{{item.deliveryLocation}}</span> 
+									<span class="highlight deltym" ng-if="item.deliveryTime != undefined ">{{item.deliveryDate}}<span class="timeslottxt" ng-if="item.primaryProductCategoryId != 'PERSONALIZED' &amp;&amp; item.primaryProductCategoryId != 'COURIER' &amp;&amp; item.primaryProductCategoryId != 'INTERNATIONAL'">, {{item.deliveryTime}}Hrs</span></span> 
+									<span>{{item.shippingMethodName}}</span>
+									<span id="personlizedblock" ng-if="item.isProductPersonalizable == true">
+										<div class="row"><div class="columns"><span>Photo &amp; Message</span></div></div>
+    									<div class="row personalizedelivery personalizedorder">
+                                             <div class="medium-5 columns imgupload">
+                                                <img alt="{{item.productName}}" ng-src="{{item.personalizedImage}}"/>
+                                             </div>
+                                             <div class="medium-7 columns personalmsg">
+                                                 <textarea cols="40" maxlength="50" readonly="" rows="3">{{item.personalizedText}}</textarea>
+                                             </div>
+                                        </div>
+                                    </span>
+								</div>
+								<div class="medium-4 large-3 orderaddress columns" ng-if="item.addon=='Y' ">
+									 
+								</div>
+								<div class="medium-2 large-2 columns textcenter">1</div>
+								<div class="medium-2 large-3 columns numtext textright">
+								    <span class="priceInINR" style="display:none">{{item.price}}</span>
+									<span class="webprice"><span class="WebRupee">Rs.</span> {{item.price}}</span>
+								</div>
+							</div>
+							</li>
+							</ul>
+					 	</div>
+						<div class="row cartgrid">
+                            <span class="shipingnote">* Shipping charges to be displayed in the Order Summary page</span>
+							<div class="columns">
+								<div class="row">
+									<div class="medium-12 large-12 columns linespearator"></div>
+								</div>
+								<div class="row">
+									<div class="medium-4 large-6 columns"> </div>
+									<div class="medium-4 large-4 columns pricelabel textright">Sub Total</div>
+									<div class="medium-4 large-2 columns textright">
+									    <span class="priceInINR" style="display:none">{{cart.subTotal}}</span>
+										<span class="webprice"><span class="WebRupee">Rs.</span> {{cart.subTotal}}</span>
+									</div>
+								</div>
+								<div class="row" data-ng-if="cart.discount != 0">
+									<div class="medium-12 large-12 columns darklinespearator"></div>
+								</div>
+								<div class="row" data-ng-if="cart.discount != 0">
+									<div class="medium-4 large-6 columns"> </div>
+									<div class="medium-4 large-4 columns pricelabel textright">Discount</div>
+									<div class="medium-4 large-2 columns textright">
+										<span class="priceInINR" style="display:none">{{cart.discount}}</span>
+                                        <span class="webprice"><span class="WebRupee">Rs.</span> {{cart.discount}}</span>
+									</div>
+								</div>
+								<div class="row">
+									<div class="medium-12 large-12 columns darklinespearator"></div>
+								</div>
+								<div class="row">
+									<div class="medium-4 large-6 columns"> </div>
+									<div class="medium-4 large-4 columns pricelabel textright">Total</div>
+									<div class="medium-4 large-2 columns textright">
+									    <span class="priceInINR" style="display:none">{{cart.total}}</span>
+										<span class="webprice"><span class="WebRupee">Rs.</span> {{cart.total}}</span>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row buttonrow" ng-controller="LoginCntrl as longinApp">
+							<button class="call2axn right cartcheckout" id="underconst" ng-if="longinApp.loggedIn" onclick="location.href='https://secure.fnp.com/control/delivery-address'">PROCEED TO CHECKOUT</button>
+							<button class="call2axn right cartcheckout" id="underconst" ng-if="!longinApp.loggedIn" onclick="location.href='https://secure.fnp.com/control/checkout-login'">PROCEED TO CHECKOUT</button>
+							<!--
+		                    -->
+							<button class="call2axn right btnchange cartcontinue" id="backbutton" onclick="parent.location='/'">CONTINUE SHOPPING</button>
+						</div>
+					</div>
+					<div class="medium-1 large-2 columns">
+						 
+						<!--  SPACER -->
+						<a aria-label="Close" class="close-reveal-modal" href="javascript:void(0);" ng-if="app.currentUrl != 'cartsummary'">X</a>
+					</div>
+			</div>		
+		</div>
+	</div>
+</div>	
+
+<div class="row securefooterwrapper">
+		<div class="columns" id="youmayalsolike"></div>
+</div>	
+
+		
+  	</div>	
+	<div aria-hidden="true" class="reveal-modal" data-options="bg_class='bgoverlay'" data-reveal="" id="QuickViewModal" role="dialog">
+		<div id="QuickViewContent"></div>
+		<a aria-label="Close" class="close-reveal-modal quickviewclose" href="javascript:void(0);">X</a>		
+	</div></main>
+<footer>
+    <div class="row" id="footer">
+        <div class="columns">
+            <div class="row uncollapse">
+                    <ul class="medium-block-grid-3">
+                        <li data-equalizer-watch="" id="subscribe">
+                            <h6>SIGN UP FOR EMAIL OFFERS &amp; UPDATES</h6>
+                            <form class="form-grid" data-ng-controller="FormCntrl as app" data-ng-submit="subscribeform.$valid &amp;&amp; app.subscribe()" id="subscribeform" name="subscribeform" novalidate="">
+                                <input autocomplete="off" data-ng-class="{'error':subscribeform.emailId.$invalid &amp;&amp; subscribeform.$submitted}" data-ng-model="app.emailId" id="emailId" name="emailId" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" placeholder="Email" required="" type="email"/>
+                                <div id="htfield">
+                    				<input class="inputdashed mandatory addressfield" data-ng-init="app.honeytrapfield='' " data-ng-model="app.honeytrapfield" name="honeytrap" ng-trim="false" placeholder="" type="text"/>
+                				</div>
+                                <div class="alert-box alert alert-bottom" data-alert="" data-ng-cloak="" data-ng-if="subscribeform.emailId.$error.required &amp;&amp; subscribeform.$submitted">
+                                    Email is required
+                                </div>
+                                <div class="alert-box alert alert-bottom" data-alert="" data-ng-cloak="" data-ng-if="subscribeform.emailId.$error.pattern &amp;&amp; subscribeform.$submitted">
+                                    Invalid email address.
+                                </div>
+                                <div class="success alert-box alert alert-bottom" data-alert="" data-ng-cloak="" data-ng-if="subscribeform.$valid &amp;&amp; subscribeform.$submitted &amp;&amp; app.subscribesuccess">
+                                    {{app.subscribemsg}}
+                                </div>
+                                <div class="error alert-box alert alert-bottom" data-alert="" data-ng-cloak="" data-ng-if="subscribeform.$valid &amp;&amp; subscribeform.$submitted &amp;&amp; app.subscribefail">
+                                    {{app.subscribemsg}}
+                                </div>
+                                <button class="btn postfix" type="submit">SUBMIT</button>
+            <!--					<input  type="Submit" class="btn" id="sum" title="hello" value="SUBMIT"/>-->
+            <!--					<span id="subscribemessage"></span>-->
+                            </form>
+                        </li>
+                        <li id="socialtoolbar">
+                            <h6>CONNECT WITH US</h6>
+                            <ul>
+                                <li><a href="https://www.facebook.com/fnp.fernsnpetals/?ref=aymt_homepage_panel" id="fb" target="_blank"><img alt="Connect with Facebook" src="http://i5.fnp.com/assets/images/iconSpriteBg.png"/></a>
+                                </li>
+                                <li><a href="https://twitter.com/fernsnpetals_" id="tw" target="_blank"><img alt="Connect with Twitter" src="http://i5.fnp.com/assets/images/iconSpriteBg.png"/></a>
+                                </li>
+                                <li><a href="https://www.pinterest.com/fernsnpetals/" id="pt" target="_blank"><img alt="Connect with Pintrest" src="http://i5.fnp.com/assets/images/iconSpriteBg.png"/></a>
+                                </li>
+                                <li><a href="https://plus.google.com/+fernsandpetals" id="gp" target="_blank"><img alt="Connect with Google+" src="http://i5.fnp.com/assets/images/iconSpriteBg.png"/></a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li id="securetransactions">
+                            <h6>SECURE ORDERING &amp; TRANSACTIONS</h6>
+                            <div class="payopt">
+                                <!--This div may be converted to link later -->
+                                <img alt="Visa, MasterCard, Discover, Paypal, American Express Logos" src="http://i5.fnp.com/assets/images/iconSpriteBg.png"/>
+                            </div>
+                            <div class="walletopt">
+                                <img alt="MobiKwik Airtel Paytm Oxygen PayUMoney" src="http://i5.fnp.com/assets/images/wallets-option.png"/>
+                            </div>
+                        </li>
+                    </ul>
+            </div>
+            <div class="row footuncollapse">
+                <div class="columns"> 
+<div id="brands">
+                       <!-- <div id="ourbrandstitle">Our Brands</div>-->
+                        <ul class="medium-block-grid-6">
+                            <li><a href="http://www.fnpweddings.com/" rel="nofollow" target="_blank"><img alt="FNP Weddings" src="http://i6.fnp.com/assets/images/fnpwedding.png"/></a></li>
+                            <li><a href="http://www.fnpflagship.com/" rel="nofollow" target="_blank"><img alt="FNP Stores" src="http://i4.fnp.com/assets/images/flagship.png"/></a></li>
+                            <li><a href="http://www.fnp.ae/" rel="nofollow" target="_blank"><img alt="FNP Any Where Any Time" src="http://i5.fnp.com/assets/images/fnpae.png"/></a></li>
+                            <li><a href="http://www.weddingdesignhub.com/" rel="nofollow" target="_blank"><img alt="FNP Weddings" src="http://i6.fnp.com/assets/images/wdh.png"/></a></li>
+                            <li><a href="http://fnpfloraltouch.ae/" rel="nofollow" target="_blank"><img alt="FNP Floural Touch" src="http://i4.fnp.com/assets/images/fnpfloral.png"/></a></li>
+                            <li><a href="http://www.giftsbymeeta.com/" rel="nofollow" target="_blank"><img alt="GiftsByMeeta.com" src="http://i5.fnp.com/assets/images/giftsmeeta.png"/></a></li>
+                        </ul>
+                    </div><div id="morelinks">            
+	<ul>
+		<li><a href="/info/about-us">About Us</a></li>
+		<li><a href="/info/fnp-team">FNP Team</a></li>
+		<li><a href="/info/careers">Careers</a></li>
+		<li><a href="/info/testimonials">Testimonials</a></li>
+		<li><a href="/info/terms-and-conditions">Terms &amp; Conditions</a></li>
+		<li><a href="/info/disclaimer">Disclaimer</a></li>
+		<li><a href="/info/terms-of-use">Terms Of Use</a></li>
+		<li><a href="/info/privacy-policy">Privacy Policy</a></li>
+		<li><a href="/info/faq">FAQs</a></li>
+		<li><a href="/info/retail-stores">Retail Stores</a></li>
+		<li><a href="/info/franchise-programme">Franchise</a></li>
+		<li><a href="/info/affiliate-program">Affiliate Program</a></li>
+		<li><a href="/info/flower-astrolgy">Flower Astrology</a></li>
+		<li><a href="/info/news">News Room</a></li>
+		<li><a href="/info/fnp-android-app">Google Android App</a></li>
+		<li><a href="http://www.fnp.com/blog/">Blog</a></li>
+		<li><a href="/info/jet-airways">Earn JP Miles</a></li>
+		<li><a href="/info/html-sitemap">HTML sitemap</a></li>
+	</ul>
+	<p id="copyright">Copyright © 2016 www.fnp.com. All rights reserved.</p>
+</div>                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+	<script src="http://i6.fnp.com/assets/js/variables.js"></script>		
+	<script src="http://i4.fnp.com/assets/js/vendor/jquery.js"> </script>
+	<script src="http://i5.fnp.com/assets/js/vendor/jquery-ui.js"></script>
+	<script src="http://i6.fnp.com/assets/js/vendor/modernizr.js"></script>
+	<script src="http://i4.fnp.com/assets/js/foundation/foundation.js"></script>
+	<script src="http://i5.fnp.com/assets/js/vendor/jquery.ba-bbq.min.js"></script>
+	<script src="http://i6.fnp.com/assets/js/foundation/foundation.reveal.js"></script>
+	<script src="http://i4.fnp.com/assets/js/vendor/angular/angular.min.js"></script>
+	<script src="http://i5.fnp.com/assets/js/vendor/angular/angular-sanitize.min.js"></script>
+	<script src="http://i6.fnp.com/assets/js/vendor/angular/angular-filter.min.js"></script>
+	<script src="http://i4.fnp.com/assets/js/vendor/angular/angular-resource.min.js"></script>
+	<script src="http://i5.fnp.com/v11/assets/js/fnp.js"></script>
+	<script src="http://i6.fnp.com/v11/assets/js/login.js"></script>
+	<script src="http://i4.fnp.com/v11/assets/js/selectall.js"></script>
+	<script src="http://i5.fnp.com/v11/assets/js/cart.js"></script>
+    <script src="http://i6.fnp.com/assets/js/responsive-tables.js"></script> 
+    <script async="" src="http://i4.fnp.com/assets/js/addon-scripts.js"></script>
+    <script src="http://i5.fnp.com/assets/js/vendor/jquery-ui.accordion.js"></script>
+	<script async="" src="http://i6.fnp.com/assets/js/miscAjaxFunctions.js"></script>
+	<script src="http://i4.fnp.com/assets/js/slick.min.js" type="text/javascript"></script>
+	<script src="http://i5.fnp.com/assets/js/foundation/foundation.equalizer.js" type="text/javascript"></script>
+	<script src="http://i6.fnp.com/assets/js/vendor/jquery.hoverIntent-1.8.0.js" type="text/javascript"></script>
+		<script src="http://i4.fnp.com/v11/assets/js/bannerslider.js" type="text/javascript"></script>
+        <script src="http://i5.fnp.com/images/jquery/plugins/datetimepicker/localization/jquery-ui-timepicker-en.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	    if(typeof quickShopDeliveryCutoffTime != 'undefined'){
+	        quickShopDeliveryCutoffTime=17;
+	    }
+	    fnpPageType = "home";
+	    hostNameToUse = "www.fnp.com";
+		var sortFieldURL = null;
+		var sortQueryStringURL = null;
+		var citySearchDefaultLabel = "City does not exist";
+		try{
+			finishPageLoad();
+		}
+		catch(error){
+			console.log(error);//its OK...lets ignore for now
+		}
+		$(document).ready(function(){
+		}); 
+	</script>
+
+  
+
+</body></html>
