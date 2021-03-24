@@ -22,7 +22,7 @@ python-linkedin==4.2
 python-openid==2.2.5
 requests==2.11.0
 requests-oauthlib==0.6.2
-rsa==3.4.2
+rsa==4.1
 selenium==3.0.0b3
 simplejson==3.8.2
 six==1.10.0
